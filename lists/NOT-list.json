@@ -22,7 +22,7 @@
     },
     {
         "card_name": "Discordant Magus",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "NOT",
         "position": "234"
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Dysmorphosis Carrier",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "NOT",
         "position": "289"
@@ -126,11 +126,11 @@
         "position": "251"
     },
     {
-        "card_name": "Consecrate Flesh",
+        "card_name": "Daydream Visitors",
         "number": 140,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "NOT",
-        "position": "254"
+        "position": "235"
     },
     {
         "card_name": "Beseech the First Ones",
@@ -161,11 +161,11 @@
         "position": "232"
     },
     {
-        "card_name": "Daydream Visitors",
-        "number": 141,
+        "card_name": "Everburning Fugitive",
+        "number": 147,
         "shape": "normal",
         "set": "NOT",
-        "position": "235"
+        "position": "298"
     },
     {
         "card_name": "Bucolic Innocence",
@@ -196,11 +196,11 @@
         "position": "231"
     },
     {
-        "card_name": "Everburning Fugitive",
-        "number": 148,
+        "card_name": "Fevered Dreams",
+        "number": 150,
         "shape": "normal",
         "set": "NOT",
-        "position": "298"
+        "position": "237"
     },
     {
         "card_name": "Cosmic Vision",
@@ -231,11 +231,11 @@
         "position": "230"
     },
     {
-        "card_name": "Fevered Dreams",
+        "card_name": "Glestra's Consecration",
         "number": 151,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "NOT",
-        "position": "237"
+        "position": "254"
     },
     {
         "card_name": "Discordant Collective",
@@ -512,7 +512,7 @@
     },
     {
         "card_name": "Favored Aspirant",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "NOT",
         "position": "165"
@@ -1002,7 +1002,7 @@
     },
     {
         "card_name": "Destructive Impulse",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "NOT",
         "position": "281"
@@ -1037,7 +1037,7 @@
     },
     {
         "card_name": "Discordant Mob",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "NOT",
         "position": "83"
@@ -1072,7 +1072,7 @@
     },
     {
         "card_name": "Display of Talent",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "NOT",
         "position": "45"
@@ -1107,7 +1107,7 @@
     },
     {
         "card_name": "Echo of Wildfire",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "NOT",
         "position": "86"
@@ -1142,7 +1142,7 @@
     },
     {
         "card_name": "Failed Prototype",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "NOT",
         "position": "20"

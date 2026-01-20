@@ -1,4 +1,116 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Glestra's Consecration added.
+
+Consecrate Flesh removed.
+
+Hybdora, ASPIRE Founder
+
+Pay in Blood
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+Exile three creature cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+I, II — Exile three creature cards from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+Exile three creature cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+I, II — Exile three creature cards from your graveyard.
+
+Burn Worldly Ties
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+I, II — Pay {3}{R}{R}{R}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+I, II — Pay {3}{R}{R}{R}.
+
+Wander in Dream
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among the milled cards into your hand.
+Sacrifice a creature.
+Sacrifice an enchantment. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among the milled cards into your hand.
+II — Sacrifice a creature.
+Sacrifice an enchantment.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among the milled cards into your hand.
+Sacrifice a creature.
+Sacrifice an enchantment. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among the milled cards into your hand.
+II — Sacrifice a creature.
+Sacrifice an enchantment.
+
+Seek the Archive
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+
+Rite of the Angleworm
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+
+Beseech the First Ones
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}.
+
+Everburning Fugitive
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
