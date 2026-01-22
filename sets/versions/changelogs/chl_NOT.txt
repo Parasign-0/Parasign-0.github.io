@@ -1,4 +1,119 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Rite of the Eschaton
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Discard your hand.
+I, II — Exile ten cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+I — Discard your hand.
+II — Exile ten cards from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Discard your hand.
+I, II — Exile ten cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+I — Discard your hand.
+II — Exile ten cards from your graveyard.
+
+Pray for Unity
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+II — Tap six untapped creatures you control. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+I, II — Tap six untapped creatures you control.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+II — Tap six untapped creatures you control. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+I, II — Tap six untapped creatures you control.
+
+Seek the Archive
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+
+Task Force Armorer
+rules_text: Whenever you attack, attacking non-aberrant creatures get +1/+0 until end of turn. Untap all attacking Humans. Attacking Soldiers gain flying until end of turn. [i](A creature is aberrant if its power and toughness aren't equal.)[/i] => Whenever you attack, you may put a +1/-1 counter on target attacking creature. If a non-aberrant creature becomes aberrant this way, it gains indestructible until end of turn and you draw a card. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]
+pt: 1/1 => 2/2
+
+Discordant Magus
+rules_text: Flying
+If a source you control would deal noncombat damage to a permanent or player, you may have it deal that damage to any other target instead. => Flying
+If a source you control would deal noncombat damage to a permanent or player, it deals that damage divided as you choose among any number of permanents and/or players instead.
+
+Rite of the Angleworm
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+
+Beseech the First Ones
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}.
+
+Through Eerie Woods
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+I, II — Pay {2}{G}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I, II — Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+Pay {2}{G}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+I, II — Pay {2}{G}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I, II — Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+Pay {2}{G}{G}.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
