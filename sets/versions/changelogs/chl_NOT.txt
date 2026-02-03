@@ -1,4 +1,743 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Consecrate Flesh added.
+
+Glestra's Consecration removed.
+
+Impassioned Preacher
+
+Faithful Aspirant
+
+Solemn Gatekeeper
+
+Rite of the All-Dream
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
+Pay {G}{G}{G}{G}{G}.
+Pay {U}{U}{U}{U}{U}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
+I — Pay {G}{G}{G}{G}{G}.
+II — Pay {U}{U}{U}{U}{U}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
+Pay {G}{G}{G}{G}{G}.
+Pay {U}{U}{U}{U}{U}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
+I — Pay {G}{G}{G}{G}{G}.
+II — Pay {U}{U}{U}{U}{U}.
+
+Rite of the Holy Flesh
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
+Tap two untapped creatures you control with equal power.
+Tap two untapped creatures you control with equal toughness. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
+I — Tap two untapped creatures you control with equal power.
+II — Tap two untapped creatures you control with equal toughness.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
+Tap two untapped creatures you control with equal power.
+Tap two untapped creatures you control with equal toughness. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
+I — Tap two untapped creatures you control with equal power.
+II — Tap two untapped creatures you control with equal toughness.
+
+Rite of the Ever-Worm
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
+Tap five untapped creatures you control.
+Sacrifice three creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
+I — Tap five untapped creatures you control.
+II — Sacrifice three creatures.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
+Tap five untapped creatures you control.
+Sacrifice three creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
+I — Tap five untapped creatures you control.
+II — Sacrifice three creatures.
+
+Rite of the Eschaton
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Discard your hand.
+Exile ten cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+I — Discard your hand.
+II — Exile ten cards from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Discard your hand.
+Exile ten cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+I — Discard your hand.
+II — Exile ten cards from your graveyard.
+
+Open Your Mind
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Open Your Mind enters, draw two cards.
+Discard a card. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Open Your Mind enters, draw two cards.
+I, II — Discard a card.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Open Your Mind enters, draw two cards.
+Discard a card. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Open Your Mind enters, draw two cards.
+I, II — Discard a card.
+
+Breach the Veil
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+Sacrifice any number of creatures with total power 3 or greater. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+I, II — Sacrifice any number of creatures with total power 3 or greater.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+Sacrifice any number of creatures with total power 3 or greater. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+I, II — Sacrifice any number of creatures with total power 3 or greater.
+
+Pay in Blood
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+Exile three creature cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+I — Sacrifice a creature.
+II — Exile three creature cards from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+Sacrifice a creature.
+Exile three creature cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pay in Blood enters, each opponent sacrifices a creature.
+I — Sacrifice a creature.
+II — Exile three creature cards from your graveyard.
+
+Burn Worldly Ties
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+I — Sacrifice two permanents.
+II — Pay {3}{R}{R}{R}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+I — Sacrifice two permanents.
+II — Pay {3}{R}{R}{R}.
+
+Wander in Dream
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.
+Sacrifice a creature.
+Sacrifice an enchantment. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.
+I — Sacrifice a creature.
+II — Sacrifice an enchantment.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.
+Sacrifice a creature.
+Sacrifice an enchantment. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.
+I — Sacrifice a creature.
+II — Sacrifice an enchantment.
+
+Chief Executive J. Irdol III
+
+Palo, Speaker for the One
+
+Unnerving Statue
+
+Rite of the Ashen King
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+Exile five creature cards from a single graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+I, II — Exile five creature cards from a single graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+Exile five creature cards from a single graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+I, II — Exile five creature cards from a single graveyard.
+
+Virulent Brainseeker
+
+Maw of Hafnordrun
+
+Gelatinous Birth
+
+Escaped Subject
+
+Absent Twins
+
+Feral Monstrosity
+
+Novice Aspirant
+
+Implacable Revenant
+
+Hunted Aspirant
+
+Hunted Monstrosity
+
+Prophetic Prism
+
+Wistful Notary
+
+Impossible Abduction
+
+Power Fantasy
+
+Evangel of Unity
+
+Rescue from the Brink
+
+Callous Display
+
+Human Soldier
+
+Spirit Warlock
+
+Human Cleric
+
+Nightmare Wurm
+
+Ooze Shapeshifter
+
+Crossroads Incursion
+
+Prized Subject
+
+Deepspawn Siren
+
+ASPIRE Sponsor
+
+Imperfect Revival
+
+Satu's Lieutenant
+
+Sin-Chained Souls
+
+Self-Taught Exorcist
+
+Notion of Judgment
+
+Austere Dreamer
+
+Veil of Ignorance
+
+Indecisive Transmortal
+
+Pray for Unity
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+Tap six untapped creatures you control. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+I, II — Tap six untapped creatures you control.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+Tap six untapped creatures you control. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
+I, II — Tap six untapped creatures you control.
+
+Shackle the Wind
+
+Ingredient Smuggler
+
+Favored Aspirant
+
+Ancient Dreamweaver
+
+Torpor Mage
+
+Oneiric Scrutiny
+
+Arcane Resonation
+
+Malignosis Outbreak
+
+Refulgent Bolt
+
+Contemplative Dreamer
+
+Reforge Occult Ties
+
+Fanciful Dreamer
+
+Invasive Paradigm
+
+Agents of the Eschaton
+
+Pineal Siphon
+
+Well of Corruption
+
+The Archivist
+
+Seek the Archive
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard.
+
+Consecrated Bus
+
+Dangerous Idea
+
+Peter Welles, Reawakened
+
+Elemental Spirit
+
+IPC Zeitgeist
+
+Hypnagogic Broadcast
+
+Delve the Noosphere
+
+Occult Prodigy
+
+Infested Wormlich
+
+Unanimist Zeitgeist
+
+Irdol Zeitgeist
+
+Discordance Zeitgeist
+
+ASPIRE Zeitgeist
+
+Wormwood, Racketeer
+
+Bound Distortion
+
+Black Circle Summoner
+
+Sign of Discontent
+
+Lamb of the One
+
+Task Force Armorer
+
+Bestower of Fate
+
+Catastrophic Mistake
+
+Fears Made Manifest
+rules_text: As an additional cost to cast Fears Made Manifest, you may reveal a Nightmare card from your hand.
+Fears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control. => As an additional cost to cast this spell, you may reveal a Nightmare card from your hand.
+Fears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control.
+
+Notion of Malice
+
+Psychic Trepanation
+
+Memory of Ages Lost
+
+Notion of Doubt
+
+Notion of Craving
+
+Notion of Atavism
+
+State of Paranoia
+
+Dazzling Reverie
+
+Feedlot Abomination
+
+Incite Turmoil
+
+Protest Zone
+
+Might Channeler
+
+Anointed Consecrator
+rules_text: Whenever Anointed Consecrator attacks, create a tapped and attacking token that's a copy of it. The token gains “At the beginning of the end step, exile this creature” unless Anointed Consecrator is aberrant. [i](A creature is aberrant if its power and toughness aren't equal.)[/i] => Whenever Anointed Consecrator attacks, create a tapped and attacking token that's a copy of it. The token gains “At the beginning of the end step, sacrifice this creature” unless Anointed Consecrator is aberrant. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]
+
+Immortal Heir
+
+Trace of the All-Dream
+
+Worldtongue Heretic
+
+Veilguard Elite
+
+Expunge from Records
+
+Sanction
+
+Facility Expansion
+
+Enhanced Enforcer
+
+Missing Piece
+
+Escaping Omnipath
+
+Augmented Researcher
+
+Aeon of Purpose
+
+Phantasmal Overseer
+
+Immortality Peddler
+
+Experimental Treatment
+
+Eternity's Plaything
+
+Merciful End
+rules_text: As an additional cost to cast Merciful End, sacrifice a creature.
+You gain life and draw cards equal to 1 plus the sacrificed creature's power, then lose life and discard cards equal to its toughness. => As an additional cost to cast this spell, sacrifice a creature.
+You gain life and draw cards equal to 1 plus the sacrificed creature's power, then lose life and discard cards equal to its toughness.
+
+Discordant Magus
+
+Daydream Visitors
+
+Solve et Coagula
+
+Fevered Dreams
+
+Dream-Borne Starfarer
+
+Aeon of Meaning
+
+Primordial Shepherd
+
+Genius Loci
+
+Metamorphosis Chamber
+
+Atrocity Site
+
+Truthcleaver, Satu's Blade
+
+Profound Revelation
+
+Raving Aspirant
+
+Romantic Vision
+
+Bleak Vision
+
+Cosmic Vision
+
+Cancerous Vision
+
+Perfecter of Form
+
+Rite of the Angleworm
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
+
+Beseech the First Ones
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+Exile six cards with different mana values from your graveyard.
+Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}.
+
+Stalking Soulmate
+
+Occult Fascination
+
+Human Rogue
+
+Fateful Excavation
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
+Exile four land cards from your graveyard.
+Exile four nonland cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
+I — Exile four land cards from your graveyard.
+II — Exile four nonland cards from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
+Exile four land cards from your graveyard.
+Exile four nonland cards from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
+I — Exile four land cards from your graveyard.
+II — Exile four nonland cards from your graveyard.
+
+Dreamwild Intrusion
+
+Unleash Potential
+
+Clairvoyance Tank
+
+Through Eerie Woods
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+Pay {2}{G}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+I, II — Pay {2}{G}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+Pay {2}{G}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Through Eerie Woods enters tapped.
+{T}: Add {G}.
+I, II — Pay {2}{G}{G}.
+
+On Empty Streets
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+On Empty Streets enters tapped.
+{T}: Add {W}.
+Pay {3}{W}{W}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+On Empty Streets enters tapped.
+{T}: Add {W}.
+I, II — Pay {3}{W}{W}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+On Empty Streets enters tapped.
+{T}: Add {W}.
+Pay {3}{W}{W}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+On Empty Streets enters tapped.
+{T}: Add {W}.
+I, II — Pay {3}{W}{W}.
+
+Up Cryptic Spires
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Up Cryptic Spires enters tapped.
+{T}: Add {R}.
+Pay {2}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Up Cryptic Spires enters tapped.
+{T}: Add {R}.
+I, II — Pay {2}{R}{R}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Up Cryptic Spires enters tapped.
+{T}: Add {R}.
+Pay {2}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Up Cryptic Spires enters tapped.
+{T}: Add {R}.
+I, II — Pay {2}{R}{R}.
+
+Down Twisted Corridors
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Down Twisted Corridors enters tapped.
+{T}: Add {B}.
+Pay {1}{B}{B}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Down Twisted Corridors enters tapped.
+{T}: Add {B}.
+I, II — Pay {1}{B}{B}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Down Twisted Corridors enters tapped.
+{T}: Add {B}.
+Pay {1}{B}{B}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Down Twisted Corridors enters tapped.
+{T}: Add {B}.
+I, II — Pay {1}{B}{B}.
+
+Blessing of Harmony
+
+Past Distant Thresholds
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Past Distant Thresholds enters tapped.
+{T}: Add {U}.
+Pay {1}{U}{U}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Past Distant Thresholds enters tapped.
+{T}: Add {U}.
+I, II — Pay {1}{U}{U}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Past Distant Thresholds enters tapped.
+{T}: Add {U}.
+Pay {1}{U}{U}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Past Distant Thresholds enters tapped.
+{T}: Add {U}.
+I, II — Pay {1}{U}{U}.
+
+Laboratory Maniac
+
+Trustworthy Colleague
+
+Purebred Offering
+
+Gaze of the Abyss
+
+Liminal Crag
+
+Liminal Creek
+
+Liminal Grove
+
+Liminal Bog
+
+Liminal Prairie
+
+Inexplicable Entity
+
+Destructive Impulse
+
+Discordant Collective
+
+Insect
+
+Reflection
+
+Heart of the Noosphere
+
+Crisis of Faith
+
+Elemental
+
+Unmarked Helicopter
+
+Dysmorphosis Carrier
+
+Mundophobia
+
+Looming Presence
+
+Oppressive Dreamwarden
+
+Doomed Journalist
+
+The Oneironaut's Handbook
+
+Ecstatic Zeal
+
+Incantations of the Nomon
+
+Shadow of Perdition
+
+Everburning Fugitive
+
+Pansomnolence
+
+Nightmare Leviathan
+
+Impending Ruin
+
+Spectral Guidance
+
+Human Citizen
+
+Bucolic Innocence
+
+Utopian Vision
+rules_text: Each player shuffles their hand into their library, then draws seven cards. Untap up to X lands, where X twice is the number of cards shuffled into your library this way. => Each player may shuffle their hand into their library, then each player who does draws seven cards. Untap up to X lands, where X is twice the number of cards shuffled into your library this way. Exile Utopian Vision.
+
+Cadis Yeln, IPC Chair
+rules_text: Flash
+When Cadis Yeln enters, exile target spell, nonland permanent, or card from a graveyard. Its controller draws a card.
+Spells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type. => Flash
+When Cadis Yeln enters, exile up to one target spell or nonland permanent. Its controller draws a card.
+Spells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type and name.
+
+Mabil, Dreamscape Delver
+rules_text: [+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and “{T}: Add {W}{U}{B}{R}{G}.” => [+1]: Mill two cards, then return a land card or a non-Mabil multicolored card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-6]: Create a colorless legendary enchantment land token named Heart of the Noosphere with hexproof and “{T}: Add {W}{U}{B}{R}{G}.”
+special_text: [+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and “{T}: Add {W}{U}{B}{R}{G}.” => [+1]: Mill two cards, then return a land card or a non-Mabil multicolored card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-6]: Create a colorless legendary enchantment land token named Heart of the Noosphere with hexproof and “{T}: Add {W}{U}{B}{R}{G}.”
+
+Satu Var, Hexkeeper
+cost: {3}{W}{U} => {4}{W}{U}
+rules_text: Flash
+When Satu Var enters, exile target spell.
+[+2]: Each player exiles the top card of their library. You gain 2 life.
+[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost. => Flash
+When Satu Var enters, exile target nonland permanent an opponent controls.
+[+2]: Draw two cards, then exile a card from your hand or a nonland permanent you control.
+[-X]: Until your next turn, you may cast nonland cards exiled with Satu Var that have mana value X or less without paying their mana costs.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.
+special_text: Flash
+When Satu Var enters, exile target spell.
+[+2]: Each player exiles the top card of their library. You gain 2 life.
+[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost. => Flash
+When Satu Var enters, exile target nonland permanent an opponent controls.
+[+2]: Draw two cards, then exile a card from your hand or a nonland permanent you control.
+[-X]: Until your next turn, you may cast nonland cards exiled with Satu Var that have mana value X or less without paying their mana costs.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.
+loyalty: 4 => 5
+
+Vand, the Breaking Dream
+rules_text: [+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it. => [+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It becomes a copy of Vand for as long as it has a loyalty counter on it, except it isn't legendary.
+special_text: [+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it. => [+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It becomes a copy of Vand for as long as it has a loyalty counter on it, except it isn't legendary.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

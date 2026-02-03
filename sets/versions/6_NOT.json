@@ -413,7 +413,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Ooze",
-            "number": 148,
+            "number": 149,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Mutable [i](This creature is dealt damage in the form of +1/-1 counters.)[/i]\nWhenever Failed Prototype attacks, it deals 1 damage to target creature you control.",
@@ -637,7 +637,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{T}: Target creature gets +1/+0 and gains vigilance until end of turn. Activate only as a sorcery.",
-            "flavor_text": "[i]\u201cDoes the One exist? Not in the sense the true gods do. But the throngs of Its faithful have an impact on the noosphere that rivals even theirs.\u201d\n\u2014The Archivist[/i]",
+            "flavor_text": "[i]\u201cDoes the One exist? Not in the sense the true gods do. But the throngs of Its faithful leave a mark on the noosphere that rivals even theirs.\u201d\n\u2014The Archivist[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -697,7 +697,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever Faithful Aspirant attacks, if it's aberrant, it gains flying until end of turn. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]",
-            "flavor_text": "[i]\u201cEven in this worldly and selfish age, there are a rare few aspirants who truly understand the teachings of the Holy Flesh.\u201d\n\u2014Jalset, priest of Yl-Tesim[/i]",
+            "flavor_text": "[i]\u201cEven in this worldly and selfish age, a rare few aspirants still truly understand the Holy Flesh.\u201d\n\u2014Jalset, priest of Yl-Tesim[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -706,7 +706,7 @@
             "artist": "Stefan Koidl",
             "alias": "",
             "position": "34",
-            "notes": "ALTERNATE FT: \u201cToday's aspirants pervert Yl-Tesim's teachings, still gripped by the selfish and worldly banalities they allegedly seek to transcend. But, with love and guidance, I am certain many can still be saved.\u201d\n\u2014NAME, priest of the Holy Flesh\n\nalternate; it -> it and another target attacking creature, or +1/+1 in addition to flying, or 1/1 flying, card draw on aberrant"
+            "notes": "ALTERNATE FT: \u201cToday's aspirants pervert Yl-Tesim's teachings, still gripped by the selfish and worldly banalities they allegedly seek to transcend. But, with love and guidance, I am certain many can still be saved.\u201d\n\u2014NAME, priest of the Holy Flesh\n\nalternate; it -> it and another target attacking creature, or +1/+1 in addition to flying, or 1/1 flying, card draw on aberrant\n\nALTERNATE 2: \"Whenever CARDNAME attacks, if it's aberrant\" -> \"At the beginning of each combat, if CARDNAME is aberrant\""
         },
         {
             "card_name": "Solemn Gatekeeper",
@@ -717,7 +717,7 @@
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "When Solemn Gatekeeper enters, you may return another permanent you control to its owner's hand. If you do, create a 1/1 white Spirit creature token with flying.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cI met the girl of my dreams / Her face was oozing at the seams / Her hands pulled me apart like clay / I hope the dreams will stop one day.\u201d\n\u2014Vanteran children's rhyme[/i]",
             "pt": "3/5",
             "special_text": "",
             "shape": "normal",
@@ -726,7 +726,7 @@
             "artist": "Andres Rios",
             "alias": "",
             "position": "35",
-            "notes": "!tokens Spirit<1>\n\nCHANGELOG: 4/5 -> 3/5, \"if you return an enchantment this way\" -> \"if you do\""
+            "notes": "!tokens Spirit<1>\n\nCHANGELOG: 4/5 -> 3/5, \"if you return an enchantment this way\" -> \"if you do\"\n\nALTERNATE: Last FT line -> \"I wish the dreams would go away.\"?"
         },
         {
             "card_name": "Faith in the One",
@@ -816,10 +816,10 @@
             "number": 242,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.\nPay {G}{G}{G}{G}{G}.\nPay {U}{U}{U}{U}{U}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.\nI \u2014 Pay {G}{G}{G}{G}{G}.\nII \u2014 Pay {U}{U}{U}{U}{U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.\nPay {G}{G}{G}{G}{G}.\nPay {U}{U}{U}{U}{U}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.\nI \u2014 Pay {G}{G}{G}{G}{G}.\nII \u2014 Pay {U}{U}{U}{U}{U}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -847,10 +847,10 @@
             "number": 246,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.\nTap two untapped creatures you control with equal power.\nTap two untapped creatures you control with equal toughness.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.\nI \u2014 Tap two untapped creatures you control with equal power.\nII \u2014 Tap two untapped creatures you control with equal toughness.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.\nTap two untapped creatures you control with equal power.\nTap two untapped creatures you control with equal toughness.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.\nI \u2014 Tap two untapped creatures you control with equal power.\nII \u2014 Tap two untapped creatures you control with equal toughness.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -878,10 +878,10 @@
             "number": 245,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.\nTap five untapped creatures you control.\nSacrifice three creatures.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.\nI \u2014 Tap five untapped creatures you control.\nII \u2014 Sacrifice three creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.\nTap five untapped creatures you control.\nSacrifice three creatures.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.\nI \u2014 Tap five untapped creatures you control.\nII \u2014 Sacrifice three creatures.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -909,10 +909,10 @@
             "number": 244,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.\nDiscard your hand.\nExile ten cards from your graveyard.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.\nI \u2014 Discard your hand.\nII \u2014 Exile ten cards from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.\nDiscard your hand.\nExile ten cards from your graveyard.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.\nI \u2014 Discard your hand.\nII \u2014 Exile ten cards from your graveyard.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -957,7 +957,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 144,
+            "number": 145,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Display of Talent deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.\nRecreate {4}{R} [i](You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)[/i]",
@@ -1717,7 +1717,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Rogue Sorcerer",
-            "number": 143,
+            "number": 144,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Double strike\nDiscordant Mob attacks each combat if able.",
@@ -1777,7 +1777,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Nightmare Treefolk",
-            "number": 146,
+            "number": 147,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Haste\nWhenever Echo of Wildfire attacks, it deals damage equal to its power to defending player.",
@@ -2260,10 +2260,10 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Open Your Mind enters, draw two cards.\nDiscard a card.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Open Your Mind enters, draw two cards.\nI, II \u2014 Discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Open Your Mind enters, draw two cards.\nDiscard a card.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Open Your Mind enters, draw two cards.\nI, II \u2014 Discard a card.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -2291,10 +2291,10 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Breach the Veil enters, create a 1/1 white Spirit creature token with flying.\nTap three untapped creatures you control.\nSacrifice any number of creatures with total power 3 or greater.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Breach the Veil enters, create a 1/1 white Spirit creature token with flying.\nTap three untapped creatures you control.\nI, II \u2014 Sacrifice any number of creatures with total power 3 or greater.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Breach the Veil enters, create a 1/1 white Spirit creature token with flying.\nTap three untapped creatures you control.\nSacrifice any number of creatures with total power 3 or greater.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Breach the Veil enters, create a 1/1 white Spirit creature token with flying.\nTap three untapped creatures you control.\nI, II \u2014 Sacrifice any number of creatures with total power 3 or greater.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -2322,10 +2322,10 @@
             "number": 124,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pay in Blood enters, each opponent sacrifices a creature.\nSacrifice a creature.\nExile three creature cards from your graveyard.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pay in Blood enters, each opponent sacrifices a creature.\nI \u2014 Sacrifice a creature.\nII \u2014 Exile three creature cards from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pay in Blood enters, each opponent sacrifices a creature.\nSacrifice a creature.\nExile three creature cards from your graveyard.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pay in Blood enters, each opponent sacrifices a creature.\nI \u2014 Sacrifice a creature.\nII \u2014 Exile three creature cards from your graveyard.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -2353,10 +2353,10 @@
             "number": 138,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.\nSacrifice two permanents.\nPay {3}{R}{R}{R}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.\nI \u2014 Sacrifice two permanents.\nII \u2014 Pay {3}{R}{R}{R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.\nSacrifice two permanents.\nPay {3}{R}{R}{R}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.\nI \u2014 Sacrifice two permanents.\nII \u2014 Pay {3}{R}{R}{R}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -2384,10 +2384,10 @@
             "number": 219,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.\nSacrifice a creature.\nSacrifice an enchantment.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.\nI \u2014 Sacrifice a creature.\nII \u2014 Sacrifice an enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.\nSacrifice a creature.\nSacrifice an enchantment.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.\nI \u2014 Sacrifice a creature.\nII \u2014 Sacrifice an enchantment.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
@@ -2568,26 +2568,6 @@
             "notes": ""
         },
         {
-            "card_name": "Cadis Yeln, IPC Chair",
-            "color": "WU",
-            "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human Advisor",
-            "number": 225,
-            "color_identity": "WU",
-            "cost": "{2}{W}{U}",
-            "rules_text": "Flash\nWhen Cadis Yeln enters, exile target spell, nonland permanent, or card from a graveyard. Its controller draws a card.\nSpells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NOT",
-            "loyalty": "",
-            "artist": "Aldo Dominguez",
-            "alias": "",
-            "position": "123",
-            "notes": "CHANGELOG: Refunds a card instead of banishing, can hit your own permanents, no additional tax for having the same name\n\nALTERNATE: Whenever you cast a spell that targets a creature you control, you may exile target nonland permanent an opponent controls until that creature leaves the battlefield.\nYour opponents can't cast spells with the same name as a card exiled with , [Foundation] Chair.\n\nALTERNATE 2: Whenever you attack, target opponent may have you draw two cards. When they don't, exile target nonland permanent that player controls until target attacking creature leaves the battlefield.\nYour opponents can't cast spells with the same name as a card exiled with , [Foundation] Chair.\n\nALTERNATE 3: 2WU 2/2\nFlash\nWhen Cadis Yeln enters, exile target [spell or?] nonland permanent an opponent controls unless that player has you draw two cards.\nSpells your opponents cast cost 1 more to cast if they share a color with a card in exile. The same is true for card type and name.\n\nALTERNATE 4: 2WU 2/2\nFlash\nWhen Cadis Yeln enters, exile target spell, nonland permanent, or card from a graveyard. Its controller draws a card.\nSpells your opponents cast cost 1 more to cast if they share a color with a card in exile. The same is true for card type."
-        },
-        {
             "card_name": "Chief Executive J. Irdol III",
             "color": "UB",
             "rarity": "rare",
@@ -2604,7 +2584,7 @@
             "loyalty": "",
             "artist": "Andres Parada",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": "!tokens Treasure<1>"
         },
         {
@@ -2624,7 +2604,7 @@
             "loyalty": "",
             "artist": "Magdalena Pagowska",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": "CHANGELOG: 1GW -> GW, changed enchantress effect\n\nALTERNATE: 2GW 2/2, keep first ability, look at and cast creature and enchantment spells from top of library\n\nALTERNATE 2: Pay 2 and discard a card to create two tokens\n\nALTERNATE 3: Pay 2 to create a token"
         },
         {
@@ -2644,7 +2624,7 @@
             "loyalty": "",
             "artist": "Maxime Teppe",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2655,16 +2635,16 @@
             "number": 243,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.\nExile five creature cards from a single graveyard.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.\nI, II \u2014 Exile five creature cards from a single graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.\nExile five creature cards from a single graveyard.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.\nI, II \u2014 Exile five creature cards from a single graveyard.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "card_name2": "Czendramahlix",
             "color2": "WB",
             "type2": "Legendary Creature \u2014 Nightmare God",
@@ -2695,7 +2675,7 @@
             "loyalty": "",
             "artist": "Nikita Jansons",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "CHANGELOG: \"you may move all +1/-1 counters from it onto target creature defending player controls. If you do, that creature blocks this combat if able.\" -> \"target creature defending player controls blocks it this combat if able. You may have that creature gain first strike until end of turn.\""
         },
         {
@@ -2715,7 +2695,7 @@
             "loyalty": "",
             "artist": "Sam Lamont",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "CHANGELOG: 3/7 -> 3/8\n\nSTORY FT: Lettie/Hafnordrun"
         },
         {
@@ -2735,7 +2715,7 @@
             "loyalty": "",
             "artist": "Ivan Khotenov",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "!tokens Ooze Shapeshifter<1>\n\nCHANGELOG: Added mutable"
         },
         {
@@ -2755,7 +2735,7 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2775,7 +2755,7 @@
             "loyalty": "",
             "artist": "David Romero",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "CHANGELOG: added lifegain\n\nALTERNATE: \"mill two cards\" -> \"surveil 1\"\n\nALTERNATE 2: Current ability -> ETB surveil 2 OR ETB surveil 1 + dies surveil 2"
         },
         {
@@ -2795,7 +2775,7 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2815,7 +2795,7 @@
             "loyalty": "",
             "artist": "Tiago Aleixo",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "alternate; or dies"
         },
         {
@@ -2835,7 +2815,7 @@
             "loyalty": "",
             "artist": "Alex Konstad",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "CHANGELOG: 3/4 \"When CARDNAME enters, put a +1/-1 counter on target creature you control\" -> 2/3 \"1R: CARDNAME gets +2/+0 until end of turn\" \"When CARDNAME dies, it deals damage equal to its power to target opponent\"; +2/+0 -> +3/+0, activate only once each turn\n\nALTERNATE: 3R -> 2R, AA 1R +3/+0 -> 2R +2/+0?"
         },
         {
@@ -2855,7 +2835,7 @@
             "loyalty": "",
             "artist": "Dan Temirov",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "!tokens Human Soldier<1>\n\nCHANGELOG: 2R -> 1R, removed first strike\n\nALTERNATE: Add \"unless you pay 4 life\" OR \"unless you pay 2\""
         },
         {
@@ -2875,7 +2855,7 @@
             "loyalty": "",
             "artist": "Fan Zhang",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "!tokens Human Soldier<1>\n\nALTERNATE: 1G 5/4\n[Trample?], [ward 2?]\nCARDNAME enters tapped with three stun counters on it.\n1G: Untap CARDNAME.\n\nALTERNATE 2: 2G, two tokens?\n\nALTERNATE 3: \"1G: CARDNAME can't be blocked by creatures with power 2 or less this turn\" ->Trample?\n\nALTERNATE: Current text -> \"When CARDNAME enters, you may return another permanent you control to its owner's hand. If you don't, each opponent creates a 1/1 white Human Soldier creature token.\""
         },
         {
@@ -2895,7 +2875,7 @@
             "loyalty": "",
             "artist": "Andrew l. Woods",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2915,7 +2895,7 @@
             "loyalty": "",
             "artist": "Dave O. Flanagan",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "CHANGELOG: First AA once each turn -> tap, added second AA"
         },
         {
@@ -2935,7 +2915,7 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "ALTERNATE: 2W, Omen W; Until end of turn, up to two target creatures you control each get +1/+0 and gain \"When this creature dies, return it to the battlefield tapped under its owner's control.\"\n\nALTERNATE 2: 2W, Omen W; Flicker up to two target creatures and/or enchantments you control."
         },
         {
@@ -2955,7 +2935,7 @@
             "loyalty": "",
             "artist": "Geo Korf",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "CHANGELOG: Removed flying"
         },
         {
@@ -2975,7 +2955,7 @@
             "loyalty": "",
             "artist": "Todd Rix",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": "CHANGELOG: Added \"you may\""
         },
         {
@@ -2995,7 +2975,7 @@
             "loyalty": "",
             "artist": "Vadim Shevchenko",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": ""
         },
         {
@@ -3015,7 +2995,7 @@
             "loyalty": "",
             "artist": "Robin Raaphorst",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": ""
         },
         {
@@ -3035,7 +3015,7 @@
             "loyalty": "",
             "artist": "Yura Gvozdenko",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": "!related Banishment Squad;Facility Expansion;Containment Squad;Hunted Aspirant;Hunted Monstrosity;"
         },
         {
@@ -3055,7 +3035,7 @@
             "loyalty": "",
             "artist": "Jens Fiedler",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "!related Eager Deathseeker;"
         },
         {
@@ -3075,7 +3055,7 @@
             "loyalty": "",
             "artist": "Wangjie Li",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": "!related Pray for Unity<2>;Unanimist Zeitgeist;"
         },
         {
@@ -3095,7 +3075,7 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "!related Call from Beyond;"
         },
         {
@@ -3115,7 +3095,7 @@
             "loyalty": "",
             "artist": "Ivan Khotenov",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "!related Gelatinous Birth;"
         },
         {
@@ -3135,7 +3115,7 @@
             "loyalty": "",
             "artist": "Alex Konstad",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "!tokens Nightmare<1>"
         },
         {
@@ -3155,7 +3135,7 @@
             "loyalty": "",
             "artist": "Alice Tochylovska",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "CHANGELOG: Reworked text"
         },
         {
@@ -3175,7 +3155,7 @@
             "loyalty": "",
             "artist": "Natalie Wong",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": ""
         },
         {
@@ -3195,7 +3175,7 @@
             "loyalty": "",
             "artist": "Alexey Golovko",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": ""
         },
         {
@@ -3215,7 +3195,7 @@
             "loyalty": "",
             "artist": "Oleg Kuzmin",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": ""
         },
         {
@@ -3235,7 +3215,7 @@
             "loyalty": "",
             "artist": "Marek Okon",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "STORY FT: Satu Var (Can find other planeswalkers)"
         },
         {
@@ -3255,7 +3235,7 @@
             "loyalty": "",
             "artist": "Thiago Baltar",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": "CHANGELOG: 3/2 -> 3/1\n\nALTERNATE FT: \u201cThe IPC pretends the Church only gets special treatment due to not knowing its own magic. In truth, the whole concept of the \u2018anomalous' is derived from self-serving Unanimist ideology.\u201d\n\u2014NAME, Discordant Voice"
         },
         {
@@ -3275,7 +3255,7 @@
             "loyalty": "",
             "artist": "Dave Phillips",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": ""
         },
         {
@@ -3295,7 +3275,7 @@
             "loyalty": "",
             "artist": "Calin P\u00eer\u00eeiala",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": ""
         },
         {
@@ -3315,7 +3295,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3335,7 +3315,7 @@
             "loyalty": "",
             "artist": "Mike Capprotti",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": "!tokens Human Citizen<2>\n\nCHANGELOG: white Soldier -> colorless Citizen"
         },
         {
@@ -3355,7 +3335,7 @@
             "loyalty": "",
             "artist": "Mitchell Malloy",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": "CHANGELOG: AA 1B -> 3, draw a card, reworked characteristics"
         },
         {
@@ -3366,16 +3346,16 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.\nTap six untapped creatures you control.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.\nI, II \u2014 Tap six untapped creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.\nTap six untapped creatures you control.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.\nI, II \u2014 Tap six untapped creatures you control.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Andrew Loomis",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "card_name2": "Revelation of the One",
             "color2": "W",
             "type2": "Creature \u2014 Nightmare Illusion Avatar",
@@ -3406,7 +3386,7 @@
             "loyalty": "",
             "artist": "Shen Fei",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": "!tokens Elemental Spirit<1>\n\nCHANGELOG: \"Create an X/X blue Elemental creature token with flying, where X is the number of noncreature spells you've cast this turn.\" -> \"Create a 2/1 blue Elemental creature token with flying. If you've cast another noncreature spell this turn, draw a card.\""
         },
         {
@@ -3426,7 +3406,7 @@
             "loyalty": "",
             "artist": "Danny Ingrassia",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "STORY FT: Lettie/ASPIRE"
         },
         {
@@ -3434,7 +3414,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Horror",
-            "number": 149,
+            "number": 150,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "First strike\nWhenever Favored Aspirant attacks, if it's aberrant, it gains double strike until end of turn. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]",
@@ -3446,7 +3426,7 @@
             "loyalty": "",
             "artist": "vicious mongrel",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3466,7 +3446,7 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": "CHANGELOG: 2/5 -> 3/5"
         },
         {
@@ -3486,7 +3466,7 @@
             "loyalty": "",
             "artist": "beeple",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3506,7 +3486,7 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovic",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": "CHANGELOG: 1U -> 2U, discard three -> discard two"
         },
         {
@@ -3526,7 +3506,7 @@
             "loyalty": "",
             "artist": "Christian Bravery",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "!tag wishlist"
         },
         {
@@ -3546,7 +3526,7 @@
             "loyalty": "",
             "artist": "Dan Peacock",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3566,7 +3546,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3586,7 +3566,7 @@
             "loyalty": "",
             "artist": "Black Malcerta",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3606,7 +3586,7 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": "CHANGELOG: Complete rework\n\nSTORY FT: Peter (Reforge Occult Ties)"
         },
         {
@@ -3626,7 +3606,7 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3646,7 +3626,7 @@
             "loyalty": "",
             "artist": "Su Wen",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3666,7 +3646,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3686,7 +3666,7 @@
             "loyalty": "",
             "artist": "Pixoloid Studios",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3706,7 +3686,7 @@
             "loyalty": "",
             "artist": "David Romero",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "ALTERNATE: \"Whenever a creature you control with a counter on it dies, you gain 1 life and put a +1/-1 counter on Vessel of Corruption.\" + \"B: Move any number of +1/-1 counters from Vessel of Corruption onto target creature. Activate only as a sorcery.\""
         },
         {
@@ -3726,7 +3706,7 @@
             "loyalty": "",
             "artist": "Torstein Nordstrand",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3737,16 +3717,16 @@
             "number": 78,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.\nExile an artifact card and an enchantment card from your graveyard.\nExile an instant card and a sorcery card from your graveyard.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.\nExile an artifact card and an enchantment card from your graveyard.\nI, II \u2014 Exile an instant card and a sorcery card from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.\nExile an artifact card and an enchantment card from your graveyard.\nExile an instant card and a sorcery card from your graveyard.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.\nExile an artifact card and an enchantment card from your graveyard.\nI, II \u2014 Exile an instant card and a sorcery card from your graveyard.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Roman Kuteynikov",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "card_name2": "Pansophic Sage",
             "color2": "U",
             "type2": "Creature \u2014 Human Wizard",
@@ -3777,7 +3757,7 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": ""
         },
         {
@@ -3797,7 +3777,7 @@
             "loyalty": "",
             "artist": "Adeliia Koldarova",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "CHANGELOG: Scry -> surveil"
         },
         {
@@ -3817,7 +3797,7 @@
             "loyalty": "",
             "artist": "Duncan Eagleson",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "!tag wishlist"
         },
         {
@@ -3837,7 +3817,7 @@
             "loyalty": "",
             "artist": "Shen Fei",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": "!related Shackle the Wind;"
         },
         {
@@ -3857,7 +3837,7 @@
             "loyalty": "",
             "artist": "Andrea Notarstefano",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "CHANGELOG: 2WU 4/4 -> 1WU 3/3"
         },
         {
@@ -3877,7 +3857,7 @@
             "loyalty": "",
             "artist": "DEADLIINE art",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "CHANGELOG: \"Exile your hand and the top three cards of your library. For each land card exiled this way, add one mana of any color. Until end of turn, you may cast nonland cards exiled this way.\" -> \"Look at the top three cards of your library, then choose one\u2014\n\u2022 Discard your hand, then draw three cards.\n\u2022 Exile the top three cards of your library. You may play those cards this turn.\""
         },
         {
@@ -3897,7 +3877,7 @@
             "loyalty": "",
             "artist": "Fantasy_art_z",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "STORY FT: Lettie OR Mabil (Magic is different here)"
         },
         {
@@ -3917,7 +3897,7 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3937,7 +3917,7 @@
             "loyalty": "",
             "artist": "Martin Pierret",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "!tokens Insect<1>"
         },
         {
@@ -3957,7 +3937,7 @@
             "loyalty": "",
             "artist": "Diego Mota",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "!tokens Human Cleric<1>\n\nCHANGELOG: GW 1/1 -> 1GW 2/2, Vigilance -> Trample\n\nALTERNATE: \"Other creatures\" -> \"Creatures\"?"
         },
         {
@@ -3977,7 +3957,7 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "CHANGELOG: \"CARDNAME or another\" -> \"another\", \"X\" -> \"X or less\""
         },
         {
@@ -3997,7 +3977,7 @@
             "loyalty": "",
             "artist": "Fran Fdez",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": ""
         },
         {
@@ -4017,7 +3997,7 @@
             "loyalty": "",
             "artist": "Aster Clarke",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": "ALTERNATE: As ASPIRE Zeitgeist enters, choose Product, Service, or Membership.\n\u2022 Product\u2014Whenever you attack, put a +1/-1 counter on up to one target attacking creature. It gains indestructible until end of turn.\n\u2022 Service\u2014T: Attacking creatures you control get +1/-1 and gain menace until end of turn.\n\u2022 Membership\u2014Other creatures you control get +1/-1 and have haste."
         },
         {
@@ -4037,7 +4017,7 @@
             "loyalty": "4",
             "artist": "Ksenia Kiseleva",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": ""
         },
         {
@@ -4057,7 +4037,7 @@
             "loyalty": "",
             "artist": "Denis Skiba",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": ""
         },
         {
@@ -4077,7 +4057,7 @@
             "loyalty": "",
             "artist": "Sam Perin",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": ""
         },
         {
@@ -4097,7 +4077,7 @@
             "loyalty": "",
             "artist": "Stef Tastan",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": ""
         },
         {
@@ -4117,7 +4097,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": "!tokens Crisis of Faith<1>\n\nCHANGELOG: Scry -> surveil"
         },
         {
@@ -4137,28 +4117,8 @@
             "loyalty": "",
             "artist": "Ivan Vilmont",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "CHANGELOG: Complete rework"
-        },
-        {
-            "card_name": "Vand, the Breaking Dream",
-            "color": "UR",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Vand",
-            "number": 254,
-            "color_identity": "UR",
-            "cost": "{2}{U}{R}",
-            "rules_text": "[+1]: Exile the top card of your library. You may play it this turn.\n[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: Exile the top card of your library. You may play it this turn.\n[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it.",
-            "shape": "planeswalker",
-            "set": "NOT",
-            "loyalty": "4",
-            "artist": "Pedro Sena",
-            "alias": "",
-            "position": "200",
-            "notes": ""
         },
         {
             "card_name": "Bestower of Fate",
@@ -4177,7 +4137,7 @@
             "loyalty": "",
             "artist": "Aida G\u00f3mez",
             "alias": "",
-            "position": "201",
+            "position": "199",
             "notes": "CHANGELOG: 4/3 -> 3/4"
         },
         {
@@ -4197,7 +4157,7 @@
             "loyalty": "",
             "artist": "Sam Lamont",
             "alias": "",
-            "position": "202",
+            "position": "200",
             "notes": ""
         },
         {
@@ -4208,7 +4168,7 @@
             "number": 195,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "As an additional cost to cast Fears Made Manifest, you may reveal a Nightmare card from your hand.\nFears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control.",
+            "rules_text": "As an additional cost to cast this spell, you may reveal a Nightmare card from your hand.\nFears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4217,7 +4177,7 @@
             "loyalty": "",
             "artist": "Vadim Simanin",
             "alias": "",
-            "position": "203",
+            "position": "201",
             "notes": "ALTERNATE: \"power\" ->\"power or toughness\"?"
         },
         {
@@ -4237,7 +4197,7 @@
             "loyalty": "",
             "artist": "Black Malcerta",
             "alias": "",
-            "position": "204",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4257,7 +4217,7 @@
             "loyalty": "",
             "artist": "Bogdan Ristea",
             "alias": "",
-            "position": "205",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4277,7 +4237,7 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
-            "position": "206",
+            "position": "204",
             "notes": ""
         },
         {
@@ -4297,7 +4257,7 @@
             "loyalty": "",
             "artist": "Richard Wright",
             "alias": "",
-            "position": "207",
+            "position": "205",
             "notes": ""
         },
         {
@@ -4317,7 +4277,7 @@
             "loyalty": "",
             "artist": "Boris Groh",
             "alias": "",
-            "position": "208",
+            "position": "206",
             "notes": ""
         },
         {
@@ -4337,7 +4297,7 @@
             "loyalty": "",
             "artist": "Robert Ryminiecki",
             "alias": "",
-            "position": "209",
+            "position": "207",
             "notes": "CHANGELOG: 7/5 -> 8/5"
         },
         {
@@ -4357,7 +4317,7 @@
             "loyalty": "",
             "artist": "baltvist",
             "alias": "",
-            "position": "210",
+            "position": "208",
             "notes": "STORY FT: Peter OR Mabil (Exploring the dreamscape)\n\nCHANGELOG: 2U -> 1U, AA 2U -> 4U"
         },
         {
@@ -4377,7 +4337,7 @@
             "loyalty": "",
             "artist": "Cameron Gray",
             "alias": "",
-            "position": "211",
+            "position": "209",
             "notes": "STORY FT: Peter/Vand"
         },
         {
@@ -4397,7 +4357,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "212",
+            "position": "210",
             "notes": "CHANGELOG: 5/2 -> 5/3"
         },
         {
@@ -4417,7 +4377,7 @@
             "loyalty": "",
             "artist": "Gareth Keenan",
             "alias": "",
-            "position": "213",
+            "position": "211",
             "notes": "!tokens Human Rogue<2>\n\nALTERNATE: Recreate 7R -> 6R?"
         },
         {
@@ -4437,7 +4397,7 @@
             "loyalty": "",
             "artist": "Leslie Lee",
             "alias": "",
-            "position": "214",
+            "position": "212",
             "notes": "!tokens Human Rogue<1>\n\nALTERNATE: 1G Aura, Enchanted creature gets +2/+1 and has vigilance and reach, put it on top of its owner's library on death OR pay 1G and exile from grave to put a creature card from grave on top of library?\n\nALTERNATE 2: 4G\nAt the beginning of your end step, create a tapped 1/1 red Human Rogue creature token. If a permanent you controlled left the battlefield this turn, you may draw a card instead.\nRumor 2G"
         },
         {
@@ -4457,7 +4417,7 @@
             "loyalty": "",
             "artist": "Duncan Eagleson",
             "alias": "",
-            "position": "215",
+            "position": "213",
             "notes": ""
         },
         {
@@ -4468,7 +4428,7 @@
             "number": 223,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "Whenever Anointed Consecrator attacks, create a tapped and attacking token that's a copy of it. The token gains \u201cAt the beginning of the end step, exile this creature\u201d unless Anointed Consecrator is aberrant. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]",
+            "rules_text": "Whenever Anointed Consecrator attacks, create a tapped and attacking token that's a copy of it. The token gains \u201cAt the beginning of the end step, sacrifice this creature\u201d unless Anointed Consecrator is aberrant. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4477,8 +4437,8 @@
             "loyalty": "",
             "artist": "Daniil Kozlovsky",
             "alias": "",
-            "position": "216",
-            "notes": "ALTERNATE: 2RW, add lifelink [and ward 1?]\n\nALTERNATE 2: RW 3/3\n2, T: Create a token that's a copy of Anointed Consecrator, except it has haste and \u201cAt the beginning of your end step, exile this creature unless it's aberrant.\u201d Activate only if Anointed Consecrator is aberrant and only as a sorcery."
+            "position": "214",
+            "notes": "CHANGELOG: exile -> sacrifice\n\nALTERNATE: 2RW, add lifelink [and ward 1?]\n\nALTERNATE 2: RW 3/3\n2, T: Create a token that's a copy of Anointed Consecrator, except it has haste and \u201cAt the beginning of your end step, sacrifice this creature unless it's aberrant.\u201d Activate only if Anointed Consecrator is aberrant and only as a sorcery."
         },
         {
             "card_name": "Immortal Heir",
@@ -4497,7 +4457,7 @@
             "loyalty": "",
             "artist": "vicious mongrel",
             "alias": "",
-            "position": "217",
+            "position": "215",
             "notes": "!tokens Thrull<1>"
         },
         {
@@ -4517,7 +4477,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "218",
+            "position": "216",
             "notes": ""
         },
         {
@@ -4537,7 +4497,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "position": "219",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4557,7 +4517,7 @@
             "loyalty": "",
             "artist": "Hua Ma",
             "alias": "",
-            "position": "220",
+            "position": "218",
             "notes": ""
         },
         {
@@ -4577,7 +4537,7 @@
             "loyalty": "",
             "artist": "Aeolian",
             "alias": "",
-            "position": "221",
+            "position": "219",
             "notes": "!tag wishlist"
         },
         {
@@ -4597,7 +4557,7 @@
             "loyalty": "",
             "artist": "Matthias Rousseau",
             "alias": "",
-            "position": "222",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4617,7 +4577,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "223",
+            "position": "221",
             "notes": "!tokens Human Soldier<1>"
         },
         {
@@ -4637,7 +4597,7 @@
             "loyalty": "",
             "artist": "Lip Comarella",
             "alias": "",
-            "position": "224",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4657,7 +4617,7 @@
             "loyalty": "",
             "artist": "Gareth Keenan",
             "alias": "",
-            "position": "225",
+            "position": "223",
             "notes": "CHANGELOG: Scry -> surveil"
         },
         {
@@ -4677,7 +4637,7 @@
             "loyalty": "",
             "artist": "Josh Guglielmo",
             "alias": "",
-            "position": "226",
+            "position": "224",
             "notes": "!tapped\n\nALTERNATE: 4U 3/4\nFlying\nWhenever CARDNAME attacks, if all creatures you control are aberrant, return up to one target creature to its owner's hand. Otherwise, return a non-aberrant creature you control to its owner's hand and remove CARDNAME from combat.\n\nALTERNATE2: 1U 5/4\nFlying, ward 2\nEscaping Omnipath enters tapped with three stun counters on it.\nWhenever you cast a noncreature spell, untap Escaping Omnipath.\nWhenever Escaping Omnipath attacks, you may put three stun counters on it. If you do, draw three cards."
         },
         {
@@ -4697,7 +4657,7 @@
             "loyalty": "",
             "artist": "Mauricio Parra",
             "alias": "",
-            "position": "227",
+            "position": "225",
             "notes": "ALTERNATE: 1U 0/4, spells -> the next noncreature spell"
         },
         {
@@ -4717,7 +4677,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "228",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4737,7 +4697,7 @@
             "loyalty": "",
             "artist": "Alex Andreev",
             "alias": "",
-            "position": "229",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4757,7 +4717,7 @@
             "loyalty": "",
             "artist": "Andreas Christanetoff",
             "alias": "",
-            "position": "230",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4777,7 +4737,7 @@
             "loyalty": "",
             "artist": "Pavel Kondrashov",
             "alias": "",
-            "position": "231",
+            "position": "229",
             "notes": "STORY FT: Lettie/ASPIRE"
         },
         {
@@ -4797,7 +4757,7 @@
             "loyalty": "",
             "artist": "Regin Moller",
             "alias": "",
-            "position": "232",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4808,7 +4768,7 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "As an additional cost to cast Merciful End, sacrifice a creature.\nYou gain life and draw cards equal to 1 plus the sacrificed creature's power, then lose life and discard cards equal to its toughness.",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nYou gain life and draw cards equal to 1 plus the sacrificed creature's power, then lose life and discard cards equal to its toughness.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4817,7 +4777,7 @@
             "loyalty": "",
             "artist": "David Romero",
             "alias": "",
-            "position": "233",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4825,7 +4785,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Creature \u2014 Elemental Sorcerer",
-            "number": 142,
+            "number": 143,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Flying\nIf a source you control would deal noncombat damage to a permanent or player, it deals that damage divided as you choose among any number of permanents and/or players instead.",
@@ -4837,7 +4797,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "234",
+            "position": "232",
             "notes": "CHANGELOG: No longer targets, now allows dividing damage"
         },
         {
@@ -4845,7 +4805,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Nightmare Spirit",
-            "number": 140,
+            "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Double strike\n{R}, Turn this face-down rumor face up: A creature with this rumor gains double strike until end of turn. [i](This can still be cast later.)[/i]\nRumor {2}{R} [i](As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{R} after the creature is gone.)[/i]",
@@ -4857,7 +4817,7 @@
             "loyalty": "",
             "artist": "David Romero",
             "alias": "",
-            "position": "235",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4877,7 +4837,7 @@
             "loyalty": "",
             "artist": "Maxime Beisser Ren\u00e9",
             "alias": "",
-            "position": "236",
+            "position": "234",
             "notes": "CHANGELOG: 3R -> R, reworked effect"
         },
         {
@@ -4885,7 +4845,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 150,
+            "number": 151,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "All creatures have mutable. [i](They're dealt damage in the form of +1/-1 counters.)[/i]\nCreatures you control have trample.\nWhenever a source you control deals excess noncombat damage to a permanent, Fevered Dreams deals damage equal to the excess to that permanent's controller.",
@@ -4897,7 +4857,7 @@
             "loyalty": "",
             "artist": "Andreas Christanetoff",
             "alias": "",
-            "position": "237",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4917,7 +4877,7 @@
             "loyalty": "",
             "artist": "Ben Mauro",
             "alias": "",
-            "position": "238",
+            "position": "236",
             "notes": "ALTERNATE: 3G 4/5\nIf you own no other nonland permanent cards outside the game, you may cast Dream-Borne Starfarer from outside the game by revealing all cards you own outside the game in addition to paying its other costs.\nVigilance, reach"
         },
         {
@@ -4937,7 +4897,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "239",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4957,7 +4917,7 @@
             "loyalty": "",
             "artist": "Worasak Suwannarach",
             "alias": "",
-            "position": "240",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4977,7 +4937,7 @@
             "loyalty": "",
             "artist": "Serg Souleiman",
             "alias": "",
-            "position": "241",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4997,7 +4957,7 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "position": "242",
+            "position": "240",
             "notes": ""
         },
         {
@@ -5017,7 +4977,7 @@
             "loyalty": "",
             "artist": "Izabella Pudlowska",
             "alias": "",
-            "position": "243",
+            "position": "241",
             "notes": "!tokens Spirit<1>"
         },
         {
@@ -5037,7 +4997,7 @@
             "loyalty": "",
             "artist": "Bo Xun Lin",
             "alias": "",
-            "position": "244",
+            "position": "242",
             "notes": ""
         },
         {
@@ -5057,7 +5017,7 @@
             "loyalty": "",
             "artist": "Luke Oram",
             "alias": "",
-            "position": "245",
+            "position": "243",
             "notes": "CHANGELOG: 7U -> 5U"
         },
         {
@@ -5077,7 +5037,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "246",
+            "position": "244",
             "notes": ""
         },
         {
@@ -5097,28 +5057,8 @@
             "loyalty": "",
             "artist": "Niram S",
             "alias": "",
-            "position": "247",
+            "position": "245",
             "notes": "!tokens Treasure<1>\n\nCHANGELOG: Complete rework"
-        },
-        {
-            "card_name": "Utopian Vision",
-            "color": "U",
-            "rarity": "rare",
-            "type": "Sorcery",
-            "number": 87,
-            "color_identity": "U",
-            "cost": "{4}{U}{U}",
-            "rules_text": "Each player shuffles their hand into their library, then draws seven cards. Untap up to X lands, where X twice is the number of cards shuffled into your library this way.",
-            "flavor_text": "[i]\u201cBringing about the Eschaton isn't just a gift to the future. It's an opportunity to shape it.\u201d\n\u2014Vand, the Breaking Dream[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "NOT",
-            "loyalty": "",
-            "artist": "Steven Craig Hickman",
-            "alias": "",
-            "position": "248",
-            "notes": "CHANGELOG: Complete rework"
         },
         {
             "card_name": "Bleak Vision",
@@ -5137,7 +5077,7 @@
             "loyalty": "",
             "artist": "Emilio Grasso",
             "alias": "",
-            "position": "249",
+            "position": "246",
             "notes": "CHANGELOG: Complete rework\n\nALTERNATE: 3WW\nDestroy all creatures and planeswalkers. Then return a creature or planeswalker card with mana value X or less from your graveyard to the battlefield, where X is the number of permanents you controlled that were destroyed this way.\n\nALTERNATE2: 3WW\nDestroy all creatures and all planeswalkers. You gain 1 life for each permanent you controlled that was destroyed this way.\nRe-add \"We all hoped it wouldn't come to this. But\" to the FT"
         },
         {
@@ -5157,7 +5097,7 @@
             "loyalty": "",
             "artist": "Cameron Gray",
             "alias": "",
-            "position": "250",
+            "position": "247",
             "notes": "CHANGELOG: Complete rework\n\nTODO: Add FT (a quote about the All-Dream, attributed to Mabil Fardancer)\n\nALTERNATE: 3GG\nDestroy all artifacts and enchantments. Create an X/X blue Nightmare Leviathan creature token, where X is twice the number of permanents you controlled that were destroyed this way.\n\nALTERNATE2: 3GG\nExile all cards from all graveyards. Mill X cards, where X is the number of cards exiled from your graveyard this way. Put a permanent card milled this way with mana value X or less onto the battlefield."
         },
         {
@@ -5177,7 +5117,7 @@
             "loyalty": "",
             "artist": "Jonas Jakobsson",
             "alias": "",
-            "position": "251",
+            "position": "248",
             "notes": "CHANGELOG: Complete rework"
         },
         {
@@ -5197,7 +5137,7 @@
             "loyalty": "",
             "artist": "Ashley Wight",
             "alias": "",
-            "position": "252",
+            "position": "249",
             "notes": ""
         },
         {
@@ -5208,16 +5148,16 @@
             "number": 130,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nOnce each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.\nSacrifice two creatures.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nI \u2014 Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.\nII \u2014 Sacrifice two creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nOnce each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.\nSacrifice two creatures.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nI \u2014 Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.\nII \u2014 Sacrifice two creatures.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Kay Tang",
             "alias": "",
-            "position": "253",
+            "position": "250",
             "card_name2": "Demonic Betrayer",
             "color2": "B",
             "type2": "Creature \u2014 Nightmare Demon",
@@ -5232,23 +5172,23 @@
             "notes": "landslot"
         },
         {
-            "card_name": "Glestra's Consecration",
+            "card_name": "Consecrate Flesh",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment \u2014 Rite",
-            "number": 151,
+            "number": 140,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Glestra's Consecration enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.\nPut three +1/-1 counters on a creature you control.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Consecrate Flesh enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.\nI, II \u2014 Put three +1/-1 counters on a creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Glestra's Consecration enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.\nPut three +1/-1 counters on a creature you control.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Consecrate Flesh enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.\nI, II \u2014 Put three +1/-1 counters on a creature you control.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Kaloyan Stoyanov",
             "alias": "",
-            "position": "254",
+            "position": "251",
             "card_name2": "Glestra, Reformed Aspirant",
             "color2": "R",
             "type2": "Legendary Creature \u2014 Human Horror",
@@ -5260,7 +5200,7 @@
             "loyalty2": "",
             "artist2": "Alexey Egorov",
             "alias2": "",
-            "notes": "landslot\n\nCHANGELOG: Reworked back face, renamed front from Consecrate Flesh"
+            "notes": "landslot\n\nCHANGELOG: Reworked back face\n\nALTERNATE: Rename to Glestra's Consecration?"
         },
         {
             "card_name": "Beseech the First Ones",
@@ -5270,16 +5210,16 @@
             "number": 181,
             "color_identity": "WUBRG",
             "cost": "{G}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nWhenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.\nSacrifice any number of creatures with total power exactly 7.\nExile six cards with different mana values from your graveyard.\nPay {W}{U}{B}{R}{G}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nWhenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.\nSacrifice any number of creatures with total power exactly 7.\nI \u2014 Exile six cards with different mana values from your graveyard.\nII \u2014 Pay {W}{U}{B}{R}{G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nWhenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.\nSacrifice any number of creatures with total power exactly 7.\nExile six cards with different mana values from your graveyard.\nPay {W}{U}{B}{R}{G}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nWhenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.\nSacrifice any number of creatures with total power exactly 7.\nI \u2014 Exile six cards with different mana values from your graveyard.\nII \u2014 Pay {W}{U}{B}{R}{G}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Julia Zhuravleva",
             "alias": "",
-            "position": "255",
+            "position": "252",
             "card_name2": "Vestige of Hollow Stars",
             "color2": "G",
             "type2": "Creature \u2014 Elder Faerie Praetor",
@@ -5292,26 +5232,6 @@
             "artist2": "Andreas Christanetoff",
             "alias2": "",
             "notes": "landslot"
-        },
-        {
-            "card_name": "Satu Var, Hexkeeper",
-            "color": "WU",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Satu",
-            "number": 248,
-            "color_identity": "WU",
-            "cost": "{3}{W}{U}",
-            "rules_text": "Flash\nWhen Satu Var enters, exile target spell.\n[+2]: Each player exiles the top card of their library. You gain 2 life.\n[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.\nUntil your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "Flash\nWhen Satu Var enters, exile target spell.\n[+2]: Each player exiles the top card of their library. You gain 2 life.\n[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.\nUntil your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.",
-            "shape": "planeswalker",
-            "set": "NOT",
-            "loyalty": "4",
-            "artist": "Li Ling",
-            "alias": "",
-            "position": "256",
-            "notes": ""
         },
         {
             "card_name": "Stalking Soulmate",
@@ -5330,28 +5250,8 @@
             "loyalty": "",
             "artist": "Philip Hofmanner",
             "alias": "",
-            "position": "257",
+            "position": "253",
             "notes": ""
-        },
-        {
-            "card_name": "Mabil, Dreamscape Delver",
-            "color": "UG",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Mabil",
-            "number": 237,
-            "color_identity": "WUBRG",
-            "cost": "{2}{G}{U}",
-            "rules_text": "[+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.\n[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.\n[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and \u201c{T}: Add {W}{U}{B}{R}{G}.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.\n[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.\n[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and \u201c{T}: Add {W}{U}{B}{R}{G}.\u201d",
-            "shape": "planeswalker",
-            "set": "NOT",
-            "loyalty": "4",
-            "artist": "Marcus Reyno",
-            "alias": "",
-            "position": "258",
-            "notes": "!tokens Heart of the Noosphere<1>\n\nCHANGELOG: SL 3 -> 4, Ult -4 -> -6"
         },
         {
             "card_name": "Occult Fascination",
@@ -5370,7 +5270,7 @@
             "loyalty": "",
             "artist": "Kim Sokol",
             "alias": "",
-            "position": "259",
+            "position": "254",
             "notes": "!tokens Elemental<1>\n\nCHANGELOG: 3R -> 2R, \"Treasure token\" + \"R, Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.\" -> \"X/1 red Elemental creature token with haste, where X is that spell's mana value. Sacrifice that token at the beginning of the next end step.\""
         },
         {
@@ -5390,7 +5290,7 @@
             "loyalty": "",
             "artist": "Leslie Lee",
             "alias": "",
-            "position": "260",
+            "position": "255",
             "notes": "!related Anomalous Escalation<2>;Burn Worldly Ties;Incite Turmoil<2>;Protest Zone;"
         },
         {
@@ -5401,16 +5301,16 @@
             "number": 260,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Fateful Excavation enters and at the beginning of your upkeep, mill a card.\nExile four land cards from your graveyard.\nExile four nonland cards from your graveyard.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Fateful Excavation enters and at the beginning of your upkeep, mill a card.\nI \u2014 Exile four land cards from your graveyard.\nII \u2014 Exile four nonland cards from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Fateful Excavation enters and at the beginning of your upkeep, mill a card.\nExile four land cards from your graveyard.\nExile four nonland cards from your graveyard.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nWhen Fateful Excavation enters and at the beginning of your upkeep, mill a card.\nI \u2014 Exile four land cards from your graveyard.\nII \u2014 Exile four nonland cards from your graveyard.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "position": "261",
+            "position": "256",
             "card_name2": "Stirring Titan",
             "color2": "",
             "type2": "Artifact Creature \u2014 Construct",
@@ -5441,7 +5341,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "position": "262",
+            "position": "257",
             "notes": "CHANGELOG: \"look at the top two cards of your library. Put one of them into your graveyard\" -> \"mill three cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand\"\n\nALTERNATE: \"mill two cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand\" -> \"mill two cards, then put a land card from among the milled cards into your hand\"?\n\nALTERNATE 2: \"mill two cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand\" -> \"mill two cards, then you may discard a card. If you do, put one of the milled cards into your hand. Otherwise, you gain 2 life\"?\n\nALTERNATE 3: \"mill two cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand\" -> \"mill a card. If it's a land card, put it into your hand. Otherwise, you gain 2 life\"?"
         },
         {
@@ -5461,7 +5361,7 @@
             "loyalty": "",
             "artist": "Lee Teng Chew",
             "alias": "",
-            "position": "263",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5481,7 +5381,7 @@
             "loyalty": "",
             "artist": "Alexey Yakovlev",
             "alias": "",
-            "position": "264",
+            "position": "259",
             "notes": ""
         },
         {
@@ -5492,16 +5392,16 @@
             "number": 281,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nThrough Eerie Woods enters tapped.\n{T}: Add {G}.\nPay {2}{G}{G}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nThrough Eerie Woods enters tapped.\n{T}: Add {G}.\nI, II \u2014 Pay {2}{G}{G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nThrough Eerie Woods enters tapped.\n{T}: Add {G}.\nPay {2}{G}{G}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nThrough Eerie Woods enters tapped.\n{T}: Add {G}.\nI, II \u2014 Pay {2}{G}{G}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Rafal Szlapa",
             "alias": "",
-            "position": "265",
+            "position": "260",
             "card_name2": "Name-Shorn Clearing",
             "color2": "G",
             "type2": "Enchantment",
@@ -5523,16 +5423,16 @@
             "number": 278,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nOn Empty Streets enters tapped.\n{T}: Add {W}.\nPay {3}{W}{W}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nOn Empty Streets enters tapped.\n{T}: Add {W}.\nI, II \u2014 Pay {3}{W}{W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nOn Empty Streets enters tapped.\n{T}: Add {W}.\nPay {3}{W}{W}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nOn Empty Streets enters tapped.\n{T}: Add {W}.\nI, II \u2014 Pay {3}{W}{W}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "position": "266",
+            "position": "261",
             "card_name2": "Desolate Reflection",
             "color2": "W",
             "type2": "Enchantment",
@@ -5554,16 +5454,16 @@
             "number": 282,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nUp Cryptic Spires enters tapped.\n{T}: Add {R}.\nPay {2}{R}{R}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nUp Cryptic Spires enters tapped.\n{T}: Add {R}.\nI, II \u2014 Pay {2}{R}{R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nUp Cryptic Spires enters tapped.\n{T}: Add {R}.\nPay {2}{R}{R}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nUp Cryptic Spires enters tapped.\n{T}: Add {R}.\nI, II \u2014 Pay {2}{R}{R}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Michael Vincent Manalo",
             "alias": "",
-            "position": "267",
+            "position": "262",
             "card_name2": "Long Climb to Heaven",
             "color2": "R",
             "type2": "Enchantment",
@@ -5585,16 +5485,16 @@
             "number": 271,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nDown Twisted Corridors enters tapped.\n{T}: Add {B}.\nPay {1}{B}{B}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nDown Twisted Corridors enters tapped.\n{T}: Add {B}.\nI, II \u2014 Pay {1}{B}{B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nDown Twisted Corridors enters tapped.\n{T}: Add {B}.\nPay {1}{B}{B}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nDown Twisted Corridors enters tapped.\n{T}: Add {B}.\nI, II \u2014 Pay {1}{B}{B}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "position": "268",
+            "position": "263",
             "card_name2": "Ever-Worm's Gullet",
             "color2": "B",
             "type2": "Enchantment",
@@ -5625,7 +5525,7 @@
             "loyalty": "",
             "artist": "Anthony Jones",
             "alias": "",
-            "position": "269",
+            "position": "264",
             "notes": "CHANGELOG: 2W -> 1W, Recreate 5W -> 4W, \"When this creature dies, return it to its owner's hand\" -> \"Prevent all damage that would be dealt to this creature.\""
         },
         {
@@ -5636,16 +5536,16 @@
             "number": 280,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nPast Distant Thresholds enters tapped.\n{T}: Add {U}.\nPay {1}{U}{U}.",
+            "rules_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nPast Distant Thresholds enters tapped.\n{T}: Add {U}.\nI, II \u2014 Pay {1}{U}{U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nPast Distant Thresholds enters tapped.\n{T}: Add {U}.\nPay {1}{U}{U}.",
+            "special_text": "[i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]\nHexproof\nPast Distant Thresholds enters tapped.\n{T}: Add {U}.\nI, II \u2014 Pay {1}{U}{U}.",
             "shape": "transform double faced",
             "set": "NOT",
             "loyalty": "",
             "artist": "Manuel Rinaldi",
             "alias": "",
-            "position": "270",
+            "position": "265",
             "card_name2": "Astral Bridge",
             "color2": "U",
             "type2": "Enchantment",
@@ -5676,7 +5576,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "271",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5696,7 +5596,7 @@
             "loyalty": "",
             "artist": "Dan Temirov",
             "alias": "",
-            "position": "272",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5716,7 +5616,7 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "position": "273",
+            "position": "268",
             "notes": "ALTERNATE: 1W 2/2\nLifelink\nWhen CARDNAME dies, you may exile it. When you do, return target nonland permanent card with mana value less than CARDNAME's power from your graveyard to the battlefield.\n\nALTERNATE2: W 1/1\nLifelink\nWhen CARDNAME dies, you may exile it. When you do, return target nonland permanent card with mana value less than or equal to CARDNAME's power from your graveyard to the battlefield."
         },
         {
@@ -5736,7 +5636,7 @@
             "loyalty": "",
             "artist": "Chung Horkit",
             "alias": "",
-            "position": "274",
+            "position": "269",
             "notes": "ALTERNATE: 3/1 -> 2/1"
         },
         {
@@ -5756,7 +5656,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "275",
+            "position": "270",
             "notes": "!tapped\n\nCHANGELOG: Land cycle rework (was Vivid Crag)"
         },
         {
@@ -5776,7 +5676,7 @@
             "loyalty": "",
             "artist": "Rafal Szlapa",
             "alias": "",
-            "position": "276",
+            "position": "271",
             "notes": "!tapped\n\nCHANGELOG: Land cycle rework (was Vivid Creek)"
         },
         {
@@ -5796,7 +5696,7 @@
             "loyalty": "",
             "artist": "Jan Krocak",
             "alias": "",
-            "position": "277",
+            "position": "272",
             "notes": "!tapped\n\nCHANGELOG: Land cycle rework (was Vivid Grove)"
         },
         {
@@ -5816,7 +5716,7 @@
             "loyalty": "",
             "artist": "Rafal Szlapa",
             "alias": "",
-            "position": "278",
+            "position": "273",
             "notes": "!tapped\n\nCHANGELOG: Land cycle rework (was Vivid Marsh)"
         },
         {
@@ -5836,7 +5736,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "279",
+            "position": "274",
             "notes": "!tapped\n\nCHANGELOG: Land cycle rework (was Vivid Meadow)"
         },
         {
@@ -5856,7 +5756,7 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
-            "position": "280",
+            "position": "275",
             "notes": "CHANGELOG: \"Hexproof from spells with no other targets\" -> \"Hexproof from nonsorcery\""
         },
         {
@@ -5864,7 +5764,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 141,
+            "number": 142,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Choose one\u2014\n\u2022 Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.\n\u2022 Destroy target artifact.",
@@ -5876,7 +5776,7 @@
             "loyalty": "",
             "artist": "Wojtek Fus",
             "alias": "",
-            "position": "281",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5896,7 +5796,7 @@
             "loyalty": "",
             "artist": "Leslie Lee",
             "alias": "",
-            "position": "282",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5916,7 +5816,7 @@
             "loyalty": "",
             "artist": "J. R. Coffron",
             "alias": "",
-            "position": "283",
+            "position": "278",
             "notes": "!related Infested Wormlich;"
         },
         {
@@ -5936,7 +5836,7 @@
             "loyalty": "",
             "artist": "Vanessa Olivia",
             "alias": "",
-            "position": "284",
+            "position": "279",
             "notes": "!related Yl-Tesim;"
         },
         {
@@ -5956,7 +5856,7 @@
             "loyalty": "",
             "artist": "Cameron Gray",
             "alias": "",
-            "position": "285",
+            "position": "280",
             "notes": "!related Mabil, Dreamscape Delver;"
         },
         {
@@ -5976,7 +5876,7 @@
             "loyalty": "",
             "artist": "L-E-N-T-E-S-C-U-R-A",
             "alias": "",
-            "position": "286",
+            "position": "281",
             "notes": "!related Lamb of the One;"
         },
         {
@@ -5996,7 +5896,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "287",
+            "position": "282",
             "notes": "!related Occult Fascination;"
         },
         {
@@ -6016,7 +5916,7 @@
             "loyalty": "",
             "artist": "Arno Male",
             "alias": "",
-            "position": "288",
+            "position": "283",
             "notes": ""
         },
         {
@@ -6024,7 +5924,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Creature \u2014 Human Horror",
-            "number": 145,
+            "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever a non-aberrant creature you control becomes aberrant, you may sacrifice it. When you do, that creature deals damage to any target equal to its power or its toughness, whichever is greater. [i](A creature is aberrant if its power and toughness aren't equal.)[/i]",
@@ -6036,7 +5936,7 @@
             "loyalty": "",
             "artist": "Andreas Christanetoff",
             "alias": "",
-            "position": "289",
+            "position": "284",
             "notes": "CHANGELOG: 'epidemic' -> 'carrier', enchantment -> 3/3 creature"
         },
         {
@@ -6056,7 +5956,7 @@
             "loyalty": "",
             "artist": "Sergio Sorroza",
             "alias": "",
-            "position": "290",
+            "position": "285",
             "notes": ""
         },
         {
@@ -6076,7 +5976,7 @@
             "loyalty": "",
             "artist": "Alex Tuis",
             "alias": "",
-            "position": "291",
+            "position": "286",
             "notes": ""
         },
         {
@@ -6096,7 +5996,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "position": "292",
+            "position": "287",
             "notes": ""
         },
         {
@@ -6116,7 +6016,7 @@
             "loyalty": "",
             "artist": "Oleg Kapustin",
             "alias": "",
-            "position": "293",
+            "position": "288",
             "notes": ""
         },
         {
@@ -6136,7 +6036,7 @@
             "loyalty": "",
             "artist": "Orm Irian",
             "alias": "",
-            "position": "294",
+            "position": "289",
             "notes": "!exportname The Oneironaut's Handbook"
         },
         {
@@ -6156,7 +6056,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "position": "295",
+            "position": "290",
             "notes": ""
         },
         {
@@ -6176,7 +6076,7 @@
             "loyalty": "",
             "artist": "Panagiotis Athanasopoulos",
             "alias": "",
-            "position": "296",
+            "position": "291",
             "notes": "!exportname Incantations of the Nomon"
         },
         {
@@ -6196,7 +6096,7 @@
             "loyalty": "",
             "artist": "Yanchong Lim",
             "alias": "",
-            "position": "297",
+            "position": "292",
             "notes": ""
         },
         {
@@ -6204,7 +6104,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Rogue",
-            "number": 147,
+            "number": 148,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Everburning Fugitive can't have toughness less than 1.\nWhenever a creature you control with a counter on it dies, it deals 1 damage to target opponent.",
@@ -6216,7 +6116,7 @@
             "loyalty": "",
             "artist": "CK G\u00f6ksoy",
             "alias": "",
-            "position": "298",
+            "position": "293",
             "notes": ""
         },
         {
@@ -6236,7 +6136,7 @@
             "loyalty": "",
             "artist": "Cameron Gray",
             "alias": "",
-            "position": "299",
+            "position": "294",
             "notes": "!tag wishlist"
         },
         {
@@ -6256,7 +6156,7 @@
             "loyalty": "",
             "artist": "Matvey Radkov",
             "alias": "",
-            "position": "300",
+            "position": "295",
             "notes": "!related Runaway Noosynthesis;"
         },
         {
@@ -6276,7 +6176,7 @@
             "loyalty": "",
             "artist": "Romain d'Escrienne",
             "alias": "",
-            "position": "301",
+            "position": "296",
             "notes": ""
         },
         {
@@ -6296,7 +6196,7 @@
             "loyalty": "",
             "artist": "Gabriela Birchal",
             "alias": "",
-            "position": "302",
+            "position": "297",
             "notes": "CHANGELOG: \"then\" -> \"if this spell was cast from your hand\"\n\nALTERNATE: 2U -> 1U, \"was cast from your hand\" -> \"wasn't cast from a graveyard\", recreate cost 4U -> 5U\n\nALTERNATE 2: 2U -> U, current effect -> \"Draw a card. If this spell was cast from a graveyard, draw two cards instead.\", recreate cost 4U -> 5U"
         },
         {
@@ -6316,7 +6216,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "303",
+            "position": "298",
             "notes": "!related Veil of Ignorance<2>;"
         },
         {
@@ -6336,8 +6236,108 @@
             "loyalty": "",
             "artist": "Alex Andreev",
             "alias": "",
-            "position": "304",
+            "position": "299",
             "notes": "ALTERNATE: Change sacrifice cost to \"you lose 3 life unless you sacrifice a nonland permanent or discard a card\"?"
+        },
+        {
+            "card_name": "Utopian Vision",
+            "color": "U",
+            "rarity": "rare",
+            "type": "Sorcery",
+            "number": 87,
+            "color_identity": "U",
+            "cost": "{4}{U}{U}",
+            "rules_text": "Each player may shuffle their hand into their library, then each player who does draws seven cards. Untap up to X lands, where X is twice the number of cards shuffled into your library this way. Exile Utopian Vision.",
+            "flavor_text": "[i]\u201cBringing about the Eschaton isn't just a gift to the future. It's an opportunity to shape it.\u201d\n\u2014Vand, the Breaking Dream[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NOT",
+            "loyalty": "",
+            "artist": "Steven Craig Hickman",
+            "alias": "",
+            "position": "300",
+            "notes": "CHANGELOG: Complete rework"
+        },
+        {
+            "card_name": "Cadis Yeln, IPC Chair",
+            "color": "WU",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Human Advisor",
+            "number": 225,
+            "color_identity": "WU",
+            "cost": "{2}{W}{U}",
+            "rules_text": "Flash\nWhen Cadis Yeln enters, exile up to one target spell or nonland permanent. Its controller draws a card.\nSpells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type and name.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NOT",
+            "loyalty": "",
+            "artist": "Aldo Dominguez",
+            "alias": "",
+            "position": "301",
+            "notes": "CHANGELOG: Refunds a card instead of banishing, can hit your own permanents, no additional tax for having the same name\n\nALTERNATE: Whenever you cast a spell that targets a creature you control, you may exile target nonland permanent an opponent controls until that creature leaves the battlefield.\nYour opponents can't cast spells with the same name as a card exiled with , [Foundation] Chair.\n\nALTERNATE 2: Whenever you attack, target opponent may have you draw two cards. When they don't, exile target nonland permanent that player controls until target attacking creature leaves the battlefield.\nYour opponents can't cast spells with the same name as a card exiled with , [Foundation] Chair.\n\nALTERNATE 3: 2WU 2/2\nFlash\nWhen Cadis Yeln enters, exile target [spell or?] nonland permanent an opponent controls unless that player has you draw two cards.\nSpells your opponents cast cost 1 more to cast if they share a color with a card in exile. The same is true for card type and name.\n\nALTERNATE 4: 2WU 2/2\nFlash\nWhen Cadis Yeln enters, exile target spell, nonland permanent, or card from a graveyard. Its controller draws a card.\nSpells your opponents cast cost 1 more to cast if they share a color with a card in exile. The same is true for card type."
+        },
+        {
+            "card_name": "Mabil, Dreamscape Delver",
+            "color": "UG",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Mabil",
+            "number": 237,
+            "color_identity": "WUBRG",
+            "cost": "{2}{G}{U}",
+            "rules_text": "[+1]: Mill two cards, then return a land card or a non-Mabil multicolored card from your graveyard to your hand.\n[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.\n[-6]: Create a colorless legendary enchantment land token named Heart of the Noosphere with hexproof and \u201c{T}: Add {W}{U}{B}{R}{G}.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Mill two cards, then return a land card or a non-Mabil multicolored card from your graveyard to your hand.\n[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.\n[-6]: Create a colorless legendary enchantment land token named Heart of the Noosphere with hexproof and \u201c{T}: Add {W}{U}{B}{R}{G}.\u201d",
+            "shape": "planeswalker",
+            "set": "NOT",
+            "loyalty": "4",
+            "artist": "Marcus Reyno",
+            "alias": "",
+            "position": "302",
+            "notes": "!tokens Heart of the Noosphere<1>\n\nCHANGELOG:\nSL 3 -> 4, Ult -4 -> -6\nReturn permanent -> return non-Mabil, token is now an enchantment and enters untapped"
+        },
+        {
+            "card_name": "Satu Var, Hexkeeper",
+            "color": "WU",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Satu",
+            "number": 248,
+            "color_identity": "WU",
+            "cost": "{4}{W}{U}",
+            "rules_text": "Flash\nWhen Satu Var enters, exile target nonland permanent an opponent controls.\n[+2]: Draw two cards, then exile a card from your hand or a nonland permanent you control.\n[-X]: Until your next turn, you may cast nonland cards exiled with Satu Var that have mana value X or less without paying their mana costs.\nUntil your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "Flash\nWhen Satu Var enters, exile target nonland permanent an opponent controls.\n[+2]: Draw two cards, then exile a card from your hand or a nonland permanent you control.\n[-X]: Until your next turn, you may cast nonland cards exiled with Satu Var that have mana value X or less without paying their mana costs.\nUntil your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.",
+            "shape": "planeswalker",
+            "set": "NOT",
+            "loyalty": "5",
+            "artist": "Li Ling",
+            "alias": "",
+            "position": "303",
+            "notes": "CHANGELOG: Complete rework"
+        },
+        {
+            "card_name": "Vand, the Breaking Dream",
+            "color": "UR",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Vand",
+            "number": 254,
+            "color_identity": "UR",
+            "cost": "{2}{U}{R}",
+            "rules_text": "[+1]: Exile the top card of your library. You may play it this turn.\n[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n[-3]: Put two loyalty counters on target creature. It becomes a copy of Vand for as long as it has a loyalty counter on it, except it isn't legendary.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Exile the top card of your library. You may play it this turn.\n[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n[-3]: Put two loyalty counters on target creature. It becomes a copy of Vand for as long as it has a loyalty counter on it, except it isn't legendary.",
+            "shape": "planeswalker",
+            "set": "NOT",
+            "loyalty": "4",
+            "artist": "Pedro Sena",
+            "alias": "",
+            "position": "304",
+            "notes": "CHANGELOG: -3 now makes creatures into nonlegendary copies instead of just granting loyalty abilities\n\nALTERNATE: Revert change, SL 4 -> 5, -1 only hits creatures with lesser mana value , last ability -3 -> -4"
         }
     ]
 }

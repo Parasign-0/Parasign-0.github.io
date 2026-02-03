@@ -5,7 +5,7 @@
 			<name>NOT</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-27</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -360,7 +360,7 @@ Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
 			<name>Failed Prototype</name>
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Whenever Failed Prototype attacks, it deals 1 damage to target creature you control.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/20.png" num="148">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/20.png" num="149">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -710,8 +710,8 @@ Enchanted creature gets +1/+2 and has flying.</text>
 			<name>Rite of the All-Dream</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
-Pay {G}{G}{G}{G}{G}.
-Pay {U}{U}{U}{U}{U}.
+I — Pay {G}{G}{G}{G}{G}.
+II — Pay {U}{U}{U}{U}{U}.
 ---
 (Back): Immemnon</text>
 			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/40_front.png" num="242a">NOT</set>
@@ -754,8 +754,8 @@ If you tap a permanent for mana, it produces twice as much of that mana instead.
 			<name>Rite of the Holy Flesh</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
-Tap two untapped creatures you control with equal power.
-Tap two untapped creatures you control with equal toughness.
+I — Tap two untapped creatures you control with equal power.
+II — Tap two untapped creatures you control with equal toughness.
 ---
 (Back): Yl-Tesim</text>
 			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/41_front.png" num="246a">NOT</set>
@@ -799,8 +799,8 @@ When this permanent transforms into Yl-Tesim, for each creature you control, cre
 			<name>Rite of the Ever-Worm</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
-Tap five untapped creatures you control.
-Sacrifice three creatures.
+I — Tap five untapped creatures you control.
+II — Sacrifice three creatures.
 ---
 (Back): Hafnordrun</text>
 			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/42_front.png" num="245a">NOT</set>
@@ -842,8 +842,8 @@ Whenever a creature you control dies, return target card from your graveyard to 
 			<name>Rite of the Eschaton</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
-Discard your hand.
-Exile ten cards from your graveyard.
+I — Discard your hand.
+II — Exile ten cards from your graveyard.
 ---
 (Back): Atziloteph</text>
 			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/43_front.png" num="244a">NOT</set>
@@ -905,7 +905,7 @@ Recreate {4}{U} (You may cast this from your graveyard for its recreate cost red
 			<name>Display of Talent</name>
 			<text>Display of Talent deals 1 damage to each of up to two target creatures. Those creatures can&apos;t block this turn.
 Recreate {4}{R} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/45.png" num="144">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/45.png" num="145">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1562,7 +1562,7 @@ Rumor {R} (As you attack, you may exile this card from your hand face down under
 			<name>Discordant Mob</name>
 			<text>Double strike
 Discordant Mob attacks each combat if able.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/83.png" num="143">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/83.png" num="144">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1616,7 +1616,7 @@ Rumor {2}{R} (As you attack, you may exile this card from your hand face down un
 			<name>Echo of Wildfire</name>
 			<text>Haste
 Whenever Echo of Wildfire attacks, it deals damage equal to its power to defending player.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/86.png" num="146">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/86.png" num="147">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2018,7 +2018,7 @@ Whenever another creature you control dies, it deals damage equal to its power t
 			<name>Open Your Mind</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Open Your Mind enters, draw two cards.
-Discard a card.
+I, II — Discard a card.
 ---
 (Back): Ego Parasite</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/110_front.png" num="73a">NOT</set>
@@ -2061,7 +2061,7 @@ Whenever Ego Parasite deals combat damage to a player, you may exile two cards f
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
 Tap three untapped creatures you control.
-Sacrifice any number of creatures with total power 3 or greater.
+I, II — Sacrifice any number of creatures with total power 3 or greater.
 ---
 (Back): Transcendent Dreamer</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/111_front.png" num="7a">NOT</set>
@@ -2105,8 +2105,8 @@ Sacrifice any number of creatures with total power 3 or greater.
 			<name>Pay in Blood</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Pay in Blood enters, each opponent sacrifices a creature.
-Sacrifice a creature.
-Exile three creature cards from your graveyard.
+I — Sacrifice a creature.
+II — Exile three creature cards from your graveyard.
 ---
 (Back): Child of the Ashen King</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/112_front.png" num="124a">NOT</set>
@@ -2148,8 +2148,8 @@ At the beginning of each combat, any opponent may sacrifice a creature. If a pla
 			<name>Burn Worldly Ties</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
-Sacrifice two permanents.
-Pay {3}{R}{R}{R}.
+I — Sacrifice two permanents.
+II — Pay {3}{R}{R}{R}.
 ---
 (Back): Pyre-Born Magus</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/113_front.png" num="138a">NOT</set>
@@ -2195,8 +2195,8 @@ Whenever Pyre-Born Magus attacks, you may sacrifice another permanent. If you do
 			<name>Wander in Dream</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among them into your hand.
-Sacrifice a creature.
-Sacrifice an enchantment.
+I — Sacrifice a creature.
+II — Sacrifice an enchantment.
 ---
 (Back): Awakened Egregore</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/114_front.png" num="219a">NOT</set>
@@ -2386,29 +2386,10 @@ Whenever a creature you control with toughness 4 or greater enters, you may have
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Cadis Yeln, IPC Chair</name>
-			<text>Flash
-When Cadis Yeln enters, exile target spell, nonland permanent, or card from a graveyard. Its controller draws a card.
-Spells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/123.png" num="225">NOT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Advisor</type>
-				<maintype>Creature</maintype>
-				<manacost>2WU</manacost>
-				<cmc>4</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Chief Executive J. Irdol III</name>
 			<text>At the beginning of each end step, create a Treasure token for each zone a card was put into your graveyard from this turn. (The zones are library, hand, battlefield, graveyard, stack, exile, and command.)
 {2}, {T}: Draw a card, then discard a card unless you sacrifice another nonland permanent.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/124.png" num="226">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/123.png" num="226">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2427,7 +2408,7 @@ Spells your opponents cast cost {1} more to cast if they share a color with a ca
 			<name>Palo, Speaker for the One</name>
 			<text>Creatures you control have &quot;{T}: Add one mana of any color. Spend this mana only to cast enchantment spells.&quot;
 Whenever an enchantment you control enters, untap target creature you control. It gets +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/125.png" num="239">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/124.png" num="239">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2445,7 +2426,7 @@ Whenever an enchantment you control enters, untap target creature you control. I
 			<name>Unnerving Statue</name>
 			<text>{T}: Add one mana of any color.
 {3}: Unnerving Statue becomes a 5/3 Construct artifact creature with menace until end of turn. Activate only if you control no creatures.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/126.png" num="269">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/125.png" num="269">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,10 +2441,10 @@ Whenever an enchantment you control enters, untap target creature you control. I
 			<name>Rite of the Ashen King</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
-Exile five creature cards from a single graveyard.
+I, II — Exile five creature cards from a single graveyard.
 ---
 (Back): Czendramahlix</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/127_front.png" num="243a">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/126_front.png" num="243a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2485,7 +2466,7 @@ When this permanent transforms into Czendramahlix, create ten 0/1 black Thrull c
 You may cast cards exiled with this permanent by sacrificing a creature in addition to paying their other costs.
 ---
 (Front): Rite of the Ashen King</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/127_back.png" num="243b">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/126_back.png" num="243b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2505,7 +2486,7 @@ You may cast cards exiled with this permanent by sacrificing a creature in addit
 			<name>Virulent Brainseeker</name>
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Whenever Virulent Brainseeker attacks, target creature defending player controls blocks it this combat if able. You may have that creature gain first strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/128.png" num="176">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/127.png" num="176">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2524,7 +2505,7 @@ Whenever Virulent Brainseeker attacks, target creature defending player controls
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Maw of Hafnordrun must be blocked if able and can&apos;t be blocked by more than one creature.
 Rumor {4}{G} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {4}{G} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/129.png" num="206">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/128.png" num="206">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2542,7 +2523,7 @@ Rumor {4}{G} (As you attack, you may exile this card from your hand face down un
 			<name>Gelatinous Birth</name>
 			<text>Create an X/X green Ooze Shapeshifter creature token with trample and mutable. (It&apos;s dealt damage in the form of +1/-1 counters.)
 Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/130.png" num="197">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/129.png" num="197">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2559,7 +2540,7 @@ Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate co
 		<card>
 			<name>Escaped Subject</name>
 			<text>When Escaped Subject dies, draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/131.png" num="64">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/130.png" num="64">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2576,7 +2557,7 @@ Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate co
 		<card>
 			<name>Absent Twins</name>
 			<text>When Absent Twins enters or dies, you gain 1 life and mill two cards.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/132.png" num="90">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/131.png" num="90">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2593,7 +2574,7 @@ Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate co
 		<card>
 			<name>Feral Monstrosity</name>
 			<text>Whenever an aberrant creature you control becomes blocked, defending player loses 1 life. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/133.png" num="105">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/132.png" num="105">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2610,7 +2591,7 @@ Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate co
 		<card>
 			<name>Novice Aspirant</name>
 			<text>When Novice Aspirant enters, put a +1/-1 counter on target creature.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/134.png" num="122">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/133.png" num="122">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2628,7 +2609,7 @@ Recreate {X}{G}{G}{G} (You may cast this from your graveyard for its recreate co
 			<name>Implacable Revenant</name>
 			<text>{1}{R}: Implacable Revenant gets +3/+0 until end of turn. Activate only once each turn.
 When Implacable Revenant dies, it deals damage equal to its power to target opponent.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/135.png" num="154">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/134.png" num="154">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2646,7 +2627,7 @@ When Implacable Revenant dies, it deals damage equal to its power to target oppo
 			<name>Hunted Aspirant</name>
 			<text>Menace
 When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier creature token.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/136.png" num="152">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/135.png" num="152">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2665,7 +2646,7 @@ When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier c
 			<name>Hunted Monstrosity</name>
 			<text>When Hunted Monstrosity enters, target opponent creates a 1/1 white Human Soldier creature token.
 {1}{G}: Hunted Monstrosity can&apos;t be blocked by creatures with power 2 or less this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/137.png" num="201">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/136.png" num="201">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2684,7 +2665,7 @@ When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier c
 			<name>Prophetic Prism</name>
 			<text>When Prophetic Prism enters, draw a card.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/138.png" num="263">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/137.png" num="263">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2699,7 +2680,7 @@ When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier c
 			<name>Wistful Notary</name>
 			<text>{1}, {T}: Add one mana of any color.
 {1}, {T}: Surveil 1.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/139.png" num="1">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/138.png" num="1">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2715,7 +2696,7 @@ When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier c
 			<name>Impossible Abduction</name>
 			<text>Exile target nonland permanent, then return it to the battlefield under its owner&apos;s control unless this spell was rumored.
 Rumor {3}{W} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {3}{W} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/140.png" num="23">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/139.png" num="23">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2732,7 +2713,7 @@ Rumor {3}{W} (As you attack, you may exile this card from your hand face down un
 			<name>Power Fantasy</name>
 			<text>Untap target creature. It gets +1/+0 and gains double strike, hexproof, and lifelink until end of turn. Prevent all damage that would be dealt to it this turn.
 Rumor {2}{W} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{W} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/141.png" num="30">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/140.png" num="30">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2748,7 +2729,7 @@ Rumor {2}{W} (As you attack, you may exile this card from your hand face down un
 		<card>
 			<name>Evangel of Unity</name>
 			<text>Tap two untapped creatures you control: Target creature gets +1/+0 and gains lifelink until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/142.png" num="15">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/141.png" num="15">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2766,7 +2747,7 @@ Rumor {2}{W} (As you attack, you may exile this card from your hand face down un
 			<name>Rescue from the Brink</name>
 			<text>Return a nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
 Recreate {3}{W} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/143.png" num="33">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/142.png" num="33">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2784,7 +2765,7 @@ Recreate {3}{W} (You may cast this from your graveyard for its recreate cost red
 			<text>Enchant creature
 Enchanted creature has mutable. (It&apos;s dealt damage in the form of +1/-1 counters.)
 Prevent all combat damage that would be dealt by enchanted creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/144.png" num="9">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/143.png" num="9">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2800,7 +2781,7 @@ Prevent all combat damage that would be dealt by enchanted creature.</text>
 		<card>
 			<name>Human Soldier NOT</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/145.png" num="4">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/144.png" num="4">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2823,7 +2804,7 @@ Prevent all combat damage that would be dealt by enchanted creature.</text>
 		<card>
 			<name>Spirit Warlock NOT</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/146.png" num="9">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/145.png" num="9">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2842,7 +2823,7 @@ Prevent all combat damage that would be dealt by enchanted creature.</text>
 		<card>
 			<name>Human Cleric NOT</name>
 			<text>Lifelink</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/147.png" num="3">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/146.png" num="3">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2862,7 +2843,7 @@ Prevent all combat damage that would be dealt by enchanted creature.</text>
 		<card>
 			<name>Nightmare Wurm NOT</name>
 			<text>Ward {2}</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/148.png" num="13">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/147.png" num="13">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2863,7 @@ Prevent all combat damage that would be dealt by enchanted creature.</text>
 			<name>Ooze Shapeshifter NOT</name>
 			<text>Trample
 Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/149.png" num="14">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/148.png" num="14">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2902,7 +2883,7 @@ Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
 			<name>Crossroads Incursion</name>
 			<text>Create a tapped 3/2 black Nightmare creature token. If this spell was rumored, create four of those tokens instead.
 Rumor {7}{G} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {7}{G} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/150.png" num="186">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/149.png" num="186">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2920,7 +2901,7 @@ Rumor {7}{G} (As you attack, you may exile this card from your hand face down un
 			<name>Prized Subject</name>
 			<text>When Prized Subject enters or dies, draw a card, then discard a card.
 Prized Subject is sacrificed to pay recreate costs as though its power were 3 greater.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/151.png" num="75">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/150.png" num="75">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2938,7 +2919,7 @@ Prized Subject is sacrificed to pay recreate costs as though its power were 3 gr
 			<name>Deepspawn Siren</name>
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/152.png" num="61">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/151.png" num="61">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2937,7 @@ Each opponent must attack you or a planeswalker you control with at least one cr
 			<name>ASPIRE Sponsor</name>
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 When ASPIRE Sponsor dies, you may put its +1/-1 counters on target creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/153.png" num="92">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/152.png" num="92">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2974,7 +2955,7 @@ When ASPIRE Sponsor dies, you may put its +1/-1 counters on target creature.</te
 			<name>Imperfect Revival</name>
 			<text>Return a creature card from your graveyard to the battlefield with an additional +1/-1 counter on it.
 Recreate {8}{B} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/154.png" num="110">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/153.png" num="110">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2992,7 +2973,7 @@ Recreate {8}{B} (You may cast this from your graveyard for its recreate cost red
 			<text>At the beginning of combat on your turn, choose one—
 • Exile target card from a graveyard.
 • Up to two target creatures each get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/155.png" num="35">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/154.png" num="35">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3009,7 +2990,7 @@ Recreate {8}{B} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Sin-Chained Souls</name>
 			<text>Whenever an enchantment you control enters, return Sin-Chained Souls from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/156.png" num="37">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/155.png" num="37">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3027,7 +3008,7 @@ Recreate {8}{B} (You may cast this from your graveyard for its recreate cost red
 			<name>Self-Taught Exorcist</name>
 			<text>As Self-Taught Exorcist enters, choose a card name.
 Spells your opponents cast with the chosen name cost {2} more to cast.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/157.png" num="36">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/156.png" num="36">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3045,7 +3026,7 @@ Spells your opponents cast with the chosen name cost {2} more to cast.</text>
 			<name>Notion of Judgment</name>
 			<text>You may pay {2}{W} and reveal this card as you draw it. When you do, destroy target tapped creature.
 Flying, vigilance</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/158.png" num="28">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/157.png" num="28">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3063,7 +3044,7 @@ Flying, vigilance</text>
 			<name>Austere Dreamer</name>
 			<text>You may choose not to untap Austere Dreamer during your untap step.
 {1}{W}, {T}: Exile another target creature for as long as Austere Dreamer remains tapped. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/159.png" num="2">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/158.png" num="2">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3081,7 +3062,7 @@ Flying, vigilance</text>
 			<name>Veil of Ignorance</name>
 			<text>When Veil of Ignorance enters, create two 1/1 colorless Human Citizen creature tokens.
 Non-aberrant creatures you control have ward {1} and can&apos;t be blocked by aberrant creatures. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/160.png" num="43">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/159.png" num="43">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3103,7 +3084,7 @@ Non-aberrant creatures you control have ward {1} and can&apos;t be blocked by ab
 • Enchantment—3/4 Nightmare Angel with flying.
 • Land—4/3 Human Horror with lifelink.
 • Planeswalker—5/4 Demigod with indestructible.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/161.png" num="111">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/160.png" num="111">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3121,10 +3102,10 @@ Non-aberrant creatures you control have ward {1} and can&apos;t be blocked by ab
 			<name>Pray for Unity</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
-Tap six untapped creatures you control.
+I, II — Tap six untapped creatures you control.
 ---
 (Back): Revelation of the One</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/162_front.png" num="31a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/161_front.png" num="31a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3146,7 +3127,7 @@ Ward—Tap two untapped creatures you control.
 Revelation of the One&apos;s power and toughness are each equal to the number of creatures you control plus the number of enchantments you control.
 ---
 (Front): Pray for Unity</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/162_back.png" num="31b">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/161_back.png" num="31b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3166,7 +3147,7 @@ Revelation of the One&apos;s power and toughness are each equal to the number of
 			<name>Shackle the Wind</name>
 			<text>Create a 2/1 blue Elemental Spirit creature token with flying. If you&apos;ve cast another noncreature spell this turn, draw a card.
 Recreate {3}{U} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/163.png" num="79">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/162.png" num="79">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3184,7 +3165,7 @@ Recreate {3}{U} (You may cast this from your graveyard for its recreate cost red
 			<name>Ingredient Smuggler</name>
 			<text>During your turn, Ingredient Smuggler has lifelink.
 When Ingredient Smuggler dies, create a number of Treasure tokens equal to its power.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/164.png" num="112">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/163.png" num="112">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3202,7 +3183,7 @@ When Ingredient Smuggler dies, create a number of Treasure tokens equal to its p
 			<name>Favored Aspirant</name>
 			<text>First strike
 Whenever Favored Aspirant attacks, if it&apos;s aberrant, it gains double strike until end of turn. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/165.png" num="149">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/164.png" num="150">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3220,7 +3201,7 @@ Whenever Favored Aspirant attacks, if it&apos;s aberrant, it gains double strike
 			<name>Ancient Dreamweaver</name>
 			<text>Vigilance, reach
 At the beginning of each combat, aberrant creatures you control gain vigilance and reach until end of turn. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/166.png" num="179">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/165.png" num="179">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3238,7 +3219,7 @@ At the beginning of each combat, aberrant creatures you control gain vigilance a
 			<name>Torpor Mage</name>
 			<text>Vigilance
 Whenever a non-aberrant creature becomes tapped, put a stun counter on it. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/167.png" num="85">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/166.png" num="85">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3256,7 +3237,7 @@ Whenever a non-aberrant creature becomes tapped, put a stun counter on it. (A cr
 			<name>Oneiric Scrutiny</name>
 			<text>Draw three cards, then discard two cards unless this spell was rumored.
 Rumor {3}{U} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {3}{U} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/168.png" num="72">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/167.png" num="72">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3273,7 +3254,7 @@ Rumor {3}{U} (As you attack, you may exile this card from your hand face down un
 			<name>Arcane Resonation</name>
 			<text>When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 Rumor {U} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {U} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/169.png" num="50">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/168.png" num="50">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3290,7 +3271,7 @@ Rumor {U} (As you attack, you may exile this card from your hand face down under
 			<name>Malignosis Outbreak</name>
 			<text>Put two +1/-1 counters on target creature. If this spell was rumored, put two +1/-1 counters on up to one other target creature.
 Rumor {2}{B} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{B} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/170.png" num="114">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/169.png" num="114">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3307,7 +3288,7 @@ Rumor {2}{B} (As you attack, you may exile this card from your hand face down un
 			<name>Refulgent Bolt</name>
 			<text>Refulgent Bolt deals 5 damage to target creature or planeswalker. If this spell was rumored, it also deals 5 damage to that permanent&apos;s controller.
 Rumor {4}{R} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {4}{R} after the creature is gone.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/171.png" num="165">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/170.png" num="165">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3324,7 +3305,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 			<name>Contemplative Dreamer</name>
 			<text>You may choose not to untap Contemplative Dreamer during your untap step.
 {3}{U}, {T}: Exile the top two cards of your library. You may play those cards for as long as Contemplative Dreamer remains tapped. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/172.png" num="58">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/171.png" num="58">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3341,7 +3322,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 		<card>
 			<name>Reforge Occult Ties</name>
 			<text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/173.png" num="129">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/172.png" num="129">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3358,7 +3339,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 			<name>Fanciful Dreamer</name>
 			<text>You may choose not to untap Fanciful Dreamer during your untap step.
 {2}{G}, {T}: Target creature or land you control becomes a 5/4 Nightmare creature with haste in addition to its other types for as long as Fanciful Dreamer remains tapped. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/174.png" num="194">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/173.png" num="194">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3375,7 +3356,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 		<card>
 			<name>Invasive Paradigm</name>
 			<text>At the beginning of combat on your turn, you may discard a card. If you do, target creature gets +1/+0 until end of turn and you draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/175.png" num="157">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/174.png" num="157">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3392,7 +3373,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 		<card>
 			<name>Agents of the Eschaton</name>
 			<text>Each creature you control with rumor or a rumor gets +1/+0 and has &quot;{1}: Untap this creature.&quot;</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/176.png" num="48">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/175.png" num="48">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3411,7 +3392,7 @@ Rumor {4}{R} (As you attack, you may exile this card from your hand face down un
 			<text>Whenever equipped creature attacks, put a +1/-1 counter on it.
 When equipped creature dies, if it attacked this turn, draw two cards.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/177.png" num="262">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/176.png" num="262">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3426,7 +3407,7 @@ Equip {3}</text>
 			<name>Well of Corruption</name>
 			<text>Once each turn, when you put a +1/-1 counter on a creature you control, you may put a +1/-1 counter on Well of Corruption.
 {B}, {T}: Move all +1/-1 counters from Well of Corruption onto target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/178.png" num="133">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/177.png" num="133">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3443,7 +3424,7 @@ Equip {3}</text>
 			<name>The Archivist</name>
 			<text>Whenever another nontoken creature you control with a rumor leaves the battlefield, create a token that&apos;s a copy of that creature.
 Whenever you cast a spell, if it was rumored, draw a card. If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you may instead copy that spell. You may choose new targets for the copy.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/179.png" num="51">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/178.png" num="51">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3462,10 +3443,10 @@ Whenever you cast a spell, if it was rumored, draw a card. If you&apos;ve spent 
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
 Exile an artifact card and an enchantment card from your graveyard.
-Exile an instant card and a sorcery card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard.
 ---
 (Back): Pansophic Sage</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/180_front.png" num="78a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/179_front.png" num="78a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3485,7 +3466,7 @@ Exile an instant card and a sorcery card from your graveyard.
 You may exile instant and sorcery spells as they resolve if you cast them from your hand.
 ---
 (Front): Seek the Archive</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/180_back.png" num="78b">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/179_back.png" num="78b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3504,7 +3485,7 @@ You may exile instant and sorcery spells as they resolve if you cast them from y
 			<name>Consecrated Bus</name>
 			<text>Whenever a creature you control with toughness 4 or greater enters, you may have Consecrated Bus become an artifact creature until end of turn.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/181.png" num="258">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/180.png" num="258">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3519,7 +3500,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 		<card>
 			<name>Dangerous Idea</name>
 			<text>Surveil 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/182.png" num="97">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/181.png" num="97">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3536,7 +3517,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<name>Peter Welles, Reawakened</name>
 			<text>When Peter Welles enters and at the beginning of your upkeep, look at the top card of your library. You may pay 2 life. If you do, draw a card. Otherwise, mill a card.
 {U}{R}: Until end of turn, you may cast instant and sorcery spells from your graveyard. If a spell cast this way would be put into a graveyard, exile that card instead. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/183.png" num="125">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/182.png" num="125">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3553,7 +3534,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 		<card>
 			<name>Elemental Spirit NOT</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/184.png" num="6">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/183.png" num="6">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3575,7 +3556,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 • Safety—Non-aberrant creatures you control have ward {2} and can&apos;t be blocked by aberrant creatures. (A creature is aberrant if its power and toughness aren&apos;t equal.)
 • Control—Non-Human spells cost {1} more to cast.
 • Preservation—Flying, vigilance, protection from Nightmares</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/185.png" num="235">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/184.png" num="235">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3594,7 +3575,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<text>Look at the top three cards of your library. When you do, choose one—
 • Discard your hand, then draw three cards.
 • Exile the top three cards of your library. You may play those cards this turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/186.png" num="153">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/185.png" num="153">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3610,7 +3591,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 		<card>
 			<name>Delve the Noosphere</name>
 			<text>Mill four cards, then choose up to two permanent cards in your graveyard. Put all land cards chosen this way onto the battlefield tapped and the rest into your hand.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/187.png" num="188">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/186.png" num="188">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3628,7 +3609,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<text>Whenever you sacrifice another permanent, choose one—
 • You draw a card and lose 2 life.
 • Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/188.png" num="123">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/187.png" num="123">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3646,7 +3627,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<name>Infested Wormlich</name>
 			<text>At the beginning of combat on your turn, you may sacrifice another creature. If you do, creatures you control get +1/+0 and gain deathtouch until end of turn.
 Whenever an aberrant creature you control attacks, create a 1/1 black and green Insect creature token with flying. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/189.png" num="234">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/188.png" num="234">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3667,7 +3648,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 • Orthodox—Unanimist Zeitgeist gets +1/+1 for each other creature you control and has trample.
 • Reformist—Other creatures you control get +1/+1.
 • Evangelist—Whenever you cast a creature spell, create a 1/1 white Human Cleric creature token with lifelink.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/190.png" num="253">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/189.png" num="253">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3688,7 +3669,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 • Research—{T}: Draw two cards, then discard two cards unless you discard a Nightmare card.
 • Production—{T}, Pay 2 life: Add {C}{C}.
 • Marketing—{T}, Exile X cards from your graveyard: Exchange control of two target creatures with mana value X or less. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/191.png" num="236">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/190.png" num="236">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3708,7 +3689,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 • Anarchy—{0}: Add one mana of any color. Activate only once each turn.
 • Progress—Whenever you attack, exile the top card of your library. You may play that card this turn.
 • Socialism—You may play an additional land on each of your turns.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/192.png" num="228">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/191.png" num="228">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3728,7 +3709,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 • Recruitment—Each other creature you control enters with an additional +1/-1 counter on it and creatures you control have haste.
 • Instruction—Whenever you attack, put a +1/-1 counter on up to one target creature.
 • Retention—Attacking creatures you control have first strike.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/193.png" num="224">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/192.png" num="224">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3747,7 +3728,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 			<text>[+1]: Put a +1/-1 counter on target creature.
 [+1]: Until end of turn, aberrant creatures you control gain &quot;When this creature dies, return it to the battlefield under your control.&quot; (A creature is aberrant if its power and toughness aren&apos;t equal.)
 [-6]: Sacrifice any number of creatures. Each opponent loses X life and you gain X life, where X is the total power of those creatures.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/194.png" num="255">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/193.png" num="255">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3765,7 +3746,7 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
 			<name>Bound Distortion</name>
 			<text>Enchant opponent
 At the beginning of your end step, if the number of spells you&apos;ve cast this turn is equal to the number of spells enchanted player cast during their last turn, draw a card. Otherwise, sacrifice Bound Distortion and discard your hand.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/195.png" num="54">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/194.png" num="54">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3781,7 +3762,7 @@ At the beginning of your end step, if the number of spells you&apos;ve cast this
 		<card>
 			<name>Black Circle Summoner</name>
 			<text>At the beginning of your end step and when Black Circle Summoner dies, you may exile a Nightmare card from your hand or graveyard. When you do, you may cast a copy of that card. That copy costs {X} less to cast, where X is the total power among non-Nightmare creatures that died under your control this turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/196.png" num="93">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/195.png" num="93">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3799,7 +3780,7 @@ At the beginning of your end step, if the number of spells you&apos;ve cast this
 			<name>Sign of Discontent</name>
 			<text>Sign of Discontent deals 2 damage to target player. Then if that player has more life than you or this spell was rumored, return Sign of Discontent to its owner&apos;s hand.
 Rumor {R} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {R} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/197.png" num="167">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/196.png" num="167">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3816,7 +3797,7 @@ Rumor {R} (As you attack, you may exile this card from your hand face down under
 			<name>Lamb of the One</name>
 			<text>When Lamb of the One dies, create a colorless enchantment token named Crisis of Faith with &quot;{2}, Sacrifice this enchantment: Surveil 1. You gain 1 life.&quot;
 Whenever an enchantment is put into your graveyard from the battlefield, return Lamb of the One from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/198.png" num="25">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/197.png" num="25">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3834,7 +3815,7 @@ Whenever an enchantment is put into your graveyard from the battlefield, return 
 		<card>
 			<name>Task Force Armorer</name>
 			<text>Whenever you attack, you may put a +1/-1 counter on target attacking creature. If a non-aberrant creature becomes aberrant this way, it gains indestructible until end of turn and you draw a card. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/199.png" num="40">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/198.png" num="40">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3849,30 +3830,11 @@ Whenever an enchantment is put into your graveyard from the battlefield, return 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Vand, the Breaking Dream</name>
-			<text>[+1]: Exile the top card of your library. You may play it this turn.
-[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
-[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/200.png" num="254">NOT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Planeswalker — Vand</type>
-				<maintype>Planeswalker</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Bestower of Fate</name>
 			<text>Flying, vigilance
 {W}, Turn this face-down rumor face up: Destroy all creatures blocking or blocked by a creature with this rumor. (This can still be cast later.)
 Rumor {2}{W} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{W} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/201.png" num="4">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/199.png" num="4">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3891,7 +3853,7 @@ Rumor {2}{W} (As you attack, you may exile this card from your hand face down un
 			<text>Trample, haste
 Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Whenever Catastrophic Mistake attacks, you may have it fight another target creature. Excess damage to that creature is dealt to that creature&apos;s controller instead.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/202.png" num="139">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/200.png" num="139">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3907,9 +3869,9 @@ Whenever Catastrophic Mistake attacks, you may have it fight another target crea
 		</card>
 		<card>
 			<name>Fears Made Manifest</name>
-			<text>As an additional cost to cast Fears Made Manifest, you may reveal a Nightmare card from your hand.
+			<text>As an additional cost to cast this spell, you may reveal a Nightmare card from your hand.
 Fears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/203.png" num="195">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/201.png" num="195">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3926,7 +3888,7 @@ Fears Made Manifest deals X damage to target creature or planeswalker, where X i
 			<name>Notion of Malice</name>
 			<text>You may pay {1}{B} and reveal this card as you draw it. When you do, each player sacrifices a creature.
 Deathtouch, menace</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/204.png" num="121">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/202.png" num="121">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3944,7 +3906,7 @@ Deathtouch, menace</text>
 			<name>Psychic Trepanation</name>
 			<text>Choose a nonland card name. Target player reveals their hand. That player discards a card with that name. If they can&apos;t, you draw a card.
 Recreate {3}{B} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/205.png" num="127">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/203.png" num="127">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3961,7 +3923,7 @@ Recreate {3}{B} (You may cast this from your graveyard for its recreate cost red
 			<name>Memory of Ages Lost</name>
 			<text>Indestructible, menace, lifelink
 Memory of Ages Lost can&apos;t attack or block unless it was the target of a spell or ability this turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/206.png" num="116">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/204.png" num="116">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3979,7 +3941,7 @@ Memory of Ages Lost can&apos;t attack or block unless it was the target of a spe
 			<name>Notion of Doubt</name>
 			<text>You may pay {1}{U} and reveal this card as you draw it. When you do, return target nonland permanent to its owner&apos;s hand.
 Ward—Discard a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/207.png" num="71">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/205.png" num="71">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +3959,7 @@ Ward—Discard a card.</text>
 			<name>Notion of Craving</name>
 			<text>You may pay {2}{R} and reveal this card as you draw it. When you do, target creature you control fights another target creature.
 Haste</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/208.png" num="159">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/206.png" num="159">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4015,7 +3977,7 @@ Haste</text>
 			<name>Notion of Atavism</name>
 			<text>You may pay {2}{G} and reveal this card as you draw it. When you do, destroy target artifact or enchantment.
 Trample</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/209.png" num="208">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/207.png" num="208">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4033,7 +3995,7 @@ Trample</text>
 			<name>State of Paranoia</name>
 			<text>Spells you cast cost {1} less to cast as long as they have mana value 5 or greater or it&apos;s not your turn.
 {4}{U}, Sacrifice State of Paranoia: Return target nonland permanent to its owner&apos;s hand. Draw a card. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/210.png" num="83">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/208.png" num="83">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4049,7 +4011,7 @@ Trample</text>
 		<card>
 			<name>Dazzling Reverie</name>
 			<text>Mill X cards, then counter target spell unless its controller pays {1} for each card you own in exile and in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/211.png" num="60">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/209.png" num="60">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4065,7 +4027,7 @@ Trample</text>
 		<card>
 			<name>Feedlot Abomination</name>
 			<text>Whenever Feedlot Abomination or another aberrant creature you control dies, if it attacked this turn, draw a card. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/212.png" num="104">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/210.png" num="104">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4083,7 +4045,7 @@ Trample</text>
 			<name>Incite Turmoil</name>
 			<text>Create two 1/1 red Human Rogue creature tokens. Until end of turn, creatures you control get +1/+0 and gain haste.
 Recreate {7}{R} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/213.png" num="155">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/211.png" num="155">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4101,7 +4063,7 @@ Recreate {7}{R} (You may cast this from your graveyard for its recreate cost red
 			<name>Protest Zone</name>
 			<text>Whenever Protest Zone enters or a creature you control with power 4 or greater dies, create a 1/1 red Human Rogue creature token.
 Whenever a creature you control deals combat damage to a player, you may sacrifice Protest Zone. When you do, destroy target artifact or enchantment that player controls.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/214.png" num="214">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/212.png" num="214">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4119,7 +4081,7 @@ Whenever a creature you control deals combat damage to a player, you may sacrifi
 			<name>Might Channeler</name>
 			<text>{T}: Add {G}.
 Whenever a creature you control with toughness 4 or greater enters, untap Might Channeler. It gets +2/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/215.png" num="207">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/213.png" num="207">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4135,8 +4097,8 @@ Whenever a creature you control with toughness 4 or greater enters, untap Might 
 		</card>
 		<card>
 			<name>Anointed Consecrator</name>
-			<text>Whenever Anointed Consecrator attacks, create a tapped and attacking token that&apos;s a copy of it. The token gains &quot;At the beginning of the end step, exile this creature&quot; unless Anointed Consecrator is aberrant. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/216.png" num="223">NOT</set>
+			<text>Whenever Anointed Consecrator attacks, create a tapped and attacking token that&apos;s a copy of it. The token gains &quot;At the beginning of the end step, sacrifice this creature&quot; unless Anointed Consecrator is aberrant. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/214.png" num="223">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4155,7 +4117,7 @@ Whenever a creature you control with toughness 4 or greater enters, untap Might 
 			<text>Indestructible
 Whenever Immortal Heir deals combat damage to a player, create a 0/1 black Thrull creature token.
 At the beginning of your end step, sacrifice a creature. If you do, you gain 1 life and draw a card.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/217.png" num="233">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/215.png" num="233">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4173,7 +4135,7 @@ At the beginning of your end step, sacrifice a creature. If you do, you gain 1 l
 		<card>
 			<name>Trace of the All-Dream</name>
 			<text>You may have Trace of the All-Dream enter as a copy of any permanent on the battlefield, except it has &quot;You may have nontoken permanents you control enter as a copy of this permanent.&quot;</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/218.png" num="250">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/216.png" num="250">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4191,7 +4153,7 @@ At the beginning of your end step, sacrifice a creature. If you do, you gain 1 l
 			<name>Worldtongue Heretic</name>
 			<text>All instances of &quot;enchant creature&quot; in the text of Aura spells you control are changed to &quot;enchant permanent.&quot;
 Whenever you cast an Aura spell that targets a noncreature permanent, that permanent becomes a 4/4 creature in addition to its other types.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/219.png" num="221">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/217.png" num="221">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4209,7 +4171,7 @@ Whenever you cast an Aura spell that targets a noncreature permanent, that perma
 			<name>Veilguard Elite</name>
 			<text>Your opponents can&apos;t cast spells from anywhere other than their hand.
 If a nonland, nontoken permanent would enter under an opponent&apos;s control and it wasn&apos;t cast, exile it instead.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/220.png" num="44">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/218.png" num="44">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4226,7 +4188,7 @@ If a nonland, nontoken permanent would enter under an opponent&apos;s control an
 		<card>
 			<name>Expunge from Records</name>
 			<text>Exile target nonland permanent. Search its controller&apos;s graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card plus an additional card for each card exiled from their hand this way.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/221.png" num="16">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/219.png" num="16">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4242,7 +4204,7 @@ If a nonland, nontoken permanent would enter under an opponent&apos;s control an
 		<card>
 			<name>Sanction</name>
 			<text>Your opponents can&apos;t cast spells or attack this turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/222.png" num="34">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/220.png" num="34">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4259,7 +4221,7 @@ If a nonland, nontoken permanent would enter under an opponent&apos;s control an
 			<name>Facility Expansion</name>
 			<text>When Facility Expansion enters, exile target nonland permanent an opponent controls until Facility Expansion leaves the battlefield.
 Whenever a card is put into exile during your turn, create a 1/1 white Human Soldier creature token. If you don&apos;t own that card, create two of those tokens instead.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/223.png" num="17">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/221.png" num="17">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4277,7 +4239,7 @@ Whenever a card is put into exile during your turn, create a 1/1 white Human Sol
 			<name>Enhanced Enforcer</name>
 			<text>Whenever Enhanced Enforcer attacks or blocks, if it&apos;s aberrant, it gains indestructible until end of turn. (A creature is aberrant if its power and toughness aren&apos;t equal.)
 Whenever an aberrant creature deals combat damage, destroy it.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/224.png" num="14">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/222.png" num="14">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4295,7 +4257,7 @@ Whenever an aberrant creature deals combat damage, destroy it.</text>
 			<name>Missing Piece</name>
 			<text>Surveil 1, then draw a card. Then if an opponent has more cards in hand than you or this spell was rumored, return Missing Piece to its owner&apos;s hand.
 Rumor {1}{U} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {1}{U} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/225.png" num="70">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/223.png" num="70">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4313,7 +4275,7 @@ Rumor {1}{U} (As you attack, you may exile this card from your hand face down un
 			<text>Flying, hexproof
 Whenever Escaping Omnipath enters or a player casts a spell, tap Escaping Omnipath and put a stun counter on it.
 {X}{U}, Remove X stun counters from Escaping Omnipath: Untap it. It gets +X/+X until end of turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/226.png" num="65">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/224.png" num="65">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4332,7 +4294,7 @@ Whenever Escaping Omnipath enters or a player casts a spell, tap Escaping Omnipa
 			<name>Augmented Researcher</name>
 			<text>Whenever you draw a card, put a +1/-1 counter on Augmented Researcher.
 {T}, Remove X +1/-1 counters from Augmented Researcher: Spells you cast this turn cost {X} less to cast.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/227.png" num="53">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/225.png" num="53">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4350,7 +4312,7 @@ Whenever Escaping Omnipath enters or a player casts a spell, tap Escaping Omnipa
 			<name>Aeon of Purpose</name>
 			<text>Whenever you cast this spell or Aeon of Purpose attacks, you may cast a spell not named Aeon of Purpose from your hand without paying its mana cost.
 Ward—{2}, Discard two cards.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/228.png" num="47">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/226.png" num="47">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4369,7 +4331,7 @@ Ward—{2}, Discard two cards.</text>
 			<text>Flying, ward {2}
 {U}, Turn this face-down rumor face up: Untap a creature with this rumor. It gains hexproof until end of turn. (This can still be cast later.)
 Rumor {2}{U} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{U} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/229.png" num="74">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/227.png" num="74">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4388,7 +4350,7 @@ Rumor {2}{U} (As you attack, you may exile this card from your hand face down un
 			<text>Deathtouch, lifelink
 {B}, Turn this face-down rumor face up: When a creature with this rumor dies this turn, return it to its owner&apos;s hand. (This can still be cast later.)
 Rumor {2}{B} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{B} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/230.png" num="109">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/228.png" num="109">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4407,7 +4369,7 @@ Rumor {2}{B} (As you attack, you may exile this card from your hand face down un
 			<text>Enchant creature
 At the beginning of your upkeep, put a +1/-1 counter on enchanted creature. If you control that creature, it gains menace and lifelink until end of turn.
 You may cast Experimental Treatment from your graveyard if a creature died under your control this turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/231.png" num="103">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/229.png" num="103">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4425,7 +4387,7 @@ You may cast Experimental Treatment from your graveyard if a creature died under
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 Eternity&apos;s Plaything can&apos;t block.
 When Eternity&apos;s Plaything dies, create a token that&apos;s a copy of it at the beginning of the next end step, except the token is X/1, where X is Eternity&apos;s Plaything&apos;s power.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/232.png" num="102">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/230.png" num="102">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4441,9 +4403,9 @@ When Eternity&apos;s Plaything dies, create a token that&apos;s a copy of it at 
 		</card>
 		<card>
 			<name>Merciful End</name>
-			<text>As an additional cost to cast Merciful End, sacrifice a creature.
+			<text>As an additional cost to cast this spell, sacrifice a creature.
 You gain life and draw cards equal to 1 plus the sacrificed creature&apos;s power, then lose life and discard cards equal to its toughness.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/233.png" num="117">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/231.png" num="117">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4460,7 +4422,7 @@ You gain life and draw cards equal to 1 plus the sacrificed creature&apos;s powe
 			<name>Discordant Magus</name>
 			<text>Flying
 If a source you control would deal noncombat damage to a permanent or player, it deals that damage divided as you choose among any number of permanents and/or players instead.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/234.png" num="142">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/232.png" num="143">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4479,7 +4441,7 @@ If a source you control would deal noncombat damage to a permanent or player, it
 			<text>Double strike
 {R}, Turn this face-down rumor face up: A creature with this rumor gains double strike until end of turn. (This can still be cast later.)
 Rumor {2}{R} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{R} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/235.png" num="140">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/233.png" num="141">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4497,7 +4459,7 @@ Rumor {2}{R} (As you attack, you may exile this card from your hand face down un
 			<name>Solve et Coagula</name>
 			<text>Exile cards from the top of your library until you exile a creature card. You may cast that card, and you may pay {0} rather than pay its mana cost if this spell&apos;s recreate cost was paid.
 Recreate {6}{R} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/236.png" num="168">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/234.png" num="168">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4515,7 +4477,7 @@ Recreate {6}{R} (You may cast this from your graveyard for its recreate cost red
 			<text>All creatures have mutable. (They&apos;re dealt damage in the form of +1/-1 counters.)
 Creatures you control have trample.
 Whenever a source you control deals excess noncombat damage to a permanent, Fevered Dreams deals damage equal to the excess to that permanent&apos;s controller.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/237.png" num="150">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/235.png" num="151">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4531,7 +4493,7 @@ Whenever a source you control deals excess noncombat damage to a permanent, Feve
 		<card>
 			<name>Dream-Borne Starfarer</name>
 			<text>You may play land cards you own from outside the game.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/238.png" num="191">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/236.png" num="191">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4549,7 +4511,7 @@ Whenever a source you control deals excess noncombat damage to a permanent, Feve
 			<name>Aeon of Meaning</name>
 			<text>Whenever you cast this spell or Aeon of Meaning attacks, you may cast a spell not named Aeon of Meaning from your graveyard without paying its mana cost.
 Ward—{2}, Sacrifice two nonland permanents.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/239.png" num="178">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/237.png" num="178">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4568,7 +4530,7 @@ Ward—{2}, Sacrifice two nonland permanents.</text>
 			<text>Vigilance, trample
 {G}, Turn this face-down rumor face up: A creature with this rumor gets +2/+2 and gains trample until end of turn. (This can still be cast later.)
 Rumor {2}{G} (As you attack, you may exile this card from your hand face down under an attacking creature without a rumor. Cast it for {2}{G} after the creature is gone.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/240.png" num="213">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/238.png" num="213">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4587,7 +4549,7 @@ Rumor {2}{G} (As you attack, you may exile this card from your hand face down un
 			<text>Vigilance, trample, hexproof, indestructible, haste
 Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 All creatures able to block Genius Loci do so.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/241.png" num="198">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/239.png" num="198">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4604,7 +4566,7 @@ All creatures able to block Genius Loci do so.</text>
 		<card>
 			<name>Metamorphosis Chamber</name>
 			<text>{T}: Add {C}. If that mana is spent on a creature spell, that creature enters with an additional +1/-1 counter on it.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/242.png" num="277">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/240.png" num="277">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4620,7 +4582,7 @@ All creatures able to block Genius Loci do so.</text>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color among creature cards you own in exile and in your graveyard.
 {5}, {T}, Exile a creature card from your graveyard: Create a tapped 1/1 white Spirit creature token with flying.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/243.png" num="270">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/241.png" num="270">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4639,7 +4601,7 @@ Whenever equipped creature attacks, exile the top card of your library, then cho
 • You may play that card this turn.
 • Equipped creature gets +X/+0 until end of turn, where X is that card&apos;s mana value.
 Equip {3}</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/244.png" num="266">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/242.png" num="266">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +4616,7 @@ Equip {3}</text>
 			<name>Profound Revelation</name>
 			<text>Choose card type, color, or mana value. Draw a card for each different quality of the chosen kind among cards you own in exile and in your graveyard.
 Recreate {7}{U} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/245.png" num="76">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/243.png" num="76">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4670,7 +4632,7 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Raving Aspirant</name>
 			<text>At the beginning of your end step, you may sacrifice Raving Aspirant. If you do, it deals X damage to each opponent and each creature and planeswalker they control, where X is the difference between its power and its toughness.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/246.png" num="163">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/244.png" num="163">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4687,7 +4649,7 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Romantic Vision</name>
 			<text>Each player sacrifices half the permanents they control, rounded up. For each permanent you sacrificed this way, create a Treasure token and exile the top card of your library. You may play that card this turn.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/247.png" num="166">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/245.png" num="166">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4702,25 +4664,9 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 			<related count="1">Treasure</related>
 		</card>
 		<card>
-			<name>Utopian Vision</name>
-			<text>Each player shuffles their hand into their library, then draws seven cards. Untap up to X lands, where X twice is the number of cards shuffled into your library this way.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/248.png" num="87">NOT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>4UU</manacost>
-				<cmc>6</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Bleak Vision</name>
 			<text>Destroy all nonland permanents. Then return a nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the number of permanents you controlled that were destroyed this way.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/249.png" num="5">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/246.png" num="5">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4682,7 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Cosmic Vision</name>
 			<text>Exile all cards from all graveyards. Search your library for a permanent card with mana value less than or equal to the number of cards exiled from your graveyard this way, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/250.png" num="185">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/247.png" num="185">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4752,7 +4698,7 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Cancerous Vision</name>
 			<text>Each player loses half their life, rounded up. Draw a card for each 1 life you lost this way.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/251.png" num="95">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/248.png" num="95">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4769,7 +4715,7 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 			<name>Perfecter of Form</name>
 			<text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
 {0}: Until end of turn, Perfecter of Form loses mutable and gains hexproof and indestructible. Activate only if Perfecter of Form isn&apos;t aberrant. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/252.png" num="211">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/249.png" num="211">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4786,11 +4732,11 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Rite of the Angleworm</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
-Sacrifice two creatures.
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures.
 ---
 (Back): Demonic Betrayer</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/253_front.png" num="130a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/250_front.png" num="130a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4810,7 +4756,7 @@ Sacrifice two creatures.
 Ward—Pay 4 life.
 ---
 (Front): Rite of the Angleworm</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/253_back.png" num="130b">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/250_back.png" num="130b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4826,13 +4772,13 @@ Ward—Pay 4 life.
 			<related attach="transform">Rite of the Angleworm</related>
 		</card>
 		<card>
-			<name>Glestra&apos;s Consecration</name>
+			<name>Consecrate Flesh</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-When Glestra&apos;s Consecration enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.
-Put three +1/-1 counters on a creature you control.
+When Consecrate Flesh enters, discard up to three cards, then draw that many cards. Add {R}{R}{R}.
+I, II — Put three +1/-1 counters on a creature you control.
 ---
 (Back): Glestra, Reformed Aspirant</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/254_front.png" num="151a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/251_front.png" num="140a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4851,8 +4797,8 @@ Put three +1/-1 counters on a creature you control.
 			<text>Flying
 Creatures you control have &quot;Ward—Pay life equal to this creature&apos;s power.&quot;
 ---
-(Front): Glestra&apos;s Consecration</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/254_back.png" num="151b">NOT</set>
+(Front): Consecrate Flesh</text>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/251_back.png" num="140b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4865,7 +4811,7 @@ Creatures you control have &quot;Ward—Pay life equal to this creature&apos;s p
 				<pt>6/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Glestra&apos;s Consecration</related>
+			<related attach="transform">Consecrate Flesh</related>
 		</card>
 		<card>
 			<name>Beseech the First Ones</name>
@@ -4873,11 +4819,11 @@ Creatures you control have &quot;Ward—Pay life equal to this creature&apos;s p
 Hexproof
 Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
 Sacrifice any number of creatures with total power exactly 7.
-Exile six cards with different mana values from your graveyard.
-Pay {W}{U}{B}{R}{G}.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}.
 ---
 (Back): Vestige of Hollow Stars</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/255_front.png" num="181a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/252_front.png" num="181a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4898,7 +4844,7 @@ Hexproof
 Vestige of Hollow Stars can&apos;t be blocked by Faeries.
 ---
 (Front): Beseech the First Ones</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/255_back.png" num="181b">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/252_back.png" num="181b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4914,30 +4860,9 @@ Vestige of Hollow Stars can&apos;t be blocked by Faeries.
 			<related attach="transform">Beseech the First Ones</related>
 		</card>
 		<card>
-			<name>Satu Var, Hexkeeper</name>
-			<text>Flash
-When Satu Var enters, exile target spell.
-[+2]: Each player exiles the top card of their library. You gain 2 life.
-[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.
-Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/256.png" num="248">NOT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Planeswalker — Satu</type>
-				<maintype>Planeswalker</maintype>
-				<manacost>3WU</manacost>
-				<cmc>5</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Stalking Soulmate</name>
 			<text>Your maximum hand size is two. It&apos;s also your minimum hand size. (Draw cards up to that number at end of turn if you have fewer.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/257.png" num="169">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/253.png" num="169">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4952,29 +4877,9 @@ Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeepe
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Mabil, Dreamscape Delver</name>
-			<text>[+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.
-[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
-[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and &quot;{T}: Add {W}{U}{B}{R}{G}.&quot;</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/258.png" num="237">NOT</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Planeswalker — Mabil</type>
-				<maintype>Planeswalker</maintype>
-				<manacost>2GU</manacost>
-				<cmc>4</cmc>
-				<colors>UG</colors>
-				<coloridentity>WUBRG</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<related count="1">Heart of the Noosphere</related>
-		</card>
-		<card>
 			<name>Occult Fascination</name>
 			<text>Whenever you cast a noncreature spell, create an X/1 red Elemental creature token with haste, where X is that spell&apos;s mana value. Sacrifice that token at the beginning of the next end step.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/259.png" num="160">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/254.png" num="160">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4991,7 +4896,7 @@ Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeepe
 		<card>
 			<name>Human Rogue NOT</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/260.png" num="12">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/255.png" num="12">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5014,11 +4919,11 @@ Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeepe
 			<name>Fateful Excavation</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
-Exile four land cards from your graveyard.
-Exile four nonland cards from your graveyard.
+I — Exile four land cards from your graveyard.
+II — Exile four nonland cards from your graveyard.
 ---
 (Back): Stirring Titan</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/261_front.png" num="260a">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/256_front.png" num="260a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5036,7 +4941,7 @@ Exile four nonland cards from your graveyard.
 When this permanent transforms into Stirring Titan, all other nonland permanents phase out until Stirring Titan leaves the battlefield. (Treat phased-out permanents and anything attached to them as though they don&apos;t exist.)
 ---
 (Front): Fateful Excavation</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/261_back.png" num="260b">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/256_back.png" num="260b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5054,7 +4959,7 @@ When this permanent transforms into Stirring Titan, all other nonland permanents
 			<text>Enchant land
 When Dreamwild Intrusion enters, mill three cards. You may discard a card. If you do, return a permanent card from your graveyard to your hand.
 Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/262.png" num="192">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/257.png" num="192">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5071,7 +4976,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
 			<name>Unleash Potential</name>
 			<text>Unleash Potential deals X damage to any target.
 Recreate {X}{R}{R} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/263.png" num="173">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/258.png" num="173">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5087,7 +4992,7 @@ Recreate {X}{R}{R} (You may cast this from your graveyard for its recreate cost 
 		<card>
 			<name>Clairvoyance Tank</name>
 			<text>{1}, {T}: When you next cast a spell this turn, draw a card. Then discard a card unless the amount of mana spent to cast that spell was less than its mana value.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/264.png" num="257">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/259.png" num="257">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5104,10 +5009,10 @@ Recreate {X}{R}{R} (You may cast this from your graveyard for its recreate cost 
 Hexproof
 Through Eerie Woods enters tapped.
 {T}: Add {G}.
-Pay {2}{G}{G}.
+I, II — Pay {2}{G}{G}.
 ---
 (Back): Name-Shorn Clearing</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/265_front.png" num="281a">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/260_front.png" num="281a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5127,7 +5032,7 @@ Pay {2}{G}{G}.
 Whenever a permanent you control becomes the target of a spell, you may draw a card.
 ---
 (Front): Through Eerie Woods</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/265_back.png" num="281b">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/260_back.png" num="281b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5148,10 +5053,10 @@ Whenever a permanent you control becomes the target of a spell, you may draw a c
 Hexproof
 On Empty Streets enters tapped.
 {T}: Add {W}.
-Pay {3}{W}{W}.
+I, II — Pay {3}{W}{W}.
 ---
 (Back): Desolate Reflection</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/266_front.png" num="278a">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/261_front.png" num="278a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5171,7 +5076,7 @@ Pay {3}{W}{W}.
 Whenever a nontoken creature you control leaves the battlefield, create a token that&apos;s a copy of that creature, then sacrifice it.
 ---
 (Front): On Empty Streets</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/266_back.png" num="278b">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/261_back.png" num="278b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5192,10 +5097,10 @@ Whenever a nontoken creature you control leaves the battlefield, create a token 
 Hexproof
 Up Cryptic Spires enters tapped.
 {T}: Add {R}.
-Pay {2}{R}{R}.
+I, II — Pay {2}{R}{R}.
 ---
 (Back): Long Climb to Heaven</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/267_front.png" num="282a">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/262_front.png" num="282a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5214,7 +5119,7 @@ Pay {2}{R}{R}.
 			<text>At the beginning of your upkeep, put an eternity counter on Long Climb to Heaven, then exile the top X cards of your library, where X is the number of eternity counters on it. You may play one of those cards this turn.
 ---
 (Front): Up Cryptic Spires</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/267_back.png" num="282b">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/262_back.png" num="282b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5235,10 +5140,10 @@ Pay {2}{R}{R}.
 Hexproof
 Down Twisted Corridors enters tapped.
 {T}: Add {B}.
-Pay {1}{B}{B}.
+I, II — Pay {1}{B}{B}.
 ---
 (Back): Ever-Worm&apos;s Gullet</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/268_front.png" num="271a">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/263_front.png" num="271a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5257,7 +5162,7 @@ Pay {1}{B}{B}.
 			<text>When this permanent transforms into Ever-Worm&apos;s Gullet and at the beginning of your upkeep, mill a card, then return a card at random from your graveyard to your hand. You lose life equal to its mana value.
 ---
 (Front): Down Twisted Corridors</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/268_back.png" num="271b">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/263_back.png" num="271b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5276,7 +5181,7 @@ Pay {1}{B}{B}.
 			<name>Blessing of Harmony</name>
 			<text>Until end of turn, creatures you control get +1/+0 and gain vigilance and &quot;Prevent all damage that would be dealt to this creature.&quot;
 Recreate {4}{W} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/269.png" num="6">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/264.png" num="6">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5295,10 +5200,10 @@ Recreate {4}{W} (You may cast this from your graveyard for its recreate cost red
 Hexproof
 Past Distant Thresholds enters tapped.
 {T}: Add {U}.
-Pay {1}{U}{U}.
+I, II — Pay {1}{U}{U}.
 ---
 (Back): Astral Bridge</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/270_front.png" num="280a">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/265_front.png" num="280a">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5317,7 +5222,7 @@ Pay {1}{U}{U}.
 			<text>When this permanent transforms into Astral Bridge and whenever you cast a spell, you may tap or untap target permanent.
 ---
 (Front): Past Distant Thresholds</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/270_back.png" num="280b">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/265_back.png" num="280b">NOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5335,7 +5240,7 @@ Pay {1}{U}{U}.
 		<card>
 			<name>Laboratory Maniac</name>
 			<text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/271.png" num="68">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/266.png" num="68">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5352,7 +5257,7 @@ Pay {1}{U}{U}.
 		<card>
 			<name>Trustworthy Colleague</name>
 			<text>Creatures able to block another attacking creature not named Trustworthy Colleague can&apos;t block Trustworthy Colleague.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/272.png" num="172">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/267.png" num="172">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5370,7 +5275,7 @@ Pay {1}{U}{U}.
 			<name>Purebred Offering</name>
 			<text>Lifelink
 When Purebred Offering dies, look at the top seven cards of your library. You may put a nonland permanent card with mana value less than or equal to Purebred Offering&apos;s power from among them onto the battlefield. Then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/273.png" num="32">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/268.png" num="32">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5387,7 +5292,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 		<card>
 			<name>Gaze of the Abyss</name>
 			<text>When Gaze of the Abyss enters or dies, you may have target creature&apos;s base toughness become equal to Gaze of the Abyss&apos;s toughness until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/274.png" num="107">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/269.png" num="107">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5407,7 +5312,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 {T}: Add {R}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Liminal Crag: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/275.png" num="273">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/270.png" num="273">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5426,7 +5331,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 {T}: Add {U}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Liminal Creek: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/276.png" num="274">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/271.png" num="274">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5445,7 +5350,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 {T}: Add {G}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Liminal Grove: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/277.png" num="275">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/272.png" num="275">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5464,7 +5369,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 {T}: Add {B}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Liminal Bog: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/278.png" num="272">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/273.png" num="272">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5483,7 +5388,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 {T}: Add {W}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Liminal Prairie: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/279.png" num="276">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/274.png" num="276">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5500,7 +5405,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
 			<name>Inexplicable Entity</name>
 			<text>Hexproof from nonsorcery
 You may assign the combat damage of creatures blocking Inexplicable Entity divided as you choose among creatures you control.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/280.png" num="205">NOT</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/275.png" num="205">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5519,7 +5424,7 @@ You may assign the combat damage of creatures blocking Inexplicable Entity divid
 			<text>Choose one—
 • Target creature you control gets +1/+0 until end of turn. It fights target creature you don&apos;t control.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/281.png" num="141">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/276.png" num="142">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5537,7 +5442,7 @@ You may assign the combat damage of creatures blocking Inexplicable Entity divid
 			<text>Trample
 Discordant Collective&apos;s power and toughness are each equal to the number of creatures you control.
 Whenever another creature you control enters, if that creature has greater power or toughness than Discordant Collective, draw a card.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/282.png" num="189">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/277.png" num="189">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5554,7 +5459,7 @@ Whenever another creature you control enters, if that creature has greater power
 		<card>
 			<name>Insect NOT</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/283.png" num="15">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/278.png" num="15">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5573,7 +5478,7 @@ Whenever another creature you control enters, if that creature has greater power
 		<card>
 			<name>Reflection NOT</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/284.png" num="16">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/279.png" num="16">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5593,7 +5498,7 @@ Whenever another creature you control enters, if that creature has greater power
 			<name>Heart of the Noosphere NOT</name>
 			<text>Hexproof
 {T}: Add {W}{U}{B}{R}{G}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/285.png" num="18">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/280.png" num="18">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5610,7 +5515,7 @@ Whenever another creature you control enters, if that creature has greater power
 		<card>
 			<name>Crisis of Faith NOT</name>
 			<text>{2}, Sacrifice this enchantment: Surveil 1. You gain 1 life.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/286.png" num="1">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/281.png" num="1">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5626,7 +5531,7 @@ Whenever another creature you control enters, if that creature has greater power
 		<card>
 			<name>Elemental NOT</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/287.png" num="11">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/282.png" num="11">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5648,7 +5553,7 @@ Whenever another creature you control enters, if that creature has greater power
 Flying, vigilance
 Whenever Unmarked Helicopter or another nonland permanent you control enters during combat, you may have Unmarked Helicopter become an artifact creature until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/288.png" num="268">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/283.png" num="268">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5663,7 +5568,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Dysmorphosis Carrier</name>
 			<text>Whenever a non-aberrant creature you control becomes aberrant, you may sacrifice it. When you do, that creature deals damage to any target equal to its power or its toughness, whichever is greater. (A creature is aberrant if its power and toughness aren&apos;t equal.)</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/289.png" num="145">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/284.png" num="146">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5681,7 +5586,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Mundophobia</name>
 			<text>Enchant player
 Whenever a permanent enchanted player controls becomes tapped, that player loses 1 life.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/290.png" num="119">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/285.png" num="119">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5697,7 +5602,7 @@ Whenever a permanent enchanted player controls becomes tapped, that player loses
 		<card>
 			<name>Looming Presence</name>
 			<text>As long as Looming Presence is untapped or attacking, other spells, permanents, and cards that aren&apos;t on the battlefield treat it as though it didn&apos;t exist. (Even when it enters.)</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/291.png" num="69">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/286.png" num="69">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5716,7 +5621,7 @@ Whenever a permanent enchanted player controls becomes tapped, that player loses
 			<text>Flash
 Flying
 Triggered abilities don&apos;t trigger.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/292.png" num="29">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/287.png" num="29">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5733,7 +5638,7 @@ Triggered abilities don&apos;t trigger.</text>
 		<card>
 			<name>Doomed Journalist</name>
 			<text>When Doomed Journalist deals combat damage to a player, sacrifice it. If you do, draw two cards.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/293.png" num="62">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/288.png" num="62">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5750,7 +5655,7 @@ Triggered abilities don&apos;t trigger.</text>
 		<card>
 			<name>The Oneironaut&apos;s Handbook</name>
 			<text>Non-Spirit creatures you control have &quot;You may choose not to untap this creature during your untap step&quot; and &quot;{2}, {T}: Create a token that&apos;s a copy of this creature, except it&apos;s a Spirit in addition to its other types, can&apos;t block, and has flying and haste. Exile that token when this creature leaves the battlefield or becomes untapped. Activate only as a sorcery.&quot;</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/294.png" num="265">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/289.png" num="265">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5764,7 +5669,7 @@ Triggered abilities don&apos;t trigger.</text>
 		<card>
 			<name>Ecstatic Zeal</name>
 			<text>Whenever a creature you control attacks or blocks, it gets +X/+Y until end of turn, where X is the difference between its power and its base power and Y is the difference between its toughness and its base toughness.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/295.png" num="13">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/290.png" num="13">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5781,7 +5686,7 @@ Triggered abilities don&apos;t trigger.</text>
 			<name>Incantations of the Nomon</name>
 			<text>Once during each of your turns, when you pay life, you may draw a card. The same is true for discarding a card, sacrificing a permanent, exiling a card from your graveyard, and removing a counter from a permanent you control.
 Whenever you draw your sixth card during each of your turns, you may cast a spell from your hand without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/296.png" num="261">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/291.png" num="261">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5795,7 +5700,7 @@ Whenever you draw your sixth card during each of your turns, you may cast a spel
 		<card>
 			<name>Shadow of Perdition</name>
 			<text>Pay 1 life: Put a +1/-1 counter on Shadow of Perdition.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/297.png" num="131">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/292.png" num="131">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5813,7 +5718,7 @@ Whenever you draw your sixth card during each of your turns, you may cast a spel
 			<name>Everburning Fugitive</name>
 			<text>Everburning Fugitive can&apos;t have toughness less than 1.
 Whenever a creature you control with a counter on it dies, it deals 1 damage to target opponent.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/298.png" num="147">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/293.png" num="148">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5831,7 +5736,7 @@ Whenever a creature you control with a counter on it dies, it deals 1 damage to 
 			<name>Pansomnolence</name>
 			<text>Each other noncreature, non-Aura permanent you control is a 3/2 Nightmare creature with haste in addition to its other types.
 Sacrifice Pansomnolence: Untap all permanents you control.</text>
-			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/299.png" num="210">NOT</set>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/294.png" num="210">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5847,7 +5752,7 @@ Sacrifice Pansomnolence: Untap all permanents you control.</text>
 		<card>
 			<name>Nightmare Leviathan NOT</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/300.png" num="7">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/295.png" num="7">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5866,7 +5771,7 @@ Sacrifice Pansomnolence: Untap all permanents you control.</text>
 		<card>
 			<name>Impending Ruin</name>
 			<text>Whenever a creature you control with toughness greater than its power enters, until end of turn, that creature gains trample and haste and assigns combat damage equal to its toughness rather than its power.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/301.png" num="203">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/296.png" num="203">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5883,7 +5788,7 @@ Sacrifice Pansomnolence: Untap all permanents you control.</text>
 			<name>Spectral Guidance</name>
 			<text>Draw two cards. If this spell was cast from your hand, discard a card.
 Recreate {4}{U} (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/302.png" num="82">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/297.png" num="82">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5899,7 +5804,7 @@ Recreate {4}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Human Citizen NOT</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/303.png" num="2">NOT</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/NOT-files/img/298.png" num="2">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5917,7 +5822,7 @@ Recreate {4}{U} (You may cast this from your graveyard for its recreate cost red
 			<name>Bucolic Innocence</name>
 			<text>If a source would deal combat damage to you, a planeswalker you control, or a creature you control with mutable, prevent all but 1 of that damage.
 At the beginning of your upkeep, sacrifice Bucolic Innocence unless you sacrifice a creature or planeswalker.</text>
-			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/304.png" num="182">NOT</set>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/299.png" num="182">NOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5927,6 +5832,101 @@ At the beginning of your upkeep, sacrifice Bucolic Innocence unless you sacrific
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Utopian Vision</name>
+			<text>Each player may shuffle their hand into their library, then each player who does draws seven cards. Untap up to X lands, where X is twice the number of cards shuffled into your library this way. Exile Utopian Vision.</text>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/300.png" num="87">NOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cadis Yeln, IPC Chair</name>
+			<text>Flash
+When Cadis Yeln enters, exile up to one target spell or nonland permanent. Its controller draws a card.
+Spells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type and name.</text>
+			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/301.png" num="225">NOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mabil, Dreamscape Delver</name>
+			<text>[+1]: Mill two cards, then return a land card or a non-Mabil multicolored card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-6]: Create a colorless legendary enchantment land token named Heart of the Noosphere with hexproof and &quot;{T}: Add {W}{U}{B}{R}{G}.&quot;</text>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/302.png" num="237">NOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mabil</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Heart of the Noosphere</related>
+		</card>
+		<card>
+			<name>Satu Var, Hexkeeper</name>
+			<text>Flash
+When Satu Var enters, exile target nonland permanent an opponent controls.
+[+2]: Draw two cards, then exile a card from your hand or a nonland permanent you control.
+[-X]: Until your next turn, you may cast nonland cards exiled with Satu Var that have mana value X or less without paying their mana costs.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/303.png" num="248">NOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Satu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vand, the Breaking Dream</name>
+			<text>[+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It becomes a copy of Vand for as long as it has a loyalty counter on it, except it isn&apos;t legendary.</text>
+			<set rarity="mythic" picurl="https://Parasign-0.github.io/sets/NOT-files/img/304.png" num="254">NOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vand</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
