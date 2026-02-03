@@ -2060,8 +2060,8 @@ Whenever Ego Parasite deals combat damage to a player, you may exile two cards f
 			<name>Breach the Veil</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
-Tap three untapped creatures you control.
-I, II — Sacrifice any number of creatures with total power 3 or greater.
+I — Tap three untapped creatures you control.
+II — Sacrifice any number of creatures with total power 3 or greater.
 ---
 (Back): Transcendent Dreamer</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/111_front.png" num="7a">NOT</set>
@@ -2148,8 +2148,8 @@ At the beginning of each combat, any opponent may sacrifice a creature. If a pla
 			<name>Burn Worldly Ties</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
-I — Sacrifice two permanents.
-II — Pay {3}{R}{R}{R}.
+Sacrifice two permanents.
+I, II — Pay {3}{R}{R}{R}.
 ---
 (Back): Pyre-Born Magus</text>
 			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/NOT-files/img/113_front.png" num="138a">NOT</set>
@@ -3442,8 +3442,8 @@ Whenever you cast a spell, if it was rumored, draw a card. If you&apos;ve spent 
 			<name>Seek the Archive</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
-Exile an artifact card and an enchantment card from your graveyard.
-I, II — Exile an instant card and a sorcery card from your graveyard.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
 ---
 (Back): Pansophic Sage</text>
 			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/179_front.png" num="78a">NOT</set>
@@ -4732,8 +4732,8 @@ Recreate {7}{U} (You may cast this from your graveyard for its recreate cost red
 		<card>
 			<name>Rite of the Angleworm</name>
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
-II — Sacrifice two creatures.
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures.
 ---
 (Back): Demonic Betrayer</text>
 			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/250_front.png" num="130a">NOT</set>
@@ -4818,9 +4818,9 @@ Creatures you control have &quot;Ward—Pay life equal to this creature&apos;s p
 			<text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
-Sacrifice any number of creatures with total power exactly 7.
-I — Exile six cards with different mana values from your graveyard.
-II — Pay {W}{U}{B}{R}{G}.
+I — Sacrifice any number of creatures with total power exactly 7.
+II — Exile six cards with different mana values from your graveyard.
+III — Pay {W}{U}{B}{R}{G}.
 ---
 (Back): Vestige of Hollow Stars</text>
 			<set rarity="rare" picurl="https://Parasign-0.github.io/sets/NOT-files/img/252_front.png" num="181a">NOT</set>
@@ -5502,7 +5502,7 @@ Whenever another creature you control enters, if that creature has greater power
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Legendary Land</type>
+				<type>Token Legendary Enchantment Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>

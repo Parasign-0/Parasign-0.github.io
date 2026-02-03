@@ -1,4 +1,97 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Breach the Veil
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+I, II — Sacrifice any number of creatures with total power 3 or greater. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+I — Tap three untapped creatures you control.
+II — Sacrifice any number of creatures with total power 3 or greater.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+Tap three untapped creatures you control.
+I, II — Sacrifice any number of creatures with total power 3 or greater. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
+I — Tap three untapped creatures you control.
+II — Sacrifice any number of creatures with total power 3 or greater.
+
+Burn Worldly Ties
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+I — Sacrifice two permanents.
+II — Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+I, II — Pay {3}{R}{R}{R}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+I — Sacrifice two permanents.
+II — Pay {3}{R}{R}{R}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
+Sacrifice two permanents.
+I, II — Pay {3}{R}{R}{R}.
+
+Seek the Archive
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+Exile an artifact card and an enchantment card from your graveyard.
+I, II — Exile an instant card and a sorcery card from your graveyard. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
+I — Exile an artifact card and an enchantment card from your graveyard.
+II — Exile an instant card and a sorcery card from your graveyard.
+
+Rite of the Angleworm
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+II — Sacrifice two creatures. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures.
+
+Beseech the First Ones
+rules_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+I — Sacrifice any number of creatures with total power exactly 7.
+II — Exile six cards with different mana values from your graveyard.
+III — Pay {W}{U}{B}{R}{G}.
+special_text: [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+Sacrifice any number of creatures with total power exactly 7.
+I — Exile six cards with different mana values from your graveyard.
+II — Pay {W}{U}{B}{R}{G}. => [i](After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)[/i]
+Hexproof
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
+I — Sacrifice any number of creatures with total power exactly 7.
+II — Exile six cards with different mana values from your graveyard.
+III — Pay {W}{U}{B}{R}{G}.
+
+Heart of the Noosphere
+type: Token Legendary Land => Token Legendary Enchantment Land
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Consecrate Flesh added.
