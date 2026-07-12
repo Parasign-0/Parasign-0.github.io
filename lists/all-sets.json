@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "EVO",
+            "set_name": "",
+            "formats": ""
+        },
+        {
             "set_code": "NOT",
             "set_name": "Nightmares of Tremethys",
             "formats": ""
