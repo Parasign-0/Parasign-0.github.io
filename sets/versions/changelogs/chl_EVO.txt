@@ -1,4 +1,168 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+District Sower
+
+Awakener Gremlin
+
+Integrated Armory
+
+Surgical Drone
+
+Memories of Extinction
+
+Spectral Pursuit
+
+Silicate Predator
+
+Brooding Terraloth
+
+Cloud of Wreckage
+
+Magnetic Sandshaper
+
+Unexpected Windfall
+
+Ancient Relic
+
+Spawnsac Mutualist
+
+Buried Cache
+
+Fractal Fission
+
+Detritus Hoarder
+
+Violent Predation
+type: Battle — Niche => Batt1e — Niche
+
+Canopy Grazing
+type: Battle — Niche => Batt1e — Niche
+
+Carrion Scrounging
+type: Battle — Niche => Batt1e — Niche
+
+Cloudkrill Filtering
+type: Battle — Niche => Batt1e — Niche
+
+Drone Herding
+type: Battle — Niche => Batt1e — Niche
+
+Eerie Stillness
+
+Construct
+
+Mana Siphoning
+type: Battle — Niche => Batt1e — Niche
+
+Nest Raiding
+type: Battle — Niche => Batt1e — Niche
+
+Wildfire Succession
+type: Battle — Niche => Batt1e — Niche
+
+Undergrowth Mimicry
+type: Battle — Niche => Batt1e — Niche
+
+Devastation Engine
+
+Maintenance Drone
+
+Selective Pressure
+
+Reactor Forger
+
+Acclimate
+
+Esyra Outskirts
+
+Competitive Release
+
+Lush Meadowback
+
+Larva Injector
+
+Stoneguide Skycoil
+
+Bulky Ramshell
+
+Glaciation Event
+
+Territorial Encroachment
+
+Meteorite Impact
+
+Voracious Grazer
+
+Metamorphic Ambush
+
+Ocuhive Sentry
+
+Sand Illusion
+
+Insect
+
+Elemental
+
+Consuming Swarm
+
+Stereohawk
+
+Drifting Pollinator
+
+Cavernmaw Whelp
+
+Tundra Surveyor
+
+Collapse
+
+Diving Neocete
+
+Preserved in Ice
+
+Fierce Skunkraptor
+
+Ion Cruiser
+
+Networked Eurypterid
+
+Nomadic Pylon
+
+Infected Biome
+
+Moor Segment
+
+Ocean Segment
+
+Prairie Segment
+
+Ridge Segment
+
+Timber Segment
+
+Eerie Citadel
+
+Looming Pinnacle
+
+Secluded Refuge
+
+Toxic Mire
+
+Bubbling Lagoon
+
+Malignant Necrowar
+
+Whalefall Delver
+
+Nascent Apex
+
+Cooperative Labor
+type: Battle — Niche => Batt1e — Niche
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

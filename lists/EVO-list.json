@@ -10,10 +10,10 @@
     {
         "card_name": "Cloudkrill Filtering",
         "number": 33,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "158"
+        "position": "157"
     },
     {
         "card_name": "Blighted Hulk",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "176"
+        "position": "175"
     },
     {
         "card_name": "Colonial Siphoner",
@@ -58,7 +58,7 @@
     {
         "card_name": "Carrion Scrounging",
         "number": 68,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
         "position": "156"
@@ -74,7 +74,7 @@
     {
         "card_name": "Canopy Grazing",
         "number": 128,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
         "position": "155"
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "172"
+        "position": "171"
     },
     {
         "card_name": "Diving Neocete",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "192"
+        "position": "191"
     },
     {
         "card_name": "Consuming Swarm",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "186"
+        "position": "185"
     },
     {
         "card_name": "Fuelport Drone",
@@ -122,10 +122,10 @@
     {
         "card_name": "Cooperative Labor",
         "number": 6,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "157"
+        "position": "211"
     },
     {
         "card_name": "Esyra's Claim",
@@ -162,10 +162,10 @@
     {
         "card_name": "Drone Herding",
         "number": 8,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "159"
+        "position": "158"
     },
     {
         "card_name": "False Ectomorph",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "177"
+        "position": "176"
     },
     {
         "card_name": "Intestinal Scourge",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "179"
+        "position": "178"
     },
     {
         "card_name": "Improbable Survival",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "160"
+        "position": "159"
     },
     {
         "card_name": "Hydrolancer",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "174"
+        "position": "173"
     },
     {
         "card_name": "Nascent Apex",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "211"
+        "position": "210"
     },
     {
         "card_name": "Meandering Greatwurm",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "169"
+        "position": "168"
     },
     {
         "card_name": "Overgrown Rustshell",
@@ -330,18 +330,18 @@
     {
         "card_name": "Mana Siphoning",
         "number": 47,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "162"
+        "position": "161"
     },
     {
         "card_name": "Nest Raiding",
         "number": 80,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "163"
+        "position": "162"
     },
     {
         "card_name": "Sawtooth Hellion",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "195"
+        "position": "194"
     },
     {
         "card_name": "Networked Eurypterid",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "196"
+        "position": "195"
     },
     {
         "card_name": "Shrieking Detritivore",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "173"
+        "position": "172"
     },
     {
         "card_name": "Segment Migration",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "175"
+        "position": "174"
     },
     {
         "card_name": "Ravenous Hunter",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "197"
+        "position": "196"
     },
     {
         "card_name": "Shore Drinker",
@@ -461,12 +461,12 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "178"
+        "position": "177"
     },
     {
         "card_name": "Violent Predation",
         "number": 122,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
         "position": "154"
@@ -506,18 +506,18 @@
     {
         "card_name": "Wildfire Succession",
         "number": 124,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "164"
+        "position": "163"
     },
     {
         "card_name": "Undergrowth Mimicry",
         "number": 153,
-        "shape": "double faced split",
+        "shape": "transform double faced",
         "set": "EVO",
         "rotated": false,
-        "position": "165"
+        "position": "164"
     },
     {
         "card_name": "Automated Defenses",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "170"
+        "position": "169"
     },
     {
         "card_name": "Caught in Amber",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "188"
+        "position": "187"
     },
     {
         "card_name": "Doomed Vessel",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "181"
+        "position": "180"
     },
     {
         "card_name": "Fledgling Amphipteron",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "191"
+        "position": "190"
     },
     {
         "card_name": "Earth Weaver",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "167"
+        "position": "166"
     },
     {
         "card_name": "Drowning in Tar",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "194"
+        "position": "193"
     },
     {
         "card_name": "Pitfall Excavator",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "209"
+        "position": "208"
     },
     {
         "card_name": "Limits of Solidarity",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "182"
+        "position": "181"
     },
     {
         "card_name": "Nesting Twinstalk",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "193"
+        "position": "192"
     },
     {
         "card_name": "Resourceful Vermin",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "168"
+        "position": "167"
     },
     {
         "card_name": "Spawnsac Mutualist",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "190"
+        "position": "189"
     },
     {
         "card_name": "Virulent Cancrin",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "180"
+        "position": "179"
     },
     {
         "card_name": "er"
@@ -1258,7 +1258,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "187"
+        "position": "186"
     },
     {
         "card_name": "Relic Trawler",
@@ -1290,7 +1290,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "189"
+        "position": "188"
     },
     {
         "card_name": "er"
@@ -1374,7 +1374,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "166"
+        "position": "165"
     },
     {
         "card_name": "District Sower",
@@ -1414,7 +1414,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "210"
+        "position": "209"
     },
     {
         "card_name": "Ancient Relic",
@@ -1499,7 +1499,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "204"
+        "position": "203"
     },
     {
         "card_name": "Bubbling Lagoon",
@@ -1507,7 +1507,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "208"
+        "position": "207"
     },
     {
         "card_name": "Toxic Mire",
@@ -1515,7 +1515,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "207"
+        "position": "206"
     },
     {
         "card_name": "Looming Pinnacle",
@@ -1523,7 +1523,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "205"
+        "position": "204"
     },
     {
         "card_name": "Secluded Refuge",
@@ -1531,7 +1531,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "206"
+        "position": "205"
     },
     {
         "card_name": "Prairie Segment",
@@ -1539,7 +1539,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "201"
+        "position": "200"
     },
     {
         "card_name": "Ocean Segment",
@@ -1547,7 +1547,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "200"
+        "position": "199"
     },
     {
         "card_name": "Moor Segment",
@@ -1555,7 +1555,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "199"
+        "position": "198"
     },
     {
         "card_name": "Ridge Segment",
@@ -1563,7 +1563,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "202"
+        "position": "201"
     },
     {
         "card_name": "Timber Segment",
@@ -1571,7 +1571,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "203"
+        "position": "202"
     },
     {
         "card_name": "er"
@@ -1610,7 +1610,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "171"
+        "position": "170"
     },
     {
         "card_name": "Dwindling Oasis",
@@ -1634,7 +1634,7 @@
         "shape": "normal",
         "set": "EVO",
         "rotated": false,
-        "position": "198"
+        "position": "197"
     },
     {
         "card_name": "e"
@@ -1722,7 +1722,7 @@
         "shape": "token",
         "set": "EVO",
         "rotated": false,
-        "position": "161"
+        "position": "160"
     },
     {
         "card_name": "Drone",
@@ -1762,7 +1762,7 @@
         "shape": "token",
         "set": "EVO",
         "rotated": false,
-        "position": "183"
+        "position": "182"
     },
     {
         "card_name": "Insect",
@@ -1770,7 +1770,7 @@
         "shape": "token",
         "set": "EVO",
         "rotated": false,
-        "position": "184"
+        "position": "183"
     },
     {
         "card_name": "Elemental",
@@ -1778,7 +1778,7 @@
         "shape": "token",
         "set": "EVO",
         "rotated": false,
-        "position": "185"
+        "position": "184"
     },
     {
         "card_name": "Leech",
