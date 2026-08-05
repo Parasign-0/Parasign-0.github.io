@@ -1,4 +1,426 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Insatiable Voidtongue added.
+Tropical Laminopod added.
+
+Root Grub removed.
+Extractor Vessel removed.
+
+Outcompete
+
+Feral Hunter-Killer
+
+Integrated Armory
+
+Endless Path
+
+Treasure Hunt
+
+Genetic Scavenger
+
+Drowning in Tar
+
+Surgical Drone
+
+Distant Horizons
+
+Memories of Extinction
+
+Automated Defenses
+
+Rapid Assimilation
+
+Improbable Survival
+
+Perilous Descent
+
+Pitfall Excavator
+rules_text: Vigilance
+Whenever Pitfall Excavator attacks, tap target creature an opponent controls. => Vigilance
+Whenever Pitfall Excavator enters or attacks, tap target creature an opponent controls.
+
+Afflicted Sanguivore
+
+Tanglepod Larva
+
+Spectral Pursuit
+
+Symbiotic Tactics
+
+Silicate Predator
+
+Deconstructor Swarm
+
+Harsh Conditions
+
+Oceanic Monstrosity
+rules_text: Ward {3}
+Oceanic Monstrosity can't be blocked as long as you control ten or more lands. => Ward {3}
+Whenever a land you control enters, Oceanic Monstrosity can't be blocked this turn.
+
+Hydrolancer
+
+Phase Stalker
+
+Out of Sync
+
+Relentless Rover
+
+Blight Gorger
+
+Culling Drone
+
+Vestige of Calamity
+
+Bloodstalker Pack
+
+Twisted Amalgam
+
+Unnatural Preservation
+
+Peroxide Spitter
+
+Boomcroak Alpha
+
+Rockslide Hellion
+
+Voracite Swarm
+
+Curious Rover
+
+Burn Fuel
+rules_text: Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and a trample counter on it. => Target creature gets +2/+1 until end of turn. Put a +1/+1 counter and a trample counter on it.
+
+Limits of Solidarity
+
+Atomic Brute
+pt: 5/4 => 5/5
+
+Vengeant Earth
+
+Flourishing Leylith
+
+Harvest Drone
+
+Colossal Ancient
+
+Earth Weaver
+
+Brooding Terraloth
+
+Valrain's Journal
+
+Synthfruit Grove
+
+Towering Mechanoid
+
+Resourceful Vermin
+
+Virulent Cancrin
+
+Territorial Bellower
+
+Ceaseless Exploration
+
+Stampeding Thunderbeest
+
+Doomed Vessel
+
+Greater Fleshdrinker
+
+Fledgling Amphipteron
+
+Evolving Wilds
+
+Xerid Sentry
+
+Blighted Hulk
+
+Thirst for Insight
+
+Ravenous Hunter
+
+Goliath Hydra
+
+Shore Drinker
+
+Skyline Sentinel
+
+Shrieking Detritivore
+
+Fused Chimera
+rules_text: Menace
+Ward—Pay 5 life.
+Fused Chimera can't be blocked by two or more creatures with the same power as each other. => Menace
+Ward—Pay 6 life.
+Fused Chimera can't be blocked by two or more creatures with the same power as each other.
+pt: 5/5 => 6/4
+
+Rumbling Scalecrusher
+
+Fuelport Drone
+
+Bombardment Drone
+
+Lithoid Prowler
+
+Adaptive Assimilator
+
+Relic Trawler
+
+Awakened Behemoth
+
+Fruiting Chorus
+
+Keystone Grazer
+
+Cloud of Wreckage
+
+Magnetic Sandshaper
+type: Artifact Creature — Slug => Artifact Creature — Trilobite
+
+Tectonic Drift
+
+Unexpected Windfall
+
+Deepwell Time Capsule
+rules_text: {T}, Mill a card: Add {U}.
+{5}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery. => {T}, Mill a card: Add {U}.
+{4}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.
+
+Esyra's Claim
+
+Drone
+
+Spirit
+
+Nanite Colony
+
+Nanogene Repository
+
+Dweller in Emptiness
+
+Placid Sailfan
+
+Timely Culling
+
+Nesting Twinstalk
+rules_text: Flying
+{3}{B}: Each opponent loses 1 life and you surveil 1. => Flying
+{3}{B}: Each opponent loses 1 life and you gain 1 life. Surveil 1.
+
+Conductive Lithoid
+
+Fogspore Behemoth
+
+Engulfing Crystalreef
+
+Intestinal Scourge
+
+Polymorphic Seedprobe
+
+Meandering Greatwurm
+
+Unburied Secrets
+
+Sedimentary Symbiont
+
+Troodroid Pack
+
+Sensory Synergy
+
+False Ectomorph
+
+Bloodline's End
+
+Pollution Spray
+
+Caught in Amber
+
+Spawnsac Mutualist
+
+Microbiome Igniter
+
+Buried Cache
+
+Grow Over
+
+Factoruminant
+
+Honed Razorpede
+
+Segment Migration
+
+Atavistic Rebirth
+
+Fractal Fission
+
+Coiling Omnivore
+
+Cerebral Parasite
+
+Overgrown Rustshell
+
+Mutagenic Orb
+
+Sawtooth Hellion
+
+Tantalizing Dreadfruit
+
+Archipelago Drake
+
+Converted Terraformer
+
+Leech
+
+Esyra
+
+Ocean Purifier
+
+Segment Prospector
+
+Segment Collapse
+
+Starfish
+
+Dwindling Oasis
+
+Egg
+
+Treasure
+
+Violent Predation
+
+Canopy Grazing
+
+Carrion Scrounging
+
+Cloudkrill Filtering
+
+Drone Herding
+
+Eerie Stillness
+
+Mana Siphoning
+
+Nest Raiding
+
+Wildfire Succession
+
+Undergrowth Mimicry
+
+Devastation Engine
+
+Maintenance Drone
+
+Selective Pressure
+
+Reactor Forger
+
+Acclimate
+
+Esyra Outskirts
+
+Competitive Release
+
+Lush Meadowback
+
+Larva Injector
+
+Stoneguide Skycoil
+
+Bulky Ramshell
+
+Glaciation Event
+
+Territorial Encroachment
+
+Meteorite Impact
+
+Voracious Grazer
+
+Metamorphic Ambush
+
+Ocuhive Sentry
+
+Sand Illusion
+
+Insect
+
+Elemental
+
+Consuming Swarm
+
+Stereohawk
+
+Drifting Pollinator
+
+Cavernmaw Whelp
+
+Tundra Surveyor
+
+Collapse
+
+Diving Neocete
+
+Preserved in Ice
+
+Fierce Skunkraptor
+
+Ion Cruiser
+
+Networked Eurypterid
+
+Nomadic Pylon
+
+Infected Biome
+
+Moor Segment
+
+Ocean Segment
+
+Prairie Segment
+
+Ridge Segment
+
+Timber Segment
+
+Eerie Citadel
+
+Looming Pinnacle
+
+Secluded Refuge
+
+Toxic Mire
+
+Bubbling Lagoon
+
+Malignant Necrowar
+
+Whalefall Delver
+
+Nascent Apex
+
+Cooperative Labor
+
+Momentary Breakdown
+rules_text: Exile target permanent, then return it to the battlefield under its owner's control.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Exile target nonland permanent, then return it to the battlefield under its owner's control.
+Cycling {W} [i]({W}, Discard this card: Draw a card.)[/i]
+
+Nanogene Thief
+type: Creature — Vampire Gremlin => Creature — Vampire Nautilus
+
+Ancient Relic
+
+Construct
+
+Detritus Hoarder
+type: Artifact Creature — Insect Crab => Artifact Creature — Insect Oyster
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

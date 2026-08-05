@@ -249,26 +249,6 @@
             "notes": "Paintbrush in art (Photoshop out)"
         },
         {
-            "card_name": "Momentary Breakdown",
-            "color": "W",
-            "rarity": "common",
-            "type": "Instant",
-            "number": 17,
-            "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Exile target permanent, then return it to the battlefield under its owner's control.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
-            "flavor_text": "[i]The machines that sustain Srai-Val-Nul still function, but errors grow ever more frequent.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Tim Blandin",
-            "alias": "",
-            "position": "12",
-            "notes": ""
-        },
-        {
             "card_name": "Outcompete",
             "color": "R",
             "rarity": "common",
@@ -285,7 +265,7 @@
             "loyalty": "",
             "artist": "Peter Kovacs",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "notes": ""
         },
         {
@@ -305,7 +285,7 @@
             "loyalty": "",
             "artist": "Tom Cross",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "notes": ""
         },
         {
@@ -325,7 +305,7 @@
             "loyalty": "",
             "artist": "Takumer Homma",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "notes": "!tokens Drone<1>"
         },
         {
@@ -345,7 +325,7 @@
             "loyalty": "",
             "artist": "Naima S. T. C.",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "notes": ""
         },
         {
@@ -365,7 +345,7 @@
             "loyalty": "",
             "artist": "Kirill Skachkov",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "notes": "Human in art"
         },
         {
@@ -385,7 +365,7 @@
             "loyalty": "",
             "artist": "Lunart Christophe",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "notes": "ALTERANATE: 3/1 -> 2/2, Current triggered ability -> \"Whenever you draw your second card each turn, put a +1/+1 counter on Nanogene Thief. If it's an opponent's turn, you may move a counter from a creature that player controls onto Nanogene Thief instead.\""
         },
         {
@@ -405,7 +385,7 @@
             "loyalty": "",
             "artist": "Benjamin Carre",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "notes": "Replace art?"
         },
         {
@@ -425,7 +405,7 @@
             "loyalty": "",
             "artist": "Terry Maranda",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "card_name2": "Soulkeeper Drone",
             "color2": "W",
             "type2": "Artifact Creature \u2014 Drone",
@@ -456,7 +436,7 @@
             "loyalty": "",
             "artist": "Jos\u00e9 Arias",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "notes": ""
         },
         {
@@ -476,7 +456,7 @@
             "loyalty": "",
             "artist": "CMD Studios",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "notes": "!tokens Spirit<1>\n\n(Spotlight 6/8: Riv-Si turns out to be the villain, explains she wants Nevinyr to be destroyed so sapient life can't re-form)"
         },
         {
@@ -496,7 +476,7 @@
             "loyalty": "",
             "artist": "Cristian Chihaia",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": ""
         },
         {
@@ -516,7 +496,7 @@
             "loyalty": "",
             "artist": "SteveMobCannon",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": ""
         },
         {
@@ -536,7 +516,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "notes": "Orphaned FT: Without the wurms, entire segments would suffer ecological collapse.\n\nRemove slot temporarily?\n\nALTERNATE: Metastatic Sprawl 2G\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT: Put a +1/+1 counter on target creature that entered this turn.\u201d"
         },
         {
@@ -556,7 +536,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": "Human in art"
         },
         {
@@ -567,7 +547,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Vigilance\nWhenever Pitfall Excavator attacks, tap target creature an opponent controls.",
+            "rules_text": "Vigilance\nWhenever Pitfall Excavator enters or attacks, tap target creature an opponent controls.",
             "flavor_text": "[i]\u201cLesser planes attract conscious will like worms to a carcass. Here I may at last find what devices natural selection engineers when left to its own.\u201d\n\u2014MM01[/i]",
             "pt": "4/5",
             "special_text": "",
@@ -576,8 +556,8 @@
             "loyalty": "",
             "artist": "Cong Ma",
             "alias": "",
-            "position": "27",
-            "notes": "ALTERNATE: Nonartifact creature, change name/art/type?"
+            "position": "26",
+            "notes": "ALTERNATE: Nonartifact creature, change name/art/type?\n\nALTERNATE 2: \"or attacks\" -> \"or you cycle it\", cycling 2W?"
         },
         {
             "card_name": "Afflicted Sanguivore",
@@ -596,7 +576,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": ""
         },
         {
@@ -616,7 +596,7 @@
             "loyalty": "",
             "artist": "Corey Gooch",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": "ALTERNATE: Artifact creature, change name/art/type?"
         },
         {
@@ -636,7 +616,7 @@
             "loyalty": "",
             "artist": "Sam Lamont",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": "!tokens Drone<1>;Spirit<1>\n\nHuman in art (Photoshop out)"
         },
         {
@@ -656,7 +636,7 @@
             "loyalty": "",
             "artist": "Lie Setiawan",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": "Orphaned FT: \u201cDay 1: Decided to start a journal. At least now I'll have something to do.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -676,7 +656,7 @@
             "loyalty": "",
             "artist": "Orm Irian",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": "!tokens Drone<1>\n\nALTERNATE: Current AA effect -> \"Tap CARDNAME. It gains indestructible until end of turn.\""
         },
         {
@@ -696,8 +676,8 @@
             "loyalty": "",
             "artist": "Matt Mocarski",
             "alias": "",
-            "position": "33",
-            "notes": ""
+            "position": "32",
+            "notes": "ALTERNATE: 4/3 -> 4/4 OR 5/3?"
         },
         {
             "card_name": "Harsh Conditions",
@@ -716,7 +696,7 @@
             "loyalty": "",
             "artist": "Nathan Hardy",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": ""
         },
         {
@@ -727,7 +707,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Ward {3}\nOceanic Monstrosity can't be blocked as long as you control ten or more lands.",
+            "rules_text": "Ward {3}\nWhenever a land you control enters, Oceanic Monstrosity can't be blocked this turn.",
             "flavor_text": "[i]Many sea creatures never stop growing. Some can live for millennia.[/i]",
             "pt": "7/7",
             "special_text": "",
@@ -736,8 +716,8 @@
             "loyalty": "",
             "artist": "Jenny Wang",
             "alias": "",
-            "position": "35",
-            "notes": "ALTERNATE: Last ability -> \"Whenever a land you control enters, CARDNAME can't be blocked this turn.\""
+            "position": "34",
+            "notes": "ALTERNATE: Last ability -> \"CARDNAME can't be blocked as long as you control ten or more lands.\""
         },
         {
             "card_name": "Hydrolancer",
@@ -756,7 +736,7 @@
             "loyalty": "",
             "artist": "Dave Melvin",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": "ALTERNATE: Kraken Shrimp?"
         },
         {
@@ -776,7 +756,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": "Orphaned FT: It extracts and stores mana from Nevinyr's artificial leylines, serving as a refueling station for other drones."
         },
         {
@@ -796,7 +776,7 @@
             "loyalty": "",
             "artist": "Joyce Kim",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": ""
         },
         {
@@ -816,7 +796,7 @@
             "loyalty": "",
             "artist": "Tarek Samaan",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "notes": ""
         },
         {
@@ -836,7 +816,7 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": ""
         },
         {
@@ -856,7 +836,7 @@
             "loyalty": "",
             "artist": "Wiktor Ohman",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "notes": ""
         },
         {
@@ -876,7 +856,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": "Orphaned FT: \u201cI wonder how many times I've gone mad.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -896,8 +876,8 @@
             "loyalty": "",
             "artist": "Calvin Chua",
             "alias": "",
-            "position": "43",
-            "notes": ""
+            "position": "42",
+            "notes": "ALTERNATE: \"enters\" -> \"enters or you cycle it\", cycling 2B?"
         },
         {
             "card_name": "Twisted Amalgam",
@@ -916,7 +896,7 @@
             "loyalty": "",
             "artist": "Allan Santos",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": ""
         },
         {
@@ -936,7 +916,7 @@
             "loyalty": "",
             "artist": "yokell",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "ALTERNATE: 1B -> 2B, \"its owner's hand\" -> \"the battlefield tapped under its owner's control\"?\n\nHuman in art"
         },
         {
@@ -956,7 +936,7 @@
             "loyalty": "",
             "artist": "Tom Cross",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": ""
         },
         {
@@ -976,7 +956,7 @@
             "loyalty": "",
             "artist": "Matan Gantz",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": ""
         },
         {
@@ -996,7 +976,7 @@
             "loyalty": "",
             "artist": "Angga Dwipayana",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": ""
         },
         {
@@ -1016,7 +996,7 @@
             "loyalty": "",
             "artist": "Jonathan Powell",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": ""
         },
         {
@@ -1036,7 +1016,7 @@
             "loyalty": "",
             "artist": "Derek Edgell",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": ""
         },
         {
@@ -1047,7 +1027,7 @@
             "number": 98,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and a trample counter on it.",
+            "rules_text": "Target creature gets +2/+1 until end of turn. Put a +1/+1 counter and a trample counter on it.",
             "flavor_text": "[i]Many species have evolved to take advantage of Srai-Val-Nul's ancient technology, merging everything from adamantium plating to thaumic missile weaponry into their forms.[/i]",
             "pt": "",
             "special_text": "",
@@ -1056,8 +1036,8 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "51",
-            "notes": ""
+            "position": "50",
+            "notes": "CHANGELOG: +2/+0 -> +2/+1"
         },
         {
             "card_name": "Limits of Solidarity",
@@ -1076,7 +1056,7 @@
             "loyalty": "",
             "artist": "Kathryn Zalecka",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1089,15 +1069,15 @@
             "cost": "{4}{R}{R}",
             "rules_text": "Trample, haste",
             "flavor_text": "[i]Shielded from radiation by lead-lined cell walls and massively redundant nanogenetic code, it can live for centuries before the fusion reactor in its gut starts to break down.[/i]",
-            "pt": "5/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
             "artist": "D Rock",
             "alias": "",
-            "position": "53",
-            "notes": ""
+            "position": "52",
+            "notes": "CHANGELOG: 5/4 -> 5/5"
         },
         {
             "card_name": "Vengeant Earth",
@@ -1116,7 +1096,7 @@
             "loyalty": "",
             "artist": "Zudarts Lee",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1136,28 +1116,8 @@
             "loyalty": "",
             "artist": "Huy Tran Viet",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "Replace first mode with some other buff?\n\nReplace with 5/5 \"When CARDNAME enters, for each [other?] creature you control, choose a counter on that creature. You may put a counter of that kind on CARDNAME.\"?"
-        },
-        {
-            "card_name": "Root Grub",
-            "color": "G",
-            "rarity": "common",
-            "type": "Creature \u2014 Insect",
-            "number": 150,
-            "color_identity": "G",
-            "cost": "{2}{G}{G}",
-            "rules_text": "When Root Grub enters, look at the top X cards of your library, where X is the number of creatures in your ecosystem. You may reveal a permanent card from among them and put it into your hand. Then shuffle. [i](Your ecosystem consists of any number of creatures with different powers.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "2/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Raphaelle Deslandes",
-            "alias": "",
-            "position": "56",
-            "notes": ""
         },
         {
             "card_name": "Harvest Drone",
@@ -1176,7 +1136,7 @@
             "loyalty": "",
             "artist": "Ratko Radujkovic",
             "alias": "",
-            "position": "57",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1196,8 +1156,8 @@
             "loyalty": "",
             "artist": "Oasis Art Studio",
             "alias": "",
-            "position": "58",
-            "notes": ""
+            "position": "56",
+            "notes": "ALTERNATE: \"or dies\" -> \"or you cycle it\", \"4 life\" -> \"3 life\", cycling 2G?"
         },
         {
             "card_name": "Earth Weaver",
@@ -1216,7 +1176,7 @@
             "loyalty": "",
             "artist": "Xistence Imaginations",
             "alias": "",
-            "position": "59",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1236,7 +1196,7 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
-            "position": "60",
+            "position": "58",
             "notes": "!tokens Egg<1>\n\nALTERNATE: Remove 'T' from AA cost?\n\nOrphaned FT: If any of the Loci are displeased with the current location of a natural landmark, they simply tell it to move."
         },
         {
@@ -1256,7 +1216,7 @@
             "loyalty": "",
             "artist": "Nimphradora",
             "alias": "",
-            "position": "61",
+            "position": "59",
             "notes": "Replace art?\n\nTODO: Make 4 versions with different FTs and exportnames?"
         },
         {
@@ -1276,7 +1236,7 @@
             "loyalty": "",
             "artist": "Markus Vogt",
             "alias": "",
-            "position": "62",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1296,8 +1256,8 @@
             "loyalty": "",
             "artist": "Felipe Fesbra Escobar",
             "alias": "",
-            "position": "63",
-            "notes": "CHANGELOG: 6 4/5 -> 5 3/4, Vigilance -> reach"
+            "position": "61",
+            "notes": ""
         },
         {
             "card_name": "Resourceful Vermin",
@@ -1316,7 +1276,7 @@
             "loyalty": "",
             "artist": "Logan Feliciano",
             "alias": "",
-            "position": "64",
+            "position": "62",
             "card_name2": "Preserved Elder",
             "color2": "B",
             "type2": "Artifact Creature \u2014 Zombie Rat",
@@ -1347,7 +1307,7 @@
             "loyalty": "",
             "artist": "Orm Irian",
             "alias": "",
-            "position": "65",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1367,7 +1327,7 @@
             "loyalty": "",
             "artist": "Dreams in Frames",
             "alias": "",
-            "position": "66",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1387,7 +1347,7 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "position": "67",
+            "position": "65",
             "card_name2": "Seedborn Behemoth",
             "color2": "G",
             "type2": "Creature \u2014 Plant Elemental",
@@ -1406,7 +1366,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Beast",
-            "number": 152,
+            "number": 151,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Stampeding Thunderbeest enters with your choice of a +1/+1 counter or a trample counter on it.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
@@ -1418,7 +1378,7 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil",
             "alias": "",
-            "position": "68",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1438,7 +1398,7 @@
             "loyalty": "",
             "artist": "Chin Fong",
             "alias": "",
-            "position": "69",
+            "position": "67",
             "card_name2": "Unbound Overseer",
             "color2": "U",
             "type2": "Artifact Creature \u2014 Spirit",
@@ -1469,7 +1429,7 @@
             "loyalty": "",
             "artist": "Paul Canavan",
             "alias": "",
-            "position": "70",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1489,8 +1449,8 @@
             "loyalty": "",
             "artist": "Milica Celikovic",
             "alias": "",
-            "position": "71",
-            "notes": ""
+            "position": "69",
+            "notes": "ALTERNATE: 2/3 -> 3/2?"
         },
         {
             "card_name": "Evolving Wilds",
@@ -1509,7 +1469,7 @@
             "loyalty": "",
             "artist": "343 Industries",
             "alias": "",
-            "position": "72",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1529,7 +1489,7 @@
             "loyalty": "",
             "artist": "Daniel Mitchell",
             "alias": "",
-            "position": "73",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1549,7 +1509,7 @@
             "loyalty": "",
             "artist": "Facu Diaz",
             "alias": "",
-            "position": "74",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1569,7 +1529,7 @@
             "loyalty": "",
             "artist": "Jonathan Beard",
             "alias": "",
-            "position": "75",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1589,7 +1549,7 @@
             "loyalty": "",
             "artist": "David Edwards",
             "alias": "",
-            "position": "76",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1609,7 +1569,7 @@
             "loyalty": "",
             "artist": "Paradox Interactive",
             "alias": "",
-            "position": "77",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1629,7 +1589,7 @@
             "loyalty": "",
             "artist": "Doherty Associates, LLC",
             "alias": "",
-            "position": "78",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1649,7 +1609,7 @@
             "loyalty": "",
             "artist": "JW Bubb",
             "alias": "",
-            "position": "79",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1669,7 +1629,7 @@
             "loyalty": "",
             "artist": "Valentin Danu",
             "alias": "",
-            "position": "80",
+            "position": "78",
             "notes": "Replace art/name?"
         },
         {
@@ -1689,8 +1649,8 @@
             "loyalty": "",
             "artist": "Earl Lan",
             "alias": "",
-            "position": "81",
-            "notes": ""
+            "position": "79",
+            "notes": "ALTERNATE: Add \"(It must survive to get the counter.)\""
         },
         {
             "card_name": "Goliath Hydra",
@@ -1709,7 +1669,7 @@
             "loyalty": "",
             "artist": "Mazert Young",
             "alias": "",
-            "position": "82",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1729,7 +1689,7 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain",
             "alias": "",
-            "position": "83",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1749,7 +1709,7 @@
             "loyalty": "",
             "artist": "Colie Wertz",
             "alias": "",
-            "position": "84",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1769,7 +1729,7 @@
             "loyalty": "",
             "artist": "Catharina Wendland",
             "alias": "",
-            "position": "85",
+            "position": "83",
             "notes": "Replace first ability with \"You may cast CARDNAME from your graveyard if you paid a cost other than mana or tapping a permanent to activate an ability this turn.\" OR new design that has \"Pay 1 (2?) life: Add C. This mana can't be spent to cast a spell.\"?"
         },
         {
@@ -1780,24 +1740,24 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Menace\nWard\u2014Pay 5 life.\nFused Chimera can't be blocked by two or more creatures with the same power as each other.",
+            "rules_text": "Menace\nWard\u2014Pay 6 life.\nFused Chimera can't be blocked by two or more creatures with the same power as each other.",
             "flavor_text": "[i]Each limb is a sibling, each tendril a mate.[/i]",
-            "pt": "5/5",
+            "pt": "6/4",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "86",
-            "notes": ""
+            "position": "84",
+            "notes": "CHANGELOG: 5/5 -> 6/4, \"5 life\" -> \"6 life\""
         },
         {
             "card_name": "Rumbling Scalecrusher",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Lizard Beast",
-            "number": 151,
+            "number": 150,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Whenever Rumbling Scalecrusher attacks, target attacking creature gets +X/+0 until end of turn, where X is Rumbling Scalecrusher's power.",
@@ -1809,7 +1769,7 @@
             "loyalty": "",
             "artist": "Earl Lan",
             "alias": "",
-            "position": "87",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1829,7 +1789,7 @@
             "loyalty": "",
             "artist": "Tom Cross",
             "alias": "",
-            "position": "88",
+            "position": "86",
             "notes": "Replace art?"
         },
         {
@@ -1849,7 +1809,7 @@
             "loyalty": "",
             "artist": "Ivan Khotenov",
             "alias": "",
-            "position": "89",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1869,7 +1829,7 @@
             "loyalty": "",
             "artist": "Guillem H Pongiluppi",
             "alias": "",
-            "position": "90",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1889,7 +1849,7 @@
             "loyalty": "",
             "artist": "Wenhan Zhao",
             "alias": "",
-            "position": "91",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1909,7 +1869,7 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
-            "position": "92",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1929,27 +1889,7 @@
             "loyalty": "",
             "artist": "Ming Chi",
             "alias": "",
-            "position": "93",
-            "notes": ""
-        },
-        {
-            "card_name": "Extractor Vessel",
-            "color": "BR",
-            "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Spirit Construct",
-            "number": 159,
-            "color_identity": "BR",
-            "cost": "{1}{B}{R}",
-            "rules_text": "Whenever you spend mana to activate an ability, Extractor Vessel deals 1 damage to target opponent or battle and you gain 1 life.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Ast Ralf",
-            "alias": "",
-            "position": "94",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1957,7 +1897,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Fungus Dryad",
-            "number": 160,
+            "number": 159,
             "color_identity": "UG",
             "cost": "{3}{G}{U}{U}",
             "rules_text": "Fruiting Chorus's power and toughness are each equal to the number of lands you control.\nWhenever Fruiting Chorus attacks, draw a card, then you may put a land card from your hand onto the battlefield.",
@@ -1969,7 +1909,7 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "position": "95",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1989,27 +1929,7 @@
             "loyalty": "",
             "artist": "Izzy Medrano",
             "alias": "",
-            "position": "96",
-            "notes": ""
-        },
-        {
-            "card_name": "Nanogene Thief",
-            "color": "BG",
-            "rarity": "uncommon",
-            "type": "Creature \u2014 Vampire Gremlin",
-            "number": 163,
-            "color_identity": "BG",
-            "cost": "{B}{G}",
-            "rules_text": "Whenever a creature you control with toughness greater than Nanogene Thief's toughness enters, put a counter of your choice on Nanogene Thief from among +1/+1 and each kind of counter on a permanent.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dongjun Lu",
-            "alias": "",
-            "position": "97",
+            "position": "93",
             "notes": ""
         },
         {
@@ -2029,14 +1949,14 @@
             "loyalty": "",
             "artist": "Ben Bore",
             "alias": "",
-            "position": "98",
+            "position": "94",
             "notes": "!tokens Treasure<2>\n\nHuman in art"
         },
         {
             "card_name": "Magnetic Sandshaper",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Slug",
+            "type": "Artifact Creature \u2014 Trilobite",
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -2049,7 +1969,7 @@
             "loyalty": "",
             "artist": "Constantin Simion",
             "alias": "",
-            "position": "99",
+            "position": "95",
             "notes": "!tokens Sand Illusion<1>\n\nALTERNATE: \"When CARDNAME enters,\" -> \"Whenever CARDNAME enters or attacks, if you don't control a Sand token,\" and 1/6 -> 1/5"
         },
         {
@@ -2069,19 +1989,19 @@
             "loyalty": "",
             "artist": "Jamie Callow",
             "alias": "",
-            "position": "100",
+            "position": "96",
             "card_name2": "Fissure Titan",
             "color2": "R",
             "type2": "Creature \u2014 Elemental",
             "cost2": "",
             "rules_text2": "Whenever Fissure Titan attacks, target creature can't block this turn.\nWhen Fissure Titan dies, exile it.",
             "flavor_text2": "[i]The buildup of heat and pressure deep beneath Srai-Val-Nul's crust provides excellent conditions for igneous lithoids to incubate their young.[/i]",
-            "pt2": "5/3",
+            "pt2": "5/4",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Svetlin Velinov",
             "alias2": "",
-            "notes": "landslot"
+            "notes": "landslot\n\nCHANGELOG: 5/3 -> 5/4"
         },
         {
             "card_name": "Unexpected Windfall",
@@ -2100,7 +2020,7 @@
             "loyalty": "",
             "artist": "Stijn Windig",
             "alias": "",
-            "position": "101",
+            "position": "97",
             "notes": "!tokens Treasure<2>"
         },
         {
@@ -2111,7 +2031,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "{T}, Mill a card: Add {U}.\n{5}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.",
+            "rules_text": "{T}, Mill a card: Add {U}.\n{4}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.",
             "flavor_text": "[i]Fathomless knowledge at fathomless depths.[/i]",
             "pt": "",
             "special_text": "",
@@ -2120,8 +2040,8 @@
             "loyalty": "",
             "artist": "Luis Gama",
             "alias": "",
-            "position": "102",
-            "notes": ""
+            "position": "98",
+            "notes": "CHANGELOG: AA cost 5U -> 4U"
         },
         {
             "card_name": "Esyra's Claim",
@@ -2140,7 +2060,7 @@
             "loyalty": "",
             "artist": "Camille Kuo",
             "alias": "",
-            "position": "103",
+            "position": "99",
             "notes": "ALTERNATE: Add \"This spell costs 1 less to cast for each Esyra you control.\" OR increase cost to 4U + \"You control enchanted permanent.\"?\n\nALTERNATE2: Transmutative Sprawl 4U\nEnchant permanent\nYou control enchanted permanent.\nEnchanted permanent is a colorless Esyra land with \u201cT, Pay 1 life: Add one mana of any color\u201d and loses all other card types and abilities.\nEsyra you control have \u201cT: Surveil 1.\u201d"
         },
         {
@@ -2160,7 +2080,7 @@
             "loyalty": "",
             "artist": "Fred Gambino",
             "alias": "",
-            "position": "104",
+            "position": "100",
             "notes": "!related Drone Herding<2>;Silicon Predator;Spectral Pursuit;Integrated Armory;"
         },
         {
@@ -2180,7 +2100,7 @@
             "loyalty": "",
             "artist": "Joanna Koziol",
             "alias": "",
-            "position": "105",
+            "position": "101",
             "notes": "!related Spectral Pursuit;Soulkeeper Drone;Memories of Extinction;Eerie Citadel;"
         },
         {
@@ -2200,7 +2120,7 @@
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
             "alias": "",
-            "position": "106",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2220,7 +2140,7 @@
             "loyalty": "",
             "artist": "Kory Cromie",
             "alias": "",
-            "position": "107",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2240,7 +2160,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "position": "108",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2260,7 +2180,7 @@
             "loyalty": "",
             "artist": "Way Way",
             "alias": "",
-            "position": "109",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2280,7 +2200,7 @@
             "loyalty": "",
             "artist": "Fred Gambino",
             "alias": "",
-            "position": "110",
+            "position": "106",
             "notes": "Replace name?"
         },
         {
@@ -2291,7 +2211,7 @@
             "number": 81,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\n{3}{B}: Each opponent loses 1 life and you surveil 1.",
+            "rules_text": "Flying\n{3}{B}: Each opponent loses 1 life and you gain 1 life. Surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
@@ -2300,8 +2220,8 @@
             "loyalty": "",
             "artist": "Ole Gunnar Isager",
             "alias": "",
-            "position": "111",
-            "notes": ""
+            "position": "107",
+            "notes": "CHANGELOG: Added lifegain"
         },
         {
             "card_name": "Conductive Lithoid",
@@ -2320,7 +2240,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "112",
+            "position": "108",
             "notes": "ALTERNATE: 6/3 -> 4/5 (OR 4/4 reach)\n\nALTERNATE 2: 6/3 -> 4/4, Current static -> \"During your turn, CARDNAME has first strike.\"\n\nOrphaned FT: \u201cSuch low copper-orichalcum alloy density is inconsistent with their observed performance and implies serious measurement errors.\u201d\n\u2014Hosh-Kwa, Deepwell Species Database comment"
         },
         {
@@ -2340,7 +2260,7 @@
             "loyalty": "",
             "artist": "Tim Mcburnie",
             "alias": "",
-            "position": "113",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2360,7 +2280,7 @@
             "loyalty": "",
             "artist": "Puttipong Suwatthanawongchai",
             "alias": "",
-            "position": "114",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2380,7 +2300,7 @@
             "loyalty": "",
             "artist": "Xu Tianhua",
             "alias": "",
-            "position": "115",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2400,7 +2320,7 @@
             "loyalty": "",
             "artist": "Travis Anderson",
             "alias": "",
-            "position": "116",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2420,28 +2340,8 @@
             "loyalty": "",
             "artist": "Max Duran",
             "alias": "",
-            "position": "117",
+            "position": "113",
             "notes": ""
-        },
-        {
-            "card_name": "Ancient Relic",
-            "color": "",
-            "rarity": "common",
-            "type": "Artifact",
-            "number": 167,
-            "color_identity": "C",
-            "cost": "{4}",
-            "rules_text": "{T}: Add {C}{C}.\n{7}, {T}, Sacrifice Ancient Relic: Create a 7/7 colorless Construct artifact creature token. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Ismail Inceoglu",
-            "alias": "",
-            "position": "118",
-            "notes": "!tokens Construct<1>"
         },
         {
             "card_name": "Unburied Secrets",
@@ -2460,7 +2360,7 @@
             "loyalty": "",
             "artist": "Roger Creus",
             "alias": "",
-            "position": "119",
+            "position": "114",
             "notes": "Human in art\n\nALTERNATE: Churning Sprawl 2B\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, draw a card and create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT, Pay 2 life: Draw a card.\u201d"
         },
         {
@@ -2480,7 +2380,7 @@
             "loyalty": "",
             "artist": "Jonas Buttner",
             "alias": "",
-            "position": "120",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2500,7 +2400,7 @@
             "loyalty": "",
             "artist": "Bruce Brenneise",
             "alias": "",
-            "position": "121",
+            "position": "116",
             "notes": "ALTERNATE: 1/1 -> 1/3, Current ability -> \"Whenever CARDNAME attacks, create a tapped and attacking X/X white ??? creature token, where X is the number of creatures in your ecosystem. Exile that token at end of combat.\"\n\nALTERNATE 2: 1/1 -> 3/2, Current ability -> \"Whenever CARDNAME attacks, tap target creature an opponent controls with power less than or equal to the number of creatures in your ecosystem.\""
         },
         {
@@ -2520,8 +2420,8 @@
             "loyalty": "",
             "artist": "Tom Cross",
             "alias": "",
-            "position": "122",
-            "notes": ""
+            "position": "117",
+            "notes": "ALTERNATE: +1/+1 -> +1/+2?"
         },
         {
             "card_name": "False Ectomorph",
@@ -2540,7 +2440,7 @@
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
             "alias": "",
-            "position": "123",
+            "position": "118",
             "notes": ""
         },
         {
@@ -2560,7 +2460,7 @@
             "loyalty": "",
             "artist": "Trevan Crowe",
             "alias": "",
-            "position": "124",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2580,7 +2480,7 @@
             "loyalty": "",
             "artist": "Dave Melvin",
             "alias": "",
-            "position": "125",
+            "position": "120",
             "notes": "Replace art?"
         },
         {
@@ -2600,7 +2500,7 @@
             "loyalty": "",
             "artist": "Pavel Vophira",
             "alias": "",
-            "position": "126",
+            "position": "121",
             "notes": ""
         },
         {
@@ -2620,7 +2520,7 @@
             "loyalty": "",
             "artist": "Michele Parisi",
             "alias": "",
-            "position": "127",
+            "position": "122",
             "notes": "!tokens Leech<1>\n\nALTERNATE: Artifact creature, change name/art/type OR remove 'T' from AA cost, rebalance accordingly?"
         },
         {
@@ -2640,7 +2540,7 @@
             "loyalty": "",
             "artist": "Vadim Simanin",
             "alias": "",
-            "position": "128",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2660,7 +2560,7 @@
             "loyalty": "",
             "artist": "Sam Drew",
             "alias": "",
-            "position": "129",
+            "position": "124",
             "notes": "!tokens Treasure<1>"
         },
         {
@@ -2680,7 +2580,7 @@
             "loyalty": "",
             "artist": "Sebastien Riant",
             "alias": "",
-            "position": "130",
+            "position": "125",
             "notes": "Replace art?"
         },
         {
@@ -2700,7 +2600,7 @@
             "loyalty": "",
             "artist": "Guido Kuip",
             "alias": "",
-            "position": "131",
+            "position": "126",
             "notes": ""
         },
         {
@@ -2720,7 +2620,7 @@
             "loyalty": "",
             "artist": "Tom Cross",
             "alias": "",
-            "position": "132",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2740,7 +2640,7 @@
             "loyalty": "",
             "artist": "Adam Phillips",
             "alias": "",
-            "position": "133",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2760,7 +2660,7 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "134",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2780,7 +2680,7 @@
             "loyalty": "",
             "artist": "Tu Bui",
             "alias": "",
-            "position": "135",
+            "position": "130",
             "notes": "!tokens Starfish<1>"
         },
         {
@@ -2800,7 +2700,7 @@
             "loyalty": "",
             "artist": "Fuyuan Tee",
             "alias": "",
-            "position": "136",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2820,28 +2720,8 @@
             "loyalty": "",
             "artist": "Xu Tianhua",
             "alias": "",
-            "position": "137",
+            "position": "132",
             "notes": ""
-        },
-        {
-            "card_name": "Detritus Hoarder",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Insect Crab",
-            "number": 102,
-            "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "First strike\nWhenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.\n{1}: Detritus Hoarder gets +1/+0 until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "0/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Nick Keller",
-            "alias": "",
-            "position": "138",
-            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Overgrown Rustshell",
@@ -2860,7 +2740,7 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
-            "position": "139",
+            "position": "133",
             "notes": "Numbers in art (Photoshop out)"
         },
         {
@@ -2880,7 +2760,7 @@
             "loyalty": "",
             "artist": "Dan Rossi",
             "alias": "",
-            "position": "140",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2900,7 +2780,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "position": "141",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2920,7 +2800,7 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "position": "142",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2940,7 +2820,7 @@
             "loyalty": "",
             "artist": "Melissa Montabord",
             "alias": "",
-            "position": "143",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2960,7 +2840,7 @@
             "loyalty": "",
             "artist": "Hideaki Mio",
             "alias": "",
-            "position": "144",
+            "position": "138",
             "notes": ""
         },
         {
@@ -2980,7 +2860,7 @@
             "loyalty": "",
             "artist": "Peter Kovacs",
             "alias": "",
-            "position": "145",
+            "position": "139",
             "notes": "!related Spawnsac Mutualist;"
         },
         {
@@ -3000,7 +2880,7 @@
             "loyalty": "",
             "artist": "Eunha Shin",
             "alias": "",
-            "position": "146",
+            "position": "140",
             "notes": "!related District Sower;Esyra Outskirts;Infected Segment;"
         },
         {
@@ -3020,7 +2900,7 @@
             "loyalty": "",
             "artist": "Dmitriy Balashov",
             "alias": "",
-            "position": "147",
+            "position": "141",
             "notes": ""
         },
         {
@@ -3040,7 +2920,7 @@
             "loyalty": "",
             "artist": "Tyler edlin",
             "alias": "",
-            "position": "148",
+            "position": "142",
             "notes": "Replace art?"
         },
         {
@@ -3060,7 +2940,7 @@
             "loyalty": "",
             "artist": "Bruce Brenneise",
             "alias": "",
-            "position": "149",
+            "position": "143",
             "notes": ""
         },
         {
@@ -3080,7 +2960,7 @@
             "loyalty": "",
             "artist": "Tu Bui",
             "alias": "",
-            "position": "150",
+            "position": "144",
             "notes": "!related Fractal Fission;"
         },
         {
@@ -3100,7 +2980,7 @@
             "loyalty": "",
             "artist": "Seok Min Eo",
             "alias": "",
-            "position": "151",
+            "position": "145",
             "notes": "Orphaned FT: \u201cRepulsive, muddy water with tiny worms swimming in it. But after five weeks with nothing to drink, it tastes like ambrosia.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -3120,7 +3000,7 @@
             "loyalty": "",
             "artist": "Phase Runner",
             "alias": "",
-            "position": "152",
+            "position": "146",
             "notes": "!related Brooding Terraloth;"
         },
         {
@@ -3140,7 +3020,7 @@
             "loyalty": "",
             "artist": "Adrian Virlan",
             "alias": "",
-            "position": "153",
+            "position": "147",
             "notes": "!related Buried Cache;Detritus Hoarder;Reactor Forger;Unexpected Windfall<2>;Cloud of Wreckage<2>;"
         },
         {
@@ -3160,7 +3040,7 @@
             "loyalty": "4",
             "artist": "Dave Melvin",
             "alias": "",
-            "position": "154",
+            "position": "148",
             "card_name2": "Jagged Fangs",
             "color2": "R",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3191,7 +3071,7 @@
             "loyalty": "5",
             "artist": "Aaron Rolfe",
             "alias": "",
-            "position": "155",
+            "position": "149",
             "card_name2": "Immense Size",
             "color2": "G",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3222,7 +3102,7 @@
             "loyalty": "3",
             "artist": "Brandon Ellis",
             "alias": "",
-            "position": "156",
+            "position": "150",
             "card_name2": "Hardy Gut",
             "color2": "B",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3253,7 +3133,7 @@
             "loyalty": "4",
             "artist": "Diana Tsareva",
             "alias": "",
-            "position": "157",
+            "position": "151",
             "card_name2": "Skyborne Maw",
             "color2": "U",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3284,7 +3164,7 @@
             "loyalty": "4",
             "artist": "Liang Mark",
             "alias": "",
-            "position": "158",
+            "position": "152",
             "card_name2": "Networked Pheromones",
             "color2": "W",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3315,28 +3195,8 @@
             "loyalty": "",
             "artist": "Johan Espling",
             "alias": "",
-            "position": "159",
+            "position": "153",
             "notes": "Human in art\n\nALTERNATE: Labyrinthine Sprawl W\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201c2, T: Tap target creature. This ability costs 2 less to activate during your turn.\u201d"
-        },
-        {
-            "card_name": "Construct",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Construct",
-            "number": 8,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "7/7",
-            "special_text": "",
-            "shape": "token",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dimitar Katsarov",
-            "alias": "",
-            "position": "160",
-            "notes": "!related Ancient Relic;"
         },
         {
             "card_name": "Mana Siphoning",
@@ -3355,7 +3215,7 @@
             "loyalty": "3",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "161",
+            "position": "154",
             "card_name2": "Arcane Senses",
             "color2": "U",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3386,7 +3246,7 @@
             "loyalty": "4",
             "artist": "Chen-Yang Hsu",
             "alias": "",
-            "position": "162",
+            "position": "155",
             "card_name2": "Grasping Claws",
             "color2": "B",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3417,7 +3277,7 @@
             "loyalty": "3",
             "artist": "Tu Bui",
             "alias": "",
-            "position": "163",
+            "position": "156",
             "card_name2": "Ashen Carapace",
             "color2": "R",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3448,7 +3308,7 @@
             "loyalty": "4",
             "artist": "Emilie Barboiron",
             "alias": "",
-            "position": "164",
+            "position": "157",
             "card_name2": "Morphic Hide",
             "color2": "G",
             "type2": "Enchantment \u2014 Adaptation",
@@ -3479,7 +3339,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "position": "165",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3499,7 +3359,7 @@
             "loyalty": "",
             "artist": "Joel Pigou",
             "alias": "",
-            "position": "166",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3519,7 +3379,7 @@
             "loyalty": "",
             "artist": "Ken Nguyen",
             "alias": "",
-            "position": "167",
+            "position": "160",
             "notes": "Replace art?"
         },
         {
@@ -3539,7 +3399,7 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "position": "168",
+            "position": "161",
             "notes": "!tokens Treasure<1>\n\nALTERNATE: Hazardous Sprawl 2R\nEnchantment\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \"T, Pay 1 life: Add one mana of any color.\"\nEsyra you control have \"T: This land deals 1 damage to each opponent.\""
         },
         {
@@ -3559,7 +3419,7 @@
             "loyalty": "",
             "artist": "Chris Kotiesen",
             "alias": "",
-            "position": "169",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3579,7 +3439,7 @@
             "loyalty": "",
             "artist": "Oliver Bown",
             "alias": "",
-            "position": "170",
+            "position": "163",
             "notes": "!tokens Esyra<1>\n\nALTERNATE: Destroy and replace opponent's land -> \"You gain 3 life\" OR \"Draw a card, then discard a card\""
         },
         {
@@ -3599,7 +3459,7 @@
             "loyalty": "",
             "artist": "Bartek Fedyczak",
             "alias": "",
-            "position": "171",
+            "position": "164",
             "notes": "Remove slot temporarily?"
         },
         {
@@ -3619,7 +3479,7 @@
             "loyalty": "",
             "artist": "Domen Kozelj",
             "alias": "",
-            "position": "172",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3639,7 +3499,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "173",
+            "position": "166",
             "notes": "!tokens Insect<1>"
         },
         {
@@ -3659,7 +3519,7 @@
             "loyalty": "",
             "artist": "D Rock",
             "alias": "",
-            "position": "174",
+            "position": "167",
             "notes": "!tokens Elemental<1>\n\nRemove slot temporarily?"
         },
         {
@@ -3679,7 +3539,7 @@
             "loyalty": "",
             "artist": "Dave Melvin",
             "alias": "",
-            "position": "175",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3699,7 +3559,7 @@
             "loyalty": "",
             "artist": "Quentin Regnes",
             "alias": "",
-            "position": "176",
+            "position": "169",
             "notes": "Remove slot temporarily?"
         },
         {
@@ -3719,7 +3579,7 @@
             "loyalty": "",
             "artist": "Travis Lacey",
             "alias": "",
-            "position": "177",
+            "position": "170",
             "notes": "Remove slot temporarily?"
         },
         {
@@ -3739,7 +3599,7 @@
             "loyalty": "",
             "artist": "Andrea Susini",
             "alias": "",
-            "position": "178",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3759,7 +3619,7 @@
             "loyalty": "",
             "artist": "Fran Fdez",
             "alias": "",
-            "position": "179",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3779,7 +3639,7 @@
             "loyalty": "",
             "artist": "Francesco Grazia",
             "alias": "",
-            "position": "180",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3799,7 +3659,7 @@
             "loyalty": "",
             "artist": "Ekaterina Yastrubetskaya",
             "alias": "",
-            "position": "181",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3819,7 +3679,7 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo",
             "alias": "",
-            "position": "182",
+            "position": "175",
             "notes": "!related Magnetic Sandshaper;"
         },
         {
@@ -3839,7 +3699,7 @@
             "loyalty": "",
             "artist": "Sandra Anden",
             "alias": "",
-            "position": "183",
+            "position": "176",
             "notes": "!related Larva Injector;"
         },
         {
@@ -3859,7 +3719,7 @@
             "loyalty": "",
             "artist": "Svetlin Velinov",
             "alias": "",
-            "position": "184",
+            "position": "177",
             "notes": "!related Awakener Gremlin;Stoneguide Skycoil;"
         },
         {
@@ -3879,7 +3739,7 @@
             "loyalty": "",
             "artist": "Philipp Grote",
             "alias": "",
-            "position": "185",
+            "position": "178",
             "notes": "Orphaned FT: \u201cI've been walking through this cloud for days, and I still haven't reached the other side.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -3899,7 +3759,7 @@
             "loyalty": "",
             "artist": "Chan Sue Yii",
             "alias": "",
-            "position": "186",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3919,7 +3779,7 @@
             "loyalty": "",
             "artist": "Adrian Bobb",
             "alias": "",
-            "position": "187",
+            "position": "180",
             "notes": "WU: Artifact + nonartifact creatures\nUB: Transition control\nBR: Activated abilities\nRG: Ecosystem ramp\nGW: Legacy counters\nWB: Legacy sacrifice\nUR: Cycling discard\nBG: Legacy graveyard\nRW: Ecosystem aggro\nGU: Land ramp\n\nCross-Archetypes\nNeed More Synergy: G(W/U)\nMight Have Enough Synergy: W(U/B), W(U/R), W(G/U), U(B/R), U(R/G), U(G/W), U(W/B), U(R/W), B(W/U), B(R/G), B(U/R), B(G/U), R(W/U), R(B/G), R(W/B), R(G/U), G(U/B), G(B/R), G(R/W)\nNatural Synergy: W(B/R), W(R/G), U(B/G), B(R/W), G(U/R)\nInnate Synergy: W(B/G), B(G/W), R(U/B), R(G/W), G(W/B)"
         },
         {
@@ -3939,7 +3799,7 @@
             "loyalty": "",
             "artist": "Alex Nice",
             "alias": "",
-            "position": "188",
+            "position": "181",
             "notes": "Replace first ability with \"Whenever one or more counters are put on one or more other permanents you control, choose one of those counters. You may put a counter of that kind on CARDNAME.\"?"
         },
         {
@@ -3959,7 +3819,7 @@
             "loyalty": "",
             "artist": "Rudy Parfaite",
             "alias": "",
-            "position": "189",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3979,7 +3839,7 @@
             "loyalty": "",
             "artist": "Marc-Antonio Deogracias",
             "alias": "",
-            "position": "190",
+            "position": "183",
             "notes": "ALTERNATE: Internal Collapse?"
         },
         {
@@ -3999,7 +3859,7 @@
             "loyalty": "",
             "artist": "Joe Grabenstetter",
             "alias": "",
-            "position": "191",
+            "position": "184",
             "notes": ""
         },
         {
@@ -4019,7 +3879,7 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
-            "position": "192",
+            "position": "185",
             "notes": "Replace art?\n\nOrphaned FT: \u201cEven after all these eons, this city is a sight to behold. It must look even more impressive underneath that layer of permafrost.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -4039,7 +3899,7 @@
             "loyalty": "",
             "artist": "Way Way",
             "alias": "",
-            "position": "193",
+            "position": "186",
             "notes": ""
         },
         {
@@ -4059,7 +3919,7 @@
             "loyalty": "",
             "artist": "Eric He",
             "alias": "",
-            "position": "194",
+            "position": "187",
             "notes": ""
         },
         {
@@ -4079,7 +3939,7 @@
             "loyalty": "",
             "artist": "Jin Xiaodi",
             "alias": "",
-            "position": "195",
+            "position": "188",
             "notes": "ALTERNATE: Nonartifact creature, change name/art/type?"
         },
         {
@@ -4099,7 +3959,7 @@
             "loyalty": "",
             "artist": "Sathish Kumar",
             "alias": "",
-            "position": "196",
+            "position": "189",
             "notes": "ALTERNATE: Nonartifact creature, change name/art/type?"
         },
         {
@@ -4119,7 +3979,7 @@
             "loyalty": "",
             "artist": "343 Industries",
             "alias": "",
-            "position": "197",
+            "position": "190",
             "notes": "!tokens Esyra<1>"
         },
         {
@@ -4139,7 +3999,7 @@
             "loyalty": "",
             "artist": "Steven Vincent Johnson",
             "alias": "",
-            "position": "198",
+            "position": "191",
             "notes": ""
         },
         {
@@ -4159,7 +4019,7 @@
             "loyalty": "",
             "artist": "Olli Westphal",
             "alias": "",
-            "position": "199",
+            "position": "192",
             "notes": ""
         },
         {
@@ -4179,7 +4039,7 @@
             "loyalty": "",
             "artist": "Christopher Rapczynski",
             "alias": "",
-            "position": "200",
+            "position": "193",
             "notes": ""
         },
         {
@@ -4199,7 +4059,7 @@
             "loyalty": "",
             "artist": "Tyler Klimek",
             "alias": "",
-            "position": "201",
+            "position": "194",
             "notes": ""
         },
         {
@@ -4219,7 +4079,7 @@
             "loyalty": "",
             "artist": "Michael Stead",
             "alias": "",
-            "position": "202",
+            "position": "195",
             "notes": ""
         },
         {
@@ -4239,7 +4099,7 @@
             "loyalty": "",
             "artist": "Anton Fadeev",
             "alias": "",
-            "position": "203",
+            "position": "196",
             "notes": "!tokens Spirit<1>\n\nReplace name?"
         },
         {
@@ -4259,7 +4119,7 @@
             "loyalty": "",
             "artist": "Josef Barton",
             "alias": "",
-            "position": "204",
+            "position": "197",
             "notes": ""
         },
         {
@@ -4279,7 +4139,7 @@
             "loyalty": "",
             "artist": "Christer Degerman",
             "alias": "",
-            "position": "205",
+            "position": "198",
             "notes": "Human in art"
         },
         {
@@ -4299,7 +4159,7 @@
             "loyalty": "",
             "artist": "Vincentius Matthew",
             "alias": "",
-            "position": "206",
+            "position": "199",
             "notes": "Human in art"
         },
         {
@@ -4319,7 +4179,7 @@
             "loyalty": "",
             "artist": "Grady Frederick",
             "alias": "",
-            "position": "207",
+            "position": "200",
             "notes": "Human in art (photoshop out)"
         },
         {
@@ -4339,7 +4199,7 @@
             "loyalty": "",
             "artist": "Nivanh Chanthara",
             "alias": "",
-            "position": "208",
+            "position": "201",
             "notes": ""
         },
         {
@@ -4359,7 +4219,7 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
-            "position": "209",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4379,7 +4239,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "210",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4399,7 +4259,7 @@
             "loyalty": "3",
             "artist": "Flavio Greco Paglia",
             "alias": "",
-            "position": "211",
+            "position": "204",
             "card_name2": "Caste Division",
             "color2": "W",
             "type2": "Enchantment \u2014 Adaptation",
@@ -4412,6 +4272,146 @@
             "artist2": "Jose Arias",
             "alias2": "",
             "notes": "landslot"
+        },
+        {
+            "card_name": "Momentary Breakdown",
+            "color": "W",
+            "rarity": "common",
+            "type": "Instant",
+            "number": 17,
+            "color_identity": "W",
+            "cost": "{2}{W}",
+            "rules_text": "Exile target nonland permanent, then return it to the battlefield under its owner's control.\nCycling {W} [i]({W}, Discard this card: Draw a card.)[/i]",
+            "flavor_text": "[i]The machines that sustain Srai-Val-Nul still function, but errors grow ever more frequent.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Tim Blandin",
+            "alias": "",
+            "position": "205",
+            "notes": "CHANGELOG: Nonland, cycling cost 2 -> W"
+        },
+        {
+            "card_name": "Insatiable Voidtongue",
+            "color": "BR",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Jellyfish Leech",
+            "number": 160,
+            "color_identity": "BR",
+            "cost": "{1}{B}{R}",
+            "rules_text": "Whenever you spend mana to activate an ability, Insatiable Voidtongue deals 1 damage to target opponent or battle and you gain 1 life.",
+            "flavor_text": "[i]Not content to parasitize individual organisms, it drains the life force from whole ecosystems at once.[/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Rob Powell",
+            "alias": "",
+            "position": "206",
+            "notes": "ALTERNATE: \"Voidtongue\" -> \"Voidtrunk\"?"
+        },
+        {
+            "card_name": "Nanogene Thief",
+            "color": "BG",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Vampire Nautilus",
+            "number": 163,
+            "color_identity": "BG",
+            "cost": "{B}{G}",
+            "rules_text": "Whenever a creature you control with toughness greater than Nanogene Thief's toughness enters, put a counter of your choice on Nanogene Thief from among +1/+1 and each kind of counter on a permanent.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Nate Hallinan",
+            "alias": "",
+            "position": "207",
+            "notes": ""
+        },
+        {
+            "card_name": "Tropical Laminopod",
+            "color": "G",
+            "rarity": "common",
+            "type": "Creature \u2014 Plant Octopus",
+            "number": 152,
+            "color_identity": "G",
+            "cost": "{2}{G}{G}",
+            "rules_text": "When Tropical Laminopod enters, look at the top X cards of your library, where X is the number of creatures in your ecosystem. You may reveal a permanent card from among them and put it into your hand. Then shuffle. [i](Your ecosystem consists of any number of creatures with different powers.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Pencil Equipped",
+            "alias": "",
+            "position": "208",
+            "notes": "ALTERNATE: Revert to Root Grub?"
+        },
+        {
+            "card_name": "Ancient Relic",
+            "color": "",
+            "rarity": "common",
+            "type": "Artifact",
+            "number": 167,
+            "color_identity": "C",
+            "cost": "{4}",
+            "rules_text": "{T}: Add {C}{C}.\n{7}, {T}, Sacrifice Ancient Relic: Create a 7/7 colorless Construct artifact creature token. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Ismail Inceoglu",
+            "alias": "",
+            "position": "209",
+            "notes": "!tokens Construct<1>\n\nALTERNATE: Construct -> Orb?"
+        },
+        {
+            "card_name": "Construct",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Construct",
+            "number": 8,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "7/7",
+            "special_text": "",
+            "shape": "token",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Dimitar Katsarov",
+            "alias": "",
+            "position": "210",
+            "notes": "!related Ancient Relic;"
+        },
+        {
+            "card_name": "Detritus Hoarder",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Artifact Creature \u2014 Insect Oyster",
+            "number": 102,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "First strike\nWhenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.\n{1}: Detritus Hoarder gets +1/+0 until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "EVO",
+            "loyalty": "",
+            "artist": "Nick Keller",
+            "alias": "",
+            "position": "211",
+            "notes": "!tokens Treasure<1>"
         }
     ]
 }

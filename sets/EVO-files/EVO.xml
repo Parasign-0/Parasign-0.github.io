@@ -5,7 +5,7 @@
 			<name>EVO</name>
 			<longname>Evolution on Srai-Val-Nul</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-11</releasedate>
+			<releasedate>2026-08-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -212,26 +212,9 @@ Whenever another creature you control dies, you gain 1 life and surveil 1.</text
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Momentary Breakdown</name>
-			<text>Exile target permanent, then return it to the battlefield under its owner&apos;s control.
-Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/12.png" num="17">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Outcompete</name>
 			<text>Outcompete deals X damage to target creature, where X is 1 plus the number of creatures in your ecosystem. If that creature would die this turn, exile it instead. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/13.png" num="111">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/12.png" num="111">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -248,7 +231,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Feral Hunter-Killer</name>
 			<text>Trample
 When Feral Hunter-Killer enters, search your library for a basic land card or battle card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/14.png" num="170">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/13.png" num="170">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -265,7 +248,7 @@ When Feral Hunter-Killer enters, search your library for a basic land card or ba
 			<text>When Integrated Armory enters, create a 1/1 colorless Drone artifact creature token, then attach Integrated Armory to it.
 Whenever equipped creature attacks, put a +1/+1 counter on it.
 Equip {4}</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/15.png" num="171">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/14.png" num="171">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -281,7 +264,7 @@ Equip {4}</text>
 			<name>Endless Path</name>
 			<text>{T}: Add {C}.
 {2}, {T}: You may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/16.png" num="185">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/15.png" num="185">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,7 +278,7 @@ Equip {4}</text>
 		<card>
 			<name>Treasure Hunt</name>
 			<text>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/17.png" num="61">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/16.png" num="61">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -312,7 +295,7 @@ Equip {4}</text>
 			<name>Genetic Scavenger</name>
 			<text>{2}{B}, Exile two cards from your graveyard: Put a counter of your choice on Genetic Scavenger from among menace, lifelink, and +1/+1.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/18.png" num="74">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/17.png" num="74">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -331,7 +314,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>Enchant creature
 When Drowning in Tar enters, remove all counters from enchanted creature.
 Enchanted creature gets -1/-1 and has &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/19.png" num="73">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/18.png" num="73">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +333,7 @@ Enchanted creature gets -1/-1 and has &quot;At the beginning of your end step, s
 {5}{W}: Return Surgical Drone from your graveyard to the battlefield transformed. Activate only as a sorcery.
 ---
 (Back): Soulkeeper Drone</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/20_front.png" num="26a">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/19_front.png" num="26a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -372,7 +355,7 @@ Enchanted creature gets -1/-1 and has &quot;At the beginning of your end step, s
 When Soulkeeper Drone dies, exile it and create a 1/1 white Spirit creature token with flying.
 ---
 (Front): Surgical Drone</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/20_back.png" num="26b">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/19_back.png" num="26b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -393,7 +376,7 @@ When Soulkeeper Drone dies, exile it and create a 1/1 white Spirit creature toke
 			<text>Enchant land
 When Distant Horizons enters, put a counter of your choice on target creature you control from among vigilance, reach, and +1/+1.
 Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/21.png" num="133">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/20.png" num="133">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +392,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
 		<card>
 			<name>Memories of Extinction</name>
 			<text>At the beginning of your upkeep, you may pay 1 life and exile two cards from your graveyard. If you do, create a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/22.png" num="79">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/21.png" num="79">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -426,7 +409,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
 		<card>
 			<name>Automated Defenses</name>
 			<text>Automated Defenses deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/23.png" num="2">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/22.png" num="2">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -443,7 +426,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
 			<name>Rapid Assimilation</name>
 			<text>Move any number of counters from artifacts, creatures, and lands you control onto target permanent you control.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/24.png" num="148">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/23.png" num="148">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +442,7 @@ Draw a card.</text>
 		<card>
 			<name>Improbable Survival</name>
 			<text>Put a +1/+1 counter on target creature. Untap it. It gains hexproof and indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/25.png" num="144">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/24.png" num="144">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -476,7 +459,7 @@ Draw a card.</text>
 			<name>Perilous Descent</name>
 			<text>At the beginning of your upkeep, mill a card.
 {3}{G}, Exile Perilous Descent: Return up to two target permanent cards from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/26.png" num="147">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/25.png" num="147">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -492,8 +475,8 @@ Draw a card.</text>
 		<card>
 			<name>Pitfall Excavator</name>
 			<text>Vigilance
-Whenever Pitfall Excavator attacks, tap target creature an opponent controls.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/27.png" num="21">EVO</set>
+Whenever Pitfall Excavator enters or attacks, tap target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/26.png" num="21">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -511,7 +494,7 @@ Whenever Pitfall Excavator attacks, tap target creature an opponent controls.</t
 			<name>Afflicted Sanguivore</name>
 			<text>Lifelink
 Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/28.png" num="63">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/27.png" num="63">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -528,7 +511,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 		<card>
 			<name>Tanglepod Larva</name>
 			<text>{1}{W}, {T}: Tap target creature.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/29.png" num="28">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/28.png" num="28">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -545,7 +528,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 		<card>
 			<name>Spectral Pursuit</name>
 			<text>Create a 1/1 colorless Drone artifact creature token and a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/30.png" num="25">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/29.png" num="25">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,7 +546,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 		<card>
 			<name>Symbiotic Tactics</name>
 			<text>Put a +1/+1 counter on up to one target artifact creature and up to one target nonartifact creature. Those creatures gain first strike until end of turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/31.png" num="27">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/30.png" num="27">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -580,7 +563,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 			<name>Silicate Predator</name>
 			<text>When Silicate Predator enters, create a 1/1 colorless Drone artifact creature token.
 {2}, Sacrifice another creature: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/32.png" num="24">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/31.png" num="24">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -598,7 +581,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 		<card>
 			<name>Deconstructor Swarm</name>
 			<text>When Deconstructor Swarm enters, tap target creature an opponent controls. Put a stun counter on it for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/33.png" num="34">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/32.png" num="34">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -616,7 +599,7 @@ Whenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 
 			<name>Harsh Conditions</name>
 			<text>Tap up to two target creatures. For each of them, put your choice of a stun counter or a +1/+1 counter on it.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/34.png" num="43">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/33.png" num="43">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -632,8 +615,8 @@ Draw a card.</text>
 		<card>
 			<name>Oceanic Monstrosity</name>
 			<text>Ward {3}
-Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lands.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/35.png" num="50">EVO</set>
+Whenever a land you control enters, Oceanic Monstrosity can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/34.png" num="50">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -650,7 +633,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Hydrolancer</name>
 			<text>When Hydrolancer enters, for each player, return up to one target creature that player controls to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/36.png" num="44">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/35.png" num="44">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -667,7 +650,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Phase Stalker</name>
 			<text>Whenever you discard a card, Phase Stalker gets +1/+0 until end of turn and can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/37.png" num="53">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/36.png" num="53">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -684,7 +667,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Out of Sync</name>
 			<text>Counter target spell unless its controller pays {X}. Surveil 1.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/38.png" num="52">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/37.png" num="52">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -700,7 +683,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Relentless Rover</name>
 			<text>{2}{B}: Return Relentless Rover from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/39.png" num="83">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/38.png" num="83">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -717,7 +700,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Blight Gorger</name>
 			<text>At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on target creature.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/40.png" num="64">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/39.png" num="64">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -734,7 +717,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 		<card>
 			<name>Culling Drone</name>
 			<text>When Culling Drone enters, target opponent sacrifices a creature with the same power as another creature they control.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/41.png" num="72">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/40.png" num="72">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -752,7 +735,7 @@ Oceanic Monstrosity can&apos;t be blocked as long as you control ten or more lan
 			<name>Vestige of Calamity</name>
 			<text>Flying
 When Vestige of Calamity enters, you may have it deal 3 damage to another creature you control. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/42.png" num="92">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/41.png" num="92">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -770,7 +753,7 @@ When Vestige of Calamity enters, you may have it deal 3 damage to another creatu
 			<name>Bloodstalker Pack</name>
 			<text>Menace
 When Bloodstalker Pack enters, destroy target creature an opponent controls that was dealt damage this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/43.png" num="67">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/42.png" num="67">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -787,7 +770,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Twisted Amalgam</name>
 			<text>Whenever a creature you control with a counter on it dies, draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/44.png" num="89">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/43.png" num="89">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -804,7 +787,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Unnatural Preservation</name>
 			<text>Put your choice of a deathtouch counter or a lifelink counter on target creature. When that creature dies this turn, return it to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/45.png" num="91">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/44.png" num="91">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -820,7 +803,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Peroxide Spitter</name>
 			<text>Whenever you discard a card, Peroxide Spitter deals 1 damage to target opponent or battle.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/46.png" num="112">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/45.png" num="112">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -837,7 +820,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Boomcroak Alpha</name>
 			<text>When Boomcroak Alpha enters, it deals damage equal to the number of creatures in your ecosystem to any target. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/47.png" num="96">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/46.png" num="96">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -854,7 +837,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Rockslide Hellion</name>
 			<text>{3}{R}: Target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/48.png" num="114">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/47.png" num="114">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -873,7 +856,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 			<text>When Voracite Swarm enters, choose one—
 • Destroy target artifact.
 • Voracite Swarm deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/49.png" num="123">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/48.png" num="123">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -890,7 +873,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		<card>
 			<name>Curious Rover</name>
 			<text>Whenever you spend mana to activate an ability, Curious Rover gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/50.png" num="101">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/49.png" num="101">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,8 +889,8 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 		</card>
 		<card>
 			<name>Burn Fuel</name>
-			<text>Target creature gets +2/+0 until end of turn. Put a +1/+1 counter and a trample counter on it.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/51.png" num="98">EVO</set>
+			<text>Target creature gets +2/+1 until end of turn. Put a +1/+1 counter and a trample counter on it.</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/50.png" num="98">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +907,7 @@ When Bloodstalker Pack enters, destroy target creature an opponent controls that
 			<name>Limits of Solidarity</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/52.png" num="106">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/51.png" num="106">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -940,7 +923,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Atomic Brute</name>
 			<text>Trample, haste</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/53.png" num="94">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/52.png" num="94">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -950,14 +933,14 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Vengeant Earth</name>
 			<text>Target creature or land you control becomes a 4/4 Elemental creature with haste in addition to its other types until end of turn. It must be blocked this turn if able.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/54.png" num="154">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/53.png" num="154">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +958,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>Whenever Flourishing Leylith enters or attacks, choose one—
 • Put a +1/+1 counter on target creature.
 • Put a +1/+1 counter on each creature you control with a counter on it.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/55.png" num="137">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/54.png" num="137">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -990,27 +973,10 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Root Grub</name>
-			<text>When Root Grub enters, look at the top X cards of your library, where X is the number of creatures in your ecosystem. You may reveal a permanent card from among them and put it into your hand. Then shuffle. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/56.png" num="150">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Insect</type>
-				<maintype>Creature</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Harvest Drone</name>
 			<text>{T}: Untap target land.
 {T}: You may put a land card from your hand onto the battlefield.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/57.png" num="143">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/55.png" num="143">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +994,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Colossal Ancient</name>
 			<text>Trample
 When Colossal Ancient enters or dies, you gain 4 life.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/58.png" num="131">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/56.png" num="131">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1046,7 +1012,7 @@ When Colossal Ancient enters or dies, you gain 4 life.</text>
 			<name>Earth Weaver</name>
 			<text>Deathtouch, reach
 When Earth Weaver enters, you gain life equal to the greatest toughness among other creatures you control.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/59.png" num="134">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/57.png" num="134">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1063,7 +1029,7 @@ When Earth Weaver enters, you gain life equal to the greatest toughness among ot
 		<card>
 			<name>Brooding Terraloth</name>
 			<text>When Brooding Terraloth enters, create a 0/1 green Egg creature token with defender and &quot;{T}, Sacrifice this creature: Add {G}{G}. Spend this mana only to cast creature spells.&quot;</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/60.png" num="126">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/58.png" num="126">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1082,7 +1048,7 @@ When Earth Weaver enters, you gain life equal to the greatest toughness among ot
 			<name>Valrain&apos;s Journal</name>
 			<text>When Valrain&apos;s Journal enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {2}, {T}: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/61.png" num="179">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/59.png" num="179">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1097,7 +1063,7 @@ When Earth Weaver enters, you gain life equal to the greatest toughness among ot
 			<name>Synthfruit Grove</name>
 			<text>Synthfruit Grove enters with three +1/+1 counters on it.
 {1}, {T}: Move a counter from Synthfruit Grove onto target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/62.png" num="176">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/60.png" num="176">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1112,7 +1078,7 @@ When Earth Weaver enters, you gain life equal to the greatest toughness among ot
 			<name>Towering Mechanoid</name>
 			<text>Towering Mechanoid enters with your choice of a +1/+1 counter or a reach counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/63.png" num="178">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/61.png" num="178">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1129,7 +1095,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>{5}{B}: Return Resourceful Vermin from your graveyard to the battlefield transformed. Activate only as a sorcery.
 ---
 (Back): Preserved Elder</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/64_front.png" num="84a">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/62_front.png" num="84a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1149,7 +1115,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>When Preserved Elder dies, exile it and draw a card.
 ---
 (Front): Resourceful Vermin</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/64_back.png" num="84b">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/62_back.png" num="84b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1168,7 +1134,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Virulent Cancrin</name>
 			<text>Virulent Cancrin enters with your choice of a +1/+1 counter or a deathtouch counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/65.png" num="93">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/63.png" num="93">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,7 +1152,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Territorial Bellower</name>
 			<text>Territorial Bellower enters with your choice of a +1/+1 counter or a menace counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/66.png" num="120">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/64.png" num="120">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1173,7 @@ Draw a card.
 {6}{G}: Put Ceaseless Exploration from your graveyard onto the battlefield transformed. Activate only as a sorcery.
 ---
 (Back): Seedborn Behemoth</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/67_front.png" num="129a">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/65_front.png" num="129a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1227,7 +1193,7 @@ Draw a card.
 When Seedborn Behemoth dies, exile it.
 ---
 (Front): Ceaseless Exploration</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/67_back.png" num="129b">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/65_back.png" num="129b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1246,7 +1212,7 @@ When Seedborn Behemoth dies, exile it.
 			<name>Stampeding Thunderbeest</name>
 			<text>Stampeding Thunderbeest enters with your choice of a +1/+1 counter or a trample counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/68.png" num="152">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/66.png" num="151">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1265,7 +1231,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>{6}{U}: Return Doomed Vessel from your graveyard to the battlefield transformed. Activate only as a sorcery.
 ---
 (Back): Unbound Overseer</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/69_front.png" num="37a">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/67_front.png" num="37a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1286,7 +1252,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 When Unbound Overseer dies, exile it.
 ---
 (Front): Doomed Vessel</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/69_back.png" num="37b">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/67_back.png" num="37b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1305,7 +1271,7 @@ When Unbound Overseer dies, exile it.
 			<name>Greater Fleshdrinker</name>
 			<text>Greater Fleshdrinker enters with your choice of a +1/+1 counter or a lifelink counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/70.png" num="12">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/68.png" num="12">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1323,7 +1289,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Fledgling Amphipteron</name>
 			<text>Fledgling Amphipteron enters with your choice of a +1/+1 counter or a flying counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/71.png" num="41">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/69.png" num="41">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1340,7 +1306,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Evolving Wilds</name>
 			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/72.png" num="187">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/70.png" num="187">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1355,7 +1321,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Xerid Sentry</name>
 			<text>Double strike, vigilance
 Whenever Xerid Sentry attacks, untap target creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/73.png" num="31">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/71.png" num="31">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1373,7 +1339,7 @@ Whenever Xerid Sentry attacks, untap target creature.</text>
 			<name>Blighted Hulk</name>
 			<text>Deathtouch
 Whenever Blighted Hulk or another creature you control dies, target opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/74.png" num="65">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/72.png" num="65">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1390,7 +1356,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/75.png" num="201">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/73.png" num="201">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1405,7 +1371,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/76.png" num="200">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/74.png" num="200">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1420,7 +1386,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/77.png" num="199">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/75.png" num="199">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1435,7 +1401,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/78.png" num="198">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/76.png" num="198">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1450,7 +1416,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/79.png" num="197">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/77.png" num="197">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1465,7 +1431,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 		<card>
 			<name>Thirst for Insight</name>
 			<text>Draw three cards, then discard two cards unless you discard a card with cycling.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/80.png" num="59">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/78.png" num="59">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,7 +1448,7 @@ Whenever Blighted Hulk or another creature you control dies, target opponent los
 			<name>Ravenous Hunter</name>
 			<text>Whenever Ravenous Hunter deals combat damage, put a +1/+1 counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/81.png" num="149">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/79.png" num="149">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1501,7 +1467,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>Goliath Hydra enters with three times X +1/+1 counters on it.
 Trample
 As long as Goliath Hydra has twelve or more counters on it, it has hexproof and must be blocked if able.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/82.png" num="140">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/80.png" num="140">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1518,7 +1484,7 @@ As long as Goliath Hydra has twelve or more counters on it, it has hexproof and 
 		<card>
 			<name>Shore Drinker</name>
 			<text>Whenever a land you control enters, choose target creature an opponent controls. If it&apos;s tapped, put a stun counter on it. Otherwise, tap it.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/83.png" num="57">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/81.png" num="57">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1537,7 +1503,7 @@ As long as Goliath Hydra has twelve or more counters on it, it has hexproof and 
 			<text>Flash
 Flying
 When Skyline Sentinel enters, tap target creature. It gets -2/-0 and loses all abilities until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/84.png" num="58">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/82.png" num="58">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1555,7 +1521,7 @@ When Skyline Sentinel enters, tap target creature. It gets -2/-0 and loses all a
 			<name>Shrieking Detritivore</name>
 			<text>You may cast Shrieking Detritivore from your graveyard if you discarded a card, sacrificed a permanent, paid life, or exiled a card from your graveyard this turn.
 Menace, haste</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/85.png" num="86">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/83.png" num="86">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1572,9 +1538,9 @@ Menace, haste</text>
 		<card>
 			<name>Fused Chimera</name>
 			<text>Menace
-Ward—Pay 5 life.
+Ward—Pay 6 life.
 Fused Chimera can&apos;t be blocked by two or more creatures with the same power as each other.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/86.png" num="105">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/84.png" num="105">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1584,14 +1550,14 @@ Fused Chimera can&apos;t be blocked by two or more creatures with the same power
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/5</pt>
+				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Rumbling Scalecrusher</name>
 			<text>Whenever Rumbling Scalecrusher attacks, target attacking creature gets +X/+0 until end of turn, where X is Rumbling Scalecrusher&apos;s power.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/87.png" num="151">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/85.png" num="150">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1575,7 @@ Fused Chimera can&apos;t be blocked by two or more creatures with the same power
 			<name>Fuelport Drone</name>
 			<text>Abilities you activate that aren&apos;t mana abilities cost {2} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
 You may activate abilities of creatures you control as though those creatures had haste.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/88.png" num="104">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/86.png" num="104">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1627,7 +1593,7 @@ You may activate abilities of creatures you control as though those creatures ha
 			<name>Bombardment Drone</name>
 			<text>Flying
 Whenever you discard a card, exile the top card of your library. You may put a +1/+1 counter on Bombardment Drone. If you don&apos;t, you may play the exiled card this turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/89.png" num="157">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/87.png" num="157">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1644,7 +1610,7 @@ Whenever you discard a card, exile the top card of your library. You may put a +
 		<card>
 			<name>Lithoid Prowler</name>
 			<text>At the beginning of combat on your turn, you may exile a land card from your graveyard. If you do, create a token that&apos;s a copy of it, except it&apos;s a 3/3 Elemental creature with haste that&apos;s still a land. Untap the token. Exile it at the beginning of the next end step.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/90.png" num="107">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/88.png" num="107">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1662,7 +1628,7 @@ Whenever you discard a card, exile the top card of your library. You may put a +
 			<name>Adaptive Assimilator</name>
 			<text>Adaptive Assimilator can&apos;t be blocked as long as it attacked a battle this turn.
 Adaptive Assimilator gets +X/+X and has ward {X}, where X is the number of permanents attached to it.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/91.png" num="166">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/89.png" num="166">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1678,7 +1644,7 @@ Adaptive Assimilator gets +X/+X and has ward {X}, where X is the number of perma
 			<name>Relic Trawler</name>
 			<text>Relic Trawler has lifelink as long as a card was put into your graveyard from anywhere this turn.
 Whenever one or more cards leave your graveyard, you may pay 2 life. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/92.png" num="164">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/90.png" num="164">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1696,7 +1662,7 @@ Whenever one or more cards leave your graveyard, you may pay 2 life. If you do, 
 			<name>Awakened Behemoth</name>
 			<text>This spell costs {1} less to cast for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
 Trample, haste</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/93.png" num="156">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/91.png" num="156">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1711,27 +1677,10 @@ Trample, haste</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Extractor Vessel</name>
-			<text>Whenever you spend mana to activate an ability, Extractor Vessel deals 1 damage to target opponent or battle and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/94.png" num="159">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Spirit Construct</type>
-				<maintype>Creature</maintype>
-				<manacost>1BR</manacost>
-				<cmc>3</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Fruiting Chorus</name>
 			<text>Fruiting Chorus&apos;s power and toughness are each equal to the number of lands you control.
 Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/95.png" num="160">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/92.png" num="159">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1748,7 +1697,7 @@ Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from
 		<card>
 			<name>Keystone Grazer</name>
 			<text>Whenever Keystone Grazer attacks, attacking creatures in your ecosystem get +1/+1 until end of turn. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/96.png" num="161">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/93.png" num="161">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1763,29 +1712,11 @@ Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nanogene Thief</name>
-			<text>Whenever a creature you control with toughness greater than Nanogene Thief&apos;s toughness enters, put a counter of your choice on Nanogene Thief from among +1/+1 and each kind of counter on a permanent.
-Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/97.png" num="163">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Vampire Gremlin</type>
-				<maintype>Creature</maintype>
-				<manacost>BG</manacost>
-				<cmc>2</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Cloud of Wreckage</name>
 			<text>{T}: Add {C}.
 Cycling {4} ({4}, Discard this card: Draw a card.)
 When you cycle Cloud of Wreckage, create two Treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/98.png" num="182">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/94.png" num="182">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1800,11 +1731,11 @@ When you cycle Cloud of Wreckage, create two Treasure tokens.</text>
 		<card>
 			<name>Magnetic Sandshaper</name>
 			<text>When Magnetic Sandshaper enters, create a 0/0 blue Sand Illusion creature token with flying and &quot;This creature gets +1/+1 for each artifact you control.&quot;</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/99.png" num="45">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/95.png" num="45">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Slug</type>
+				<type>Artifact Creature — Trilobite</type>
 				<maintype>Creature</maintype>
 				<manacost>4U</manacost>
 				<cmc>5</cmc>
@@ -1821,7 +1752,7 @@ When you cycle Cloud of Wreckage, create two Treasure tokens.</text>
 {5}{R}: Put Tectonic Drift from your graveyard onto the battlefield transformed. Activate only as a sorcery.
 ---
 (Back): Fissure Titan</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/100_front.png" num="119a">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/96_front.png" num="119a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1841,7 +1772,7 @@ When you cycle Cloud of Wreckage, create two Treasure tokens.</text>
 When Fissure Titan dies, exile it.
 ---
 (Front): Tectonic Drift</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/100_back.png" num="119b">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/96_back.png" num="119b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1851,7 +1782,7 @@ When Fissure Titan dies, exile it.
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Tectonic Drift</related>
@@ -1860,7 +1791,7 @@ When Fissure Titan dies, exile it.
 			<name>Unexpected Windfall</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards and create two Treasure tokens.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/101.png" num="121">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/97.png" num="121">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1877,8 +1808,8 @@ Draw two cards and create two Treasure tokens.</text>
 		<card>
 			<name>Deepwell Time Capsule</name>
 			<text>{T}, Mill a card: Add {U}.
-{5}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/102.png" num="35">EVO</set>
+{4}{U}, {T}, Exile Deepwell Time Capsule: Return up to two target instant, sorcery, and/or battle cards from your graveyard to your hand. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/98.png" num="35">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1895,7 +1826,7 @@ Draw two cards and create two Treasure tokens.</text>
 			<name>Esyra&apos;s Claim</name>
 			<text>Enchant permanent
 Enchanted permanent is a colorless Esyra land with &quot;{T}, Pay 1 life: Add one mana of any color&quot; and loses all other card types and abilities.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/103.png" num="39">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/99.png" num="39">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1911,7 +1842,7 @@ Enchanted permanent is a colorless Esyra land with &quot;{T}, Pay 1 life: Add on
 		<card>
 			<name>Drone EVO</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/104.png" num="9">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/100.png" num="9">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1931,7 +1862,7 @@ Enchanted permanent is a colorless Esyra land with &quot;{T}, Pay 1 life: Add on
 		<card>
 			<name>Spirit EVO</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/105.png" num="1">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/101.png" num="1">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,7 +1884,7 @@ Enchanted permanent is a colorless Esyra land with &quot;{T}, Pay 1 life: Add on
 		<card>
 			<name>Nanite Colony</name>
 			<text>{T}: Put a +1/+1 counter on target creature that entered this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/106.png" num="18">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/102.png" num="18">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1972,7 +1903,7 @@ Enchanted permanent is a colorless Esyra land with &quot;{T}, Pay 1 life: Add on
 			<text>Whenever a creature you control dies, put a +1/+1 counter on Nanogene Repository.
 Lineage (When this permanent dies, distribute its counters among other permanents you control.)
 {T}, Sacrifice Nanogene Repository: Each opponent loses X life and you gain X life, where X is the number of counters on it. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/107.png" num="162">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/103.png" num="162">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1989,7 +1920,7 @@ Lineage (When this permanent dies, distribute its counters among other permanent
 			<name>Dweller in Emptiness</name>
 			<text>Flying
 Dweller in Emptiness can&apos;t attack unless a permanent left the battlefield this turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/108.png" num="9">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/104.png" num="9">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2009,7 +1940,7 @@ Dweller in Emptiness can&apos;t attack unless a permanent left the battlefield t
 • Destroy target enchantment.
 • Draw a card.
 • You gain 4 life.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/109.png" num="22">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/105.png" num="22">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2027,7 +1958,7 @@ Dweller in Emptiness can&apos;t attack unless a permanent left the battlefield t
 			<name>Timely Culling</name>
 			<text>Counter target permanent spell.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/110.png" num="60">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/106.png" num="60">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2043,8 +1974,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Nesting Twinstalk</name>
 			<text>Flying
-{3}{B}: Each opponent loses 1 life and you surveil 1.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/111.png" num="81">EVO</set>
+{3}{B}: Each opponent loses 1 life and you gain 1 life. Surveil 1.</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/107.png" num="81">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2062,7 +1993,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Conductive Lithoid</name>
 			<text>If a creature dealt damage by Conductive Lithoid this turn would die, exile it instead.
 Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/112.png" num="100">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/108.png" num="100">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2080,7 +2011,7 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</text>
 			<name>Fogspore Behemoth</name>
 			<text>Reach, ward {3}
 Cycling {G} ({G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/113.png" num="138">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/109.png" num="138">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2029,7 @@ Cycling {G} ({G}, Discard this card: Draw a card.)</text>
 			<name>Engulfing Crystalreef</name>
 			<text>Defender
 When Engulfing Crystalreef enters, exile target nonland permanent an opponent controls until Engulfing Crystalreef leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/114.png" num="11">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/110.png" num="11">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2116,7 +2047,7 @@ When Engulfing Crystalreef enters, exile target nonland permanent an opponent co
 			<name>Intestinal Scourge</name>
 			<text>When Intestinal Scourge dies, choose up to one target creature. Remove a counter from it. If you can&apos;t, that creature gets -1/-1 until end of turn.
 {1}{B}{B}, Pay 1 life, Sacrifice Intestinal Scourge: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/115.png" num="76">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/111.png" num="76">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2134,7 +2065,7 @@ When Engulfing Crystalreef enters, exile target nonland permanent an opponent co
 			<name>Polymorphic Seedprobe</name>
 			<text>When Polymorphic Seedprobe enters, choose a counter on another permanent you control. You may put a counter of that kind on Polymorphic Seedprobe.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/116.png" num="173">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/112.png" num="173">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2149,7 +2080,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Meandering Greatwurm</name>
 			<text>Whenever a land you control enters, you gain 1 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/117.png" num="145">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/113.png" num="145">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2164,25 +2095,9 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ancient Relic</name>
-			<text>{T}: Add {C}{C}.
-{7}, {T}, Sacrifice Ancient Relic: Create a 7/7 colorless Construct artifact creature token. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/118.png" num="167">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<related count="1">Construct</related>
-		</card>
-		<card>
 			<name>Unburied Secrets</name>
 			<text>You lose 2 life and mill two cards. You may put those cards into your hand. If you don&apos;t, repeat this process.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/119.png" num="90">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/114.png" num="90">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2199,7 +2114,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Sedimentary Symbiont</name>
 			<text>Sedimentary Symbiont enters with two +1/+1 counters on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/120.png" num="23">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/115.png" num="23">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2216,7 +2131,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Troodroid Pack</name>
 			<text>Whenever Troodroid Pack attacks or blocks, it gets +1/+1 until end of turn for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/121.png" num="29">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/116.png" num="29">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2233,7 +2148,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Sensory Synergy</name>
 			<text>Untap up to one target artifact creature and up to one target nonartifact creature. Those creatures get +1/+1 and gain hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/122.png" num="56">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/117.png" num="56">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2250,7 +2165,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>False Ectomorph</name>
 			<text>Flying
 When False Ectomorph enters, surveil 1.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/123.png" num="40">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/118.png" num="40">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2268,7 +2183,7 @@ When False Ectomorph enters, surveil 1.</text>
 			<name>Bloodline&apos;s End</name>
 			<text>Exile target creature.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/124.png" num="66">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/119.png" num="66">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2286,7 +2201,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>Choose one—
 • Target creature gets -2/-2 until end of turn.
 • Remove up to two counters from target permanent.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/125.png" num="82">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/120.png" num="82">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2304,7 +2219,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>Enchant artifact or creature
 Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.
 When Caught in Amber is put into a graveyard from the battlefield, draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/126.png" num="3">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/121.png" num="3">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2321,7 +2236,7 @@ When Caught in Amber is put into a graveyard from the battlefield, draw a card.<
 			<name>Spawnsac Mutualist</name>
 			<text>Defender, reach
 {1}{R}, {T}, Discard a card: Create a 2/1 red Leech creature token with menace and haste. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/127.png" num="117">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/122.png" num="117">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2340,7 +2255,7 @@ When Caught in Amber is put into a graveyard from the battlefield, draw a card.<
 			<name>Microbiome Igniter</name>
 			<text>Trample
 {1}{R}: Microbiome Igniter gets +1/+0 until end of turn for each creature in your ecosystem. Activate only once each turn. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/128.png" num="109">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/123.png" num="109">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2360,7 +2275,7 @@ When Caught in Amber is put into a graveyard from the battlefield, draw a card.<
 {T}, Remove a counter from Buried Cache: Exile the top card of your library. When you do, choose one—
 • Create a Treasure token.
 • You may play the exiled card this turn.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/129.png" num="97">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/124.png" num="97">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2377,7 +2292,7 @@ When Caught in Amber is put into a graveyard from the battlefield, draw a card.<
 		<card>
 			<name>Grow Over</name>
 			<text>Put target artifact, enchantment, or battle on the bottom of its owner&apos;s library.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/130.png" num="141">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/125.png" num="141">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2394,7 +2309,7 @@ When Caught in Amber is put into a graveyard from the battlefield, draw a card.<
 			<name>Factoruminant</name>
 			<text>{1}{G}, {T}: Put a +1/+1 counter on Factoruminant. Activate only as a sorcery.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/131.png" num="135">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/126.png" num="135">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2412,7 +2327,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Honed Razorpede</name>
 			<text>Whenever Honed Razorpede attacks, remove a first strike counter from it. If you do, put a double strike counter on it. Otherwise, put a first strike counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/132.png" num="13">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/127.png" num="13">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2429,7 +2344,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Segment Migration</name>
 			<text>Draw a card for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/133.png" num="55">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/128.png" num="55">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2445,7 +2360,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Atavistic Rebirth</name>
 			<text>Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the number of creatures in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/134.png" num="1">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/129.png" num="1">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2461,7 +2376,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Fractal Fission</name>
 			<text>Create a 1/0 red Starfish creature token, then put a +1/+1 counter on each Starfish you control that entered this turn. Repeat this process X times.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/135.png" num="103">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/130.png" num="103">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2479,7 +2394,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Coiling Omnivore</name>
 			<text>Vigilance
 When Coiling Omnivore enters, put a +1/+1 counter on it for each creature in your ecosystem. When you do, Coiling Omnivore fights up to one target creature you don&apos;t control. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/136.png" num="130">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/131.png" num="130">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2496,7 +2411,7 @@ When Coiling Omnivore enters, put a +1/+1 counter on it for each creature in you
 		<card>
 			<name>Cerebral Parasite</name>
 			<text>When Cerebral Parasite enters, target opponent reveals a number of cards from their hand equal to the number of creatures in your ecosystem. You choose one of those cards. That player discards that card. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/137.png" num="69">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/132.png" num="69">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2511,29 +2426,9 @@ When Coiling Omnivore enters, put a +1/+1 counter on it for each creature in you
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Detritus Hoarder</name>
-			<text>First strike
-Whenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.
-{1}: Detritus Hoarder gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/138.png" num="102">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Insect Crab</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>0/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
-		</card>
-		<card>
 			<name>Overgrown Rustshell</name>
 			<text>{T}: Add {G} for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/139.png" num="146">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/133.png" num="146">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2551,7 +2446,7 @@ Whenever Detritus Hoarder deals combat damage to a player or battle, create a ta
 			<name>Mutagenic Orb</name>
 			<text>Mutagenic Orb enters with a +1/+1 counter on it.
 Whenever you attack, distribute any number of counters from Mutagenic Orb among any number of attacking creatures. Attacking creatures without lineage gain lineage until end of turn. (When a permanent with lineage dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/140.png" num="172">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/134.png" num="172">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2566,7 +2461,7 @@ Whenever you attack, distribute any number of counters from Mutagenic Orb among 
 			<name>Sawtooth Hellion</name>
 			<text>Trample
 {3}{R}, Discard a card: Draw a card and put a +1/+1 counter on Sawtooth Hellion.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/141.png" num="115">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/135.png" num="115">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2584,7 +2479,7 @@ Whenever you attack, distribute any number of counters from Mutagenic Orb among 
 			<name>Tantalizing Dreadfruit</name>
 			<text>Whenever Tantalizing Dreadfruit attacks, if it has a deathtouch counter on it, it must be blocked this turn if able. Otherwise, put a deathtouch counter on it.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/142.png" num="87">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/136.png" num="87">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2602,7 +2497,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Archipelago Drake</name>
 			<text>Flying
 Cycling {U} ({U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/143.png" num="32">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/137.png" num="32">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2620,7 +2515,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>Converted Terraformer</name>
 			<text>This spell costs {1} less to cast for each creature you control with a counter on it.
 {3}{G}: Put a +1/+1 counter on target land you control. If it isn&apos;t a creature, it becomes a 3/3 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/144.png" num="132">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/138.png" num="132">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2637,7 +2532,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Leech EVO</name>
 			<text>Menace, haste</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/145.png" num="5">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/139.png" num="5">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2656,7 +2551,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Esyra EVO</name>
 			<text>{T}, Pay 1 life: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/146.png" num="11">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/140.png" num="11">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2674,7 +2569,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Ocean Purifier</name>
 			<text>When Ocean Purifier enters, draw a card. Then discard a card unless you exile three cards from your graveyard.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/147.png" num="49">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/141.png" num="49">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2692,7 +2587,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>Segment Prospector</name>
 			<text>When Segment Prospector enters, you gain 2 life.
 {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/148.png" num="175">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/142.png" num="175">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2707,7 +2602,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Segment Collapse</name>
 			<text>Destroy target land. Its controller sacrifices any number of nonland permanents, then Segment Collapse deals 2 damage to that player for each nonland permanent they control.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/149.png" num="116">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/143.png" num="116">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2723,7 +2618,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Starfish EVO</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/150.png" num="6">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/144.png" num="6">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2744,7 +2639,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<text>Dwindling Oasis enters tapped with two storage counters on it.
 {T}: Add {C}.
 {T}, Remove a counter from Dwindling Oasis: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/151.png" num="183">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/145.png" num="183">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2759,7 +2654,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>Egg EVO</name>
 			<text>Defender
 {T}, Sacrifice this creature: Add {G}{G}. Spend this mana only to cast creature spells.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/152.png" num="7">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/146.png" num="7">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2778,7 +2673,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Treasure EVO</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/153.png" num="10">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/147.png" num="10">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2801,7 +2696,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 When Violent Predation enters, target creature you control deals damage equal to its power to target creature you don&apos;t control.
 ---
 (Back): Jagged Fangs</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/154_front.png" num="122a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/148_front.png" num="122a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2822,7 +2717,7 @@ When Violent Predation enters, target creature you control deals damage equal to
 Whenever adapted creature attacks, double its power until end of turn.
 ---
 (Front): Violent Predation</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/154_back.png" num="122b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/148_back.png" num="122b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2842,7 +2737,7 @@ Whenever adapted creature attacks, double its power until end of turn.
 When Canopy Grazing enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
 ---
 (Back): Immense Size</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/155_front.png" num="128a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/149_front.png" num="128a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2864,7 +2759,7 @@ Adapted creature gets +2/+2.
 Whenever a land you control enters, put your choice of a +1/+1 counter or a trample counter on adapted creature.
 ---
 (Front): Canopy Grazing</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/155_back.png" num="128b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/149_back.png" num="128b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2884,7 +2779,7 @@ Whenever a land you control enters, put your choice of a +1/+1 counter or a tram
 When Carrion Scrounging enters, each opponent sacrifices a creature.
 ---
 (Back): Hardy Gut</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/156_front.png" num="68a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/150_front.png" num="68a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2905,7 +2800,7 @@ When Carrion Scrounging enters, each opponent sacrifices a creature.
 At the beginning of your end step, you may exile target permanent card from a graveyard. If you do, put a +1/+1 counter on adapted creature and you gain 1 life.
 ---
 (Front): Carrion Scrounging</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/156_back.png" num="68b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/150_back.png" num="68b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2925,7 +2820,7 @@ At the beginning of your end step, you may exile target permanent card from a gr
 When Cloudkrill Filtering enters, surveil 2, then draw two cards.
 ---
 (Back): Skyborne Maw</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/157_front.png" num="33a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/151_front.png" num="33a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2946,7 +2841,7 @@ When Cloudkrill Filtering enters, surveil 2, then draw two cards.
 Whenever you draw a card, put your choice of a +1/+1 counter or a flying counter on adapted creature.
 ---
 (Front): Cloudkrill Filtering</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/157_back.png" num="33b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/151_back.png" num="33b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2966,7 +2861,7 @@ Whenever you draw a card, put your choice of a +1/+1 counter or a flying counter
 When Drone Herding enters, create two 1/1 colorless Drone artifact creature tokens.
 ---
 (Back): Networked Pheromones</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/158_front.png" num="8a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/152_front.png" num="8a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2988,7 +2883,7 @@ When Drone Herding enters, create two 1/1 colorless Drone artifact creature toke
 Whenever adapted creature attacks, it gets +1/+1 until end of turn for each attacking creature.
 ---
 (Front): Drone Herding</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/158_back.png" num="8b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/152_back.png" num="8b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3008,7 +2903,7 @@ Whenever adapted creature attacks, it gets +1/+1 until end of turn for each atta
 			<text>When Eerie Stillness enters, draw a card.
 Whenever you attack, if Eerie Stillness didn&apos;t enter this turn, return it to its owner&apos;s hand.
 Whenever an opponent attacks, sacrifice Eerie Stillness and that player sacrifices an attacking creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/159.png" num="10">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/153.png" num="10">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3022,30 +2917,13 @@ Whenever an opponent attacks, sacrifice Eerie Stillness and that player sacrific
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Construct EVO</name>
-			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/160.png" num="8">EVO</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact Creature — Construct</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>7/7</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse_related>Ancient Relic</reverse_related>
-		</card>
-		<card>
 			<name>Mana Siphoning</name>
 			<text>(As a Niche enters, choose an opponent to protect it. Only you can attack it. When it&apos;s defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)
 Flash
 When Mana Siphoning enters, counter target spell unless its controller pays {2}.
 ---
 (Back): Arcane Senses</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/161_front.png" num="47a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/154_front.png" num="47a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3067,7 +2945,7 @@ Adapted creature has ward {2}.
 Whenever adapted creature deals combat damage to a player or battle, draw a card.
 ---
 (Front): Mana Siphoning</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/161_back.png" num="47b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/154_back.png" num="47b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3087,7 +2965,7 @@ Whenever adapted creature deals combat damage to a player or battle, draw a card
 When Nest Raiding enters, target opponent discards two cards and loses 2 life.
 ---
 (Back): Grasping Claws</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/162_front.png" num="80a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/155_front.png" num="80a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3108,7 +2986,7 @@ When Nest Raiding enters, target opponent discards two cards and loses 2 life.
 Whenever adapted creature attacks, defending player discards a card. If they can&apos;t, you draw a card.
 ---
 (Front): Nest Raiding</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/162_back.png" num="80b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/155_back.png" num="80b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3128,7 +3006,7 @@ Whenever adapted creature attacks, defending player discards a card. If they can
 When Wildfire Succession enters, it deals 2 damage to each creature. If a creature would die this turn, exile it instead.
 ---
 (Back): Ashen Carapace</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/163_front.png" num="124a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/156_front.png" num="124a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3149,7 +3027,7 @@ When Wildfire Succession enters, it deals 2 damage to each creature. If a creatu
 Whenever adapted creature attacks, put your choice of a +1/+1 counter or a menace counter on it.
 ---
 (Front): Wildfire Succession</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/163_back.png" num="124b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/156_back.png" num="124b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3169,7 +3047,7 @@ Whenever adapted creature attacks, put your choice of a +1/+1 counter or a menac
 When Undergrowth Mimicry enters, mill four cards, then return a permanent card from your graveyard to your hand.
 ---
 (Back): Morphic Hide</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/164_front.png" num="153a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/157_front.png" num="153a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3190,7 +3068,7 @@ When Undergrowth Mimicry enters, mill four cards, then return a permanent card f
 Adapted creature has hexproof and can&apos;t be blocked by more than one creature.
 ---
 (Front): Undergrowth Mimicry</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/164_back.png" num="153b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/157_back.png" num="153b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3208,7 +3086,7 @@ Adapted creature has hexproof and can&apos;t be blocked by more than one creatur
 			<name>Devastation Engine</name>
 			<text>Whenever you cycle Devastation Engine or discard a creature card while Devastation Engine is on the battlefield, if it&apos;s your first main phase, put that card onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
 Cycling {4} ({4}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/165.png" num="168">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/158.png" num="168">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3224,7 +3102,7 @@ Cycling {4} ({4}, Discard this card: Draw a card.)</text>
 			<name>Maintenance Drone</name>
 			<text>Flying
 {T}: Add {U}. Spend this mana only to cast a spell with mana value 6 or greater or activate an ability.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/166.png" num="46">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/159.png" num="46">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3243,7 +3121,7 @@ Cycling {4} ({4}, Discard this card: Draw a card.)</text>
 			<text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
 Each opponent sacrifices a creature and discards a card, then each opponent who discarded a card this way draws a card.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/167.png" num="85">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/160.png" num="85">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3260,7 +3138,7 @@ Draw a card.</text>
 			<name>Reactor Forger</name>
 			<text>If one or more tokens would be created under your control, those tokens plus an additional tapped Treasure token are created instead.
 {3}{W}{U}{B}{R}{G}: Creatures you control get +1/+1 and gain double strike until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/168.png" num="113">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/161.png" num="113">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3279,7 +3157,7 @@ Draw a card.</text>
 			<name>Acclimate</name>
 			<text>Put a +1/+1 counter on up to one target creature.
 You gain 1 life and draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/169.png" num="125">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/162.png" num="125">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3297,7 +3175,7 @@ You gain 1 life and draw a card.</text>
 			<text>Esyra Outskirts enters tapped.
 {T}, Pay 1 life: Add one mana of any color.
 {2}, {T}, Sacrifice a non-Esyra land: Destroy target land an opponent controls. You and that player each create a tapped colorless Esyra land token with &quot;{T}, Pay 1 life: Add one mana of any color.&quot;</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/170.png" num="186">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/163.png" num="186">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3313,7 +3191,7 @@ You gain 1 life and draw a card.</text>
 			<name>Competitive Release</name>
 			<text>When Competitive Release enters, put a +1/+1 counter on target creature you control.
 Whenever a creature you control dies, put a +1/+1 counter on target creature you control with lesser power.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/171.png" num="5">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/164.png" num="5">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3330,7 +3208,7 @@ Whenever a creature you control dies, put a +1/+1 counter on target creature you
 			<name>Lush Meadowback</name>
 			<text>If you would gain life, you gain that much life plus 1 instead.
 At the beginning of each end step, if you gained 3 or more life this turn, put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/172.png" num="15">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/165.png" num="15">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3225,7 @@ At the beginning of each end step, if you gained 3 or more life this turn, put a
 		<card>
 			<name>Larva Injector</name>
 			<text>At the beginning of your end step, if a creature died this turn, create a 1/1 black Insect creature token with &quot;During your turn, this creature has deathtouch.&quot;</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/173.png" num="77">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/166.png" num="77">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3366,7 +3244,7 @@ At the beginning of each end step, if you gained 3 or more life this turn, put a
 			<name>Stoneguide Skycoil</name>
 			<text>Flying
 Whenever Stoneguide Skycoil attacks, create a tapped and attacking X/X red Elemental creature token, where X is the number of creatures in your ecosystem. Exile the token at end of combat. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/174.png" num="118">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/167.png" num="118">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3385,7 +3263,7 @@ Whenever Stoneguide Skycoil attacks, create a tapped and attacking X/X red Eleme
 			<name>Bulky Ramshell</name>
 			<text>Trample
 Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/175.png" num="127">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/168.png" num="127">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3403,7 +3281,7 @@ Each creature you control with toughness greater than its power assigns combat d
 			<name>Glaciation Event</name>
 			<text>Tap target creature. Put a stun counter on it.
 {3}{U}, Exile Glaciation Event from your graveyard: Put target tapped creature on top of its owner&apos;s library. Activate only if you discarded a card this turn and only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/176.png" num="42">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/169.png" num="42">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3419,7 +3297,7 @@ Each creature you control with toughness greater than its power assigns combat d
 		<card>
 			<name>Territorial Encroachment</name>
 			<text>Repeat the following process once for each creature in your ecosystem. Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/177.png" num="88">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/170.png" num="88">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,7 +3314,7 @@ Each creature you control with toughness greater than its power assigns combat d
 			<name>Meteorite Impact</name>
 			<text>Meteorite Impact deals 2 damage to any target.
 {3}{R}, Exile Meteorite Impact from your graveyard: It deals 2 damage to any target. Activate only if you discarded a card this turn and only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/178.png" num="108">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/171.png" num="108">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3453,7 +3331,7 @@ Each creature you control with toughness greater than its power assigns combat d
 			<name>Voracious Grazer</name>
 			<text>Whenever a land you control enters, you gain life equal to Voracious Grazer&apos;s power.
 {4}{G}: Until end of turn, Voracious Grazer has base power and toughness 5/5.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/179.png" num="155">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/172.png" num="155">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3471,7 +3349,7 @@ Each creature you control with toughness greater than its power assigns combat d
 			<name>Metamorphic Ambush</name>
 			<text>Put a +1/+1 counter and a flying counter on target creature.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/180.png" num="16">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/173.png" num="16">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3488,7 +3366,7 @@ Draw a card.</text>
 			<name>Ocuhive Sentry</name>
 			<text>Vigilance
 {1}{U}, Exile Ocuhive Sentry from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/181.png" num="51">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/174.png" num="51">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3506,7 +3384,7 @@ Draw a card.</text>
 			<name>Sand Illusion EVO</name>
 			<text>Flying
 This creature gets +1/+1 for each artifact you control.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/182.png" num="2">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/175.png" num="2">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3525,7 +3403,7 @@ This creature gets +1/+1 for each artifact you control.</text>
 		<card>
 			<name>Insect EVO</name>
 			<text>During your turn, this creature has deathtouch.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/183.png" num="3">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/176.png" num="3">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,7 +3422,7 @@ This creature gets +1/+1 for each artifact you control.</text>
 		<card>
 			<name>Elemental EVO</name>
 			<text></text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/184.png" num="4">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/177.png" num="4">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3565,7 +3443,7 @@ This creature gets +1/+1 for each artifact you control.</text>
 			<name>Consuming Swarm</name>
 			<text>Flying
 {1}{B}, Sacrifice another creature: Until end of turn, Consuming Swarm has base power and toughness X/X and gains indestructible, where X is that creature&apos;s toughness.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/185.png" num="71">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/178.png" num="71">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3583,7 +3461,7 @@ This creature gets +1/+1 for each artifact you control.</text>
 			<name>Stereohawk</name>
 			<text>Flying
 When Stereohawk enters, put a +1/+1 counter on up to one other target artifact creature and up to one target nonartifact creature.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/186.png" num="165">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/179.png" num="165">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3601,7 +3479,7 @@ When Stereohawk enters, put a +1/+1 counter on up to one other target artifact c
 			<name>Drifting Pollinator</name>
 			<text>Flying
 Whenever one or more counters are put on Drifting Pollinator, you gain that much life.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/187.png" num="7">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/180.png" num="7">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3619,7 +3497,7 @@ Whenever one or more counters are put on Drifting Pollinator, you gain that much
 			<name>Cavernmaw Whelp</name>
 			<text>If you would put one or more counters on Cavernmaw Whelp, put those counters plus an additional +1/+1 counter on it instead.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/188.png" num="158">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/181.png" num="158">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3636,7 +3514,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Tundra Surveyor</name>
 			<text>{1}, {T}: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/189.png" num="62">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/182.png" num="62">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3653,7 +3531,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 		<card>
 			<name>Collapse</name>
 			<text>Target creature deals damage to itself equal to its power. If that creature would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/190.png" num="99">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/183.png" num="99">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3670,7 +3548,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Diving Neocete</name>
 			<text>{2}, Discard a land card: Put a counter of your choice on Diving Neocete from among flying, vigilance, and +1/+1.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/191.png" num="36">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/184.png" num="36">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3689,7 +3567,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<text>Enchant artifact or creature
 When Preserved in Ice enters, tap enchanted permanent, then surveil 1.
 Enchanted permanent loses all abilities and can&apos;t become untapped.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/192.png" num="54">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/185.png" num="54">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3705,7 +3583,7 @@ Enchanted permanent loses all abilities and can&apos;t become untapped.</text>
 		<card>
 			<name>Fierce Skunkraptor</name>
 			<text>Fierce Skunkraptor can&apos;t be blocked by creatures with power less than or equal to the number of creatures in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/193.png" num="136">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/186.png" num="136">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3724,7 +3602,7 @@ Enchanted permanent loses all abilities and can&apos;t become untapped.</text>
 			<text>This spell costs {1} less to cast if you control an artifact creature and {1} less to cast if you control a nonartifact creature.
 Flying
 When Ion Cruiser enters, you may sacrifice another creature. When you do, exile target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/194.png" num="14">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/187.png" num="14">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3741,7 +3619,7 @@ When Ion Cruiser enters, you may sacrifice another creature. When you do, exile 
 		<card>
 			<name>Networked Eurypterid</name>
 			<text>{1}, Tap an untapped artifact you control: Surveil 1.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/195.png" num="48">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/188.png" num="48">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3758,7 +3636,7 @@ When Ion Cruiser enters, you may sacrifice another creature. When you do, exile 
 		<card>
 			<name>Nomadic Pylon</name>
 			<text>Artifact creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/196.png" num="20">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/189.png" num="20">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3776,7 +3654,7 @@ When Ion Cruiser enters, you may sacrifice another creature. When you do, exile 
 			<name>Infected Biome</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Infected Biome: Create a tapped colorless Esyra land token with &quot;{T}, Pay 1 life: Add one mana of any color.&quot;</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/197.png" num="188">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/190.png" num="188">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3793,7 +3671,7 @@ When Ion Cruiser enters, you may sacrifice another creature. When you do, exile 
 			<text>Moor Segment enters tapped.
 When Moor Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {B}{B}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/198.png" num="190">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/191.png" num="190">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3810,7 +3688,7 @@ When Moor Segment enters, return a land you control to its owner&apos;s hand.
 			<text>Ocean Segment enters tapped.
 When Ocean Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {U}{U}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/199.png" num="191">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/192.png" num="191">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3827,7 +3705,7 @@ When Ocean Segment enters, return a land you control to its owner&apos;s hand.
 			<text>Prairie Segment enters tapped.
 When Prairie Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {W}{W}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/200.png" num="192">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/193.png" num="192">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3844,7 +3722,7 @@ When Prairie Segment enters, return a land you control to its owner&apos;s hand.
 			<text>Ridge Segment enters tapped.
 When Ridge Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {R}{R}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/201.png" num="193">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/194.png" num="193">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3861,7 +3739,7 @@ When Ridge Segment enters, return a land you control to its owner&apos;s hand.
 			<text>Timber Segment enters tapped.
 When Timber Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {G}{G}.</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/202.png" num="195">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/195.png" num="195">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3879,7 +3757,7 @@ When Timber Segment enters, return a land you control to its owner&apos;s hand.
 {T}: Add {W}.
 Cycling {3}{W} ({3}{W}, Discard this card: Draw a card.)
 When you cycle Eerie Citadel, create a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/203.png" num="184">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/196.png" num="184">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3898,7 +3776,7 @@ When you cycle Eerie Citadel, create a 1/1 white Spirit creature token with flyi
 {T}: Add {R}.
 Cycling {3}{R} ({3}{R}, Discard this card: Draw a card.)
 When you cycle Looming Pinnacle, target land you control becomes a 4/4 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/204.png" num="189">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/197.png" num="189">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3916,7 +3794,7 @@ When you cycle Looming Pinnacle, target land you control becomes a 4/4 Elemental
 {T}: Add {G}.
 Cycling {3}{G} ({3}{G}, Discard this card: Draw a card.)
 When you cycle Secluded Refuge, put a +1/+1 counter on each of up to two target creatures.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/205.png" num="194">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/198.png" num="194">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3934,7 +3812,7 @@ When you cycle Secluded Refuge, put a +1/+1 counter on each of up to two target 
 {T}: Add {B}.
 Cycling {3}{B} ({3}{B}, Discard this card: Draw a card.)
 When you cycle Toxic Mire, remove up to three counters from target permanent.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/206.png" num="196">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/199.png" num="196">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3952,7 +3830,7 @@ When you cycle Toxic Mire, remove up to three counters from target permanent.</t
 {T}: Add {U}.
 Cycling {3}{U} ({3}{U}, Discard this card: Draw a card.)
 When you cycle Bubbling Lagoon, draw an additional card.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/207.png" num="181">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/200.png" num="181">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3968,7 +3846,7 @@ When you cycle Bubbling Lagoon, draw an additional card.</text>
 			<name>Malignant Necrowar</name>
 			<text>{3}, Sacrifice another creature: Put a +1/+1 counter on Malignant Necrowar.
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/208.png" num="78">EVO</set>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/201.png" num="78">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3986,7 +3864,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 			<name>Whalefall Delver</name>
 			<text>This spell costs {1} less to cast for each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
 When Whalefall Delver enters, choose a card in your graveyard. You may sacrifice another creature with power equal to that card&apos;s mana value. If you do, return that card to your hand.</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/209.png" num="180">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/202.png" num="180">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4002,7 +3880,7 @@ When Whalefall Delver enters, choose a card in your graveyard. You may sacrifice
 			<name>Nascent Apex</name>
 			<text>Whenever Nascent Apex attacks, if its power is less than the number of creatures in your ecosystem, you may put a +1/+1 counter on Nascent Apex. (Your ecosystem consists of any number of creatures with different powers.)
 Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/210.png" num="110">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/203.png" num="110">EVO</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4022,7 +3900,7 @@ Lineage (When this creature dies, distribute its counters among other permanents
 When Cooperative Labor enters, put a +1/+1 counter on each creature in your ecosystem. (Your ecosystem consists of any number of creatures with different powers.)
 ---
 (Back): Caste Division</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/211_front.png" num="6a">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/204_front.png" num="6a">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4043,7 +3921,7 @@ When Cooperative Labor enters, put a +1/+1 counter on each creature in your ecos
 When Caste Division becomes attached to a creature, put two different counters of your choice on that creature from among flying, first strike, vigilance, and +1/+1.
 ---
 (Front): Cooperative Labor</text>
-			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/211_back.png" num="6b">EVO</set>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/204_back.png" num="6b">EVO</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4056,6 +3934,128 @@ When Caste Division becomes attached to a creature, put two different counters o
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">Cooperative Labor</related>
+		</card>
+		<card>
+			<name>Momentary Breakdown</name>
+			<text>Exile target nonland permanent, then return it to the battlefield under its owner&apos;s control.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/205.png" num="17">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Insatiable Voidtongue</name>
+			<text>Whenever you spend mana to activate an ability, Insatiable Voidtongue deals 1 damage to target opponent or battle and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/206.png" num="160">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish Leech</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nanogene Thief</name>
+			<text>Whenever a creature you control with toughness greater than Nanogene Thief&apos;s toughness enters, put a counter of your choice on Nanogene Thief from among +1/+1 and each kind of counter on a permanent.
+Lineage (When this creature dies, distribute its counters among other permanents you control.)</text>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/207.png" num="163">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Nautilus</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tropical Laminopod</name>
+			<text>When Tropical Laminopod enters, look at the top X cards of your library, where X is the number of creatures in your ecosystem. You may reveal a permanent card from among them and put it into your hand. Then shuffle. (Your ecosystem consists of any number of creatures with different powers.)</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/208.png" num="152">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Relic</name>
+			<text>{T}: Add {C}{C}.
+{7}, {T}, Sacrifice Ancient Relic: Create a 7/7 colorless Construct artifact creature token. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/209.png" num="167">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Construct</related>
+		</card>
+		<card>
+			<name>Construct EVO</name>
+			<text></text>
+			<set rarity="common" picurl="https://Parasign-0.github.io/sets/EVO-files/img/210.png" num="8">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Ancient Relic</reverse_related>
+		</card>
+		<card>
+			<name>Detritus Hoarder</name>
+			<text>First strike
+Whenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.
+{1}: Detritus Hoarder gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Parasign-0.github.io/sets/EVO-files/img/211.png" num="102">EVO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Oyster</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
