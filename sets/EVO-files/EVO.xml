@@ -2700,8 +2700,8 @@ When Violent Predation enters, target creature you control deals damage equal to
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
@@ -2741,8 +2741,8 @@ When Canopy Grazing enters, search your library for up to two basic land cards, 
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>3G</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
@@ -2783,8 +2783,8 @@ When Carrion Scrounging enters, each opponent sacrifices a creature.
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
@@ -2824,8 +2824,8 @@ When Cloudkrill Filtering enters, surveil 2, then draw two cards.
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>3U</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
@@ -2865,8 +2865,8 @@ When Drone Herding enters, create two 1/1 colorless Drone artifact creature toke
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
@@ -2927,8 +2927,8 @@ When Mana Siphoning enters, counter target spell unless its controller pays {2}.
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
@@ -2969,8 +2969,8 @@ When Nest Raiding enters, target opponent discards two cards and loses 2 life.
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
@@ -3010,8 +3010,8 @@ When Wildfire Succession enters, it deals 2 damage to each creature. If a creatu
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
@@ -3051,8 +3051,8 @@ When Undergrowth Mimicry enters, mill four cards, then return a permanent card f
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
@@ -3904,8 +3904,8 @@ When Cooperative Labor enters, put a +1/+1 counter on each creature in your ecos
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Batt1e — Niche</type>
-				<maintype>Batt1e</maintype>
+				<type>Battle — Niche</type>
+				<maintype>Battle</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>

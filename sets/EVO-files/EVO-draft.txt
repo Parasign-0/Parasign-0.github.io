@@ -1519,7 +1519,7 @@
 			"name": "Violent Predation",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "122",
 			"back": {
 				"name": "",
@@ -1536,7 +1536,7 @@
 			"name": "Canopy Grazing",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "128",
 			"back": {
 				"name": "",
@@ -1553,7 +1553,7 @@
 			"name": "Carrion Scrounging",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "68",
 			"back": {
 				"name": "",
@@ -1570,7 +1570,7 @@
 			"name": "Cloudkrill Filtering",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "33",
 			"back": {
 				"name": "",
@@ -1587,7 +1587,7 @@
 			"name": "Drone Herding",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "8",
 			"back": {
 				"name": "",
@@ -1614,7 +1614,7 @@
 			"name": "Mana Siphoning",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "47",
 			"back": {
 				"name": "",
@@ -1631,7 +1631,7 @@
 			"name": "Nest Raiding",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "80",
 			"back": {
 				"name": "",
@@ -1648,7 +1648,7 @@
 			"name": "Wildfire Succession",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "124",
 			"back": {
 				"name": "",
@@ -1665,7 +1665,7 @@
 			"name": "Undergrowth Mimicry",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "153",
 			"back": {
 				"name": "",
@@ -2142,7 +2142,7 @@
 			"name": "Cooperative Labor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Batt1e — Niche",
+			"type": "Battle — Niche",
 			"collector_number": "6",
 			"back": {
 				"name": "",

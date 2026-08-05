@@ -10,7 +10,7 @@
     {
         "card_name": "Cloudkrill Filtering",
         "number": 33,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "151"
@@ -58,7 +58,7 @@
     {
         "card_name": "Carrion Scrounging",
         "number": 68,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "150"
@@ -74,7 +74,7 @@
     {
         "card_name": "Canopy Grazing",
         "number": 128,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "149"
@@ -122,7 +122,7 @@
     {
         "card_name": "Cooperative Labor",
         "number": 6,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "204"
@@ -162,7 +162,7 @@
     {
         "card_name": "Drone Herding",
         "number": 8,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "152"
@@ -330,7 +330,7 @@
     {
         "card_name": "Mana Siphoning",
         "number": 47,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "154"
@@ -338,7 +338,7 @@
     {
         "card_name": "Nest Raiding",
         "number": 80,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "155"
@@ -466,7 +466,7 @@
     {
         "card_name": "Violent Predation",
         "number": 122,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "148"
@@ -506,7 +506,7 @@
     {
         "card_name": "Wildfire Succession",
         "number": 124,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "156"
@@ -514,7 +514,7 @@
     {
         "card_name": "Undergrowth Mimicry",
         "number": 153,
-        "shape": "transform double faced",
+        "shape": "transform double faced split",
         "set": "EVO",
         "rotated": false,
         "position": "157"

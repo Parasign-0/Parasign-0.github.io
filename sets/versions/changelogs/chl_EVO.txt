@@ -1,4 +1,40 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Violent Predation
+type: Batt1e — Niche => Battle — Niche
+
+Canopy Grazing
+type: Batt1e — Niche => Battle — Niche
+
+Carrion Scrounging
+type: Batt1e — Niche => Battle — Niche
+
+Cloudkrill Filtering
+type: Batt1e — Niche => Battle — Niche
+
+Drone Herding
+type: Batt1e — Niche => Battle — Niche
+
+Mana Siphoning
+type: Batt1e — Niche => Battle — Niche
+
+Nest Raiding
+type: Batt1e — Niche => Battle — Niche
+
+Wildfire Succession
+type: Batt1e — Niche => Battle — Niche
+
+Undergrowth Mimicry
+type: Batt1e — Niche => Battle — Niche
+
+Cooperative Labor
+type: Batt1e — Niche => Battle — Niche
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Insatiable Voidtongue added.
