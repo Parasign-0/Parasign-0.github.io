@@ -3254,98 +3254,6 @@
 		}
 	]
 
-[rare(1)]
-	5 Territory Defense
-	5 Capsule Diving
-	5 Corpse Puppeteering
-	5 Pursuit Predation
-	5 Titan Cleaning
-	5 Colonial Absorption
-	5 Migratory Flocking
-	5 Pioneering Succession
-	5 Psionic Tracking
-	5 Toxin Ingestion
-	5 Riv-Tsu, Relieved of Duty
-	5 Bitter Freedom
-	5 Dwai-En, Acedi of Skies
-	5 Horizon Eater
-	5 Infested Bractoderm
-	5 Ingenious Mimic
-	5 Kin Selection
-	5 Nanosynthesis
-	5 Perfect Harmony
-	5 Bristling Raptorfly
-	5 Stratosphere Tyrant
-	5 Xenowomb
-	5 Chirality Shifter
-	5 Competitive Exclusion
-	5 Convergent Evolution
-	5 Eclipsewing
-	5 Infused Tardigrade
-	5 Mobile Nanohive
-	5 Perfect Mimic
-	5 Resource Partitioning
-	5 Transcription Error
-	5 Wayfaring Continent
-	5 Zun-Re, Acedi of Seas
-	5 Bonesifter Yeti
-	5 Deepwell Protocol
-	5 Endling's Despair
-	5 Extinction Event
-	5 Extravagant Welcome
-	5 Living Pandemic
-	5 Mol-Geb, Acedi of Soil
-	5 Nanoviral Sarcoma
-	5 Cordycelium Host
-	5 Key Innovation
-	5 Reality Dissolver
-	5 Catastrophic Climax
-	5 Erosion Gnawer
-	5 Hosh-Kwa, Acedi of Pressure
-	5 Lithosphere Shaker
-	5 Population Boom
-	5 Nimble Opportunist
-	5 Preconscious Breakthrough
-	5 Rebooted Satellite
-	5 Struggle to Adapt
-	5 Segment Devourer
-	5 Ultaneid Hatch
-	5 Abiogenesis
-	5 Common Ancestor
-	5 Meet in the Depths
-	5 Nanite Incubator
-	5 Omniplasm
-	5 Pathkeeper
-	5 Primordial Witness
-	5 Recapitulate Phylogeny
-	5 Riv-Tsu, Acedi of Growth
-	5 Unrestrained Expansion
-	5 Epicenter Wurm
-	5 Adaptive Radiation
-	5 Atrophied Solipsist
-	5 Enduring Nanoswarm
-	5 Evolving Architecture
-	5 Fecund Sporophyte
-	5 Leyline Gorger
-	5 Lithoid Queen
-	5 Overcharged Stormkite
-	5 Qsasaq, Bioweapon Maker
-	5 Glasstorque Duo
-	5 Shadow Biosphere
-	5 Valrain, Lost in Eternity
-	5 Climax of Evolution
-	5 Esyra's Heart
-	5 Orbital Cruiser
-	5 Hyperadapter
-	5 Apex Predator
-	5 Bog Body
-	5 The Chassis of Srai-Val-Nul
-	5 Crescent-Web Recluse
-	5 Heaving Shoal
-	5 Mesohyl Drift
-	5 The Origin Caves
-	5 Unstable Terrain
-	5 Esyra, the Cancerous City
 [uncommon(3)]
 	5 District Sower
 	5 Colonial Siphoner
@@ -3427,17 +3335,7 @@
 	5 Insatiable Voidtongue
 	5 Nanogene Thief
 	5 Detritus Hoarder
-	5 Violent Predation
-	5 Canopy Grazing
-	5 Carrion Scrounging
-	5 Cloudkrill Filtering
-	5 Drone Herding
-	5 Mana Siphoning
-	5 Nest Raiding
-	5 Wildfire Succession
-	5 Undergrowth Mimicry
-	5 Cooperative Labor
-[common(10)]
+[common(11)]
 	5 Growing Hunger
 	5 Prophetic Prism
 	5 Titanic Rover
@@ -3538,9 +3436,20 @@
 	5 Momentary Breakdown
 	5 Tropical Laminopod
 	5 Ancient Relic
-	5 Surgical Drone
-	5 Resourceful Vermin
-	5 Ceaseless Exploration
-	5 Doomed Vessel
-	5 Tectonic Drift
 	5 Autonomous Defenses
+[LandSlot(1)]
+	5 Violent Predation
+	5 Canopy Grazing
+	5 Carrion Scrounging
+	5 Cloudkrill Filtering
+	5 Drone Herding
+	5 Mana Siphoning
+	5 Nest Raiding
+	5 Wildfire Succession
+	5 Undergrowth Mimicry
+	5 Cooperative Labor
+	10 Surgical Drone
+	10 Doomed Vessel
+	10 Resourceful Vermin
+	10 Tectonic Drift
+	10 Ceaseless Exploration
