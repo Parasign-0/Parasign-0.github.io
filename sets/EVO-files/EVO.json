@@ -6559,7 +6559,7 @@
             "artist2": "Rob Powell",
             "alias2": "",
             "rules_text3": "",
-            "rotated": false,
+            "rotated": true,
             "notes": "landslot\nlandslot"
         },
         {
@@ -6767,5 +6767,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }

@@ -1,4 +1,12 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Wildfire Succession
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
