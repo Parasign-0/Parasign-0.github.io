@@ -1,4 +1,655 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Territory Defense added.
+Capsule Diving added.
+Corpse Puppeteering added.
+Pursuit Predation added.
+Titan Cleaning added.
+Colonial Absorption added.
+Migratory Flocking added.
+Pioneering Succession added.
+Psionic Tracking added.
+Toxin Ingestion added.
+Shattered Vestige added.
+Contest Dominance added.
+Trumpeting Sphenax added.
+Riv-Tsu, Relieved of Duty added.
+Bitter Freedom added.
+Dwai-En, Acedi of Skies added.
+Horizon Eater added.
+Infested Bractoderm added.
+Ingenious Mimic added.
+Kin Selection added.
+Nanosynthesis added.
+Perfect Harmony added.
+Bristling Raptorfly added.
+Stratosphere Tyrant added.
+Xenowomb added.
+Chirality Shifter added.
+Competitive Exclusion added.
+Convergent Evolution added.
+Eclipsewing added.
+Infused Tardigrade added.
+Mobile Nanohive added.
+Perfect Mimic added.
+Resource Partitioning added.
+Transcription Error added.
+Wayfaring Continent added.
+Zun-Re, Acedi of Seas added.
+Bonesifter Yeti added.
+Deepwell Protocol added.
+Endling's Despair added.
+Extinction Event added.
+Extravagant Welcome added.
+Living Pandemic added.
+Mol-Geb, Acedi of Soil added.
+Nanoviral Sarcoma added.
+Cordycelium Host added.
+Key Innovation added.
+Reality Dissolver added.
+Catastrophic Climax added.
+Erosion Gnawer added.
+Hosh-Kwa, Acedi of Pressure added.
+Lithosphere Shaker added.
+Population Boom added.
+Nimble Opportunist added.
+Preconscious Breakthrough added.
+Rebooted Satellite added.
+Struggle to Adapt added.
+Segment Devourer added.
+Ultaneid Hatch added.
+Abiogenesis added.
+Common Ancestor added.
+Meet in the Depths added.
+Nanite Incubator added.
+Omniplasm added.
+Pathkeeper added.
+Primordial Witness added.
+Recapitulate Phylogeny added.
+Riv-Tsu, Acedi of Growth added.
+Unrestrained Expansion added.
+Epicenter Wurm added.
+Adaptive Radiation added.
+Atrophied Solipsist added.
+Enduring Nanoswarm added.
+Evolving Architecture added.
+Fecund Sporophyte added.
+Leyline Gorger added.
+Lithoid Queen added.
+Overcharged Stormkite added.
+Qsasaq, Bioweapon Maker added.
+Glasstorque Duo added.
+Shadow Biosphere added.
+Valrain, Lost in Eternity added.
+Climax of Evolution added.
+Esyra's Heart added.
+Orbital Cruiser added.
+Hyperadapter added.
+Apex Predator added.
+Bog Body added.
+The Chassis of Srai-Val-Nul added.
+Crescent-Web Recluse added.
+Heaving Shoal added.
+Mesohyl Drift added.
+The Origin Caves added.
+Unstable Terrain added.
+Soulkeeper Drone added.
+Preserved Elder added.
+Seedborn Behemoth added.
+Unbound Overseer added.
+Fissure Titan added.
+Jagged Fangs added.
+Immense Size added.
+Hardy Gut added.
+Skyborne Maw added.
+Networked Pheromones added.
+Arcane Senses added.
+Grasping Claws added.
+Ashen Carapace added.
+Morphic Hide added.
+Caste Division added.
+Esyra, the Cancerous City added.
+Ecumenosophic Emergence added.
+Warding Glands added.
+Spellcharged Circuitry added.
+Infectious Spores added.
+Hypersonic Limbs added.
+Signal Stripes added.
+Superorganism added.
+Lethal Stinger added.
+Rapid Reproduction added.
+Tireless Wings added.
+Psychromatophores added.
+Beast added.
+Ooze added.
+Saproling added.
+Germ added.
+Autonomous Defenses added.
+
+Weary Vestige removed.
+Automated Defenses removed.
+Limits of Solidarity removed.
+Keystone Grazer removed.
+
+Drone
+
+Spirit
+
+Leech
+rules_text: Menace, haste => This creature can't block.
+pt: 2/1 => 1/1
+
+Esyra
+
+Starfish
+
+Egg
+
+Sand Illusion
+
+Insect
+
+Elemental
+
+Growing Hunger
+
+Prophetic Prism
+
+District Sower
+
+Titanic Rover
+rules_text: This spell costs {1} less to cast for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i][i]Ecosystem[/i][/i] — This spell costs {1} less to cast for each different power among creatures you control.
+
+Colonial Siphoner
+
+Churn of Eons
+
+Awakener Gremlin
+
+Hollow Stiltwalker
+
+Drift Away
+
+Fungal Symbiont
+
+Nectarpot Grub
+rules_text: When Nectarpot Grub enters, target creature gets +1/+1 until end of turn for each creature in your ecosystem. Put a vigilance counter on it. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — When Nectarpot Grub enters, target creature gets +1/+1 until end of turn for each different power among creatures you control. Put a vigilance counter on it.
+
+Outcompete
+rules_text: Outcompete deals X damage to target creature, where X is 1 plus the number of creatures in your ecosystem. If that creature would die this turn, exile it instead. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i][i]Ecosystem[/i] [/i]— Outcompete deals X damage to target creature, where X is 1 plus the number of different powers among creatures you control. If that creature would die this turn, exile it instead.
+
+Feral Hunter-Killer
+
+Integrated Armory
+
+Endless Path
+
+Treasure Hunt
+
+Genetic Scavenger
+
+Drowning in Tar
+
+Distant Horizons
+rules_text: Enchant land
+When Distant Horizons enters, put a counter of your choice on target creature you control from among vigilance, reach, and +1/+1.
+Enchanted land has “{T}: Add two mana of any one color.” => Enchant land
+When Distant Horizons enters, put a counter of your choice on target creature you control from among reach, vigilance, and +1/+1.
+Enchanted land has “{T}: Add two mana of any one color.”
+
+Memories of Extinction
+
+Rapid Assimilation
+
+Improbable Survival
+
+Perilous Descent
+
+Pitfall Excavator
+
+Afflicted Sanguivore
+
+Tanglepod Larva
+
+Spectral Pursuit
+
+Symbiotic Tactics
+
+Silicate Predator
+
+Deconstructor Swarm
+rules_text: When Deconstructor Swarm enters, tap target creature an opponent controls. Put a stun counter on it for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — When Deconstructor Swarm enters, tap target creature an opponent controls. Put a stun counter on it for each different power among creatures you control.
+
+Harsh Conditions
+
+Oceanic Monstrosity
+rules_text: Ward {3}
+Whenever a land you control enters, Oceanic Monstrosity can't be blocked this turn. => Ward {3}
+[i]Landfall[/i] — Whenever a land you control enters, Oceanic Monstrosity can't be blocked this turn.
+
+Hydrolancer
+
+Phase Stalker
+rules_text: Whenever you discard a card, Phase Stalker gets +1/+0 until end of turn and can't be blocked this turn. => Whenever you discard a card, Phase Stalker gets +1/+1 until end of turn and can't be blocked this turn.
+
+Out of Sync
+
+Relentless Rover
+
+Blight Gorger
+
+Culling Drone
+
+Vestige of Calamity
+
+Bloodstalker Pack
+
+Twisted Amalgam
+
+Unnatural Preservation
+
+Peroxide Spitter
+cost: {1}{R} => {2}{R}
+rules_text: Whenever you discard a card, Peroxide Spitter deals 1 damage to target opponent or battle. => {1}, {T}, Discard a card: Peroxide Spitter deals 1 damage to target opponent or battle. Draw a card.
+pt: 2/2 => 2/3
+
+Boomcroak Alpha
+rules_text: When Boomcroak Alpha enters, it deals damage equal to the number of creatures in your ecosystem to any target. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — When Boomcroak Alpha enters, it deals damage to any target equal to the number of different powers among creatures you control.
+
+Rockslide Hellion
+
+Voracite Swarm
+rules_text: When Voracite Swarm enters, choose one—
+• Destroy target artifact.
+• Voracite Swarm deals 1 damage to any target. => When Voracite Swarm enters, choose one —
+• Destroy target artifact.
+• Voracite Swarm deals 1 damage to any target.
+
+Curious Rover
+
+Burn Fuel
+
+Atomic Brute
+
+Vengeant Earth
+
+Flourishing Leylith
+rules_text: Whenever Flourishing Leylith enters or attacks, choose one—
+• Put a +1/+1 counter on target creature.
+• Put a +1/+1 counter on each creature you control with a counter on it. => Whenever Flourishing Leylith enters or attacks, choose one —
+• Put a +1/+1 counter on target creature.
+• Put a +1/+1 counter on each creature you control with a counter on it.
+
+Harvest Drone
+
+Colossal Ancient
+
+Earth Weaver
+rules_text: Deathtouch, reach
+When Earth Weaver enters, you gain life equal to the greatest toughness among other creatures you control. => Reach, deathtouch
+When Earth Weaver enters, you gain life equal to the greatest toughness among other creatures you control.
+
+Brooding Terraloth
+
+Valrain's Journal
+
+Synthfruit Grove
+
+Towering Mechanoid
+
+Virulent Cancrin
+
+Territorial Bellower
+
+Stampeding Thunderbeest
+
+Greater Fleshdrinker
+
+Fledgling Amphipteron
+cost: {3}{U} => {2}{U}
+pt: 2/3 => 2/1
+
+Evolving Wilds
+
+Xerid Sentry
+
+Blighted Hulk
+
+Thirst for Insight
+rules_text: Draw three cards, then discard two cards unless you discard a card with cycling. => Draw three cards, then discard two cards unless you discard a card with a cycling ability.
+
+Ravenous Hunter
+
+Goliath Hydra
+
+Shore Drinker
+rules_text: Whenever a land you control enters, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it. => [i]Landfall[/i] — Whenever a land you control enters, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it.
+
+Skyline Sentinel
+
+Shrieking Detritivore
+
+Fused Chimera
+
+Rumbling Scalecrusher
+
+Fuelport Drone
+
+Bombardment Drone
+
+Lithoid Prowler
+
+Adaptive Assimilator
+
+Relic Trawler
+
+Awakened Behemoth
+rules_text: This spell costs {1} less to cast for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i]
+Trample, haste => [i][i]Ecosystem[/i][/i] — This spell costs {1} less to cast for each different power among creatures you control.
+Trample, haste
+
+Fruiting Chorus
+cost: {3}{G}{U}{U} => {2}{G}{U}{U}
+rules_text: Fruiting Chorus's power and toughness are each equal to the number of lands you control.
+Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from your hand onto the battlefield. => Whenever Fruiting Chorus attacks, draw a card, then you may put a land card from your hand onto the battlefield.
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature.
+pt: */* => 3/3
+
+Cloud of Wreckage
+
+Magnetic Sandshaper
+
+Unexpected Windfall
+
+Deepwell Time Capsule
+
+Esyra's Claim
+
+Nanite Colony
+
+Nanogene Repository
+
+Dweller in Emptiness
+
+Placid Sailfan
+rules_text: When Placid Sailfan enters, choose one—
+• Destroy target enchantment.
+• Draw a card.
+• You gain 4 life. => When Placid Sailfan enters, choose one —
+• Destroy target enchantment.
+• Draw a card.
+• You gain 4 life.
+
+Timely Culling
+cost: {2}{U} => {2}{U}{U}
+rules_text: Counter target permanent spell.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Counter target spell.
+Cycling {U} [i]({U}, Discard this card: Draw a card.)[/i]
+
+Nesting Twinstalk
+
+Conductive Lithoid
+cost: {4}{R} => {3}{R}{R}
+
+Fogspore Behemoth
+
+Engulfing Crystalreef
+
+Intestinal Scourge
+
+Polymorphic Seedprobe
+
+Meandering Greatwurm
+rules_text: Whenever a land you control enters, you gain 1 life and draw a card. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life and draw a card.
+
+Unburied Secrets
+
+Sedimentary Symbiont
+
+Troodroid Pack
+rules_text: Whenever Troodroid Pack attacks or blocks, it gets +1/+1 until end of turn for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — Whenever Troodroid Pack attacks or blocks, it gets +1/+1 until end of turn for each different power among creatures you control.
+
+Sensory Synergy
+rules_text: Untap up to one target artifact creature and up to one target nonartifact creature. Those creatures get +1/+1 and gain hexproof until end of turn. => Untap up to one target artifact creature and up to one target nonartifact creature. Those creatures get +1/+2 and gain hexproof until end of turn.
+
+False Ectomorph
+
+Bloodline's End
+rules_text: Exile target creature.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Exile target creature.
+Cycling {B} [i]({B}, Discard this card: Draw a card.)[/i]
+
+Pollution Spray
+rules_text: Choose one—
+• Target creature gets -2/-2 until end of turn.
+• Remove up to two counters from target permanent. => Choose one —
+• Target creature gets -2/-2 until end of turn.
+• Remove up to two counters from target permanent.
+
+Caught in Amber
+
+Spawnsac Mutualist
+cost: {2}{R} => {1}{R}
+rules_text: Defender, reach
+{1}{R}, {T}, Discard a card: Create a 2/1 red Leech creature token with menace and haste. Activate only as a sorcery. => Reach, defender
+Whenever you discard a card, create a 1/1 red Leech creature token with “This creature can't block.”
+
+Microbiome Igniter
+rules_text: Trample
+{1}{R}: Microbiome Igniter gets +1/+0 until end of turn for each creature in your ecosystem. Activate only once each turn. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => Trample
+[i]Ecosystem[/i] — {1}{R}: Microbiome Igniter gets +1/+0 until end of turn for each different power among creatures you control. Activate only once each turn.
+
+Buried Cache
+rules_text: Buried Cache enters tapped with three storage counters on it.
+{T}, Remove a counter from Buried Cache: Exile the top card of your library. When you do, choose one—
+• Create a Treasure token.
+• You may play the exiled card this turn. => Buried Cache enters tapped with two storage counters on it.
+{T}, Remove a counter from Buried Cache or sacrifice it: Exile the top card of your library. When you do, choose one —
+• Create a Treasure token.
+• You may play the exiled card this turn.
+
+Grow Over
+
+Factoruminant
+
+Honed Razorpede
+
+Segment Migration
+rules_text: Draw a card for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — Draw a card for each different power among creatures you control.
+
+Atavistic Rebirth
+rules_text: Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the number of creatures in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — Return target creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the number of different powers among creatures you control.
+
+Fractal Fission
+
+Coiling Omnivore
+rules_text: Vigilance
+When Coiling Omnivore enters, put a +1/+1 counter on it for each creature in your ecosystem. When you do, Coiling Omnivore fights up to one target creature you don't control. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => Vigilance
+[i][i]Ecosystem[/i] — [/i]When Coiling Omnivore enters, put a +1/+1 counter on it for each different power among creatures you control. When you do, Coiling Omnivore fights up to one target creature you don't control.
+
+Cerebral Parasite
+rules_text: When Cerebral Parasite enters, target opponent reveals a number of cards from their hand equal to the number of creatures in your ecosystem. You choose one of those cards. That player discards that card. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — When Cerebral Parasite enters, target opponent reveals a number of cards from their hand equal to the number of different powers among creatures you control. You choose one of them. That player discards that card.
+
+Overgrown Rustshell
+rules_text: {T}: Add {G} for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i][i]Ecosystem[/i][/i] — {T}: Add {G} for each different power among creatures you control.
+
+Mutagenic Orb
+
+Sawtooth Hellion
+
+Tantalizing Dreadfruit
+
+Archipelago Drake
+
+Converted Terraformer
+
+Ocean Purifier
+rules_text: When Ocean Purifier enters, draw a card. Then discard a card unless you exile three cards from your graveyard. => Whenever Ocean Purifier enters or attacks, draw a card. Then discard a card unless you exile three cards from your graveyard.
+pt: 4/5 => 3/5
+
+Segment Prospector
+
+Segment Collapse
+
+Dwindling Oasis
+
+Treasure
+
+Eerie Stillness
+
+Devastation Engine
+
+Maintenance Drone
+
+Selective Pressure
+
+Reactor Forger
+
+Acclimate
+
+Esyra Outskirts
+
+Competitive Release
+
+Lush Meadowback
+
+Larva Injector
+
+Stoneguide Skycoil
+rules_text: Flying
+Whenever Stoneguide Skycoil attacks, create a tapped and attacking X/X red Elemental creature token, where X is the number of creatures in your ecosystem. Exile the token at end of combat. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => Flying
+[i][i]Ecosystem[/i][/i] — Whenever Stoneguide Skycoil attacks, create a tapped and attacking X/X red Elemental creature token, where X is the number of different powers among creatures you control. Exile the token at end of combat.
+
+Bulky Ramshell
+
+Glaciation Event
+
+Territorial Encroachment
+rules_text: Repeat the following process once for each creature in your ecosystem. Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i]Ecosystem[/i] — Repeat the following process once for each different power among creatures you control. Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.
+
+Meteorite Impact
+
+Voracious Grazer
+rules_text: Whenever a land you control enters, you gain life equal to Voracious Grazer's power.
+{4}{G}: Until end of turn, Voracious Grazer has base power and toughness 5/5. => [i]Landfall[/i] — Whenever a land you control enters, you gain life equal to Voracious Grazer's power.
+{4}{G}: Until end of turn, Voracious Grazer has base power and toughness 5/5.
+
+Metamorphic Ambush
+
+Ocuhive Sentry
+
+Consuming Swarm
+
+Stereohawk
+
+Drifting Pollinator
+
+Cavernmaw Whelp
+
+Tundra Surveyor
+rules_text: {1}, {T}: Draw a card, then discard a card. => When Tundra Surveyor enters, draw two cards, then discard two cards.
+
+Collapse
+
+Diving Neocete
+
+Preserved in Ice
+
+Fierce Skunkraptor
+rules_text: Fierce Skunkraptor can't be blocked by creatures with power less than or equal to the number of creatures in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i][i]Ecosystem[/i] [/i]— Fierce Skunkraptor can't be blocked by creatures with power less than or equal to the number of different powers among creatures you control.
+
+Ion Cruiser
+
+Networked Eurypterid
+
+Nomadic Pylon
+
+Infected Biome
+
+Moor Segment
+
+Ocean Segment
+
+Prairie Segment
+
+Ridge Segment
+
+Timber Segment
+
+Eerie Citadel
+
+Looming Pinnacle
+
+Secluded Refuge
+
+Toxic Mire
+
+Bubbling Lagoon
+
+Malignant Necrowar
+
+Whalefall Delver
+rules_text: This spell costs {1} less to cast for each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i]
+When Whalefall Delver enters, choose a card in your graveyard. You may sacrifice another creature with power equal to that card's mana value. If you do, return that card to your hand. => [i][i]Ecosystem[/i][/i] — This spell costs {1} less to cast for each different power among creatures you control.
+When Whalefall Delver enters, choose a card in your graveyard. You may sacrifice another creature with power equal to that card's mana value. If you do, return that card to your hand.
+
+Nascent Apex
+rules_text: Whenever Nascent Apex attacks, if its power is less than the number of creatures in your ecosystem, you may put a +1/+1 counter on Nascent Apex. [i](Your ecosystem consists of any number of creatures with different powers.)[/i]
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i] => [i]Ecosystem[/i] — Whenever Nascent Apex attacks, if its power is less than the number of different powers among creatures you control, you may put a +1/+1 counter on Nascent Apex.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]
+
+Momentary Breakdown
+
+Insatiable Voidtongue
+
+Nanogene Thief
+
+Tropical Laminopod
+rules_text: When Tropical Laminopod enters, look at the top X cards of your library, where X is the number of creatures in your ecosystem. You may reveal a permanent card from among them and put it into your hand. Then shuffle. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i][i]Ecosystem[/i][/i] — When Tropical Laminopod enters, look at the top X cards of your library, where X is the number of different powers among creatures you control. You may reveal a permanent card from among them and put it into your hand. Then shuffle.
+
+Ancient Relic
+
+Construct
+
+Detritus Hoarder
+
+Surgical Drone
+
+Resourceful Vermin
+
+Ceaseless Exploration
+
+Doomed Vessel
+pt: 3/2 => 4/1
+
+Tectonic Drift
+
+Violent Predation
+
+Canopy Grazing
+
+Carrion Scrounging
+
+Cloudkrill Filtering
+
+Drone Herding
+
+Mana Siphoning
+
+Nest Raiding
+
+Wildfire Succession
+
+Undergrowth Mimicry
+
+Cooperative Labor
+rules_text: [i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]
+When Cooperative Labor enters, put a +1/+1 counter on each creature in your ecosystem. [i](Your ecosystem consists of any number of creatures with different powers.)[/i] => [i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]
+[i]Ecosystem[/i] — When Cooperative Labor enters, put a +1/+1 counter on each of any number of creatures you control with different powers.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
