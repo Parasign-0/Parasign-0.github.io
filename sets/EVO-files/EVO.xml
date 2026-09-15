@@ -4810,8 +4810,7 @@ Ecosystem — When Primordial Witness enters, for each different power among cre
 		</card>
 		<card>
 			<name>Recapitulate Phylogeny</name>
-			<text>X can&apos;t be 0.
-As an additional cost to cast this spell, for each mana value between 1 and X, exile a creature card with that mana value from your graveyard.
+			<text>As an additional cost to cast this spell, for each mana value between 1 and X, exile a creature card with that mana value from your graveyard. {X} can&apos;t be {0}.
 {S}earch your library for a creature card with mana value {X} plus 1, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://parasign-0.github.io/sets/EVO-files/img/258.png" num="206">EVO</set>
 			<prop>
@@ -4819,8 +4818,8 @@ As an additional cost to cast this spell, for each mana value between 1 and X, e
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XG</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
