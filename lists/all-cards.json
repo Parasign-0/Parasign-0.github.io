@@ -5038,7 +5038,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "!tokens Drone<1>",
+            "notes": "!tokens Drone<1>\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6073,7 +6073,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "ALTERNATE: \"for each mana value between 1 and X, exile a creature card with that mana value\" -> \"exile X creature cards with different mana values\"",
+            "notes": "!tag wishlist\n\nALTERNATE: \"for each mana value between 1 and X, exile a creature card with that mana value\" -> \"exile X creature cards with different mana values\"",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6441,7 +6441,7 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": "ALTERNATE: \"creatures you control have\" -> \"each creature in your ecosystem has\"",
+            "notes": "!tag wishlist\n\nALTERNATE: \"creatures you control have\" -> \"each creature in your ecosystem has\"",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6510,7 +6510,7 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": "Replace card?",
+            "notes": "!tag wishlist\n\nReplace card?",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7254,7 +7254,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "ALTERNATE: Make single-faced (and move to rare?)\nALTERNATE: Make single-faced (and move to rare?)",
+            "notes": "!tag wishlist\n\nALTERNATE: Make single-faced (and move to rare?)\nALTERNATE: Make single-faced (and move to rare?)",
             "image_type": "png",
             "v_mana": ""
         },
