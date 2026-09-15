@@ -194,7 +194,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -203,8 +205,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -240,130 +256,115 @@
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\244.png" id="EVO_244" data-flag="@X" onclick="openSidebar('EVO_244',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\259.png" id="EVO_259" data-flag="@X" onclick="openSidebar('EVO_259',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\207.png" id="EVO_207" data-flag="@X" onclick="openSidebar('EVO_207',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\10.png" id="EVO_10" data-flag="@X" onclick="openSidebar('EVO_10',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\10_back.png" alt="sets\EVO-files\img\10_front.png" id="EVO_10" data-flag="@XD" onclick="openSidebar('EVO_10',true)"><button class="flip-btn" onclick="imgFlip('EVO_10')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\229.png" id="EVO_229" data-flag="@X" onclick="openSidebar('EVO_229',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\240.png" id="EVO_240" data-flag="@X" onclick="openSidebar('EVO_240',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\251.png" id="EVO_251" data-flag="@X" onclick="openSidebar('EVO_251',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\215.png" id="EVO_215" data-flag="@X" onclick="openSidebar('EVO_215',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\319.png" id="EVO_319" data-flag="@X" onclick="openSidebar('EVO_319',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\218.png" id="EVO_218" data-flag="@X" onclick="openSidebar('EVO_218',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\237.png" id="EVO_237" data-flag="@X" onclick="openSidebar('EVO_237',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\241.png" id="EVO_241" data-flag="@X" onclick="openSidebar('EVO_241',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\252.png" id="EVO_252" data-flag="@X" onclick="openSidebar('EVO_252',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\210.png" id="EVO_210" data-flag="@X" onclick="openSidebar('EVO_210',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\218.png" id="EVO_218" data-flag="@X" onclick="openSidebar('EVO_218',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\11.png" id="EVO_11" data-flag="@X" onclick="openSidebar('EVO_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\219.png" id="EVO_219" data-flag="@X" onclick="openSidebar('EVO_219',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\11_back.png" alt="sets\EVO-files\img\11_front.png" id="EVO_11" data-flag="@XD" onclick="openSidebar('EVO_11',true)"><button class="flip-btn" onclick="imgFlip('EVO_11')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\245.png" id="EVO_245" data-flag="@X" onclick="openSidebar('EVO_245',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\253.png" id="EVO_253" data-flag="@X" onclick="openSidebar('EVO_253',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\211.png" id="EVO_211" data-flag="@X" onclick="openSidebar('EVO_211',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\219.png" id="EVO_219" data-flag="@X" onclick="openSidebar('EVO_219',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\320.png" id="EVO_320" data-flag="@X" onclick="openSidebar('EVO_320',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\221.png" id="EVO_221" data-flag="@X" onclick="openSidebar('EVO_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\231.png" id="EVO_231" data-flag="@X" onclick="openSidebar('EVO_231',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\246.png" id="EVO_246" data-flag="@X" onclick="openSidebar('EVO_246',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\254.png" id="EVO_254" data-flag="@X" onclick="openSidebar('EVO_254',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\212.png" id="EVO_212" data-flag="@X" onclick="openSidebar('EVO_212',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\221.png" id="EVO_221" data-flag="@X" onclick="openSidebar('EVO_221',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\231.png" id="EVO_231" data-flag="@X" onclick="openSidebar('EVO_231',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\12.png" id="EVO_12" data-flag="@X" onclick="openSidebar('EVO_12',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\256.png" id="EVO_256" data-flag="@X" onclick="openSidebar('EVO_256',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\213.png" id="EVO_213" data-flag="@X" onclick="openSidebar('EVO_213',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\222.png" id="EVO_222" data-flag="@X" onclick="openSidebar('EVO_222',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\232.png" id="EVO_232" data-flag="@X" onclick="openSidebar('EVO_232',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\321.png" id="EVO_321" data-flag="@X" onclick="openSidebar('EVO_321',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\257.png" id="EVO_257" data-flag="@X" onclick="openSidebar('EVO_257',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\214.png" id="EVO_214" data-flag="@X" onclick="openSidebar('EVO_214',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\12_back.png" alt="sets\EVO-files\img\12_front.png" id="EVO_12" data-flag="@XD" onclick="openSidebar('EVO_12',true)"><button class="flip-btn" onclick="imgFlip('EVO_12')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\256.png" id="EVO_256" data-flag="@X" onclick="openSidebar('EVO_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\213.png" id="EVO_213" data-flag="@X" onclick="openSidebar('EVO_213',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\223.png" id="EVO_223" data-flag="@X" onclick="openSidebar('EVO_223',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\233.png" id="EVO_233" data-flag="@X" onclick="openSidebar('EVO_233',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\247.png" id="EVO_247" data-flag="@X" onclick="openSidebar('EVO_247',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\258.png" id="EVO_258" data-flag="@X" onclick="openSidebar('EVO_258',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\9.png" id="EVO_9" data-flag="@X" onclick="openSidebar('EVO_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\257.png" id="EVO_257" data-flag="@X" onclick="openSidebar('EVO_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\214.png" id="EVO_214" data-flag="@X" onclick="openSidebar('EVO_214',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\224.png" id="EVO_224" data-flag="@X" onclick="openSidebar('EVO_224',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\238.png" id="EVO_238" data-flag="@X" onclick="openSidebar('EVO_238',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\249.png" id="EVO_249" data-flag="@X" onclick="openSidebar('EVO_249',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\13.png" id="EVO_13" data-flag="@X" onclick="openSidebar('EVO_13',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\318.png" id="EVO_318" data-flag="@X" onclick="openSidebar('EVO_318',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\258.png" id="EVO_258" data-flag="@X" onclick="openSidebar('EVO_258',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\9_back.png" alt="sets\EVO-files\img\9_front.png" id="EVO_9" data-flag="@XD" onclick="openSidebar('EVO_9',true)"><button class="flip-btn" onclick="imgFlip('EVO_9')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\225.png" id="EVO_225" data-flag="@X" onclick="openSidebar('EVO_225',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\236.png" id="EVO_236" data-flag="@X" onclick="openSidebar('EVO_236',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\248.png" id="EVO_248" data-flag="@X" onclick="openSidebar('EVO_248',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\322.png" id="EVO_322" data-flag="@X" onclick="openSidebar('EVO_322',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\13_back.png" alt="sets\EVO-files\img\13_front.png" id="EVO_13" data-flag="@XD" onclick="openSidebar('EVO_13',true)"><button class="flip-btn" onclick="imgFlip('EVO_13')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\217.png" id="EVO_217" data-flag="@X" onclick="openSidebar('EVO_217',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\226.png" id="EVO_226" data-flag="@X" onclick="openSidebar('EVO_226',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\239.png" id="EVO_239" data-flag="@X" onclick="openSidebar('EVO_239',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\250.png" id="EVO_250" data-flag="@X" onclick="openSidebar('EVO_250',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\260.png" id="EVO_260" data-flag="@X" onclick="openSidebar('EVO_260',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\140.png" id="EVO_140" data-flag="@X" onclick="openSidebar('EVO_140',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\302.png" id="EVO_302" data-flag="@X" onclick="openSidebar('EVO_302',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\302_back.png" alt="sets\EVO-files\img\302_front.png" id="EVO_302" data-flag="@XD" onclick="openSidebar('EVO_302',true)"><button class="flip-btn" onclick="imgFlip('EVO_302')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\86.png" id="EVO_86" data-flag="@X" onclick="openSidebar('EVO_86',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\205.png" id="EVO_205" data-flag="@X" onclick="openSidebar('EVO_205',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\166.png" id="EVO_166" data-flag="@X" onclick="openSidebar('EVO_166',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\23.png" id="EVO_23" data-flag="@X" onclick="openSidebar('EVO_23',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\303.png" id="EVO_303" data-flag="@X" onclick="openSidebar('EVO_303',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\300.png" id="EVO_300" data-flag="@X" onclick="openSidebar('EVO_300',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\141.png" id="EVO_141" data-flag="@X" onclick="openSidebar('EVO_141',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\298.png" id="EVO_298" data-flag="@X" onclick="openSidebar('EVO_298',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\162.png" id="EVO_162" data-flag="@X" onclick="openSidebar('EVO_162',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\111.png" id="EVO_111" data-flag="@X" onclick="openSidebar('EVO_111',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\301.png" id="EVO_301" data-flag="@X" onclick="openSidebar('EVO_301',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\100.png" id="EVO_100" data-flag="@X" onclick="openSidebar('EVO_100',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\299.png" id="EVO_299" data-flag="@X" onclick="openSidebar('EVO_299',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\314.png" id="EVO_314" data-flag="@X" onclick="openSidebar('EVO_314',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\300_back.png" alt="sets\EVO-files\img\300_front.png" id="EVO_300" data-flag="@XD" onclick="openSidebar('EVO_300',true)"><button class="flip-btn" onclick="imgFlip('EVO_300')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\141.png" id="EVO_141" data-flag="@X" onclick="openSidebar('EVO_141',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\298_back.png" alt="sets\EVO-files\img\298_front.png" id="EVO_298" data-flag="@XD" onclick="openSidebar('EVO_298',true)"><button class="flip-btn" onclick="imgFlip('EVO_298')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\162.png" id="EVO_162" data-flag="@X" onclick="openSidebar('EVO_162',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\179.png" id="EVO_179" data-flag="@X" onclick="openSidebar('EVO_179',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\173.png" id="EVO_173" data-flag="@X" onclick="openSidebar('EVO_173',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\98.png" id="EVO_98" data-flag="@X" onclick="openSidebar('EVO_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\100.png" id="EVO_100" data-flag="@X" onclick="openSidebar('EVO_100',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\142.png" id="EVO_142" data-flag="@X" onclick="openSidebar('EVO_142',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\315.png" id="EVO_315" data-flag="@X" onclick="openSidebar('EVO_315',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\314_back.png" alt="sets\EVO-files\img\314_front.png" id="EVO_314" data-flag="@XD" onclick="openSidebar('EVO_314',true)"><button class="flip-btn" onclick="imgFlip('EVO_314')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\112.png" id="EVO_112" data-flag="@X" onclick="openSidebar('EVO_112',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\57.png" id="EVO_57" data-flag="@X" onclick="openSidebar('EVO_57',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\102.png" id="EVO_102" data-flag="@X" onclick="openSidebar('EVO_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\98.png" id="EVO_98" data-flag="@X" onclick="openSidebar('EVO_98',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\149.png" id="EVO_149" data-flag="@X" onclick="openSidebar('EVO_149',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\304.png" id="EVO_304" data-flag="@X" onclick="openSidebar('EVO_304',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\304_back.png" alt="sets\EVO-files\img\304_front.png" id="EVO_304" data-flag="@XD" onclick="openSidebar('EVO_304',true)"><button class="flip-btn" onclick="imgFlip('EVO_304')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\129.png" id="EVO_129" data-flag="@X" onclick="openSidebar('EVO_129',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\36.png" id="EVO_36" data-flag="@X" onclick="openSidebar('EVO_36',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\169.png" id="EVO_169" data-flag="@X" onclick="openSidebar('EVO_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\102.png" id="EVO_102" data-flag="@X" onclick="openSidebar('EVO_102',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\94.png" id="EVO_94" data-flag="@X" onclick="openSidebar('EVO_94',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\305.png" id="EVO_305" data-flag="@X" onclick="openSidebar('EVO_305',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\115.png" id="EVO_115" data-flag="@X" onclick="openSidebar('EVO_115',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\167.png" id="EVO_167" data-flag="@X" onclick="openSidebar('EVO_167',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\122.png" id="EVO_122" data-flag="@X" onclick="openSidebar('EVO_122',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\198.png" id="EVO_198" data-flag="@X" onclick="openSidebar('EVO_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\169.png" id="EVO_169" data-flag="@X" onclick="openSidebar('EVO_169',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\41.png" id="EVO_41" data-flag="@X" onclick="openSidebar('EVO_41',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\115.png" id="EVO_115" data-flag="@X" onclick="openSidebar('EVO_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\155.png" id="EVO_155" data-flag="@X" onclick="openSidebar('EVO_155',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\52.png" id="EVO_52" data-flag="@X" onclick="openSidebar('EVO_52',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\164.png" id="EVO_164" data-flag="@X" onclick="openSidebar('EVO_164',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\159.png" id="EVO_159" data-flag="@X" onclick="openSidebar('EVO_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\198.png" id="EVO_198" data-flag="@X" onclick="openSidebar('EVO_198',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\124.png" id="EVO_124" data-flag="@X" onclick="openSidebar('EVO_124',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\155.png" id="EVO_155" data-flag="@X" onclick="openSidebar('EVO_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\121.png" id="EVO_121" data-flag="@X" onclick="openSidebar('EVO_121',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\109.png" id="EVO_109" data-flag="@X" onclick="openSidebar('EVO_109',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\39.png" id="EVO_39" data-flag="@X" onclick="openSidebar('EVO_39',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\146.png" id="EVO_146" data-flag="@X" onclick="openSidebar('EVO_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\159.png" id="EVO_159" data-flag="@X" onclick="openSidebar('EVO_159',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\144.png" id="EVO_144" data-flag="@X" onclick="openSidebar('EVO_144',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\121.png" id="EVO_121" data-flag="@X" onclick="openSidebar('EVO_121',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\306.png" id="EVO_306" data-flag="@X" onclick="openSidebar('EVO_306',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\308.png" id="EVO_308" data-flag="@X" onclick="openSidebar('EVO_308',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\152.png" id="EVO_152" data-flag="@X" onclick="openSidebar('EVO_152',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\42.png" id="EVO_42" data-flag="@X" onclick="openSidebar('EVO_42',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\138.png" id="EVO_138" data-flag="@X" onclick="openSidebar('EVO_138',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\307.png" id="EVO_307" data-flag="@X" onclick="openSidebar('EVO_307',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\309.png" id="EVO_309" data-flag="@X" onclick="openSidebar('EVO_309',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\165.png" id="EVO_165" data-flag="@X" onclick="openSidebar('EVO_165',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\40.png" id="EVO_40" data-flag="@X" onclick="openSidebar('EVO_40',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\306_back.png" alt="sets\EVO-files\img\306_front.png" id="EVO_306" data-flag="@XD" onclick="openSidebar('EVO_306',true)"><button class="flip-btn" onclick="imgFlip('EVO_306')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\308_back.png" alt="sets\EVO-files\img\308_front.png" id="EVO_308" data-flag="@XD" onclick="openSidebar('EVO_308',true)"><button class="flip-btn" onclick="imgFlip('EVO_308')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\146.png" id="EVO_146" data-flag="@X" onclick="openSidebar('EVO_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\42.png" id="EVO_42" data-flag="@X" onclick="openSidebar('EVO_42',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\182.png" id="EVO_182" data-flag="@X" onclick="openSidebar('EVO_182',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\183.png" id="EVO_183" data-flag="@X" onclick="openSidebar('EVO_183',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\97.png" id="EVO_97" data-flag="@X" onclick="openSidebar('EVO_97',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\296.png" id="EVO_296" data-flag="@X" onclick="openSidebar('EVO_296',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\93.png" id="EVO_93" data-flag="@X" onclick="openSidebar('EVO_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\152.png" id="EVO_152" data-flag="@X" onclick="openSidebar('EVO_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\40.png" id="EVO_40" data-flag="@X" onclick="openSidebar('EVO_40',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\163.png" id="EVO_163" data-flag="@X" onclick="openSidebar('EVO_163',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\139.png" id="EVO_139" data-flag="@X" onclick="openSidebar('EVO_139',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\147.png" id="EVO_147" data-flag="@X" onclick="openSidebar('EVO_147',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\297.png" id="EVO_297" data-flag="@X" onclick="openSidebar('EVO_297',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\99.png" id="EVO_99" data-flag="@X" onclick="openSidebar('EVO_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\165.png" id="EVO_165" data-flag="@X" onclick="openSidebar('EVO_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\93.png" id="EVO_93" data-flag="@X" onclick="openSidebar('EVO_93',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\184.png" id="EVO_184" data-flag="@X" onclick="openSidebar('EVO_184',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\95.png" id="EVO_95" data-flag="@X" onclick="openSidebar('EVO_95',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\168.png" id="EVO_168" data-flag="@X" onclick="openSidebar('EVO_168',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\310.png" id="EVO_310" data-flag="@X" onclick="openSidebar('EVO_310',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\312.png" id="EVO_312" data-flag="@X" onclick="openSidebar('EVO_312',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\296_back.png" alt="sets\EVO-files\img\296_front.png" id="EVO_296" data-flag="@XD" onclick="openSidebar('EVO_296',true)"><button class="flip-btn" onclick="imgFlip('EVO_296')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\99.png" id="EVO_99" data-flag="@X" onclick="openSidebar('EVO_99',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\85.png" id="EVO_85" data-flag="@X" onclick="openSidebar('EVO_85',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\96.png" id="EVO_96" data-flag="@X" onclick="openSidebar('EVO_96',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\125.png" id="EVO_125" data-flag="@X" onclick="openSidebar('EVO_125',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\311.png" id="EVO_311" data-flag="@X" onclick="openSidebar('EVO_311',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\313.png" id="EVO_313" data-flag="@X" onclick="openSidebar('EVO_313',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\310_back.png" alt="sets\EVO-files\img\310_front.png" id="EVO_310" data-flag="@XD" onclick="openSidebar('EVO_310',true)"><button class="flip-btn" onclick="imgFlip('EVO_310')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\312_back.png" alt="sets\EVO-files\img\312_front.png" id="EVO_312" data-flag="@XD" onclick="openSidebar('EVO_312',true)"><button class="flip-btn" onclick="imgFlip('EVO_312')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\332.png" id="EVO_332" data-flag="@X" onclick="openSidebar('EVO_332',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\148.png" id="EVO_148" data-flag="@X" onclick="openSidebar('EVO_148',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\44.png" id="EVO_44" data-flag="@X" onclick="openSidebar('EVO_44',false)"></div>
@@ -375,74 +376,69 @@
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\25.png" id="EVO_25" data-flag="@X" onclick="openSidebar('EVO_25',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\75.png" id="EVO_75" data-flag="@X" onclick="openSidebar('EVO_75',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\175.png" id="EVO_175" data-flag="@X" onclick="openSidebar('EVO_175',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\292.png" id="EVO_292" data-flag="@X" onclick="openSidebar('EVO_292',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\292_back.png" alt="sets\EVO-files\img\292_front.png" id="EVO_292" data-flag="@XD" onclick="openSidebar('EVO_292',false)"><button class="flip-btn" onclick="imgFlip('EVO_292')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\130.png" id="EVO_130" data-flag="@X" onclick="openSidebar('EVO_130',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\63.png" id="EVO_63" data-flag="@X" onclick="openSidebar('EVO_63',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\290.png" id="EVO_290" data-flag="@X" onclick="openSidebar('EVO_290',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\290_back.png" alt="sets\EVO-files\img\290_front.png" id="EVO_290" data-flag="@XD" onclick="openSidebar('EVO_290',false)"><button class="flip-btn" onclick="imgFlip('EVO_290')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\82.png" id="EVO_82" data-flag="@X" onclick="openSidebar('EVO_82',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\293.png" id="EVO_293" data-flag="@X" onclick="openSidebar('EVO_293',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\28.png" id="EVO_28" data-flag="@X" onclick="openSidebar('EVO_28',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\59.png" id="EVO_59" data-flag="@X" onclick="openSidebar('EVO_59',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\135.png" id="EVO_135" data-flag="@X" onclick="openSidebar('EVO_135',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\291.png" id="EVO_291" data-flag="@X" onclick="openSidebar('EVO_291',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\73.png" id="EVO_73" data-flag="@X" onclick="openSidebar('EVO_73',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\171.png" id="EVO_171" data-flag="@X" onclick="openSidebar('EVO_171',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\28.png" id="EVO_28" data-flag="@X" onclick="openSidebar('EVO_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\83.png" id="EVO_83" data-flag="@X" onclick="openSidebar('EVO_83',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\143.png" id="EVO_143" data-flag="@X" onclick="openSidebar('EVO_143',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\67.png" id="EVO_67" data-flag="@X" onclick="openSidebar('EVO_67',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\73.png" id="EVO_73" data-flag="@X" onclick="openSidebar('EVO_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\38.png" id="EVO_38" data-flag="@X" onclick="openSidebar('EVO_38',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\199.png" id="EVO_199" data-flag="@X" onclick="openSidebar('EVO_199',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\83.png" id="EVO_83" data-flag="@X" onclick="openSidebar('EVO_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\50.png" id="EVO_50" data-flag="@X" onclick="openSidebar('EVO_50',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\24.png" id="EVO_24" data-flag="@X" onclick="openSidebar('EVO_24',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\178.png" id="EVO_178" data-flag="@X" onclick="openSidebar('EVO_178',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\38.png" id="EVO_38" data-flag="@X" onclick="openSidebar('EVO_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\74.png" id="EVO_74" data-flag="@X" onclick="openSidebar('EVO_74',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\113.png" id="EVO_113" data-flag="@X" onclick="openSidebar('EVO_113',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\50.png" id="EVO_50" data-flag="@X" onclick="openSidebar('EVO_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\157.png" id="EVO_157" data-flag="@X" onclick="openSidebar('EVO_157',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\37.png" id="EVO_37" data-flag="@X" onclick="openSidebar('EVO_37',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\119.png" id="EVO_119" data-flag="@X" onclick="openSidebar('EVO_119',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\74.png" id="EVO_74" data-flag="@X" onclick="openSidebar('EVO_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\137.png" id="EVO_137" data-flag="@X" onclick="openSidebar('EVO_137',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\30.png" id="EVO_30" data-flag="@X" onclick="openSidebar('EVO_30',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\157.png" id="EVO_157" data-flag="@X" onclick="openSidebar('EVO_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\150.png" id="EVO_150" data-flag="@X" onclick="openSidebar('EVO_150',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\26.png" id="EVO_26" data-flag="@X" onclick="openSidebar('EVO_26',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\68.png" id="EVO_68" data-flag="@X" onclick="openSidebar('EVO_68',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\137.png" id="EVO_137" data-flag="@X" onclick="openSidebar('EVO_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\181.png" id="EVO_181" data-flag="@X" onclick="openSidebar('EVO_181',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\43.png" id="EVO_43" data-flag="@X" onclick="openSidebar('EVO_43',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\150.png" id="EVO_150" data-flag="@X" onclick="openSidebar('EVO_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\51.png" id="EVO_51" data-flag="@X" onclick="openSidebar('EVO_51',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\196.png" id="EVO_196" data-flag="@X" onclick="openSidebar('EVO_196',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\66.png" id="EVO_66" data-flag="@X" onclick="openSidebar('EVO_66',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\181.png" id="EVO_181" data-flag="@X" onclick="openSidebar('EVO_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\71.png" id="EVO_71" data-flag="@X" onclick="openSidebar('EVO_71',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\116.png" id="EVO_116" data-flag="@X" onclick="openSidebar('EVO_116',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\51.png" id="EVO_51" data-flag="@X" onclick="openSidebar('EVO_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\172.png" id="EVO_172" data-flag="@X" onclick="openSidebar('EVO_172',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\118.png" id="EVO_118" data-flag="@X" onclick="openSidebar('EVO_118',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\134.png" id="EVO_134" data-flag="@X" onclick="openSidebar('EVO_134',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\71.png" id="EVO_71" data-flag="@X" onclick="openSidebar('EVO_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\120.png" id="EVO_120" data-flag="@X" onclick="openSidebar('EVO_120',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\126.png" id="EVO_126" data-flag="@X" onclick="openSidebar('EVO_126',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\172.png" id="EVO_172" data-flag="@X" onclick="openSidebar('EVO_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\54.png" id="EVO_54" data-flag="@X" onclick="openSidebar('EVO_54',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\131.png" id="EVO_131" data-flag="@X" onclick="openSidebar('EVO_131',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\31.png" id="EVO_31" data-flag="@X" onclick="openSidebar('EVO_31',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\120.png" id="EVO_120" data-flag="@X" onclick="openSidebar('EVO_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\29.png" id="EVO_29" data-flag="@X" onclick="openSidebar('EVO_29',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\27.png" id="EVO_27" data-flag="@X" onclick="openSidebar('EVO_27',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\54.png" id="EVO_54" data-flag="@X" onclick="openSidebar('EVO_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\53.png" id="EVO_53" data-flag="@X" onclick="openSidebar('EVO_53',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\55.png" id="EVO_55" data-flag="@X" onclick="openSidebar('EVO_55',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\62.png" id="EVO_62" data-flag="@X" onclick="openSidebar('EVO_62',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\29.png" id="EVO_29" data-flag="@X" onclick="openSidebar('EVO_29',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\48.png" id="EVO_48" data-flag="@X" onclick="openSidebar('EVO_48',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\53.png" id="EVO_53" data-flag="@X" onclick="openSidebar('EVO_53',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\288.png" id="EVO_288" data-flag="@X" onclick="openSidebar('EVO_288',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\64.png" id="EVO_64" data-flag="@X" onclick="openSidebar('EVO_64',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\136.png" id="EVO_136" data-flag="@X" onclick="openSidebar('EVO_136',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\46.png" id="EVO_46" data-flag="@X" onclick="openSidebar('EVO_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\48.png" id="EVO_48" data-flag="@X" onclick="openSidebar('EVO_48',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\180.png" id="EVO_180" data-flag="@X" onclick="openSidebar('EVO_180',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\289.png" id="EVO_289" data-flag="@X" onclick="openSidebar('EVO_289',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\133.png" id="EVO_133" data-flag="@X" onclick="openSidebar('EVO_133',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\288_back.png" alt="sets\EVO-files\img\288_front.png" id="EVO_288" data-flag="@XD" onclick="openSidebar('EVO_288',false)"><button class="flip-btn" onclick="imgFlip('EVO_288')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\64.png" id="EVO_64" data-flag="@X" onclick="openSidebar('EVO_64',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\19.png" id="EVO_19" data-flag="@X" onclick="openSidebar('EVO_19',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\286.png" id="EVO_286" data-flag="@X" onclick="openSidebar('EVO_286',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\46.png" id="EVO_46" data-flag="@X" onclick="openSidebar('EVO_46',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\128.png" id="EVO_128" data-flag="@X" onclick="openSidebar('EVO_128',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\158.png" id="EVO_158" data-flag="@X" onclick="openSidebar('EVO_158',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\294.png" id="EVO_294" data-flag="@X" onclick="openSidebar('EVO_294',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\133.png" id="EVO_133" data-flag="@X" onclick="openSidebar('EVO_133',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\72.png" id="EVO_72" data-flag="@X" onclick="openSidebar('EVO_72',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\287.png" id="EVO_287" data-flag="@X" onclick="openSidebar('EVO_287',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\286_back.png" alt="sets\EVO-files\img\286_front.png" id="EVO_286" data-flag="@XD" onclick="openSidebar('EVO_286',false)"><button class="flip-btn" onclick="imgFlip('EVO_286')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\92.png" id="EVO_92" data-flag="@X" onclick="openSidebar('EVO_92',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\60.png" id="EVO_60" data-flag="@X" onclick="openSidebar('EVO_60',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\295.png" id="EVO_295" data-flag="@X" onclick="openSidebar('EVO_295',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\294_back.png" alt="sets\EVO-files\img\294_front.png" id="EVO_294" data-flag="@XD" onclick="openSidebar('EVO_294',false)"><button class="flip-btn" onclick="imgFlip('EVO_294')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\81.png" id="EVO_81" data-flag="@X" onclick="openSidebar('EVO_81',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\47.png" id="EVO_47" data-flag="@X" onclick="openSidebar('EVO_47',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\117.png" id="EVO_117" data-flag="@X" onclick="openSidebar('EVO_117',false)"></div>
@@ -464,16 +460,11 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\15.png" id="EVO_15" data-flag="@X" onclick="openSidebar('EVO_15',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\17.png" id="EVO_17" data-flag="@X" onclick="openSidebar('EVO_17',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\18.png" id="EVO_18" data-flag="@X" onclick="openSidebar('EVO_18',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\16.png" id="EVO_16" data-flag="@X" onclick="openSidebar('EVO_16',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\14.png" id="EVO_14" data-flag="@X" onclick="openSidebar('EVO_14',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\326.png" id="EVO_326" data-flag="@X" onclick="openSidebar('EVO_326',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\327.png" id="EVO_327" data-flag="@X" onclick="openSidebar('EVO_327',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\324.png" id="EVO_324" data-flag="@X" onclick="openSidebar('EVO_324',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\325.png" id="EVO_325" data-flag="@X" onclick="openSidebar('EVO_325',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\323.png" id="EVO_323" data-flag="@X" onclick="openSidebar('EVO_323',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\15_back.png" alt="sets\EVO-files\img\15_front.png" id="EVO_15" data-flag="@XD" onclick="openSidebar('EVO_15',true)"><button class="flip-btn" onclick="imgFlip('EVO_15')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\17_back.png" alt="sets\EVO-files\img\17_front.png" id="EVO_17" data-flag="@XD" onclick="openSidebar('EVO_17',true)"><button class="flip-btn" onclick="imgFlip('EVO_17')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\18_back.png" alt="sets\EVO-files\img\18_front.png" id="EVO_18" data-flag="@XD" onclick="openSidebar('EVO_18',true)"><button class="flip-btn" onclick="imgFlip('EVO_18')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\16_back.png" alt="sets\EVO-files\img\16_front.png" id="EVO_16" data-flag="@XD" onclick="openSidebar('EVO_16',true)"><button class="flip-btn" onclick="imgFlip('EVO_16')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\14_back.png" alt="sets\EVO-files\img\14_front.png" id="EVO_14" data-flag="@XD" onclick="openSidebar('EVO_14',true)"><button class="flip-btn" onclick="imgFlip('EVO_14')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\265.png" id="EVO_265" data-flag="@X" onclick="openSidebar('EVO_265',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\272.png" id="EVO_272" data-flag="@X" onclick="openSidebar('EVO_272',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\269.png" id="EVO_269" data-flag="@X" onclick="openSidebar('EVO_269',false)"></div>
@@ -525,7 +516,6 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\274.png" id="EVO_274" data-flag="@X" onclick="openSidebar('EVO_274',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\317.png" id="EVO_317" data-flag="@X" onclick="openSidebar('EVO_317',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\275.png" id="EVO_275" data-flag="@X" onclick="openSidebar('EVO_275',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\277.png" id="EVO_277" data-flag="@X" onclick="openSidebar('EVO_277',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\276.png" id="EVO_276" data-flag="@X" onclick="openSidebar('EVO_276',false)"></div>
@@ -544,6 +534,7 @@
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\22.png" id="EVO_22" data-flag="@X" onclick="openSidebar('EVO_22',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\78.png" id="EVO_78" data-flag="@X" onclick="openSidebar('EVO_78',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\76.png" id="EVO_76" data-flag="@X" onclick="openSidebar('EVO_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="EVO_e" data-flag="@E" onclick="openSidebar('EVO_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
@@ -570,7 +561,7 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="EVO_er" data-flag="@E" onclick="openSidebar('EVO_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\280.png" id="EVO_280" data-flag="@X" onclick="openSidebar('EVO_280',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\316.png" id="EVO_316" data-flag="@X" onclick="openSidebar('EVO_316',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\EVO-files\img\316_back.png" alt="sets\EVO-files\img\316_front.png" id="EVO_316" data-flag="@XD" onclick="openSidebar('EVO_316',false)"><button class="flip-btn" onclick="imgFlip('EVO_316')"></button></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\284.png" id="EVO_284" data-flag="@X" onclick="openSidebar('EVO_284',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\285.png" id="EVO_285" data-flag="@X" onclick="openSidebar('EVO_285',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\EVO-files\img\108.png" id="EVO_108" data-flag="@X" onclick="openSidebar('EVO_108',false)"></div>
@@ -650,7 +641,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

@@ -1,7 +1,6 @@
 ﻿{
     "name": "Evolution on Srai-Val-Nul",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -26,7 +25,8 @@
             "artist": "Fred Gambino",
             "alias": "",
             "position": "0",
-            "notes": "!related Drone Herding<2>;Silicate Predator;Spectral Pursuit;Integrated Armory;"
+            "rotated": false,
+            "notes": "!related Drone Herding<2>;Nanosynthesis;Silicate Predator;Spectral Pursuit;Glasstorque Duo;Integrated Armory;"
         },
         {
             "card_name": "Spirit",
@@ -46,7 +46,8 @@
             "artist": "Joanna Koziol",
             "alias": "",
             "position": "1",
-            "notes": "!related Spectral Pursuit;Soulkeeper Drone;Memories of Extinction;Eerie Citadel;"
+            "rotated": false,
+            "notes": "!related Dwai-En, Acedi of Skies;Spectral Pursuit;Soulkeeper Drone;Memories of Extinction;Eerie Citadel;"
         },
         {
             "card_name": "Leech",
@@ -66,6 +67,7 @@
             "artist": "Peter Kovacs",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": "!related Spawnsac Mutualist;"
         },
         {
@@ -86,7 +88,8 @@
             "artist": "Eunha Shin",
             "alias": "",
             "position": "3",
-            "notes": "!related District Sower;Esyra Outskirts;Infected Segment;"
+            "rotated": false,
+            "notes": "!related District Sower;Esyra's Heart;Esyra Outskirts;Infected Segment;"
         },
         {
             "card_name": "Starfish",
@@ -106,6 +109,7 @@
             "artist": "Tu Bui",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "!related Fractal Fission;"
         },
         {
@@ -126,6 +130,7 @@
             "artist": "Phase Runner",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": "!related Brooding Terraloth;"
         },
         {
@@ -146,6 +151,7 @@
             "artist": "Ernesto Carrasquillo",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": "!related Magnetic Sandshaper;"
         },
         {
@@ -166,6 +172,7 @@
             "artist": "Sandra Anden",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "!related Larva Injector;"
         },
         {
@@ -186,7 +193,8 @@
             "artist": "Svetlin Velinov",
             "alias": "",
             "position": "8",
-            "notes": "!related Awakener Gremlin;Stoneguide Skycoil;"
+            "rotated": false,
+            "notes": "!related Xenowomb;Awakener Gremlin;Stoneguide Skycoil;Lithoid Queen;Riv-Tsu, Relieved of Duty;"
         },
         {
             "card_name": "Territory Defense",
@@ -200,13 +208,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Maryse Heilig",
             "alias": "",
             "position": "9",
-            "notes": "landslot"
+            "card_name2": "Warding Glands",
+            "color2": "W",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nSpells your opponents cast from anywhere other than their hand cost {X} more to cast, where X is adapted creature's power.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "3",
+            "artist2": "Dave Melvin",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nSpells your opponents cast from anywhere other than their hand cost {X} more to cast, where X is adapted creature's power.",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Capsule Diving",
@@ -220,13 +241,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Pete Amachree",
             "alias": "",
             "position": "10",
-            "notes": "landslot"
+            "card_name2": "Spellcharged Circuitry",
+            "color2": "U",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nOnce each turn, you may cast a spell from your hand that targets adapted creature without paying its mana cost.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "4",
+            "artist2": "Phil Saunders",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nOnce each turn, you may cast a spell from your hand that targets adapted creature without paying its mana cost.",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Corpse Puppeteering",
@@ -240,13 +274,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Ariel Perez",
             "alias": "",
             "position": "11",
-            "notes": "landslot"
+            "card_name2": "Infectious Spores",
+            "color2": "B",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhen adapted creature dies, you may exile it. If you do, put target creature card with lesser mana value from a graveyard onto the battlefield under your control.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "4",
+            "artist2": "Alexandr Elichev",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhen adapted creature dies, you may exile it. If you do, put target creature card with lesser mana value from a graveyard onto the battlefield under your control.",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Pursuit Predation",
@@ -260,13 +307,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Milica Celikovic",
             "alias": "",
             "position": "12",
-            "notes": "landslot"
+            "card_name2": "Hypersonic Limbs",
+            "color2": "R",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks during your first combat phase each turn, put a +1/+1 counter on it. Untap it. After this phase, there is an additional combat phase.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Dave Melvin",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks during your first combat phase each turn, put a +1/+1 counter on it. Untap it. After this phase, there is an additional combat phase.",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Titan Cleaning",
@@ -280,13 +340,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Adrian Bobb",
             "alias": "",
             "position": "13",
-            "notes": "landslot"
+            "card_name2": "Signal Stripes",
+            "color2": "G",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature and a creature with greater power attack, you gain life equal to the greatest power among attacking creatures and draw a card.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Candice Broersma",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature and a creature with greater power attack, you gain life equal to the greatest power among attacking creatures and draw a card.",
+            "rotated": true,
+            "notes": "landslot\n\n!tokens Beast<1>\n"
         },
         {
             "card_name": "Colonial Absorption",
@@ -300,13 +373,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "5",
             "artist": "Max Schiller",
             "alias": "",
             "position": "14",
-            "notes": "landslot"
+            "card_name2": "Superorganism",
+            "color2": "WG",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +10/+10.\nIf adapted creature would be destroyed, instead remove all damage from it and destroy Superorganism.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Alex Rommel",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +10/+10.\nIf adapted creature would be destroyed, instead remove all damage from it and destroy Superorganism.",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Migratory Flocking",
@@ -320,13 +406,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Riley Dannenbring",
             "alias": "",
             "position": "15",
-            "notes": "landslot"
+            "card_name2": "Tireless Wings",
+            "color2": "WU",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+0 and has flying and \u201cWhen this creature dies, return it to its owner's hand.\u201d",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Carlo Arellano",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+0 and has flying and \u201cWhen this creature dies, return it to its owner's hand.\u201d",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Pioneering Succession",
@@ -340,13 +439,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Way Way",
             "alias": "",
             "position": "16",
-            "notes": "landslot"
+            "card_name2": "Rapid Reproduction",
+            "color2": "RG",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, create a tapped and attacking token that's a copy of it.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Osmatar",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, create a tapped and attacking token that's a copy of it.",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Psionic Tracking",
@@ -360,13 +472,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Dave Melvin",
             "alias": "",
             "position": "17",
-            "notes": "landslot"
+            "card_name2": "Psychromatophores",
+            "color2": "UB",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nExile three cards from your graveyard: Put a counter of your choice on adapted creature from among flying, deathtouch, lifelink, and +1/+1.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Way Way",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nExile three cards from your graveyard: Put a counter of your choice on adapted creature from among flying, deathtouch, lifelink, and +1/+1.",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Toxin Ingestion",
@@ -380,13 +505,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "5",
             "artist": "Mike Kime",
             "alias": "",
             "position": "18",
-            "notes": "landslot"
+            "card_name2": "Lethal Stinger",
+            "color2": "BR",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has deathtouch.\nWhenever adapted creature deals combat damage to a player or battle, defending player loses half their life, rounded up.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Brandon Ellis",
+            "alias2": "",
+            "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has deathtouch.\nWhenever adapted creature deals combat damage to a player or battle, defending player loses half their life, rounded up.",
+            "rotated": true,
+            "notes": "landslot\n"
         },
         {
             "card_name": "Growing Hunger",
@@ -406,6 +544,7 @@
             "artist": "Kim Sung Hwan",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -426,6 +565,7 @@
             "artist": "David Lenormand & Ryan Lowe (Edited)",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -446,6 +586,7 @@
             "artist": "Fred Gambino",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "!tokens Esyra<1>\n\nHuman in art (photoshop out)"
         },
         {
@@ -466,6 +607,7 @@
             "artist": "Raja Nandepu",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "Human in art?\n\nTODO: Add FT"
         },
         {
@@ -486,6 +628,7 @@
             "artist": "Chris Kotiesen",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -506,6 +649,7 @@
             "artist": "Andrey Christanetoff",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -526,6 +670,7 @@
             "artist": "Alex Nice",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "!tokens Elemental<1>\n\nALTERNATE: XR 1/1 -> 3R 2/3, Current ability -> \"Whenever Awakener Gremlin attacks, target land you control becomes a 3/3 Elemental creature until end of turn that's attacking. It's still a land.\""
         },
         {
@@ -546,6 +691,7 @@
             "artist": "Riley Dannenbring",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "Orphaned FT: Were there still biologists on [PLANE NAME], they'd never stop arguing over exactly which organisms should be considered \u201calive.\u201d"
         },
         {
@@ -566,6 +712,7 @@
             "artist": "Hoang Lap",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -586,6 +733,7 @@
             "artist": "Daniel Mitchell",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -606,6 +754,7 @@
             "artist": "Enzhe Zhao",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "ALTERNATE: Add RT (Lineage doesn't target.)\n\nALTERNATE 2: Artifact creature, change name/art/type?"
         },
         {
@@ -626,6 +775,7 @@
             "artist": "Zivko Kondic",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "Paintbrush in art (Photoshop out)\n\nTODO: Add FT"
         },
         {
@@ -646,6 +796,7 @@
             "artist": "Peter Kovacs",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -666,6 +817,7 @@
             "artist": "Tom Cross",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -686,6 +838,7 @@
             "artist": "Takumer Homma",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "!tokens Drone<1>"
         },
         {
@@ -706,6 +859,7 @@
             "artist": "Naima S. T. C.",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -726,6 +880,7 @@
             "artist": "Kirill Skachkov",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -746,6 +901,7 @@
             "artist": "Lunart Christophe",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "ALTERANATE: 3/1 -> 2/2, Current triggered ability -> \"Whenever you draw your second card each turn, put a +1/+1 counter on Nanogene Thief. If it's an opponent's turn, you may move a counter from a creature that player controls onto Nanogene Thief instead.\""
         },
         {
@@ -766,6 +922,7 @@
             "artist": "Benjamin Carre",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "Replace art?"
         },
         {
@@ -786,6 +943,7 @@
             "artist": "Jos\u00e9 Arias",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -806,6 +964,7 @@
             "artist": "CMD Studios",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": "!tokens Spirit<1>\n\n(Spotlight 6/8: Riv-Si turns out to be the villain, explains she wants Nevinyr to be destroyed so sapient life can't re-form)"
         },
         {
@@ -826,6 +985,7 @@
             "artist": "SteveMobCannon",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -846,6 +1006,7 @@
             "artist": "Ryan Van Dongen",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nOrphaned FT: Without the wurms, entire segments would suffer ecological collapse.\n\nRemove slot temporarily?\n\nALTERNATE: Metastatic Sprawl 2G\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT: Put a +1/+1 counter on target creature that entered this turn.\u201d"
         },
         {
@@ -866,6 +1027,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -886,6 +1048,7 @@
             "artist": "Cong Ma",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "ALTERNATE: Nonartifact creature, change name/art/type?\n\nALTERNATE 2: \"or attacks\" -> \"or you cycle it\", cycling 2W?"
         },
         {
@@ -906,6 +1069,7 @@
             "artist": "",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -926,6 +1090,7 @@
             "artist": "Corey Gooch",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nALTERNATE: Artifact creature, change name/art/type?"
         },
         {
@@ -946,6 +1111,7 @@
             "artist": "Sam Lamont",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "!tokens Drone<1>;Spirit<1>\n\nHuman in art (Photoshop out)"
         },
         {
@@ -966,6 +1132,7 @@
             "artist": "Lie Setiawan",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "Orphaned FT: \u201cDay 1: Decided to start a journal. At least now I'll have something to do.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -986,6 +1153,7 @@
             "artist": "Orm Irian",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "!tokens Drone<1>\n\nALTERNATE: Current AA effect -> \"Tap CARDNAME. It gains indestructible until end of turn.\""
         },
         {
@@ -1006,6 +1174,7 @@
             "artist": "Matt Mocarski",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nALTERNATE: 4/3 -> 4/4 OR 5/3?\n\nALTERNATE 2: 3UU\nWhenever CARDNAME attacks, target player mills a card for each creature in your ecosystem.\n3: Put target card in a graveyard on the bottom of its owner's library.\n4/5\n\nALTERNATE 3: 3UU\nWhen CARDNAME enters, creatures your opponents control get -1/-0 until end of turn for each creature in your ecosystem.\n5/5\n\nALTERNATE 4: 3UU\nWhenever CARDNAME attacks, target creature an opponent controls gets -1/-0 until end of turn for each creature in your ecosystem.\n5/5"
         },
         {
@@ -1026,6 +1195,7 @@
             "artist": "Nathan Hardy",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1046,6 +1216,7 @@
             "artist": "Jenny Wang",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": "ALTERNATE: Last ability -> \"CARDNAME can't be blocked as long as you control ten or more lands.\""
         },
         {
@@ -1066,6 +1237,7 @@
             "artist": "Dave Melvin",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "ALTERNATE: Kraken Shrimp?"
         },
         {
@@ -1086,6 +1258,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "CHANGELOG: +1/+0 -> +1/+1\n\nTODO: Add FT\n\nOrphaned FT: It extracts and stores mana from Nevinyr's artificial leylines, serving as a refueling station for other drones."
         },
         {
@@ -1106,6 +1279,7 @@
             "artist": "Joyce Kim",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1126,6 +1300,7 @@
             "artist": "Tarek Samaan",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1146,6 +1321,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "Replace art"
         },
         {
@@ -1166,6 +1342,7 @@
             "artist": "Wiktor Ohman",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1186,6 +1363,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "Orphaned FT: \u201cI wonder how many times I've gone mad.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -1206,6 +1384,7 @@
             "artist": "Calvin Chua",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "ALTERNATE: \"enters\" -> \"enters or you cycle it\", cycling 2B?"
         },
         {
@@ -1226,6 +1405,7 @@
             "artist": "Allan Santos",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1246,6 +1426,7 @@
             "artist": "yokell",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": "ALTERNATE: 1B -> 2B, \"its owner's hand\" -> \"the battlefield tapped under its owner's control\"?\n\nHuman in art"
         },
         {
@@ -1266,6 +1447,7 @@
             "artist": "Tom Cross",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "CHANGELOG: 1R 2/2 -> 2R 2/3, \"Whenever you discard a card, Peroxide Spitter deals 1 damage to target opponent or battle.\" -> Current AA\n\nALTERNATE: Current AA -> \"Whenever CARDNAME attacks, it deals 1 damage to target opponent or battle. You may discard a card. If you do, draw a card.\""
         },
         {
@@ -1286,6 +1468,7 @@
             "artist": "Matan Gantz",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1306,6 +1489,7 @@
             "artist": "Angga Dwipayana",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1326,6 +1510,7 @@
             "artist": "Jonathan Powell",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -1346,6 +1531,7 @@
             "artist": "Derek Edgell",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "ALTERNATE: Add menace?"
         },
         {
@@ -1366,6 +1552,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": "CHANGELOG: +2/+0 -> +2/+1"
         },
         {
@@ -1386,6 +1573,7 @@
             "artist": "Kathryn Zalecka",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": "CHANGELOG: Cycling 2 -> R"
         },
         {
@@ -1406,6 +1594,7 @@
             "artist": "D Rock",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "CHANGELOG: 5/4 -> 5/5"
         },
         {
@@ -1426,6 +1615,7 @@
             "artist": "Zudarts Lee",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1446,6 +1636,7 @@
             "artist": "Huy Tran Viet",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": "Replace first mode with some other buff?\n\nReplace with 5/5 \"When CARDNAME enters, for each [other?] creature you control, choose a counter on that creature. You may put a counter of that kind on CARDNAME.\"?"
         },
         {
@@ -1466,6 +1657,7 @@
             "artist": "Ratko Radujkovic",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1486,6 +1678,7 @@
             "artist": "Oasis Art Studio",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": "ALTERNATE: \"or dies\" -> \"or you cycle it\", cycling 3G OR 2G + \"4 life\" -> \"3 life\"?"
         },
         {
@@ -1506,6 +1699,7 @@
             "artist": "Xistence Imaginations",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1526,6 +1720,7 @@
             "artist": "Garrett Post",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "!tokens Egg<1>\n\nTODO: Add FT\n\nALTERNATE: Remove 'T' from AA cost?\n\nOrphaned FT: If any of the Loci are displeased with the current location of a natural landmark, they simply tell it to move."
         },
         {
@@ -1546,6 +1741,7 @@
             "artist": "Nimphradora",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": "Replace art?\n\nTODO: Make 4 versions with different FTs and exportnames?"
         },
         {
@@ -1566,6 +1762,7 @@
             "artist": "Markus Vogt",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1586,6 +1783,7 @@
             "artist": "Felipe Fesbra Escobar",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1606,6 +1804,7 @@
             "artist": "Orm Irian",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1626,6 +1825,7 @@
             "artist": "Dreams in Frames",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1646,6 +1846,7 @@
             "artist": "Hugo Fredoueil",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1666,6 +1867,7 @@
             "artist": "Paul Canavan",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1686,6 +1888,7 @@
             "artist": "Milica Celikovic",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": "CHANGELOG: 3U 2/3 -> 2U 2/1\n\nALTERNATE: 2U 2/1 -> 3U 3/2"
         },
         {
@@ -1706,6 +1909,7 @@
             "artist": "343 Industries",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1726,6 +1930,7 @@
             "artist": "Daniel Mitchell",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -1746,6 +1951,7 @@
             "artist": "Facu Diaz",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1766,6 +1972,7 @@
             "artist": "Jonathan Beard",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1786,6 +1993,7 @@
             "artist": "David Edwards",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1806,6 +2014,7 @@
             "artist": "Paradox Interactive",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1826,6 +2035,7 @@
             "artist": "Doherty Associates, LLC",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1846,6 +2056,7 @@
             "artist": "JW Bubb",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1866,6 +2077,7 @@
             "artist": "Kevin-Mark Bonein",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": "Replace art/name?\n\nALTERNATE: 2U Instant -> 3U Sorcery, \"discard two cards unless you discard a card withh cycling\" -> \"discard a card\"\n\nALTERNATE 2: As above, but Sorcery -> Instant OR add \"unless you pay 2\" OR add \"if you discarded a nonland card, create a 1/1 colorless Drone artifact creature token\"?"
         },
         {
@@ -1886,6 +2098,7 @@
             "artist": "Earl Lan",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": "ALTERNATE: Add \"(It must survive to get the counter.)\""
         },
         {
@@ -1906,6 +2119,7 @@
             "artist": "Mazert Young",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": "ALTERNATE: Athecate Polyganglid XGG\nCreature \u2014 Insect Hydra\nCARDNAME enters with X counters of your choice on it from among reach, vigilance, trample, and +1/+1. (You may choose the same counter more than once.)\nLineage\n1/1"
         },
         {
@@ -1926,6 +2140,7 @@
             "artist": "Thomas Chamberlain",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1946,6 +2161,7 @@
             "artist": "Colie Wertz",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1966,6 +2182,7 @@
             "artist": "Catharina Wendland",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": "Replace first ability with \"You may cast CARDNAME from your graveyard if you paid a cost other than mana or tapping a permanent to activate an ability this turn.\" OR new design that has \"Pay 1 (2?) life: Add C. This mana can't be spent to cast a spell.\"?"
         },
         {
@@ -1986,6 +2203,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "CHANGELOG: 5/5 -> 6/4, \"5 life\" -> \"6 life\""
         },
         {
@@ -2006,6 +2224,7 @@
             "artist": "Earl Lan",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2026,6 +2245,7 @@
             "artist": "Tom Cross",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "Replace art?"
         },
         {
@@ -2046,6 +2266,7 @@
             "artist": "Ivan Khotenov",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2066,6 +2287,7 @@
             "artist": "Guillem H Pongiluppi",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2086,6 +2308,7 @@
             "artist": "Wenhan Zhao",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2106,6 +2329,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2126,6 +2350,7 @@
             "artist": "Ming Chi",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -2146,6 +2371,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": "CHANGELOG: 3GUU */* -> 2GUU 3/3, CDA -> Landfall \"put a +1/+1 counter on target creature\""
         },
         {
@@ -2166,6 +2392,7 @@
             "artist": "Way Way",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2186,6 +2413,7 @@
             "artist": "Ben Bore",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": "!tokens Treasure<2>\n\nHuman in art"
         },
         {
@@ -2206,6 +2434,7 @@
             "artist": "Constantin Simion",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "!tokens Sand Illusion<1>\n\nALTERNATE: \"When CARDNAME enters,\" -> \"Whenever CARDNAME enters or attacks, if you don't control a Sand token,\" and 1/6 -> 1/5"
         },
         {
@@ -2226,6 +2455,7 @@
             "artist": "Stijn Windig",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": "!tokens Treasure<2>\n\nTODO: Add FT"
         },
         {
@@ -2246,6 +2476,7 @@
             "artist": "Luis Gama",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": "CHANGELOG: AA cost 5U -> 4U"
         },
         {
@@ -2266,6 +2497,7 @@
             "artist": "Camille Kuo",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": "ALTERNATE: Add \"This spell costs 1 less to cast for each Esyra you control.\" OR increase cost to 4U + \"You control enchanted permanent.\"?\n\nALTERNATE2: Transmutative Sprawl 4U\nEnchant permanent\nYou control enchanted permanent.\nEnchanted permanent is a colorless Esyra land with \u201cT, Pay 1 life: Add one mana of any color\u201d and loses all other card types and abilities.\nEsyra you control have \u201cT: Surveil 1.\u201d"
         },
         {
@@ -2286,6 +2518,7 @@
             "artist": "Nikolai Lockertsen",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": "ALTERNATE: Current AA\" -> \"When CARDNAME enters, draw a card.\" \n\nALTERNATE 2: 1/1 -> 0/1, Current AA -> \"When CARDNAME enters, put a +1/+1 counter on up to one other target creature. Target player draws a card.\"\n\nALTERNATE 3: 1W -> 2W, Current AA -> \"When CARDNAME enters, put a +1/+1 counter on target creature. Target player draws a card.\""
         },
         {
@@ -2306,6 +2539,7 @@
             "artist": "Kory Cromie",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2326,6 +2560,7 @@
             "artist": "Peter Mohrbacher",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": "ALTERNATE: 2/2 -> 2/3?"
         },
         {
@@ -2346,6 +2581,7 @@
             "artist": "Way Way",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2366,6 +2602,7 @@
             "artist": "Fred Gambino",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "Human in art (Photoshop out)\n\nCHANGELOG: 2U -> 2UU, counter any spell, Cycling 2 -> U"
         },
         {
@@ -2386,6 +2623,7 @@
             "artist": "Ole Gunnar Isager",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "CHANGELOG: Added lifegain\n\nTODO: Add FT"
         },
         {
@@ -2406,6 +2644,7 @@
             "artist": "Pedro Sena",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": "CHANGELOG: 4R -> 3RR\n\nTODO: Add FT\n\nALTERNATE: 6/3 -> 4/5 (OR 4/4 reach)\n\nALTERNATE 2: 6/3 -> 4/4, Current static -> \"During your turn, CARDNAME has first strike.\"\n\nOrphaned FT: \u201cSuch low copper-orichalcum alloy density is inconsistent with their observed performance and implies serious measurement errors.\u201d\n\u2014Hosh-Kwa, Deepwell Species Database comment"
         },
         {
@@ -2426,6 +2665,7 @@
             "artist": "Tim Mcburnie",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2446,6 +2686,7 @@
             "artist": "Puttipong Suwatthanawongchai",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2466,6 +2707,7 @@
             "artist": "Xu Tianhua",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2486,6 +2728,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2506,6 +2749,7 @@
             "artist": "Max Duran",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2526,6 +2770,7 @@
             "artist": "Roger Creus",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "Human in art\n\nALTERNATE: Churning Sprawl 2B\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, draw a card and create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT, Pay 2 life: Draw a card.\u201d"
         },
         {
@@ -2546,6 +2791,7 @@
             "artist": "Jonas Buttner",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": "ALTERNATE: 2W 0/0 -> 1W 1/1, ETB with only one counter"
         },
         {
@@ -2566,6 +2812,7 @@
             "artist": "Bruce Brenneise",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nALTERNATE: 1/1 -> 1/3, Current ability -> \"Whenever CARDNAME attacks, create a tapped and attacking X/X white ??? creature token, where X is the number of creatures in your ecosystem. Exile that token at end of combat.\"\n\nALTERNATE 2: 1/1 -> 3/2, Current ability -> \"Whenever CARDNAME attacks, tap target creature an opponent controls with power less than or equal to the number of creatures in your ecosystem.\"\n\nALTERNATE 3: As above, but 1W 3/1\n\nALTERNATE 4: \"Whenever CARDNAME attacks or blocks, it gets +1/+1 until end of turn\" -> \"When CARDNAME enters, put a +1/+1 counter on it\"\n\nALTERNATE 5: 1/1 -> 1/3, \"attacks or blocks, it gets +1/+1\" -> \"attacks, it gets +1/+0\""
         },
         {
@@ -2586,6 +2833,7 @@
             "artist": "Tom Cross",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": "CHANGELOG: +1/+1 -> +1/+2"
         },
         {
@@ -2606,6 +2854,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2626,6 +2875,7 @@
             "artist": "Trevan Crowe",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "CHANGELOG: AA cost 2 -> B"
         },
         {
@@ -2646,6 +2896,7 @@
             "artist": "Dave Melvin",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -2666,6 +2917,7 @@
             "artist": "Pavel Vophira",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2686,6 +2938,7 @@
             "artist": "Michele Parisi",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "!tokens Leech<1>\n\nCHANGELOG: 2R -> 1R, \"1R, T, Discard a card: Create a 2/1 red Leech creature token with menace and haste. Activate only as a sorcery.\" -> Current ability\n\nALTERNATE: Artifact creature, change name/art/type OR remove 'T' from AA cost, rebalance accordingly?"
         },
         {
@@ -2706,6 +2959,7 @@
             "artist": "Vadim Simanin",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "ALTERNATE: 1/3 -> 2/2?"
         },
         {
@@ -2726,6 +2980,7 @@
             "artist": "Sam Drew",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "!tokens Treasure<1>\n\nCHANGELOG: \"three\" -> \"two\", added \"or sacrifice it\""
         },
         {
@@ -2746,6 +3001,7 @@
             "artist": "Sebastien Riant",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "Replace art?"
         },
         {
@@ -2766,6 +3022,7 @@
             "artist": "Guido Kuip",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2786,6 +3043,7 @@
             "artist": "Tom Cross",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2806,6 +3064,7 @@
             "artist": "Adam Phillips",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2826,6 +3085,7 @@
             "artist": "Thanh Tuan",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2846,6 +3106,7 @@
             "artist": "Tu Bui",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": "!tokens Starfish<1>"
         },
         {
@@ -2866,6 +3127,7 @@
             "artist": "Fuyuan Tee",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2886,6 +3148,7 @@
             "artist": "Xu Tianhua",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2906,6 +3169,7 @@
             "artist": "Ivan Laliashvili",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": "Numbers in art (Photoshop out)"
         },
         {
@@ -2926,6 +3190,7 @@
             "artist": "Dan Rossi",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2946,6 +3211,7 @@
             "artist": "Jakub Bazyluk",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -2966,6 +3232,7 @@
             "artist": "Dariusz Kieliszek",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2986,6 +3253,7 @@
             "artist": "Melissa Montabord",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3006,6 +3274,7 @@
             "artist": "Hideaki Mio",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3026,6 +3295,7 @@
             "artist": "Dmitriy Balashov",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "CHANGELOG: 4/5 -> 3/5, \"enters\" -> \"enters or attacks\"\n\nALTERNATE: 3UU 3/5 -> 4UU 6/5"
         },
         {
@@ -3046,6 +3316,7 @@
             "artist": "Tyler edlin",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "Replace art?\n\nTODO: Add FT"
         },
         {
@@ -3066,6 +3337,7 @@
             "artist": "Bruce Brenneise",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3086,6 +3358,7 @@
             "artist": "Seok Min Eo",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "Orphaned FT: \u201cRepulsive, muddy water with tiny worms swimming in it. But after five weeks with nothing to drink, it tastes like ambrosia.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -3106,7 +3379,8 @@
             "artist": "Adrian Virlan",
             "alias": "",
             "position": "154",
-            "notes": "!related Buried Cache;Detritus Hoarder;Reactor Forger;Unexpected Windfall<2>;Cloud of Wreckage<2>;"
+            "rotated": false,
+            "notes": "!related Buried Cache;Detritus Hoarder;Hosh-Kwa, Acedi of Pressure;Reactor Forger;Unexpected Windfall<2>;Cloud of Wreckage<2>;"
         },
         {
             "card_name": "Eerie Stillness",
@@ -3126,6 +3400,7 @@
             "artist": "Johan Espling",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": "Human in art\n\nALTERNATE: Labyrinthine Sprawl W\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201c2, T: Tap target creature. This ability costs 2 less to activate during your turn.\u201d"
         },
         {
@@ -3146,6 +3421,7 @@
             "artist": "Ryan Van Dongen",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3166,6 +3442,7 @@
             "artist": "Joel Pigou",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -3186,6 +3463,7 @@
             "artist": "Ken Nguyen",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "Replace art?"
         },
         {
@@ -3206,6 +3484,7 @@
             "artist": "Alexey Egorov",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": "!tokens Treasure<1>\n\nALTERNATE: Hazardous Sprawl 2R\nEnchantment\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \"T, Pay 1 life: Add one mana of any color.\"\nEsyra you control have \"T: This land deals 1 damage to each opponent.\""
         },
         {
@@ -3226,6 +3505,7 @@
             "artist": "Chris Kotiesen",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -3246,6 +3526,7 @@
             "artist": "Oliver Bown",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": "!tokens Esyra<1>\n\nALTERNATE: Destroy and replace opponent's land -> \"You gain 3 life\" OR \"Draw a card, then discard a card\""
         },
         {
@@ -3266,6 +3547,7 @@
             "artist": "Bartek Fedyczak",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": "Remove slot temporarily?"
         },
         {
@@ -3286,6 +3568,7 @@
             "artist": "Domen Kozelj",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3306,6 +3589,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "!tokens Insect<1>"
         },
         {
@@ -3326,6 +3610,7 @@
             "artist": "D Rock",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": "!tokens Elemental<1>\n\nRemove slot temporarily?"
         },
         {
@@ -3346,6 +3631,7 @@
             "artist": "Dave Melvin",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3366,6 +3652,7 @@
             "artist": "Quentin Regnes",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": "Remove slot temporarily?"
         },
         {
@@ -3386,6 +3673,7 @@
             "artist": "Travis Lacey",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "Remove slot temporarily?\n\nALTERNATE: 2B\nCARDNAME deals X damage divided as you choose among any number of targets and you gain X life, where X is the number of creatures in your ecosystem.\n\nALTERNATE 2: As above, but 2B -> 3B and X+1"
         },
         {
@@ -3406,6 +3694,7 @@
             "artist": "Andrea Susini",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3426,6 +3715,7 @@
             "artist": "Fran Fdez",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3446,6 +3736,7 @@
             "artist": "Francesco Grazia",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3466,6 +3757,7 @@
             "artist": "Ekaterina Yastrubetskaya",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3486,6 +3778,7 @@
             "artist": "Philipp Grote",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "Orphaned FT: \u201cI've been walking through this cloud for days, and I still haven't reached the other side.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -3506,6 +3799,7 @@
             "artist": "Chan Sue Yii",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3526,6 +3820,7 @@
             "artist": "Adrian Bobb",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "WU: Artifact + nonartifact creatures\nUB: Transition control\nBR: Activated abilities\nRG: Ecosystem ramp\nGW: Legacy counters\nWB: Legacy sacrifice\nUR: Cycling discard\nBG: Legacy graveyard\nRW: Ecosystem aggro\nGU: Land ramp\n\nCross-Archetypes\nNeed More Synergy: G(W/U)\nMight Have Enough Synergy: W(U/B), W(U/R), W(G/U), U(B/R), U(R/G), U(G/W), U(W/B), U(R/W), B(W/U), B(R/G), B(U/R), B(G/U), R(W/U), R(B/G), R(W/B), R(G/U), G(U/B), G(B/R), G(R/W)\nNatural Synergy: W(B/R), W(R/G), U(B/G), B(R/W), G(U/R)\nInnate Synergy: W(B/G), B(G/W), R(U/B), R(G/W), G(W/B)"
         },
         {
@@ -3546,6 +3841,7 @@
             "artist": "Alex Nice",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": "Replace first ability with \"Whenever one or more counters are put on one or more other permanents you control, choose one of those counters. You may put a counter of that kind on CARDNAME.\"?"
         },
         {
@@ -3566,6 +3862,7 @@
             "artist": "Rudy Parfaite",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "CHANGELOG: \"1, T: Draw a card, then discard a card\" -> Current ETB\n\nTODO: Add FT"
         },
         {
@@ -3586,6 +3883,7 @@
             "artist": "Marc-Antonio Deogracias",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": "ALTERNATE: Internal Collapse?"
         },
         {
@@ -3606,6 +3904,7 @@
             "artist": "Joe Grabenstetter",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3626,6 +3925,7 @@
             "artist": "Ivan Laliashvili",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": "Replace art?\n\nOrphaned FT: \u201cEven after all these eons, this city is a sight to behold. It must look even more impressive underneath that layer of permafrost.\u201d\n\u2014Valrain, journal entry"
         },
         {
@@ -3646,6 +3946,7 @@
             "artist": "Way Way",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nALTERNATE: 3G 4/3?"
         },
         {
@@ -3666,6 +3967,7 @@
             "artist": "Eric He",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3686,6 +3988,7 @@
             "artist": "Jin Xiaodi",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": "ALTERNATE: Nonartifact creature, change name/art/type?"
         },
         {
@@ -3706,6 +4009,7 @@
             "artist": "Sathish Kumar",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "ALTERNATE: Nonartifact creature, change name/art/type?"
         },
         {
@@ -3726,6 +4030,7 @@
             "artist": "343 Industries",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "!tokens Esyra<1>"
         },
         {
@@ -3746,6 +4051,7 @@
             "artist": "Steven Vincent Johnson",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3766,6 +4072,7 @@
             "artist": "Olli Westphal",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3786,6 +4093,7 @@
             "artist": "Christopher Rapczynski",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3806,6 +4114,7 @@
             "artist": "Tyler Klimek",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3826,6 +4135,7 @@
             "artist": "Michael Stead",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3846,6 +4156,7 @@
             "artist": "Anton Fadeev",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "!tokens Spirit<1>\n\nReplace name?"
         },
         {
@@ -3866,6 +4177,7 @@
             "artist": "Josef Barton",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3886,6 +4198,7 @@
             "artist": "Christer Degerman",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -3906,6 +4219,7 @@
             "artist": "Vincentius Matthew",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -3926,6 +4240,7 @@
             "artist": "Grady Frederick",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "Human in art (photoshop out)"
         },
         {
@@ -3946,6 +4261,7 @@
             "artist": "Nivanh Chanthara",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3966,6 +4282,7 @@
             "artist": "Ivan Laliashvili",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3986,6 +4303,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4006,6 +4324,7 @@
             "artist": "Tim Blandin",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": "CHANGELOG: Nonland, cycling cost 2 -> W"
         },
         {
@@ -4026,6 +4345,7 @@
             "artist": "Rob Powell",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": "ALTERNATE: \"Voidtongue\" -> \"Voidtrunk\"?"
         },
         {
@@ -4046,6 +4366,7 @@
             "artist": "Nate Hallinan",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4066,6 +4387,7 @@
             "artist": "Pencil Equipped",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": "ALTERNATE: Revert to Root Grub? 2G 2/2?"
         },
         {
@@ -4086,6 +4408,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": "!tokens Construct<1>\n\nTODO: Add FT\n\nALTERNATE: Construct -> Orb?"
         },
         {
@@ -4106,6 +4429,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "!related Ancient Relic;"
         },
         {
@@ -4126,6 +4450,7 @@
             "artist": "Nick Keller",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "!tokens Treasure<1>"
         },
         {
@@ -4146,7 +4471,8 @@
             "artist": "Peter Mohrbacher",
             "alias": "",
             "position": "206",
-            "notes": "RG Riv-Tsu planeswalker?\n\nALTERNATE: Ecumenosophic Emergence 8\nSorcery\nSacrifice all lands you control. Create twice that many colorless Esyra land tokens with \"T, Pay 1 life: Add one mana of any color.\" Your life total becomes equal to your starting life total.\n\nALTERNATE2: Ecumenosophic Emergence 6\nSorcery\nEach player sacrifices all lands they control, then creates that many colorless Esyra land tokens with \"T, Pay 1 life: Add one mana of any color.\" Your life total becomes equal to your starting life total."
+            "rotated": false,
+            "notes": "!tokens Elemental<1>\n\nALTERNATE: Ecumenosophic Emergence 8\nSorcery\nSacrifice all lands you control. Create twice that many colorless Esyra land tokens with \"T, Pay 1 life: Add one mana of any color.\" Your life total becomes equal to your starting life total.\n\nALTERNATE2: Ecumenosophic Emergence 6\nSorcery\nEach player sacrifices all lands they control, then creates that many colorless Esyra land tokens with \"T, Pay 1 life: Add one mana of any color.\" Your life total becomes equal to your starting life total."
         },
         {
             "card_name": "Bitter Freedom",
@@ -4166,6 +4492,7 @@
             "artist": "SpartanK42",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4186,7 +4513,8 @@
             "artist": "Luke Oram",
             "alias": "",
             "position": "208",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Spirit<1>"
         },
         {
             "card_name": "Horizon Eater",
@@ -4206,6 +4534,7 @@
             "artist": "Markus Harma",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": "Planetary curvature in art (Photoshop out)"
         },
         {
@@ -4226,6 +4555,7 @@
             "artist": "Ricardo Robles",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4246,6 +4576,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4266,6 +4597,7 @@
             "artist": "Orm Irian",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "Orphaned FT: That which does not gradually decay is doomed to fail all at once."
         },
         {
@@ -4286,7 +4618,8 @@
             "artist": "\u5de8\u86cb\u5165\u4fb5ZJ",
             "alias": "",
             "position": "213",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Drone<1>"
         },
         {
             "card_name": "Perfect Harmony",
@@ -4306,6 +4639,7 @@
             "artist": "Michael Beaudry",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -4326,6 +4660,7 @@
             "artist": "Way Way",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4346,6 +4681,7 @@
             "artist": "Kory Cromie",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4366,7 +4702,8 @@
             "artist": "Ryan Lowe",
             "alias": "",
             "position": "217",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Elemental<1>"
         },
         {
             "card_name": "Chirality Shifter",
@@ -4386,6 +4723,7 @@
             "artist": "Way Way",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4406,6 +4744,7 @@
             "artist": "Goran Trpkov",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -4426,6 +4765,7 @@
             "artist": "Michael Beaudry",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": "TODO: Add FT\n\nALTERNATE: 1U ->2U, ETB cantrip"
         },
         {
@@ -4446,6 +4786,7 @@
             "artist": "Simo Rasanen",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "ALTERNATE: Current text -> flying, vigilance, ward 3, \"Creatures your opponents control get -3/-0, lose flying, and can't have or gain flying\"\n\nALTERNATE 2: \"If Eclipsewing leaves the battlefield, this effect continues until end of turn.\" -> \"If Eclipsewing would die, you may instead exile it and end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and \u201cthis turn\u201d and \u201cuntil end of turn\u201d effects end.)\""
         },
         {
@@ -4466,6 +4807,7 @@
             "artist": "Juan Silva",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "ALTERNATE: AA cost 3U, exile four, return with two counters?"
         },
         {
@@ -4486,6 +4828,7 @@
             "artist": "Bruce Brenneise",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "ALTERNATE: Remove \"nonartifact\"?"
         },
         {
@@ -4506,6 +4849,7 @@
             "artist": "Anna Butova",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4526,6 +4870,7 @@
             "artist": "Michael Beaudry",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -4546,6 +4891,7 @@
             "artist": "\u738b \u741b",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4566,6 +4912,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4586,6 +4933,7 @@
             "artist": "Victor Adame",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4606,6 +4954,7 @@
             "artist": "Rob Powell",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4626,6 +4975,7 @@
             "artist": "yann Souetre",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4646,6 +4996,7 @@
             "artist": "Masashi Kageyama",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -4666,6 +5017,7 @@
             "artist": "Alessandro Costantini",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -4686,6 +5038,7 @@
             "artist": "Christian Tiager",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -4706,6 +5059,7 @@
             "artist": "Walter Brocca",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4726,6 +5080,7 @@
             "artist": "Michal Matczak",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4746,6 +5101,7 @@
             "artist": "Ryan Lowe",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": "ALTERNATE: Remove one counter option OR lineage RT (unless you switch to \"this creature\" wording)"
         },
         {
@@ -4766,6 +5122,7 @@
             "artist": "Sergei Demidov",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4786,6 +5143,7 @@
             "artist": "Camille Alquier",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "ALTERNATE: Adaptive Breakthrough?"
         },
         {
@@ -4806,6 +5164,7 @@
             "artist": "Pedro Sena",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4826,6 +5185,7 @@
             "artist": "Tu Bui",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4846,6 +5206,7 @@
             "artist": "Sylvain Sarrailh",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4866,7 +5227,8 @@
             "artist": "Travis M Couch",
             "alias": "",
             "position": "242",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Lithosphere Shaker",
@@ -4886,6 +5248,7 @@
             "artist": "Henrik Rosenborg",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4906,6 +5269,7 @@
             "artist": "Michael Beaudry",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -4926,6 +5290,7 @@
             "artist": "Keegan Blazey",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4946,6 +5311,7 @@
             "artist": "Ben Baumhauer",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": "ALTERNATE: Instinctive Experiment? 1R -> R, no haste, \"seven -> \"five\"?"
         },
         {
@@ -4966,6 +5332,7 @@
             "artist": "Fred Gambino",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": "ALTERNATE: Long-Dormant Satellite?"
         },
         {
@@ -4986,6 +5353,7 @@
             "artist": "Charlotte Veldhuizen",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": "ALTERNATE: AA -> \"1, Discard a card: Create a tapped Treasure token.\"\n\nALTERNATE 2: 3R Sorcery\nDiscard all the cards in your hand, then draw that many cards plus one. Add R for each card discarded this way."
         },
         {
@@ -5006,6 +5374,7 @@
             "artist": "Pedro Sena",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": "Planetary curvature in art (Photoshop out)"
         },
         {
@@ -5026,6 +5395,7 @@
             "artist": "Enzhe Zhao",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5046,7 +5416,8 @@
             "artist": "Thorsten Denk",
             "alias": "",
             "position": "251",
-            "notes": "TODO: Add FT\n\nALTERNATE: When you cast this spell, copy it if you control no creatures and there are no creature cards in your graveyard.\nCreate a 1/1 green Ooze creature token. Surveil 1."
+            "rotated": false,
+            "notes": "!tokens Ooze<1>\n\nTODO: Add FT\n\nALTERNATE: When you cast this spell, copy it if you control no creatures and there are no creature cards in your graveyard.\nCreate a 1/1 green Ooze creature token. Surveil 1."
         },
         {
             "card_name": "Common Ancestor",
@@ -5066,6 +5437,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": "Orphaned FT: Only the most ancient stones still bear marks from the Last War. But to the Loci, it's as clear as yesterday."
         },
         {
@@ -5086,6 +5458,7 @@
             "artist": "Ivan Martinez",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5106,7 +5479,8 @@
             "artist": "TJ Foo",
             "alias": "",
             "position": "254",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Germ<1>"
         },
         {
             "card_name": "Omniplasm",
@@ -5126,6 +5500,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5146,6 +5521,7 @@
             "artist": "Luke Oram",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": "TODO: Add FT"
         },
         {
@@ -5166,6 +5542,7 @@
             "artist": "Orm Irian",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5186,6 +5563,7 @@
             "artist": "Eiich Matsuba",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": "ALTERNATE: \"for each mana value between 1 and X, exile a creature card with that mana value\" -> \"exile X creature cards with different mana values\""
         },
         {
@@ -5206,6 +5584,7 @@
             "artist": "Alexandra Quinby",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5226,6 +5605,7 @@
             "artist": "Mitchell Stuart",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": "ALTERNATE: 3G -> 1GG, add \"Put a stun counter on one of them.\"?\n\nALTERNATE 2: 5G\nSorcery\nSacrifice any number of lands. Create twice that many tapped Esyra land tokens with \u201cT, Pay 1 life: Add one mana of any color.\u201d"
         },
         {
@@ -5246,6 +5626,7 @@
             "artist": "Simon Dominic",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5266,6 +5647,7 @@
             "artist": "Charlotte Veldhuizen",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5286,6 +5668,7 @@
             "artist": "Chris Kotiesen",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "ALTERNATE: Shrimp Worm?"
         },
         {
@@ -5306,6 +5689,7 @@
             "artist": "Daniel Mitchell",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5326,6 +5710,7 @@
             "artist": "Ken Nguyen",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -5346,7 +5731,8 @@
             "artist": "Games Revolted",
             "alias": "",
             "position": "266",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Saproling<1>"
         },
         {
             "card_name": "Leyline Gorger",
@@ -5366,6 +5752,7 @@
             "artist": "Kelley Harris",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5386,7 +5773,8 @@
             "artist": "Juan Pablo Roldan",
             "alias": "",
             "position": "268",
-            "notes": "ALTERNATE: 1/1 -> 1/2, \"At the beginning of combat on your turn\" -> \"Whenever CARDNAME or another nontoken Elemental you control enters\"?\n\nALTERNATE 2: \"At the beginning of combat on your turn\" -> landfall trigger?\n\nALTERNATE 3: 1RG 1/1 -> 2RG 1/3, add trample, \"haste\" -> \"trample and haste\""
+            "rotated": false,
+            "notes": "!tokens Elemental<1>\n\nALTERNATE: 1/1 -> 1/2, \"At the beginning of combat on your turn\" -> \"Whenever CARDNAME or another nontoken Elemental you control enters\"?\n\nALTERNATE 2: \"At the beginning of combat on your turn\" -> landfall trigger?\n\nALTERNATE 3: 1RG 1/1 -> 2RG 1/3, add trample, \"haste\" -> \"trample and haste\""
         },
         {
             "card_name": "Overcharged Stormkite",
@@ -5406,6 +5794,7 @@
             "artist": "Dave Melvin",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "ALTERNATE: 3/4 -> 2/4, add \"2: CARDNAME gets +1/+0 until end of turn.\""
         },
         {
@@ -5426,6 +5815,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": "ALTERNATE: Gains CDA instead of becoming X/X UEOT?"
         },
         {
@@ -5446,7 +5836,8 @@
             "artist": "Kate Pfeilschiefter",
             "alias": "",
             "position": "271",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Drone<1>"
         },
         {
             "card_name": "Shadow Biosphere",
@@ -5466,6 +5857,7 @@
             "artist": "Craig Reid",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5486,6 +5878,7 @@
             "artist": "Imad Awan",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -5506,6 +5899,7 @@
             "artist": "Adam Brice",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": "ALTERNATE: \"creatures you control have\" -> \"each creature in your ecosystem has\""
         },
         {
@@ -5526,7 +5920,8 @@
             "artist": "Adam Burn",
             "alias": "",
             "position": "275",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tokens Esyra<1>"
         },
         {
             "card_name": "Orbital Cruiser",
@@ -5546,6 +5941,7 @@
             "artist": "Steve Reeves",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5566,6 +5962,7 @@
             "artist": "Bobby Rebholz",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "Replace card?"
         },
         {
@@ -5586,6 +5983,7 @@
             "artist": "Chase Stone",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5606,6 +6004,7 @@
             "artist": "Andrew Mironov",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": "ALTERNATE: menace -> lifelink?"
         },
         {
@@ -5626,6 +6025,7 @@
             "artist": "Erik Van Ooijen",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": "ALTERNATE: Legendary? Move to rare?"
         },
         {
@@ -5646,6 +6046,7 @@
             "artist": "soSiiCK",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5666,6 +6067,7 @@
             "artist": "Bruce Brenneise",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5686,6 +6088,7 @@
             "artist": "Fred Gambino",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": "ALTERNATE: Mesohyl Alluvion? Porous Alluvion?"
         },
         {
@@ -5706,6 +6109,7 @@
             "artist": "Tyler Lamanno",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": "Human in art"
         },
         {
@@ -5726,6 +6130,7 @@
             "artist": "Adam Burn",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5740,33 +6145,26 @@
             "flavor_text": "[i]Not even in the face of apocalypse would it stray from its directive: keep the patient alive at all costs.[/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Terry Maranda",
             "alias": "",
             "position": "286",
-            "notes": "!tokens Spirit<1>\n\nlandslot"
-        },
-        {
-            "card_name": "Soulkeeper Drone",
-            "color": "W",
-            "rarity": "common",
-            "type": "Artifact Creature \u2014 Drone",
-            "number": 37,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "Lifelink\nWhen Soulkeeper Drone dies, exile it and create a 1/1 white Spirit creature token with flying.",
-            "flavor_text": "[i]The shrieking revenant in its core has long forgotten all that once defined him. His prison has received no such mercy.[/i]",
-            "pt": "3/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Deltakosh",
-            "alias": "",
-            "position": "287",
-            "notes": "!tokens Spirit<1>\n\nlandslot"
+            "card_name2": "Soulkeeper Drone",
+            "color2": "W",
+            "type2": "Artifact Creature \u2014 Drone",
+            "cost2": "",
+            "rules_text2": "Lifelink\nWhen Soulkeeper Drone dies, exile it and create a 1/1 white Spirit creature token with flying.",
+            "flavor_text2": "[i]The shrieking revenant in its core has long forgotten all that once defined him. His prison has received no such mercy.[/i]",
+            "pt2": "3/2",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Deltakosh",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "!tokens Spirit<1>\n\nlandslot\n!tokens Spirit<1>\n\nlandslot"
         },
         {
             "card_name": "Resourceful Vermin",
@@ -5780,33 +6178,26 @@
             "flavor_text": "[i]Despite the sanitation drones' best efforts, Srai-Val-Nul's largest cities held enough vermin that even the Last War couldn't eradicate them all.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Logan Feliciano",
             "alias": "",
             "position": "288",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Preserved Elder",
-            "color": "B",
-            "rarity": "common",
-            "type": "Artifact Creature \u2014 Zombie Rat",
-            "number": 120,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "When Preserved Elder dies, exile it and draw a card.",
-            "flavor_text": "[i]Their descendants search the ruins of those cities for ways to keep themselves alive.[/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Sam Lamont",
-            "alias": "",
-            "position": "289",
-            "notes": "landslot"
+            "card_name2": "Preserved Elder",
+            "color2": "B",
+            "type2": "Artifact Creature \u2014 Zombie Rat",
+            "cost2": "",
+            "rules_text2": "When Preserved Elder dies, exile it and draw a card.",
+            "flavor_text2": "[i]Their descendants search the ruins of those cities for ways to keep themselves alive.[/i]",
+            "pt2": "3/3",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Sam Lamont",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Ceaseless Exploration",
@@ -5820,33 +6211,26 @@
             "flavor_text": "[i]\u201cHow many lifetimes have I walked this land?\u201d\n\u2014Valrain, journal entry[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
             "position": "290",
-            "notes": "landslot\n\nHuman in art"
-        },
-        {
-            "card_name": "Seedborn Behemoth",
-            "color": "G",
-            "rarity": "common",
-            "type": "Creature \u2014 Plant Elemental",
-            "number": 178,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "Trample\nWhen Seedborn Behemoth dies, exile it.",
-            "flavor_text": "[i]Over eons, a seed carried from one segment may give rise to countless species on another.[/i]",
-            "pt": "7/6",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Trung Tin Shinji",
-            "alias": "",
-            "position": "291",
-            "notes": "landslot\n\nHuman in art"
+            "card_name2": "Seedborn Behemoth",
+            "color2": "G",
+            "type2": "Creature \u2014 Plant Elemental",
+            "cost2": "",
+            "rules_text2": "Trample\nWhen Seedborn Behemoth dies, exile it.",
+            "flavor_text2": "[i]Over eons, a seed carried from one segment may give rise to countless species on another.[/i]",
+            "pt2": "7/6",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Trung Tin Shinji",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "landslot\n\nHuman in art\nlandslot\n\nHuman in art"
         },
         {
             "card_name": "Doomed Vessel",
@@ -5860,33 +6244,26 @@
             "flavor_text": "[i]The Last War forced machine spirits to abandon their vessels in droves.[/i]",
             "pt": "4/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Chin Fong",
             "alias": "",
             "position": "292",
-            "notes": "landslot\n\nCHANGELOG: 3/2 -> 4/1"
-        },
-        {
-            "card_name": "Unbound Overseer",
-            "color": "U",
-            "rarity": "common",
-            "type": "Artifact Creature \u2014 Spirit",
-            "number": 53,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "Flying\nWhen Unbound Overseer dies, exile it.",
-            "flavor_text": "[i]Those that survived losing their physical forms were left to care for a ruined world.[/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Sandra Duchiewicz",
-            "alias": "",
-            "position": "293",
-            "notes": "landslot\n\nCHANGELOG: 3/2 -> 4/1"
+            "card_name2": "Unbound Overseer",
+            "color2": "U",
+            "type2": "Artifact Creature \u2014 Spirit",
+            "cost2": "",
+            "rules_text2": "Flying\nWhen Unbound Overseer dies, exile it.",
+            "flavor_text2": "[i]Those that survived losing their physical forms were left to care for a ruined world.[/i]",
+            "pt2": "4/4",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Sandra Duchiewicz",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "landslot\n\nCHANGELOG: 3/2 -> 4/1\nlandslot\n\nCHANGELOG: 3/2 -> 4/1"
         },
         {
             "card_name": "Tectonic Drift",
@@ -5900,33 +6277,26 @@
             "flavor_text": "[i]Nothing is ever truly still.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Jamie Callow",
             "alias": "",
             "position": "294",
-            "notes": "landslot\n\nCHANGELOG: 5/3 -> 5/4"
-        },
-        {
-            "card_name": "Fissure Titan",
-            "color": "R",
-            "rarity": "common",
-            "type": "Creature \u2014 Elemental",
-            "number": 166,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "Whenever Fissure Titan attacks, target creature can't block this turn.\nWhen Fissure Titan dies, exile it.",
-            "flavor_text": "[i]The buildup of heat and pressure deep beneath Srai-Val-Nul's crust provides excellent conditions for igneous lithoids to incubate their young.[/i]",
-            "pt": "5/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Svetlin Velinov",
-            "alias": "",
-            "position": "295",
-            "notes": "landslot\n\nCHANGELOG: 5/3 -> 5/4"
+            "card_name2": "Fissure Titan",
+            "color2": "R",
+            "type2": "Creature \u2014 Elemental",
+            "cost2": "",
+            "rules_text2": "Whenever Fissure Titan attacks, target creature can't block this turn.\nWhen Fissure Titan dies, exile it.",
+            "flavor_text2": "[i]The buildup of heat and pressure deep beneath Srai-Val-Nul's crust provides excellent conditions for igneous lithoids to incubate their young.[/i]",
+            "pt2": "5/4",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Svetlin Velinov",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "landslot\n\nCHANGELOG: 5/3 -> 5/4\nlandslot\n\nCHANGELOG: 5/3 -> 5/4"
         },
         {
             "card_name": "Violent Predation",
@@ -5940,33 +6310,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Dave Melvin",
             "alias": "",
             "position": "296",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Jagged Fangs",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 170,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, double its power until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Rob Powell",
-            "alias": "",
-            "position": "297",
-            "notes": "landslot"
+            "card_name2": "Jagged Fangs",
+            "color2": "R",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, double its power until end of turn.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Rob Powell",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Canopy Grazing",
@@ -5980,33 +6343,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "5",
             "artist": "Aaron Rolfe",
             "alias": "",
             "position": "298",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Immense Size",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 177,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+2.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put your choice of a +1/+1 counter or a trample counter on adapted creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dave Melvin",
-            "alias": "",
-            "position": "299",
-            "notes": "landslot"
+            "card_name2": "Immense Size",
+            "color2": "G",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+2.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put your choice of a +1/+1 counter or a trample counter on adapted creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Dave Melvin",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Carrion Scrounging",
@@ -6020,33 +6376,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Brandon Ellis",
             "alias": "",
             "position": "300",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Hardy Gut",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 93,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAt the beginning of your end step, you may exile target permanent card from a graveyard. If you do, put a +1/+1 counter on adapted creature and you gain 1 life.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Hyun Lee",
-            "alias": "",
-            "position": "301",
-            "notes": "landslot"
+            "card_name2": "Hardy Gut",
+            "color2": "B",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAt the beginning of your end step, you may exile target permanent card from a graveyard. If you do, put a +1/+1 counter on adapted creature and you gain 1 life.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Hyun Lee",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Cloudkrill Filtering",
@@ -6060,33 +6409,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Diana Tsareva",
             "alias": "",
             "position": "302",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Skyborne Maw",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 47,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever you draw a card, put your choice of a +1/+1 counter or a flying counter on adapted creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Fred Gambino",
-            "alias": "",
-            "position": "303",
-            "notes": "landslot"
+            "card_name2": "Skyborne Maw",
+            "color2": "U",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever you draw a card, put your choice of a +1/+1 counter or a flying counter on adapted creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Fred Gambino",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Drone Herding",
@@ -6100,33 +6442,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Liang Mark",
             "alias": "",
             "position": "304",
-            "notes": "!tokens Drone<2>\n\nlandslot"
-        },
-        {
-            "card_name": "Networked Pheromones",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 10,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, it gets +1/+1 until end of turn for each attacking creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Michael Oberschneider",
-            "alias": "",
-            "position": "305",
-            "notes": "!tokens Drone<2>\n\nlandslot"
+            "card_name2": "Networked Pheromones",
+            "color2": "W",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, it gets +1/+1 until end of turn for each attacking creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Michael Oberschneider",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "!tokens Drone<2>\n\nlandslot\n!tokens Drone<2>\n\nlandslot"
         },
         {
             "card_name": "Mana Siphoning",
@@ -6140,33 +6475,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "306",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Arcane Senses",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 65,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has ward {2}.\nWhenever adapted creature deals combat damage to a player or battle, draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dave Melvin",
-            "alias": "",
-            "position": "307",
-            "notes": "landslot"
+            "card_name2": "Arcane Senses",
+            "color2": "U",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has ward {2}.\nWhenever adapted creature deals combat damage to a player or battle, draw a card.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Dave Melvin",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Nest Raiding",
@@ -6180,33 +6508,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Chen-Yang Hsu",
             "alias": "",
             "position": "308",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Grasping Claws",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 115,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, defending player discards a card. If they can't, you draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dave Melvin",
-            "alias": "",
-            "position": "309",
-            "notes": "landslot"
+            "card_name2": "Grasping Claws",
+            "color2": "B",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, defending player discards a card. If they can't, you draw a card.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Dave Melvin",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Wildfire Succession",
@@ -6220,33 +6541,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Tu Bui",
             "alias": "",
             "position": "310",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Ashen Carapace",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 172,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, put your choice of a +1/+1 counter or a menace counter on it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Rob Powell",
-            "alias": "",
-            "position": "311",
-            "notes": "landslot"
+            "card_name2": "Ashen Carapace",
+            "color2": "R",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, put your choice of a +1/+1 counter or a menace counter on it.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Rob Powell",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "landslot\nlandslot"
         },
         {
             "card_name": "Undergrowth Mimicry",
@@ -6260,33 +6574,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "4",
             "artist": "Emilie Barboiron",
             "alias": "",
             "position": "312",
-            "notes": "landslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?"
-        },
-        {
-            "card_name": "Morphic Hide",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 212,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has hexproof and can't be blocked by more than one creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Sandeep Karunakaran",
-            "alias": "",
-            "position": "313",
-            "notes": "landslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?"
+            "card_name2": "Morphic Hide",
+            "color2": "G",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has hexproof and can't be blocked by more than one creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Sandeep Karunakaran",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?\nlandslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?"
         },
         {
             "card_name": "Cooperative Labor",
@@ -6300,33 +6607,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "battle",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "3",
             "artist": "Flavio Greco Paglia",
             "alias": "",
             "position": "314",
-            "notes": "landslot\n\nALTERNATE: 3W -> XW, \"any number of\" -> \"up to X target\""
-        },
-        {
-            "card_name": "Caste Division",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 8,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhen Caste Division becomes attached to a creature, put two different counters of your choice on that creature from among flying, first strike, vigilance, and +1/+1.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Jose Arias",
-            "alias": "",
-            "position": "315",
-            "notes": "landslot"
+            "card_name2": "Caste Division",
+            "color2": "W",
+            "type2": "Enchantment \u2014 Adaptation",
+            "cost2": "",
+            "rules_text2": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhen Caste Division becomes attached to a creature, put two different counters of your choice on that creature from among flying, first strike, vigilance, and +1/+1.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Jose Arias",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "landslot\n\nALTERNATE: 3W -> XW, \"any number of\" -> \"up to X target\"\nlandslot"
         },
         {
             "card_name": "Esyra, the Cancerous City",
@@ -6340,233 +6640,26 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "EVO",
             "loyalty": "",
             "artist": "Elias Stern",
             "alias": "",
             "position": "316",
-            "notes": "ALTERNATE: Make single-faced (and move to rare?)"
-        },
-        {
-            "card_name": "Ecumenosophic Emergence",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Enchantment",
-            "number": 273,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "When this permanent transforms into Ecumenosophic Emergence, untap all Esyra. Your life total becomes equal to your starting life total.\nYou control all Esyra.",
-            "flavor_text": "[i]\u201cJust let new sapience form, and I'll free you and take your place,\u201d Valrain begged Riv-Tsu.\nFor the first time, the city spoke. \u201cIt already has. And I see no need for more residents.\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Evan Rhodes",
-            "alias": "",
-            "position": "317",
-            "notes": "ALTERNATE: Make single-faced (and move to rare?)"
-        },
-        {
-            "card_name": "Warding Glands",
-            "color": "W",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 40,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nSpells your opponents cast from anywhere other than their hand cost {X} more to cast, where X is adapted creature's power.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "3",
-            "artist": "Dave Melvin",
-            "alias": "",
-            "position": "318",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Spellcharged Circuitry",
-            "color": "U",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 45,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nOnce each turn, you may cast a spell from your hand that targets adapted creature without paying its mana cost.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "4",
-            "artist": "Phil Saunders",
-            "alias": "",
-            "position": "319",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Infectious Spores",
-            "color": "B",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 98,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhen adapted creature dies, you may exile it. If you do, put target creature card with lesser mana value from a graveyard onto the battlefield under your control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "4",
-            "artist": "Alexandr Elichev",
-            "alias": "",
-            "position": "320",
-            "notes": "landslot"
-        },
-        {
-            "card_name": "Hypersonic Limbs",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 156,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks during your first combat phase each turn, put a +1/+1 counter on it. Untap it. After this phase, there is an additional combat phase.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Dave Melvin",
-            "alias": "",
-            "position": "321",
-            "notes": ""
-        },
-        {
-            "card_name": "Signal Stripes",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 210,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature and a creature with greater power attack, you gain life equal to the greatest power among attacking creatures and draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Candice Broersma",
-            "alias": "",
-            "position": "322",
-            "notes": ""
-        },
-        {
-            "card_name": "Superorganism",
-            "color": "WG",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 221,
-            "color_identity": "WG",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +10/+10.\nIf adapted creature would be destroyed, instead remove all damage from it and destroy Superorganism.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Alex Rommel",
-            "alias": "",
-            "position": "323",
-            "notes": ""
-        },
-        {
-            "card_name": "Lethal Stinger",
-            "color": "BR",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 241,
-            "color_identity": "BR",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature has deathtouch.\nWhenever adapted creature deals combat damage to a player or battle, defending player loses half their life, rounded up.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Brandon Ellis",
-            "alias": "",
-            "position": "324",
-            "notes": ""
-        },
-        {
-            "card_name": "Rapid Reproduction",
-            "color": "RG",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 234,
-            "color_identity": "RG",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nWhenever adapted creature attacks, create a tapped and attacking token that's a copy of it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Osmatar",
-            "alias": "",
-            "position": "325",
-            "notes": ""
-        },
-        {
-            "card_name": "Tireless Wings",
-            "color": "WU",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 230,
-            "color_identity": "WU",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+0 and has flying and \u201cWhen this creature dies, return it to its owner's hand.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Carlo Arellano",
-            "alias": "",
-            "position": "326",
-            "notes": ""
-        },
-        {
-            "card_name": "Psychromatophores",
-            "color": "UB",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Adaptation",
-            "number": 235,
-            "color_identity": "UB",
-            "cost": "",
-            "rules_text": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nExile three cards from your graveyard: Put a counter of your choice on adapted creature from among flying, deathtouch, lifelink, and +1/+1.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "EVO",
-            "loyalty": "",
-            "artist": "Way Way",
-            "alias": "",
-            "position": "327",
-            "notes": ""
+            "card_name2": "Ecumenosophic Emergence",
+            "color2": "",
+            "type2": "Enchantment",
+            "cost2": "",
+            "rules_text2": "When this permanent transforms into Ecumenosophic Emergence, untap all Esyra. Your life total becomes equal to your starting life total.\nYou control all Esyra.",
+            "flavor_text2": "[i]\u201cJust let new sapience form, and I'll free you and take your place,\u201d Valrain begged Riv-Tsu.\nFor the first time, the city spoke. \u201cIt already has. And I see no need for more residents.\u201d[/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Evan Rhodes",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "ALTERNATE: Make single-faced (and move to rare?)\nALTERNATE: Make single-faced (and move to rare?)"
         },
         {
             "card_name": "Beast",
@@ -6586,6 +6679,7 @@
             "artist": "Adrian Bobb",
             "alias": "",
             "position": "328",
+            "rotated": false,
             "notes": "!related Titan Cleaning;"
         },
         {
@@ -6606,6 +6700,7 @@
             "artist": "Thorsten Denk",
             "alias": "",
             "position": "329",
+            "rotated": false,
             "notes": "!related Abiogenesis;"
         },
         {
@@ -6626,6 +6721,7 @@
             "artist": "Games Revolted",
             "alias": "",
             "position": "330",
+            "rotated": false,
             "notes": "!related Fecund Sporophyte;"
         },
         {
@@ -6643,9 +6739,10 @@
             "shape": "token",
             "set": "EVO",
             "loyalty": "",
-            "artist": "",
+            "artist": "Riley Dannenbring",
             "alias": "",
             "position": "331",
+            "rotated": false,
             "notes": "!related Nanite Incubator;"
         },
         {
@@ -6666,8 +6763,9 @@
             "artist": "Igor Puskaric",
             "alias": "",
             "position": "332",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }

@@ -7,7 +7,7 @@
 			"type": "Token Artifact Creature — Drone",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/0.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/1.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Token Creature — Leech",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/2.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Token Land — Esyra",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/3.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Token Creature — Starfish",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/4.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Token Creature — Egg",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/5.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Token Creature — Sand Illusion",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/6.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/7.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/8.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/8.png"
 			}
 		},
 		{
@@ -96,8 +96,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Battle — Niche",
 			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/9_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/9.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/9_front.png"
 			}
 		},
 		{
@@ -106,8 +113,15 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Battle — Niche",
 			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/10_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/10.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/10_front.png"
 			}
 		},
 		{
@@ -116,8 +130,15 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Battle — Niche",
 			"collector_number": "98",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/11_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/11.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/11_front.png"
 			}
 		},
 		{
@@ -126,8 +147,15 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Battle — Niche",
 			"collector_number": "156",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/12_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/12.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/12_front.png"
 			}
 		},
 		{
@@ -136,8 +164,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Battle — Niche",
 			"collector_number": "210",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/13_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/13.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/13_front.png"
 			}
 		},
 		{
@@ -146,8 +181,15 @@
 			"mana_cost": "{3}{G}{W}",
 			"type": "Battle — Niche",
 			"collector_number": "221",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/14_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/14.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/14_front.png"
 			}
 		},
 		{
@@ -156,8 +198,15 @@
 			"mana_cost": "{2}{W}{U}",
 			"type": "Battle — Niche",
 			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/15_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/15.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/15_front.png"
 			}
 		},
 		{
@@ -166,8 +215,15 @@
 			"mana_cost": "{1}{R}{G}",
 			"type": "Battle — Niche",
 			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/16_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/16.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/16_front.png"
 			}
 		},
 		{
@@ -176,8 +232,15 @@
 			"mana_cost": "{U}{B}",
 			"type": "Battle — Niche",
 			"collector_number": "235",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/17_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/17.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/17_front.png"
 			}
 		},
 		{
@@ -186,8 +249,15 @@
 			"mana_cost": "{1}{B}{R}",
 			"type": "Battle — Niche",
 			"collector_number": "241",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/18_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/18.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/18_front.png"
 			}
 		},
 		{
@@ -197,7 +267,7 @@
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/19.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +277,7 @@
 			"type": "Artifact",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/20.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +287,7 @@
 			"type": "Artifact Creature — Drone Ship",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/21.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +297,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/22.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +307,7 @@
 			"type": "Creature — Jellyfish",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/23.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +317,7 @@
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/24.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +327,7 @@
 			"type": "Creature — Gremlin",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/25.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +337,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/26.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +347,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/27.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/28.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +367,7 @@
 			"type": "Creature — Plant Fungus",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/29.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +377,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/30.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +387,7 @@
 			"type": "Instant",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/31.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +397,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/32.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +407,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/33.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +417,7 @@
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/34.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +427,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/35.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +437,7 @@
 			"type": "Creature — Leech Horror",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/36.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +447,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/37.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +457,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/38.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +467,7 @@
 			"type": "Enchantment",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/39.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +477,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/40.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +487,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/41.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +497,7 @@
 			"type": "Enchantment",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/42.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +507,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/43.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +517,7 @@
 			"type": "Creature — Vampire Dog",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/44.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +527,7 @@
 			"type": "Creature — Insect Beast",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/45.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +537,7 @@
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/46.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/47.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +557,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/48.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +567,7 @@
 			"type": "Artifact Creature — Mite",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/49.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +577,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/50.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +587,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/51.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +597,7 @@
 			"type": "Creature — Kraken",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/52.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +607,7 @@
 			"type": "Creature — Elemental Insect",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/53.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +617,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/54.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +627,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/55.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +637,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/56.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +647,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/57.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +657,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/58.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +667,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/59.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/59.png"
 			}
 		},
 		{
@@ -607,7 +677,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/60.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/60.png"
 			}
 		},
 		{
@@ -617,7 +687,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/61.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/61.png"
 			}
 		},
 		{
@@ -627,7 +697,7 @@
 			"type": "Artifact Creature — Insect",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/62.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +707,7 @@
 			"type": "Creature — Frog Beast",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/63.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +717,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/64.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +727,7 @@
 			"type": "Creature — Fungus Jellyfish",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/65.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/65.png"
 			}
 		},
 		{
@@ -667,7 +737,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/66.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/66.png"
 			}
 		},
 		{
@@ -677,7 +747,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/67.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/67.png"
 			}
 		},
 		{
@@ -687,7 +757,7 @@
 			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/68.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/68.png"
 			}
 		},
 		{
@@ -697,7 +767,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/69.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +777,7 @@
 			"type": "Instant",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/70.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/70.png"
 			}
 		},
 		{
@@ -717,7 +787,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/71.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/71.png"
 			}
 		},
 		{
@@ -727,7 +797,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/72.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/72.png"
 			}
 		},
 		{
@@ -737,7 +807,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/73.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +817,7 @@
 			"type": "Creature — Elemental Spider",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/74.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +827,7 @@
 			"type": "Creature — Turtle Beast",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/75.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +837,7 @@
 			"type": "Artifact",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/76.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/76.png"
 			}
 		},
 		{
@@ -777,7 +847,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/77.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/77.png"
 			}
 		},
 		{
@@ -787,7 +857,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/78.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +867,7 @@
 			"type": "Creature — Crab Jellyfish",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/79.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/79.png"
 			}
 		},
 		{
@@ -807,7 +877,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/80.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/80.png"
 			}
 		},
 		{
@@ -817,7 +887,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/81.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/81.png"
 			}
 		},
 		{
@@ -827,7 +897,7 @@
 			"type": "Creature — Jellyfish Beast",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/82.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/82.png"
 			}
 		},
 		{
@@ -837,7 +907,7 @@
 			"type": "Creature — Fish Drake",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/83.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/83.png"
 			}
 		},
 		{
@@ -847,7 +917,7 @@
 			"type": "Land",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/84.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/84.png"
 			}
 		},
 		{
@@ -857,7 +927,7 @@
 			"type": "Creature — Crab",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/85.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/85.png"
 			}
 		},
 		{
@@ -867,7 +937,7 @@
 			"type": "Artifact Creature — Zombie Construct",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/86.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/86.png"
 			}
 		},
 		{
@@ -877,7 +947,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/87.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/87.png"
 			}
 		},
 		{
@@ -887,7 +957,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/88.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/88.png"
 			}
 		},
 		{
@@ -897,7 +967,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/89.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/89.png"
 			}
 		},
 		{
@@ -907,7 +977,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/90.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/90.png"
 			}
 		},
 		{
@@ -917,7 +987,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/91.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/91.png"
 			}
 		},
 		{
@@ -927,7 +997,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/92.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/92.png"
 			}
 		},
 		{
@@ -937,7 +1007,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/93.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/93.png"
 			}
 		},
 		{
@@ -947,7 +1017,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/94.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/94.png"
 			}
 		},
 		{
@@ -957,7 +1027,7 @@
 			"type": "Creature — Lizard Shark",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/95.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/95.png"
 			}
 		},
 		{
@@ -967,7 +1037,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/96.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/96.png"
 			}
 		},
 		{
@@ -977,7 +1047,7 @@
 			"type": "Creature — Fungus Beast",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/97.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/97.png"
 			}
 		},
 		{
@@ -987,7 +1057,7 @@
 			"type": "Creature — Leech Chimera",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/98.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/98.png"
 			}
 		},
 		{
@@ -997,7 +1067,7 @@
 			"type": "Creature — Lizard Beast",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/99.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/99.png"
 			}
 		},
 		{
@@ -1007,7 +1077,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/100.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/100.png"
 			}
 		},
 		{
@@ -1017,7 +1087,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/101.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/101.png"
 			}
 		},
 		{
@@ -1027,7 +1097,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/102.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/102.png"
 			}
 		},
 		{
@@ -1037,7 +1107,7 @@
 			"type": "Artifact Creature — Serpent",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/103.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/103.png"
 			}
 		},
 		{
@@ -1047,7 +1117,7 @@
 			"type": "Artifact Creature — Drone Ship",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/104.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/104.png"
 			}
 		},
 		{
@@ -1057,7 +1127,7 @@
 			"type": "Creature — Elemental Giant",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/105.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/105.png"
 			}
 		},
 		{
@@ -1067,7 +1137,7 @@
 			"type": "Creature — Fungus Dryad",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/106.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/106.png"
 			}
 		},
 		{
@@ -1077,7 +1147,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/107.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/107.png"
 			}
 		},
 		{
@@ -1087,7 +1157,7 @@
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/108.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/108.png"
 			}
 		},
 		{
@@ -1097,7 +1167,7 @@
 			"type": "Artifact Creature — Trilobite",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/109.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/109.png"
 			}
 		},
 		{
@@ -1107,7 +1177,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/110.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/110.png"
 			}
 		},
 		{
@@ -1117,7 +1187,7 @@
 			"type": "Artifact",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/111.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/111.png"
 			}
 		},
 		{
@@ -1127,7 +1197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/112.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/112.png"
 			}
 		},
 		{
@@ -1137,7 +1207,7 @@
 			"type": "Artifact Creature — Germ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/113.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/113.png"
 			}
 		},
 		{
@@ -1147,7 +1217,7 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/114.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/114.png"
 			}
 		},
 		{
@@ -1157,7 +1227,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/115.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/115.png"
 			}
 		},
 		{
@@ -1167,7 +1237,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/116.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/116.png"
 			}
 		},
 		{
@@ -1177,7 +1247,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/117.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/117.png"
 			}
 		},
 		{
@@ -1187,7 +1257,7 @@
 			"type": "Creature — Bat Leech",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/118.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/118.png"
 			}
 		},
 		{
@@ -1197,7 +1267,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/119.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/119.png"
 			}
 		},
 		{
@@ -1207,7 +1277,7 @@
 			"type": "Creature — Fungus Dinosaur",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/120.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/120.png"
 			}
 		},
 		{
@@ -1217,7 +1287,7 @@
 			"type": "Creature — Elemental Wall",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/121.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/121.png"
 			}
 		},
 		{
@@ -1227,7 +1297,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/122.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/122.png"
 			}
 		},
 		{
@@ -1237,7 +1307,7 @@
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/123.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/123.png"
 			}
 		},
 		{
@@ -1247,7 +1317,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/124.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/124.png"
 			}
 		},
 		{
@@ -1257,7 +1327,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/125.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/125.png"
 			}
 		},
 		{
@@ -1267,7 +1337,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/126.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/126.png"
 			}
 		},
 		{
@@ -1277,7 +1347,7 @@
 			"type": "Artifact Creature — Dinosaur",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/127.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/127.png"
 			}
 		},
 		{
@@ -1287,7 +1357,7 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/128.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/128.png"
 			}
 		},
 		{
@@ -1297,7 +1367,7 @@
 			"type": "Creature — Jellyfish",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/129.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/129.png"
 			}
 		},
 		{
@@ -1307,7 +1377,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/130.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/130.png"
 			}
 		},
 		{
@@ -1317,7 +1387,7 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/131.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/131.png"
 			}
 		},
 		{
@@ -1327,7 +1397,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/132.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/132.png"
 			}
 		},
 		{
@@ -1337,7 +1407,7 @@
 			"type": "Creature — Sponge",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/133.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/133.png"
 			}
 		},
 		{
@@ -1347,7 +1417,7 @@
 			"type": "Creature — Elemental Insect",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/134.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/134.png"
 			}
 		},
 		{
@@ -1357,7 +1427,7 @@
 			"type": "Artifact",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/135.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/135.png"
 			}
 		},
 		{
@@ -1367,7 +1437,7 @@
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/136.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/136.png"
 			}
 		},
 		{
@@ -1377,7 +1447,7 @@
 			"type": "Artifact Creature — Beast",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/137.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/137.png"
 			}
 		},
 		{
@@ -1387,7 +1457,7 @@
 			"type": "Artifact Creature — Insect",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/138.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/138.png"
 			}
 		},
 		{
@@ -1397,7 +1467,7 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/139.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/139.png"
 			}
 		},
 		{
@@ -1407,7 +1477,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/140.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/140.png"
 			}
 		},
 		{
@@ -1417,7 +1487,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/141.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/141.png"
 			}
 		},
 		{
@@ -1427,7 +1497,7 @@
 			"type": "Creature — Plant Snake",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/142.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/142.png"
 			}
 		},
 		{
@@ -1437,7 +1507,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/143.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/143.png"
 			}
 		},
 		{
@@ -1447,7 +1517,7 @@
 			"type": "Artifact Creature — Plant Crab",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/144.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/144.png"
 			}
 		},
 		{
@@ -1457,7 +1527,7 @@
 			"type": "Artifact",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/145.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/145.png"
 			}
 		},
 		{
@@ -1467,7 +1537,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/146.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/146.png"
 			}
 		},
 		{
@@ -1477,7 +1547,7 @@
 			"type": "Creature — Plant Zombie",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/147.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/147.png"
 			}
 		},
 		{
@@ -1487,7 +1557,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/148.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/148.png"
 			}
 		},
 		{
@@ -1497,7 +1567,7 @@
 			"type": "Artifact Creature — Construct Avatar",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/149.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/149.png"
 			}
 		},
 		{
@@ -1507,7 +1577,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/150.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/150.png"
 			}
 		},
 		{
@@ -1517,7 +1587,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/151.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/151.png"
 			}
 		},
 		{
@@ -1527,7 +1597,7 @@
 			"type": "Sorcery",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/152.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/152.png"
 			}
 		},
 		{
@@ -1537,7 +1607,7 @@
 			"type": "Land",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/153.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/153.png"
 			}
 		},
 		{
@@ -1547,7 +1617,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/154.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/154.png"
 			}
 		},
 		{
@@ -1557,7 +1627,7 @@
 			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/155.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/155.png"
 			}
 		},
 		{
@@ -1567,7 +1637,7 @@
 			"type": "Artifact Creature — Juggernaut",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/156.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/156.png"
 			}
 		},
 		{
@@ -1577,7 +1647,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/157.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/157.png"
 			}
 		},
 		{
@@ -1587,7 +1657,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/158.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/158.png"
 			}
 		},
 		{
@@ -1597,7 +1667,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/159.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/159.png"
 			}
 		},
 		{
@@ -1607,7 +1677,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/160.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/160.png"
 			}
 		},
 		{
@@ -1617,7 +1687,7 @@
 			"type": "Land — Esyra",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/161.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/161.png"
 			}
 		},
 		{
@@ -1627,7 +1697,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/162.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/162.png"
 			}
 		},
 		{
@@ -1637,7 +1707,7 @@
 			"type": "Creature — Plant Beast",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/163.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/163.png"
 			}
 		},
 		{
@@ -1647,7 +1717,7 @@
 			"type": "Creature — Insect Ooze",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/164.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/164.png"
 			}
 		},
 		{
@@ -1657,7 +1727,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/165.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/165.png"
 			}
 		},
 		{
@@ -1667,7 +1737,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/166.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/166.png"
 			}
 		},
 		{
@@ -1677,7 +1747,7 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/167.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/167.png"
 			}
 		},
 		{
@@ -1687,7 +1757,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/168.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/168.png"
 			}
 		},
 		{
@@ -1697,7 +1767,7 @@
 			"type": "Instant",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/169.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/169.png"
 			}
 		},
 		{
@@ -1707,7 +1777,7 @@
 			"type": "Creature — Bird Beast",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/170.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/170.png"
 			}
 		},
 		{
@@ -1717,7 +1787,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/171.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/171.png"
 			}
 		},
 		{
@@ -1727,7 +1797,7 @@
 			"type": "Creature — Pest",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/172.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/172.png"
 			}
 		},
 		{
@@ -1737,7 +1807,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/173.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/173.png"
 			}
 		},
 		{
@@ -1747,7 +1817,7 @@
 			"type": "Artifact Creature — Drone Bird",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/174.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/174.png"
 			}
 		},
 		{
@@ -1757,7 +1827,7 @@
 			"type": "Creature — Insect Jellyfish",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/175.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/175.png"
 			}
 		},
 		{
@@ -1767,7 +1837,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/176.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/176.png"
 			}
 		},
 		{
@@ -1777,7 +1847,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/177.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/177.png"
 			}
 		},
 		{
@@ -1787,7 +1857,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/178.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/178.png"
 			}
 		},
 		{
@@ -1797,7 +1867,7 @@
 			"type": "Creature — Jellyfish Whale",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/179.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/179.png"
 			}
 		},
 		{
@@ -1807,7 +1877,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/180.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/180.png"
 			}
 		},
 		{
@@ -1817,7 +1887,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/181.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/181.png"
 			}
 		},
 		{
@@ -1827,7 +1897,7 @@
 			"type": "Artifact Creature — Drone Ship",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/182.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/182.png"
 			}
 		},
 		{
@@ -1837,7 +1907,7 @@
 			"type": "Artifact Creature — Scorpion",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/183.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/183.png"
 			}
 		},
 		{
@@ -1847,7 +1917,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/184.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/184.png"
 			}
 		},
 		{
@@ -1857,7 +1927,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/185.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/185.png"
 			}
 		},
 		{
@@ -1867,7 +1937,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/186.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/186.png"
 			}
 		},
 		{
@@ -1877,7 +1947,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/187.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/187.png"
 			}
 		},
 		{
@@ -1887,7 +1957,7 @@
 			"type": "Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/188.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/188.png"
 			}
 		},
 		{
@@ -1897,7 +1967,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/189.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/189.png"
 			}
 		},
 		{
@@ -1907,7 +1977,7 @@
 			"type": "Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/190.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/190.png"
 			}
 		},
 		{
@@ -1917,7 +1987,7 @@
 			"type": "Land",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/191.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/191.png"
 			}
 		},
 		{
@@ -1927,7 +1997,7 @@
 			"type": "Land",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/192.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/192.png"
 			}
 		},
 		{
@@ -1937,7 +2007,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/193.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/193.png"
 			}
 		},
 		{
@@ -1947,7 +2017,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/194.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/194.png"
 			}
 		},
 		{
@@ -1957,7 +2027,7 @@
 			"type": "Land",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/195.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/195.png"
 			}
 		},
 		{
@@ -1967,7 +2037,7 @@
 			"type": "Artifact Creature — Zombie Drone",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/196.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/196.png"
 			}
 		},
 		{
@@ -1977,7 +2047,7 @@
 			"type": "Artifact Creature — Crocodile",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/197.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/197.png"
 			}
 		},
 		{
@@ -1987,7 +2057,7 @@
 			"type": "Creature — Lobster Hydra",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/198.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/198.png"
 			}
 		},
 		{
@@ -1997,7 +2067,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/199.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/199.png"
 			}
 		},
 		{
@@ -2007,7 +2077,7 @@
 			"type": "Creature — Jellyfish Leech",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/200.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/200.png"
 			}
 		},
 		{
@@ -2017,7 +2087,7 @@
 			"type": "Creature — Vampire Nautilus",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/201.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/201.png"
 			}
 		},
 		{
@@ -2027,7 +2097,7 @@
 			"type": "Creature — Plant Octopus",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/202.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/202.png"
 			}
 		},
 		{
@@ -2037,7 +2107,7 @@
 			"type": "Artifact",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/203.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/203.png"
 			}
 		},
 		{
@@ -2047,7 +2117,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/204.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/204.png"
 			}
 		},
 		{
@@ -2057,7 +2127,7 @@
 			"type": "Artifact Creature — Insect Oyster",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/205.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/205.png"
 			}
 		},
 		{
@@ -2067,7 +2137,7 @@
 			"type": "Legendary Planeswalker — Riv-Tsu",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/206.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/206.png"
 			}
 		},
 		{
@@ -2077,7 +2147,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/207.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/207.png"
 			}
 		},
 		{
@@ -2087,7 +2157,7 @@
 			"type": "Legendary Artifact Creature — God",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/208.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/208.png"
 			}
 		},
 		{
@@ -2097,7 +2167,7 @@
 			"type": "Creature — Jellyfish Kraken",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/209.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/209.png"
 			}
 		},
 		{
@@ -2107,7 +2177,7 @@
 			"type": "Creature — Fungus Beast",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/210.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/210.png"
 			}
 		},
 		{
@@ -2117,7 +2187,7 @@
 			"type": "Creature — Crab Shapeshifter",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/211.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/211.png"
 			}
 		},
 		{
@@ -2127,7 +2197,7 @@
 			"type": "Enchantment",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/212.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/212.png"
 			}
 		},
 		{
@@ -2137,7 +2207,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/213.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/213.png"
 			}
 		},
 		{
@@ -2147,7 +2217,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/214.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/214.png"
 			}
 		},
 		{
@@ -2157,7 +2227,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/215.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/215.png"
 			}
 		},
 		{
@@ -2167,7 +2237,7 @@
 			"type": "Artifact Creature — Drone Ship",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/216.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/216.png"
 			}
 		},
 		{
@@ -2177,7 +2247,7 @@
 			"type": "Artifact Creature — Construct Egg",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/217.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/217.png"
 			}
 		},
 		{
@@ -2187,7 +2257,7 @@
 			"type": "Creature — Bird Dinosaur",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/218.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/218.png"
 			}
 		},
 		{
@@ -2197,7 +2267,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/219.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/219.png"
 			}
 		},
 		{
@@ -2207,7 +2277,7 @@
 			"type": "Enchantment",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/220.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/220.png"
 			}
 		},
 		{
@@ -2217,7 +2287,7 @@
 			"type": "Creature — Leviathan Slug",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/221.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/221.png"
 			}
 		},
 		{
@@ -2227,7 +2297,7 @@
 			"type": "Creature — Elemental Bear",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/222.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/222.png"
 			}
 		},
 		{
@@ -2237,7 +2307,7 @@
 			"type": "Artifact Creature — Construct Germ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/223.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/223.png"
 			}
 		},
 		{
@@ -2247,7 +2317,7 @@
 			"type": "Creature — Ooze Shapeshifter",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/224.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/224.png"
 			}
 		},
 		{
@@ -2257,7 +2327,7 @@
 			"type": "Enchantment",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/225.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/225.png"
 			}
 		},
 		{
@@ -2267,7 +2337,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/226.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/226.png"
 			}
 		},
 		{
@@ -2277,7 +2347,7 @@
 			"type": "Artifact Creature — Leviathan Crab",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/227.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/227.png"
 			}
 		},
 		{
@@ -2287,7 +2357,7 @@
 			"type": "Legendary Artifact Creature — God",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/228.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/228.png"
 			}
 		},
 		{
@@ -2297,7 +2367,7 @@
 			"type": "Creature — Yeti",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/229.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/229.png"
 			}
 		},
 		{
@@ -2307,7 +2377,7 @@
 			"type": "Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/230.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/230.png"
 			}
 		},
 		{
@@ -2317,7 +2387,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/231.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/231.png"
 			}
 		},
 		{
@@ -2327,7 +2397,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/232.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/232.png"
 			}
 		},
 		{
@@ -2337,7 +2407,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/233.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/233.png"
 			}
 		},
 		{
@@ -2347,7 +2417,7 @@
 			"type": "Creature — Germ Horror",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/234.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/234.png"
 			}
 		},
 		{
@@ -2357,7 +2427,7 @@
 			"type": "Legendary Artifact Creature — God",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/235.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/235.png"
 			}
 		},
 		{
@@ -2367,7 +2437,7 @@
 			"type": "Artifact Creature — Zombie Germ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/236.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/236.png"
 			}
 		},
 		{
@@ -2377,7 +2447,7 @@
 			"type": "Creature — Fungus Dryad Squid",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/237.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/237.png"
 			}
 		},
 		{
@@ -2387,7 +2457,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/238.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/238.png"
 			}
 		},
 		{
@@ -2397,7 +2467,7 @@
 			"type": "Creature — Kraken Leech",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/239.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/239.png"
 			}
 		},
 		{
@@ -2407,7 +2477,7 @@
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/240.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/240.png"
 			}
 		},
 		{
@@ -2417,7 +2487,7 @@
 			"type": "Creature — Hippo Pangolin",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/241.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/241.png"
 			}
 		},
 		{
@@ -2427,7 +2497,7 @@
 			"type": "Legendary Artifact Creature — God",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/242.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/242.png"
 			}
 		},
 		{
@@ -2437,7 +2507,7 @@
 			"type": "Creature — Elemental Salamander",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/243.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/243.png"
 			}
 		},
 		{
@@ -2447,7 +2517,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/244.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/244.png"
 			}
 		},
 		{
@@ -2457,7 +2527,7 @@
 			"type": "Creature — Pest",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/245.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/245.png"
 			}
 		},
 		{
@@ -2467,7 +2537,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/246.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/246.png"
 			}
 		},
 		{
@@ -2477,7 +2547,7 @@
 			"type": "Artifact",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/247.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/247.png"
 			}
 		},
 		{
@@ -2487,7 +2557,7 @@
 			"type": "Enchantment",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/248.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/248.png"
 			}
 		},
 		{
@@ -2497,7 +2567,7 @@
 			"type": "Creature — Elemental Kraken",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/249.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/249.png"
 			}
 		},
 		{
@@ -2507,7 +2577,7 @@
 			"type": "Creature — Fungus Crab",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/250.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/250.png"
 			}
 		},
 		{
@@ -2517,7 +2587,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/251.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/251.png"
 			}
 		},
 		{
@@ -2527,7 +2597,7 @@
 			"type": "Creature — Jellyfish Beast",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/252.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/252.png"
 			}
 		},
 		{
@@ -2537,7 +2607,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/253.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/253.png"
 			}
 		},
 		{
@@ -2547,7 +2617,7 @@
 			"type": "Artifact — Incubator",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/254.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/254.png"
 			}
 		},
 		{
@@ -2557,7 +2627,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/255.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/255.png"
 			}
 		},
 		{
@@ -2567,7 +2637,7 @@
 			"type": "Creature — Fungus Worm",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/256.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/256.png"
 			}
 		},
 		{
@@ -2577,7 +2647,7 @@
 			"type": "Creature — Plant Dinosaur Starfish",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/257.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/257.png"
 			}
 		},
 		{
@@ -2587,7 +2657,7 @@
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/258.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/258.png"
 			}
 		},
 		{
@@ -2597,7 +2667,7 @@
 			"type": "Legendary Artifact Creature — God",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/259.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/259.png"
 			}
 		},
 		{
@@ -2607,7 +2677,7 @@
 			"type": "Enchantment",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/260.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/260.png"
 			}
 		},
 		{
@@ -2617,7 +2687,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/261.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/261.png"
 			}
 		},
 		{
@@ -2627,7 +2697,7 @@
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/262.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/262.png"
 			}
 		},
 		{
@@ -2637,7 +2707,7 @@
 			"type": "Creature — Shrimp",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/263.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/263.png"
 			}
 		},
 		{
@@ -2647,7 +2717,7 @@
 			"type": "Artifact Creature — Germ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/264.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/264.png"
 			}
 		},
 		{
@@ -2657,7 +2727,7 @@
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/265.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/265.png"
 			}
 		},
 		{
@@ -2667,7 +2737,7 @@
 			"type": "Creature — Plant Fungus",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/266.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/266.png"
 			}
 		},
 		{
@@ -2677,7 +2747,7 @@
 			"type": "Creature — Snail Hydra",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/267.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/267.png"
 			}
 		},
 		{
@@ -2687,7 +2757,7 @@
 			"type": "Creature — Elemental Insect",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/268.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/268.png"
 			}
 		},
 		{
@@ -2697,7 +2767,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/269.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/269.png"
 			}
 		},
 		{
@@ -2707,7 +2777,7 @@
 			"type": "Legendary Planeswalker — Qsasaq",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/270.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/270.png"
 			}
 		},
 		{
@@ -2717,7 +2787,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/271.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/271.png"
 			}
 		},
 		{
@@ -2727,7 +2797,7 @@
 			"type": "Enchantment",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/272.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/272.png"
 			}
 		},
 		{
@@ -2737,7 +2807,7 @@
 			"type": "Legendary Planeswalker — Valrain",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/273.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/273.png"
 			}
 		},
 		{
@@ -2747,7 +2817,7 @@
 			"type": "Artifact Creature — Dreadnought",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/274.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/274.png"
 			}
 		},
 		{
@@ -2757,7 +2827,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/275.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/275.png"
 			}
 		},
 		{
@@ -2767,7 +2837,7 @@
 			"type": "Artifact Creature — Drone Ship",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/276.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/276.png"
 			}
 		},
 		{
@@ -2777,7 +2847,7 @@
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/277.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/277.png"
 			}
 		},
 		{
@@ -2787,7 +2857,7 @@
 			"type": "Land — Animus",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/278.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/278.png"
 			}
 		},
 		{
@@ -2797,7 +2867,7 @@
 			"type": "Land — Animus",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/279.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/279.png"
 			}
 		},
 		{
@@ -2807,7 +2877,7 @@
 			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/280.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/280.png"
 			}
 		},
 		{
@@ -2817,7 +2887,7 @@
 			"type": "Land — Animus",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/281.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/281.png"
 			}
 		},
 		{
@@ -2827,7 +2897,7 @@
 			"type": "Land — Animus",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/282.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/282.png"
 			}
 		},
 		{
@@ -2837,7 +2907,7 @@
 			"type": "Land — Animus",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/283.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/283.png"
 			}
 		},
 		{
@@ -2847,7 +2917,7 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/284.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/284.png"
 			}
 		},
 		{
@@ -2857,7 +2927,7 @@
 			"type": "Land",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/285.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/285.png"
 			}
 		},
 		{
@@ -2866,18 +2936,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Drone",
 			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/286_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/286.png"
-			}
-		},
-		{
-			"name": "Soulkeeper Drone",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/287.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/286_front.png"
 			}
 		},
 		{
@@ -2886,18 +2953,15 @@
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Rat",
 			"collector_number": "120",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/288_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/288.png"
-			}
-		},
-		{
-			"name": "Preserved Elder",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Artifact Creature — Zombie Rat",
-			"collector_number": "120",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/289.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/288_front.png"
 			}
 		},
 		{
@@ -2906,18 +2970,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "178",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/290_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/290.png"
-			}
-		},
-		{
-			"name": "Seedborn Behemoth",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Creature — Plant Elemental",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/291.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/290_front.png"
 			}
 		},
 		{
@@ -2926,18 +2987,15 @@
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Spirit Construct",
 			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/292_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/292.png"
-			}
-		},
-		{
-			"name": "Unbound Overseer",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Artifact Creature — Spirit",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/293.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/292_front.png"
 			}
 		},
 		{
@@ -2946,18 +3004,15 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "166",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/294_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/294.png"
-			}
-		},
-		{
-			"name": "Fissure Titan",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Creature — Elemental",
-			"collector_number": "166",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/295.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/294_front.png"
 			}
 		},
 		{
@@ -2966,18 +3021,15 @@
 			"mana_cost": "{2}{R}",
 			"type": "Battle — Niche",
 			"collector_number": "170",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/296_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/296.png"
-			}
-		},
-		{
-			"name": "Jagged Fangs",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "170",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/297.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/296_front.png"
 			}
 		},
 		{
@@ -2986,18 +3038,15 @@
 			"mana_cost": "{3}{G}",
 			"type": "Battle — Niche",
 			"collector_number": "177",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/298_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/298.png"
-			}
-		},
-		{
-			"name": "Immense Size",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "177",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/299.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/298_front.png"
 			}
 		},
 		{
@@ -3006,18 +3055,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Battle — Niche",
 			"collector_number": "93",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/300_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/300.png"
-			}
-		},
-		{
-			"name": "Hardy Gut",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/301.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/300_front.png"
 			}
 		},
 		{
@@ -3026,18 +3072,15 @@
 			"mana_cost": "{3}{U}",
 			"type": "Battle — Niche",
 			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/302_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/302.png"
-			}
-		},
-		{
-			"name": "Skyborne Maw",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/303.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/302_front.png"
 			}
 		},
 		{
@@ -3046,18 +3089,15 @@
 			"mana_cost": "{2}{W}",
 			"type": "Battle — Niche",
 			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/304_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/304.png"
-			}
-		},
-		{
-			"name": "Networked Pheromones",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/305.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/304_front.png"
 			}
 		},
 		{
@@ -3066,18 +3106,15 @@
 			"mana_cost": "{2}{U}",
 			"type": "Battle — Niche",
 			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/306_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/306.png"
-			}
-		},
-		{
-			"name": "Arcane Senses",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/307.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/306_front.png"
 			}
 		},
 		{
@@ -3086,18 +3123,15 @@
 			"mana_cost": "{3}{B}",
 			"type": "Battle — Niche",
 			"collector_number": "115",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/308_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/308.png"
-			}
-		},
-		{
-			"name": "Grasping Claws",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "115",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/309.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/308_front.png"
 			}
 		},
 		{
@@ -3106,18 +3140,15 @@
 			"mana_cost": "{3}{R}",
 			"type": "Battle — Niche",
 			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/310_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/310.png"
-			}
-		},
-		{
-			"name": "Ashen Carapace",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/311.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/310_front.png"
 			}
 		},
 		{
@@ -3126,18 +3157,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Battle — Niche",
 			"collector_number": "212",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/312_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/312.png"
-			}
-		},
-		{
-			"name": "Morphic Hide",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "212",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/313.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/312_front.png"
 			}
 		},
 		{
@@ -3146,18 +3174,15 @@
 			"mana_cost": "{3}{W}",
 			"type": "Battle — Niche",
 			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/314_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/314.png"
-			}
-		},
-		{
-			"name": "Caste Division",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/315.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/314_front.png"
 			}
 		},
 		{
@@ -3166,118 +3191,15 @@
 			"mana_cost": "",
 			"type": "Land — Esyra",
 			"collector_number": "273",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://parasign-0.github.io/sets/EVO-files/img/316_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/316.png"
-			}
-		},
-		{
-			"name": "Ecumenosophic Emergence",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/317.png"
-			}
-		},
-		{
-			"name": "Warding Glands",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/318.png"
-			}
-		},
-		{
-			"name": "Spellcharged Circuitry",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/319.png"
-			}
-		},
-		{
-			"name": "Infectious Spores",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "98",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/320.png"
-			}
-		},
-		{
-			"name": "Hypersonic Limbs",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "156",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/321.png"
-			}
-		},
-		{
-			"name": "Signal Stripes",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/322.png"
-			}
-		},
-		{
-			"name": "Superorganism",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "221",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/323.png"
-			}
-		},
-		{
-			"name": "Lethal Stinger",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "241",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/324.png"
-			}
-		},
-		{
-			"name": "Rapid Reproduction",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/325.png"
-			}
-		},
-		{
-			"name": "Tireless Wings",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "230",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/326.png"
-			}
-		},
-		{
-			"name": "Psychromatophores",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Enchantment — Adaptation",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/327.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/316_front.png"
 			}
 		},
 		{
@@ -3287,7 +3209,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/328.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/328.png"
 			}
 		},
 		{
@@ -3297,7 +3219,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/329.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/329.png"
 			}
 		},
 		{
@@ -3307,7 +3229,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/330.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/330.png"
 			}
 		},
 		{
@@ -3317,7 +3239,7 @@
 			"type": "Token Artifact Creature — Germ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/331.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/331.png"
 			}
 		},
 		{
@@ -3327,7 +3249,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Parasign-0.github.io/sets/EVO-files/img/332.png"
+				"en": "https://parasign-0.github.io/sets/EVO-files/img/332.png"
 			}
 		}
 	]
@@ -3424,17 +3346,6 @@
 	5 The Origin Caves
 	5 Unstable Terrain
 	5 Esyra, the Cancerous City
-	5 Ecumenosophic Emergence
-	5 Warding Glands
-	5 Spellcharged Circuitry
-	5 Infectious Spores
-	5 Hypersonic Limbs
-	5 Signal Stripes
-	5 Superorganism
-	5 Lethal Stinger
-	5 Rapid Reproduction
-	5 Tireless Wings
-	5 Psychromatophores
 [uncommon(3)]
 	5 District Sower
 	5 Colonial Siphoner
@@ -3517,25 +3428,15 @@
 	5 Nanogene Thief
 	5 Detritus Hoarder
 	5 Violent Predation
-	5 Jagged Fangs
 	5 Canopy Grazing
-	5 Immense Size
 	5 Carrion Scrounging
-	5 Hardy Gut
 	5 Cloudkrill Filtering
-	5 Skyborne Maw
 	5 Drone Herding
-	5 Networked Pheromones
 	5 Mana Siphoning
-	5 Arcane Senses
 	5 Nest Raiding
-	5 Grasping Claws
 	5 Wildfire Succession
-	5 Ashen Carapace
 	5 Undergrowth Mimicry
-	5 Morphic Hide
 	5 Cooperative Labor
-	5 Caste Division
 [common(10)]
 	5 Growing Hunger
 	5 Prophetic Prism
@@ -3638,13 +3539,8 @@
 	5 Tropical Laminopod
 	5 Ancient Relic
 	5 Surgical Drone
-	5 Soulkeeper Drone
 	5 Resourceful Vermin
-	5 Preserved Elder
 	5 Ceaseless Exploration
-	5 Seedborn Behemoth
 	5 Doomed Vessel
-	5 Unbound Overseer
 	5 Tectonic Drift
-	5 Fissure Titan
 	5 Autonomous Defenses

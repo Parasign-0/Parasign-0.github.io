@@ -1,4 +1,640 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Soulkeeper Drone removed.
+Preserved Elder removed.
+Seedborn Behemoth removed.
+Unbound Overseer removed.
+Fissure Titan removed.
+Jagged Fangs removed.
+Immense Size removed.
+Hardy Gut removed.
+Skyborne Maw removed.
+Networked Pheromones removed.
+Arcane Senses removed.
+Grasping Claws removed.
+Ashen Carapace removed.
+Morphic Hide removed.
+Caste Division removed.
+Ecumenosophic Emergence removed.
+Warding Glands removed.
+Spellcharged Circuitry removed.
+Infectious Spores removed.
+Hypersonic Limbs removed.
+Signal Stripes removed.
+Superorganism removed.
+Lethal Stinger removed.
+Rapid Reproduction removed.
+Tireless Wings removed.
+Psychromatophores removed.
+
+Drone
+
+Spirit
+
+Leech
+
+Esyra
+
+Starfish
+
+Egg
+
+Sand Illusion
+
+Insect
+
+Elemental
+
+Territory Defense
+
+Capsule Diving
+
+Corpse Puppeteering
+
+Pursuit Predation
+
+Titan Cleaning
+
+Colonial Absorption
+
+Migratory Flocking
+
+Pioneering Succession
+
+Psionic Tracking
+
+Toxin Ingestion
+
+Growing Hunger
+
+Prophetic Prism
+
+District Sower
+
+Titanic Rover
+
+Colonial Siphoner
+
+Churn of Eons
+
+Awakener Gremlin
+
+Hollow Stiltwalker
+
+Shattered Vestige
+
+Drift Away
+
+Fungal Symbiont
+
+Nectarpot Grub
+
+Outcompete
+
+Feral Hunter-Killer
+
+Integrated Armory
+
+Endless Path
+
+Treasure Hunt
+
+Genetic Scavenger
+
+Drowning in Tar
+
+Distant Horizons
+
+Memories of Extinction
+
+Rapid Assimilation
+
+Improbable Survival
+
+Perilous Descent
+
+Pitfall Excavator
+
+Afflicted Sanguivore
+
+Tanglepod Larva
+
+Spectral Pursuit
+
+Symbiotic Tactics
+
+Silicate Predator
+
+Deconstructor Swarm
+
+Harsh Conditions
+
+Oceanic Monstrosity
+
+Hydrolancer
+
+Phase Stalker
+
+Out of Sync
+
+Relentless Rover
+
+Blight Gorger
+
+Culling Drone
+
+Vestige of Calamity
+
+Bloodstalker Pack
+
+Twisted Amalgam
+
+Unnatural Preservation
+
+Peroxide Spitter
+
+Boomcroak Alpha
+
+Rockslide Hellion
+
+Voracite Swarm
+
+Curious Rover
+
+Burn Fuel
+
+Contest Dominance
+
+Atomic Brute
+
+Vengeant Earth
+
+Flourishing Leylith
+
+Harvest Drone
+
+Colossal Ancient
+
+Earth Weaver
+
+Brooding Terraloth
+
+Valrain's Journal
+
+Synthfruit Grove
+
+Towering Mechanoid
+
+Virulent Cancrin
+
+Territorial Bellower
+
+Stampeding Thunderbeest
+
+Greater Fleshdrinker
+
+Fledgling Amphipteron
+
+Evolving Wilds
+
+Xerid Sentry
+
+Blighted Hulk
+
+Thirst for Insight
+
+Ravenous Hunter
+
+Goliath Hydra
+
+Shore Drinker
+
+Skyline Sentinel
+
+Shrieking Detritivore
+
+Fused Chimera
+
+Rumbling Scalecrusher
+
+Fuelport Drone
+
+Bombardment Drone
+
+Lithoid Prowler
+
+Adaptive Assimilator
+
+Relic Trawler
+
+Awakened Behemoth
+
+Fruiting Chorus
+
+Trumpeting Sphenax
+
+Cloud of Wreckage
+
+Magnetic Sandshaper
+
+Unexpected Windfall
+
+Deepwell Time Capsule
+
+Esyra's Claim
+
+Nanite Colony
+
+Nanogene Repository
+
+Dweller in Emptiness
+
+Placid Sailfan
+
+Timely Culling
+
+Nesting Twinstalk
+
+Conductive Lithoid
+
+Fogspore Behemoth
+
+Engulfing Crystalreef
+
+Intestinal Scourge
+
+Polymorphic Seedprobe
+
+Meandering Greatwurm
+
+Unburied Secrets
+
+Sedimentary Symbiont
+
+Troodroid Pack
+
+Sensory Synergy
+
+False Ectomorph
+
+Bloodline's End
+
+Pollution Spray
+
+Caught in Amber
+
+Spawnsac Mutualist
+
+Microbiome Igniter
+
+Buried Cache
+
+Grow Over
+
+Factoruminant
+
+Honed Razorpede
+
+Segment Migration
+
+Atavistic Rebirth
+
+Fractal Fission
+
+Coiling Omnivore
+
+Cerebral Parasite
+
+Overgrown Rustshell
+
+Mutagenic Orb
+
+Sawtooth Hellion
+
+Tantalizing Dreadfruit
+
+Archipelago Drake
+
+Converted Terraformer
+
+Ocean Purifier
+
+Segment Prospector
+
+Segment Collapse
+
+Dwindling Oasis
+
+Treasure
+
+Eerie Stillness
+
+Devastation Engine
+
+Maintenance Drone
+
+Selective Pressure
+
+Reactor Forger
+
+Acclimate
+
+Esyra Outskirts
+
+Competitive Release
+
+Lush Meadowback
+
+Larva Injector
+
+Stoneguide Skycoil
+
+Bulky Ramshell
+
+Glaciation Event
+
+Territorial Encroachment
+
+Meteorite Impact
+
+Voracious Grazer
+
+Metamorphic Ambush
+
+Ocuhive Sentry
+
+Consuming Swarm
+
+Stereohawk
+
+Drifting Pollinator
+
+Cavernmaw Whelp
+
+Tundra Surveyor
+
+Collapse
+
+Diving Neocete
+
+Preserved in Ice
+
+Fierce Skunkraptor
+
+Ion Cruiser
+
+Networked Eurypterid
+
+Nomadic Pylon
+
+Infected Biome
+
+Moor Segment
+
+Ocean Segment
+
+Prairie Segment
+
+Ridge Segment
+
+Timber Segment
+
+Eerie Citadel
+
+Looming Pinnacle
+
+Secluded Refuge
+
+Toxic Mire
+
+Bubbling Lagoon
+
+Malignant Necrowar
+
+Whalefall Delver
+
+Nascent Apex
+
+Momentary Breakdown
+
+Insatiable Voidtongue
+
+Nanogene Thief
+
+Tropical Laminopod
+
+Ancient Relic
+
+Construct
+
+Detritus Hoarder
+
+Riv-Tsu, Relieved of Duty
+
+Bitter Freedom
+
+Dwai-En, Acedi of Skies
+
+Horizon Eater
+
+Infested Bractoderm
+
+Ingenious Mimic
+
+Kin Selection
+
+Nanosynthesis
+
+Perfect Harmony
+
+Bristling Raptorfly
+
+Stratosphere Tyrant
+
+Xenowomb
+
+Chirality Shifter
+
+Competitive Exclusion
+
+Convergent Evolution
+
+Eclipsewing
+
+Infused Tardigrade
+
+Mobile Nanohive
+
+Perfect Mimic
+
+Resource Partitioning
+
+Transcription Error
+
+Wayfaring Continent
+
+Zun-Re, Acedi of Seas
+
+Bonesifter Yeti
+
+Deepwell Protocol
+
+Endling's Despair
+
+Extinction Event
+
+Extravagant Welcome
+
+Living Pandemic
+
+Mol-Geb, Acedi of Soil
+
+Nanoviral Sarcoma
+
+Cordycelium Host
+
+Key Innovation
+
+Reality Dissolver
+
+Catastrophic Climax
+
+Erosion Gnawer
+
+Hosh-Kwa, Acedi of Pressure
+
+Lithosphere Shaker
+
+Population Boom
+
+Nimble Opportunist
+
+Preconscious Breakthrough
+
+Rebooted Satellite
+
+Struggle to Adapt
+
+Segment Devourer
+
+Ultaneid Hatch
+
+Abiogenesis
+
+Common Ancestor
+
+Meet in the Depths
+
+Nanite Incubator
+
+Omniplasm
+
+Pathkeeper
+
+Primordial Witness
+
+Recapitulate Phylogeny
+
+Riv-Tsu, Acedi of Growth
+
+Unrestrained Expansion
+
+Epicenter Wurm
+
+Adaptive Radiation
+
+Atrophied Solipsist
+
+Enduring Nanoswarm
+
+Evolving Architecture
+
+Fecund Sporophyte
+
+Leyline Gorger
+
+Lithoid Queen
+
+Overcharged Stormkite
+
+Qsasaq, Bioweapon Maker
+
+Glasstorque Duo
+
+Shadow Biosphere
+
+Valrain, Lost in Eternity
+
+Climax of Evolution
+
+Esyra's Heart
+
+Orbital Cruiser
+
+Hyperadapter
+
+Apex Predator
+
+Bog Body
+
+The Chassis of Srai-Val-Nul
+
+Crescent-Web Recluse
+
+Heaving Shoal
+
+Mesohyl Drift
+
+The Origin Caves
+
+Unstable Terrain
+
+Surgical Drone
+
+Resourceful Vermin
+
+Ceaseless Exploration
+
+Doomed Vessel
+
+Tectonic Drift
+
+Violent Predation
+
+Canopy Grazing
+
+Carrion Scrounging
+
+Cloudkrill Filtering
+
+Drone Herding
+
+Mana Siphoning
+
+Nest Raiding
+
+Wildfire Succession
+
+Undergrowth Mimicry
+
+Cooperative Labor
+
+Esyra, the Cancerous City
+
+Beast
+
+Ooze
+
+Saproling
+
+Germ
+
+Autonomous Defenses
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Territory Defense added.
