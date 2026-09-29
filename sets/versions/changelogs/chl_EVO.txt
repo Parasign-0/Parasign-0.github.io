@@ -1,4 +1,144 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Sediment Winder added.
+Pitborn Amalgam added.
+Avalanche Bulvox added.
+
+Blight Gorger removed.
+Twisted Amalgam removed.
+Sawtooth Hellion removed.
+
+Capsule Diving
+
+Colonial Absorption
+
+Migratory Flocking
+
+Psionic Tracking
+
+Improbable Survival
+
+Pitfall Excavator
+rules_text: Vigilance
+Whenever Pitfall Excavator enters or attacks, tap target creature an opponent controls. => Vigilance
+Whenever Pitfall Excavator enters or you cycle it, tap target creature an opponent controls.
+Cycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]
+
+Afflicted Sanguivore
+
+Tanglepod Larva
+
+Deconstructor Swarm
+rules_text: [i]Ecosystem[/i] — When Deconstructor Swarm enters, tap target creature an opponent controls. Put a stun counter on it for each different power among creatures you control. => When Deconstructor Swarm enters or you cycle it, creatures your opponents control get -2/-0 until end of turn.
+Cycling {3}{U} [i]({3}{U}, Discard this card: Draw a card.)[/i]
+pt: 4/3 => 6/6
+
+Harsh Conditions
+cost: {3}{U} => {1}{U}
+rules_text: Tap up to two target creatures. For each of them, put your choice of a stun counter or a +1/+1 counter on it.
+Draw a card. => Tap target creature and put a stun counter on it. If you control that creature, also put two +1/+1 counters on it.
+Draw a card.
+
+Bloodstalker Pack
+rules_text: Menace
+When Bloodstalker Pack enters, destroy target creature an opponent controls that was dealt damage this turn. => Menace
+When Bloodstalker Pack enters or you cycle it, destroy target creature an opponent controls that was dealt damage this turn.
+Cycling {2}{B} [i]({2}{B}, Discard this card: Draw a card.)[/i]
+
+Colossal Ancient
+rules_text: Trample
+When Colossal Ancient enters or dies, you gain 4 life. => Trample
+When Colossal Ancient enters or you cycle it, you gain 4 life.
+Cycling {3}{G} [i]({3}{G}, Discard this card: Draw a card.)[/i]
+
+Unburied Secrets
+
+Pollution Spray
+
+Microbiome Igniter
+type: Creature — Elemental Insect => Creature — Elemental Lizard
+
+Honed Razorpede
+
+Atomic Brute
+cost: {4}{R}{R} => {2}{R}
+rules_text: Trample, haste => Trample
+{3}{R}, Discard a card: Draw a card and put a +1/+1 counter on Atomic Brute.
+pt: 5/5 => 3/2
+
+Devastation Engine
+
+Esyra Outskirts
+rules_text: Esyra Outskirts enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{2}, {T}, Sacrifice a non-Esyra land: Destroy target land an opponent controls. You and that player each create a tapped colorless Esyra land token with “{T}, Pay 1 life: Add one mana of any color.” => Esyra Outskirts enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{2}, {T}, Sacrifice a non-Esyra land: Draw a card, then discard a card. Create a tapped colorless Esyra land token with “{T}, Pay 1 life: Add one mana of any color.”
+
+Competitive Release
+
+Stoneguide Skycoil
+
+Glaciation Event
+
+Territorial Encroachment
+cost: {2}{B} => {3}{B}
+rules_text: [i]Ecosystem[/i] — Repeat the following process once for each different power among creatures you control. Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card. => Destroy target creature. Other creatures with the same controller get -1/-1 until end of turn.
+
+Drifting Pollinator
+type: Creature — Insect Jellyfish => Creature — Jellyfish Mite
+
+Dwai-En, Acedi of Skies
+
+Nanosynthesis
+
+Xenowomb
+rules_text: Defender
+Whenever you attack, create a tapped and attacking X/X red Elemental creature token, where X is the least power greater than 0 that isn't among attacking creatures you control. => [i]Ecosystem[/i] — Whenever you attack, create a tapped and attacking X/X red Elemental creature token, where X is the number of different powers among attacking creatures.
+
+Wayfaring Continent
+
+Zun-Re, Acedi of Seas
+
+Deepwell Protocol
+
+Endling's Despair
+
+Extinction Event
+
+Nanoviral Sarcoma
+
+Erosion Gnawer
+
+Lithosphere Shaker
+
+Preconscious Breakthrough
+
+Struggle to Adapt
+
+Segment Devourer
+
+Abiogenesis
+
+Pathkeeper
+
+Recapitulate Phylogeny
+
+Riv-Tsu, Acedi of Growth
+
+Climax of Evolution
+
+The Chassis of Srai-Val-Nul
+
+Mana Siphoning
+
+Undergrowth Mimicry
+
+Esyra, the Cancerous City
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

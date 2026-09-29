@@ -260,14 +260,14 @@
             "alias2": "",
             "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nOnce each turn, you may cast a spell from your hand that targets adapted creature without paying its mana cost.",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "landslot\n\n!tag draw\n!tag mana-cheating\nlandslot"
         },
         {
             "card_name": "Corpse Puppeteering",
             "color": "B",
             "rarity": "rare",
             "type": "Battle \u2014 Niche",
-            "number": 98,
+            "number": 97,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "[i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]\nWhen Corpse Puppeteering enters, put target creature card from a graveyard onto the battlefield under your control.",
@@ -300,7 +300,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Battle \u2014 Niche",
-            "number": 156,
+            "number": 157,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "[i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]\nWhen Pursuit Predation enters, after this main phase, there is an additional combat phase. At the beginning of each combat this turn, untap all creatures that attacked this turn.",
@@ -392,7 +392,7 @@
             "alias2": "",
             "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +10/+10.\nIf adapted creature would be destroyed, instead remove all damage from it and destroy Superorganism.",
             "rotated": true,
-            "notes": "landslot\n"
+            "notes": "landslot\n\nTODO, before FT: Buff? (3GW -> 2GW?)\n"
         },
         {
             "card_name": "Migratory Flocking",
@@ -425,7 +425,7 @@
             "alias2": "",
             "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nAdapted creature gets +2/+0 and has flying and \u201cWhen this creature dies, return it to its owner's hand.\u201d",
             "rotated": true,
-            "notes": "landslot\n"
+            "notes": "landslot\n\nALTERNATE: \"two\" -> \"two other\"?\n"
         },
         {
             "card_name": "Pioneering Succession",
@@ -491,7 +491,7 @@
             "alias2": "",
             "rules_text3": "[i](If an Adaptation isn't attached to a creature, you may attach it to a creature you control as a sorcery.)[/i]\nExile three cards from your graveyard: Put a counter of your choice on adapted creature from among flying, deathtouch, lifelink, and +1/+1.",
             "rotated": true,
-            "notes": "landslot\n"
+            "notes": "landslot\n\n!tag value-threat\n!tag cantrip\n"
         },
         {
             "card_name": "Toxin Ingestion",
@@ -636,7 +636,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 95,
+            "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Mill two cards, then you may return a creature or land card from your graveyard to your hand.\nDraw a card.",
@@ -657,7 +657,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Gremlin",
-            "number": 131,
+            "number": 132,
             "color_identity": "R",
             "cost": "{X}{R}",
             "rules_text": "When Awakener Gremlin enters, create a tapped X/X red Elemental creature token.",
@@ -678,7 +678,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Zombie",
-            "number": 106,
+            "number": 105,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "{1}{B}, Sacrifice another creature: You gain life equal to that creature's toughness. Draw a card. Activate only as a sorcery.",
@@ -783,7 +783,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 152,
+            "number": 153,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "[i][i]Ecosystem[/i] [/i]\u2014 Outcompete deals X damage to target creature, where X is 1 plus the number of different powers among creatures you control. If that creature would die this turn, exile it instead.",
@@ -888,7 +888,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Leech Horror",
-            "number": 105,
+            "number": 104,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "{2}{B}, Exile two cards from your graveyard: Put a counter of your choice on Genetic Scavenger from among menace, lifelink, and +1/+1.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
@@ -909,7 +909,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 101,
+            "number": 100,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Enchant creature\nWhen Drowning in Tar enters, remove all counters from enchanted creature.\nEnchanted creature gets -1/-1 and has \u201cAt the beginning of your end step, sacrifice this creature.\u201d",
@@ -951,7 +951,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 112,
+            "number": 111,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "At the beginning of your upkeep, you may pay 1 life and exile two cards from your graveyard. If you do, create a 1/1 white Spirit creature token with flying.",
@@ -1007,7 +1007,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "TODO: Add FT\n\nOrphaned FT: Without the wurms, entire segments would suffer ecological collapse.\n\nRemove slot temporarily?\n\nALTERNATE: Metastatic Sprawl 2G\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT: Put a +1/+1 counter on target creature that entered this turn.\u201d"
+            "notes": "TODO: Add FT\n\nOrphaned FT: Without the wurms, entire segments would suffer ecological collapse.\n\nALTERNATE: Metastatic Sprawl 2G\nWhen CARDNAME enters, create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT: Put a +1/+1 counter on target creature that entered this turn.\u201d"
         },
         {
             "card_name": "Perilous Descent",
@@ -1038,8 +1038,8 @@
             "number": 30,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Vigilance\nWhenever Pitfall Excavator enters or attacks, tap target creature an opponent controls.",
-            "flavor_text": "[i]\u201cLesser planes attract conscious will like worms to a carcass. Here I may at last find what devices natural selection engineers when left to its own.\u201d\n\u2014Qsasaq[/i]",
+            "rules_text": "Vigilance\nWhenever Pitfall Excavator enters or you cycle it, tap target creature an opponent controls.\nCycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
             "shape": "normal",
@@ -1049,7 +1049,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "ALTERNATE: Nonartifact creature, change name/art/type?\n\nALTERNATE 2: \"or attacks\" -> \"or you cycle it\", cycling 2W?"
+            "notes": "CHANGELOG: \"or attacks\" -> \"or you cycle it\", cycling 2W\n\nALTERNATE: Nonartifact creature, change name/art/type?\n"
         },
         {
             "card_name": "Afflicted Sanguivore",
@@ -1060,7 +1060,7 @@
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Lifelink\nWhenever you spend mana to activate an ability, Afflicted Sanguivore gets +1/+1 until end of turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cReminder: Don't get eaten. Not pleasant.\u201d\n\u2014Valrain, journal entry[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -1070,7 +1070,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "TODO: Add FT"
+            "notes": ""
         },
         {
             "card_name": "Tanglepod Larva",
@@ -1081,7 +1081,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{1}{W}, {T}: Tap target creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cLesser planes attract conscious will like worms to a carcass. Here I may at last find what devices natural selection engineers when left to its own.\u201d\n\u2014Qsasaq[/i]",
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
@@ -1091,7 +1091,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "TODO: Add FT\n\nALTERNATE: Artifact creature, change name/art/type?"
+            "notes": "ALTERNATE: Artifact creature, change name/art/type?"
         },
         {
             "card_name": "Spectral Pursuit",
@@ -1164,9 +1164,9 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "[i]Ecosystem[/i] \u2014 When Deconstructor Swarm enters, tap target creature an opponent controls. Put a stun counter on it for each different power among creatures you control.",
+            "rules_text": "When Deconstructor Swarm enters or you cycle it, creatures your opponents control get -2/-0 until end of turn.\nCycling {3}{U} [i]({3}{U}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
@@ -1175,7 +1175,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "TODO: Add FT\n\nALTERNATE: 4/3 -> 4/4 OR 5/3?\n\nALTERNATE 2: 3UU\nWhenever CARDNAME attacks, target player mills a card for each creature in your ecosystem.\n3: Put target card in a graveyard on the bottom of its owner's library.\n4/5\n\nALTERNATE 3: 3UU\nWhen CARDNAME enters, creatures your opponents control get -1/-0 until end of turn for each creature in your ecosystem.\n5/5\n\nALTERNATE 4: 3UU\nWhenever CARDNAME attacks, target creature an opponent controls gets -1/-0 until end of turn for each creature in your ecosystem.\n5/5"
+            "notes": "CHANGELOG: 4/3 -> 6/6, tap and stun based off ecosystem -> uncomfortable chill, cycling 3U\n\nTODO: Add FT\n\nALTERNATE: Revert change, 4/3 -> 4/4 OR 5/3?\n\nALTERNATE 2: 3UU\nWhenever CARDNAME attacks, target player mills a card for each creature in your ecosystem.\n3: Put target card in a graveyard on the bottom of its owner's library.\n4/5\n\nALTERNATE 3: 3UU\nWhen CARDNAME enters, creatures your opponents control get -1/-0 until end of turn for each creature in your ecosystem.\n5/5\n\nALTERNATE 4: 3UU\nWhenever CARDNAME attacks, target creature an opponent controls gets -1/-0 until end of turn for each creature in your ecosystem.\n5/5\n\nALTERNATE 5: 4UU\nWhen CARDNAME enters or you cycle it, tap target creature an opponent controls and put a stun counter on it.\nCycling 2U\n5/4"
         },
         {
             "card_name": "Harsh Conditions",
@@ -1184,8 +1184,8 @@
             "type": "Sorcery",
             "number": 60,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "Tap up to two target creatures. For each of them, put your choice of a stun counter or a +1/+1 counter on it.\nDraw a card.",
+            "cost": "{1}{U}",
+            "rules_text": "Tap target creature and put a stun counter on it. If you control that creature, also put two +1/+1 counters on it.\nDraw a card.",
             "flavor_text": "[i]When winter brings cold air from the desolate outer rim of Srai-Val-Nul, border-life is faced with two options: hibernate, or endure.[/i]",
             "pt": "",
             "special_text": "",
@@ -1196,7 +1196,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "CHANGELOG: 3U -> 1U, only one target, +1/+1 mode now +2/+2 and stun"
         },
         {
             "card_name": "Oceanic Monstrosity",
@@ -1304,32 +1304,32 @@
             "notes": ""
         },
         {
-            "card_name": "Blight Gorger",
+            "card_name": "Sediment Winder",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
-            "number": 88,
+            "type": "Creature \u2014 Serpent",
+            "number": 121,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on target creature.",
-            "flavor_text": "[i]\u201cOne day, this world will die. I dread what may happen if I outlive it.\u201d\n\u2014Valrain, journal entry[/i]",
+            "flavor_text": "[i]They lie in ambush at the banks of murky rivers, pulling careless land-dwellers into the water and waiting for them to drown.[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
-            "artist": "Sandeep Karunakaran",
+            "artist": "Stray Studios",
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "Replace art"
+            "notes": "Replace art?"
         },
         {
             "card_name": "Culling Drone",
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Drone",
-            "number": 99,
+            "number": 98,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When Culling Drone enters, target opponent sacrifices a creature with the same power as another creature they control.",
@@ -1371,11 +1371,11 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Dog",
-            "number": 91,
+            "number": 90,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Menace\nWhen Bloodstalker Pack enters, destroy target creature an opponent controls that was dealt damage this turn.",
-            "flavor_text": "[i]\u201cReminder: Don't get eaten. Not pleasant.[/i]\u201d\n[i]\u2014Valrain, journal entry[/i]",
+            "rules_text": "Menace\nWhen Bloodstalker Pack enters or you cycle it, destroy target creature an opponent controls that was dealt damage this turn.\nCycling {2}{B} [i]({2}{B}, Discard this card: Draw a card.)[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -1385,14 +1385,14 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "ALTERNATE: \"enters\" -> \"enters or you cycle it\", cycling 2B?"
+            "notes": "CHANGELOG: \"enters\" -> \"enters or you cycle it\", cycling 2B"
         },
         {
-            "card_name": "Twisted Amalgam",
+            "card_name": "Pitborn Amalgam",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Horror",
-            "number": 125,
+            "number": 116,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Whenever a creature you control with a counter on it dies, draw a card.",
@@ -1434,7 +1434,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Insect",
-            "number": 153,
+            "number": 154,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "{1}, {T}, Discard a card: Peroxide Spitter deals 1 damage to target opponent or battle. Draw a card.",
@@ -1455,7 +1455,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Frog Beast",
-            "number": 132,
+            "number": 133,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "[i]Ecosystem[/i] \u2014 When Boomcroak Alpha enters, it deals damage to any target equal to the number of different powers among creatures you control.",
@@ -1476,7 +1476,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Hellion",
-            "number": 159,
+            "number": 160,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "{3}{R}: Target creature can't block this turn.",
@@ -1518,7 +1518,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Drone",
-            "number": 139,
+            "number": 140,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Whenever you spend mana to activate an ability, Curious Rover gets +1/+1 until end of turn.",
@@ -1539,7 +1539,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 134,
+            "number": 135,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Target creature gets +2/+1 until end of turn. Put a +1/+1 counter and a trample counter on it.",
@@ -1560,7 +1560,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 138,
+            "number": 139,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nCycling {R} [i]({R}, Discard this card: Draw a card.)[/i]",
@@ -1577,25 +1577,25 @@
             "notes": "CHANGELOG: Cycling 2 -> R"
         },
         {
-            "card_name": "Atomic Brute",
+            "card_name": "Avalanche Bulvox",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Elemental Beast",
-            "number": 130,
+            "number": 131,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Trample, haste",
-            "flavor_text": "[i]Shielded from radiation by lead-lined cell walls and massively redundant nanogenetic code, it can live for centuries before the fusion reactor in its gut starts to break down.[/i]",
-            "pt": "5/5",
+            "rules_text": "Trample, haste\nWhen Avalanche Bulvox enters or you cycle it, target creature you control gets +1/+0 until end of turn.\nCycling {1}{R} [i]({1}{R}, Discard this card: Draw a card.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "4/5",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
-            "artist": "D Rock",
+            "artist": "Scott Gessler",
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "CHANGELOG: 5/4 -> 5/5"
+            "notes": "CHANGELOG: 5/4 -> 5/5 -> 4/5, added ETB + cycling"
         },
         {
             "card_name": "Vengeant Earth",
@@ -1668,7 +1668,7 @@
             "number": 180,
             "color_identity": "G",
             "cost": "{6}{G}{G}",
-            "rules_text": "Trample\nWhen Colossal Ancient enters or dies, you gain 4 life.",
+            "rules_text": "Trample\nWhen Colossal Ancient enters or you cycle it, you gain 4 life.\nCycling {3}{G} [i]({3}{G}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]On a plane as large as Srai-Val-Nul, skyscraping megafauna are not a miracle but an inevitability.[/i]",
             "pt": "8/8",
             "special_text": "",
@@ -1679,7 +1679,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "ALTERNATE: \"or dies\" -> \"or you cycle it\", cycling 3G OR 2G + \"4 life\" -> \"3 life\"?"
+            "notes": "CHANGELOG: \"or dies\" -> \"or you cycle it\", cycling 3G \n\nALTERNATE: Cycling cost 3G -> 2G, \"4 life\" -> \"3 life\"?"
         },
         {
             "card_name": "Earth Weaver",
@@ -1938,7 +1938,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Zombie Construct",
-            "number": 89,
+            "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Deathtouch\nWhenever Blighted Hulk or another creature you control dies, target opponent loses 1 life and you gain 1 life.",
@@ -2169,7 +2169,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Fungus Beast",
-            "number": 122,
+            "number": 123,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "You may cast Shrieking Detritivore from your graveyard if you discarded a card, sacrificed a permanent, paid life, or exiled a card from your graveyard this turn.\nMenace, haste",
@@ -2190,7 +2190,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Leech Chimera",
-            "number": 144,
+            "number": 145,
             "color_identity": "R",
             "cost": "{5}{R}",
             "rules_text": "Menace\nWard\u2014Pay 6 life.\nFused Chimera can't be blocked by two or more creatures with the same power as each other.",
@@ -2232,7 +2232,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Drone",
-            "number": 143,
+            "number": 144,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nYou may activate abilities of creatures you control as though those creatures had haste.",
@@ -2274,7 +2274,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elemental Beast",
-            "number": 146,
+            "number": 147,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "At the beginning of combat on your turn, you may exile a land card from your graveyard. If you do, create a token that's a copy of it, except it's a 3/3 Elemental creature with haste that's still a land. Untap the token. Exile it at the beginning of the next end step.",
@@ -2610,7 +2610,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Bat Leech",
-            "number": 116,
+            "number": 115,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\n{3}{B}: Each opponent loses 1 life and you gain 1 life. Surveil 1.",
@@ -2631,7 +2631,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Elemental",
-            "number": 137,
+            "number": 138,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "If a creature dealt damage by Conductive Lithoid this turn would die, exile it instead.\nCycling {R} [i]({R}, Discard this card: Draw a card.)[/i]",
@@ -2694,7 +2694,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Insect",
-            "number": 107,
+            "number": 106,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "When Intestinal Scourge dies, choose up to one target creature. Remove a counter from it. If you can't, that creature gets -1/-1 until end of turn.\n{1}{B}{B}, Pay 1 life, Sacrifice Intestinal Scourge: Draw a card.",
@@ -2771,7 +2771,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "Human in art\n\nALTERNATE: Churning Sprawl 2B\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, draw a card and create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT, Pay 2 life: Draw a card.\u201d"
+            "notes": "!tag draw\n\nHuman in art\n\nALTERNATE: Churning Sprawl 2B\nWhen CARDNAME enters, sacrifice a non-Esyra land. If you do, draw a card and create a tapped colorless Esyra land token with \u201cT, Pay 1 life: Add one mana of any color.\u201d\nEsyra you control have \u201cT, Pay 2 life: Draw a card.\u201d"
         },
         {
             "card_name": "Sedimentary Symbiont",
@@ -2862,7 +2862,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 90,
+            "number": 89,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Exile target creature.\nCycling {B} [i]({B}, Discard this card: Draw a card.)[/i]",
@@ -2897,7 +2897,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "TODO: Add FT"
+            "notes": "TODO: Add FT\n\nALTERNATE: \"permanent\" -> \"creature\"?"
         },
         {
             "card_name": "Caught in Amber",
@@ -2945,8 +2945,8 @@
             "card_name": "Microbiome Igniter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Insect",
-            "number": 149,
+            "type": "Creature \u2014 Elemental Lizard",
+            "number": 150,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Trample\n[i]Ecosystem[/i] \u2014 {1}{R}: Microbiome Igniter gets +1/+0 until end of turn for each different power among creatures you control. Activate only once each turn.",
@@ -2956,7 +2956,7 @@
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
-            "artist": "Vadim Simanin",
+            "artist": "Alexandr Elichev",
             "alias": "",
             "position": "134",
             "rotated": false,
@@ -2967,7 +2967,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact",
-            "number": 133,
+            "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Buried Cache enters tapped with two storage counters on it.\n{T}, Remove a counter from Buried Cache or sacrifice it: Exile the top card of your library. When you do, choose one \u2014\n\u2022 Create a Treasure token.\n\u2022 You may play the exiled card this turn.",
@@ -3044,7 +3044,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": ""
+            "notes": "ALTERNATE: \"Otherwise\" -> \"Otherwise, if it has no double strike counters on it\""
         },
         {
             "card_name": "Segment Migration",
@@ -3093,7 +3093,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 142,
+            "number": 143,
             "color_identity": "R",
             "cost": "{X}{X}{X}{R}",
             "rules_text": "Create a 1/0 red Starfish creature token, then put a +1/+1 counter on each Starfish you control that entered this turn. Repeat this process X times.",
@@ -3135,7 +3135,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Fungus",
-            "number": 94,
+            "number": 93,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i]Ecosystem[/i] \u2014 When Cerebral Parasite enters, target opponent reveals a number of cards from their hand equal to the number of different powers among creatures you control. You choose one of them. That player discards that card.",
@@ -3194,32 +3194,32 @@
             "notes": ""
         },
         {
-            "card_name": "Sawtooth Hellion",
+            "card_name": "Atomic Brute",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Hellion",
-            "number": 160,
+            "type": "Creature \u2014 Elemental Beast",
+            "number": 130,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample\n{3}{R}, Discard a card: Draw a card and put a +1/+1 counter on Sawtooth Hellion.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Trample\n{3}{R}, Discard a card: Draw a card and put a +1/+1 counter on Atomic Brute.",
+            "flavor_text": "[i]Shielded from radiation by lead-lined cell walls and massively redundant nanogenetic code, it can live for centuries before the fusion reactor in its gut starts to break down.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
             "loyalty": "",
-            "artist": "Jakub Bazyluk",
+            "artist": "D Rock",
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": "TODO: Add FT"
+            "notes": ""
         },
         {
             "card_name": "Tantalizing Dreadfruit",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Plant Zombie",
-            "number": 123,
+            "number": 124,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever Tantalizing Dreadfruit attacks, if it has a deathtouch counter on it, it must be blocked this turn if able. Otherwise, put a deathtouch counter on it.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
@@ -3422,7 +3422,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag mana-cheating"
         },
         {
             "card_name": "Maintenance Drone",
@@ -3450,7 +3450,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 121,
+            "number": 122,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or discard a card.\nEach opponent sacrifices a creature and discards a card, then each opponent who discarded a card this way draws a card.\nDraw a card.",
@@ -3471,7 +3471,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Drone",
-            "number": 157,
+            "number": 158,
             "color_identity": "WUBRG",
             "cost": "{2}{R}",
             "rules_text": "If one or more tokens would be created under your control, those tokens plus an additional tapped Treasure token are created instead.\n{3}{W}{U}{B}{R}{G}: Creatures you control get +1/+1 and gain double strike until end of turn. Activate only as a sorcery.",
@@ -3516,7 +3516,7 @@
             "number": 272,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Esyra Outskirts enters tapped.\n{T}, Pay 1 life: Add one mana of any color.\n{2}, {T}, Sacrifice a non-Esyra land: Destroy target land an opponent controls. You and that player each create a tapped colorless Esyra land token with \u201c{T}, Pay 1 life: Add one mana of any color.\u201d",
+            "rules_text": "Esyra Outskirts enters tapped.\n{T}, Pay 1 life: Add one mana of any color.\n{2}, {T}, Sacrifice a non-Esyra land: Draw a card, then discard a card. Create a tapped colorless Esyra land token with \u201c{T}, Pay 1 life: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3527,7 +3527,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "!tokens Esyra<1>\n\nALTERNATE: Destroy and replace opponent's land -> \"You gain 3 life\" OR \"Draw a card, then discard a card\""
+            "notes": "!tokens Esyra<1>\n\nALTERNATE: Destroy and replace opponent's land (both tokens enter untapped) OR \"You gain 3 life\""
         },
         {
             "card_name": "Competitive Release",
@@ -3548,7 +3548,7 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": "Remove slot temporarily?"
+            "notes": ""
         },
         {
             "card_name": "Lush Meadowback",
@@ -3576,7 +3576,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Insect Ooze",
-            "number": 109,
+            "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "At the beginning of your end step, if a creature died this turn, create a 1/1 black Insect creature token with \u201cDuring your turn, this creature has deathtouch.\u201d",
@@ -3611,7 +3611,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": "!tokens Elemental<1>\n\nRemove slot temporarily?"
+            "notes": "!tokens Elemental<1>"
         },
         {
             "card_name": "Bulky Ramshell",
@@ -3653,17 +3653,17 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "Remove slot temporarily?"
+            "notes": ""
         },
         {
             "card_name": "Territorial Encroachment",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 124,
+            "number": 125,
             "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "[i]Ecosystem[/i] \u2014 Repeat the following process once for each different power among creatures you control. Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.",
+            "cost": "{3}{B}",
+            "rules_text": "Destroy target creature. Other creatures with the same controller get -1/-1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3674,14 +3674,14 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "Remove slot temporarily?\n\nALTERNATE: 2B\nCARDNAME deals X damage divided as you choose among any number of targets and you gain X life, where X is the number of creatures in your ecosystem.\n\nALTERNATE 2: As above, but 2B -> 3B and X+1"
+            "notes": "CHANGELOG: 2B -> 3B\nTorment an opponent once for each creature in your ecosystem -> Current effect\n\nTODO: Add FT\n\nALTERNATE: 2B\nCARDNAME deals X damage divided as you choose among any number of targets and you gain X life, where X is the number of creatures in your ecosystem.\n\nALTERNATE 2: As above, but 2B -> 3B and X+1\n\nALTERNATE 3: 3B\nPut a +1/+1 counter on each creature you control.\nFor each creature your opponents control, remove a counter from that creature. If you can't, it gets -1/-1 until end of turn."
         },
         {
             "card_name": "Meteorite Impact",
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 148,
+            "number": 149,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Meteorite Impact deals 2 damage to any target.\n{3}{R}, Exile Meteorite Impact from your graveyard: It deals 2 damage to any target. Activate only if you discarded a card this turn and only as a sorcery.",
@@ -3765,7 +3765,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Insect",
-            "number": 96,
+            "number": 95,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\n{1}{B}, Sacrifice another creature: Until end of turn, Consuming Swarm has base power and toughness X/X and gains indestructible, where X is that creature's toughness.",
@@ -3806,7 +3806,7 @@
             "card_name": "Drifting Pollinator",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Insect Jellyfish",
+            "type": "Creature \u2014 Jellyfish Mite",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -3870,7 +3870,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 136,
+            "number": 137,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Target creature deals damage to itself equal to its power. If that creature would die this turn, exile it instead.",
@@ -4248,7 +4248,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Zombie Drone",
-            "number": 111,
+            "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "{3}, Sacrifice another creature: Put a +1/+1 counter on Malignant Necrowar.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
@@ -4290,7 +4290,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Lobster Hydra",
-            "number": 150,
+            "number": 151,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "[i]Ecosystem[/i] \u2014 Whenever Nascent Apex attacks, if its power is less than the number of different powers among creatures you control, you may put a +1/+1 counter on Nascent Apex.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]",
@@ -4437,7 +4437,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Insect Oyster",
-            "number": 140,
+            "number": 141,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "First strike\nWhenever Detritus Hoarder deals combat damage to a player or battle, create a tapped Treasure token.\n{1}: Detritus Hoarder gets +1/+0 until end of turn.",
@@ -4514,7 +4514,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "!tokens Spirit<1>"
+            "notes": "!tokens Spirit<1>\n\n!tag card-engine"
         },
         {
             "card_name": "Horizon Eater",
@@ -4619,7 +4619,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "!tokens Drone<1>\n\n!tag wishlist"
+            "notes": "!tokens Drone<1>\n\n!tag wishlist\n!tag aggro-threat\n\nALTERNATE: 3W\nCreate a 0/0 colorless Germ artifact creature token. Then put X +1/+1 counters on each artifact creature you control, where X is 1 plus the number of nonartifact creatures you control.\n(Add FT)\n\nALTERNATE 2: 2W\nCreate a 0/0 colorless Germ artifact creature token. Then for each artifact creature you control with power less than or equal to 1 plus the number of nonartifact creatures you control, put a number of +1/+1 counters on it equal to the difference.\n\nALTERNATE 3: 2W\nCreate a 0/0 colorless Germ artifact creature token, then put a +1/+1 counter on each artifact creature you control.\nWhenever a nonartifact creature you control enters, return CARDNAME from your graveyard to your hand.\n\nALTERNATE 4: 2W Enchantment\nWhen CARDNAME enters, create a 0/0 colorless Germ artifact creature token, then put a +1/+1 counter on each artifact creature you control.\nWhenever a nonartifact creature you control enters, you may return CARDNAME to its owner's hand."
         },
         {
             "card_name": "Perfect Harmony",
@@ -4692,7 +4692,7 @@
             "number": 42,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Defender\nWhenever you attack, create a tapped and attacking X/X red Elemental creature token, where X is the least power greater than 0 that isn't among attacking creatures you control.",
+            "rules_text": "[i]Ecosystem[/i] \u2014 Whenever you attack, create a tapped and attacking X/X red Elemental creature token, where X is the number of different powers among attacking creatures.",
             "flavor_text": "[i]Made infertile by climate change, the modular lithoid found an alternate means of gestation.[/i]",
             "pt": "0/5",
             "special_text": "",
@@ -4703,7 +4703,7 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": "!tokens Elemental<1>"
+            "notes": "!tokens Elemental<1>\n\nCHANGELOG: Least power > 0 among attacking creatures -> normal ecosystem value"
         },
         {
             "card_name": "Chirality Shifter",
@@ -4913,7 +4913,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": ""
+            "notes": "TODO, before FT: Buff? (7/10 -> 11/13, Last two abilities -> \"If CARDNAME hasn't dealt damage yet, it has hexproof and can't be blocked.\" + \"At the beginning of each opponent's end step, if you've cast a spell this turn, return CARDNAME from your graveyard to your hand.\"?)"
         },
         {
             "card_name": "Zun-Re, Acedi of Seas",
@@ -4934,14 +4934,14 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": ""
+            "notes": "ALTERNATE: \"surveil 1\" -> \"draw a card, then discard a card\"?"
         },
         {
             "card_name": "Bonesifter Yeti",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Yeti",
-            "number": 92,
+            "number": 91,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "{1}, Exile a creature card from your graveyard: Bonesifter Yeti gains all activated abilities of that card until end of turn.\nPay 1 life, Exile a noncreature card from your graveyard: Add {C}. Spend this mana only to activate an ability.",
@@ -4962,7 +4962,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 100,
+            "number": 99,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
             "rules_text": "Until end of turn, you may cast spells from your graveyard. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead.",
@@ -4976,14 +4976,14 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag draw\n!tag mana-cheating"
         },
         {
             "card_name": "Endling's Despair",
             "color": "B",
             "rarity": "rare",
             "type": "Instant",
-            "number": 102,
+            "number": 101,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Exile target creature or planeswalker that doesn't share a subtype with any other permanent on the battlefield.",
@@ -4997,18 +4997,18 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": "Human in art"
+            "notes": "!tag removal\n\nHuman in art"
         },
         {
             "card_name": "Extinction Event",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 103,
+            "number": 102,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Choose odd or even. Exile each creature with mana value of the chosen quality. [i](Zero is even.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cOne day, this world will die. I dread what may happen if I outlive it.\u201d\n\u2014Valrain, journal entry[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5018,14 +5018,14 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "TODO: Add FT"
+            "notes": ""
         },
         {
             "card_name": "Extravagant Welcome",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 104,
+            "number": 103,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Enchant creature or planeswalker\nYou control enchanted permanent.\nAt the beginning of your upkeep, sacrifice a permanent unless you discard a card.",
@@ -5046,7 +5046,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Germ Horror",
-            "number": 110,
+            "number": 109,
             "color_identity": "B",
             "cost": "{6}{B}{B}",
             "rules_text": "Flying, deathtouch\nWhenever Living Pandemic attacks, defending player sacrifices half the permanents they control, rounded up.\nWhen this spell is countered or Living Pandemic dies, exile it and choose target creature. When that creature dies, put Living Pandemic onto the battlefield under its owner's control.",
@@ -5067,7 +5067,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Artifact Creature \u2014 God",
-            "number": 113,
+            "number": 112,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Lifelink, indestructible\nMol-Geb isn't a creature unless it has ten or more counters on it.\nWhenever you gain life, put a +1/+1 counter on Mol-Geb and target opponent loses 1 life. Then if Mol-Geb has five or more counters on it, return up to one target creature card from your graveyard to your hand.",
@@ -5088,7 +5088,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Zombie Germ",
-            "number": 114,
+            "number": 113,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Nanoviral Sarcoma enters with a counter of your choice on it from among deathtouch, menace, and +1/+1.\nLineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]\nWhenever a creature you control deals combat damage to a player or battle while Nanoviral Sarcoma is in your graveyard, you may remove a counter from that creature. If you do, return Nanoviral Sarcoma from your graveyard to the battlefield.",
@@ -5102,14 +5102,14 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": "ALTERNATE: Remove one counter option OR lineage RT (unless you switch to \"this creature\" wording)"
+            "notes": "!tag aggro-threat\n\nALTERNATE: Remove one counter option OR lineage RT (unless you switch to \"this creature\" wording)"
         },
         {
             "card_name": "Cordycelium Host",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Fungus Dryad Squid",
-            "number": 97,
+            "number": 96,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "You can spend mana of any type to activate abilities.\n{3}: Exile the top card of target opponent's library. You may play that card for as long as it remains exiled. Mana of any type can be spent to cast spells this way.",
@@ -5130,7 +5130,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 108,
+            "number": 107,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "[i]Ecosystem[/i] \u2014 Search your library for a nonland card not named Key Innovation, exile it, then shuffle. If it has mana value less than or equal to the number of different powers among creatures you control, you may cast it without paying its mana cost. If you don't, put it into your hand.",
@@ -5172,7 +5172,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 135,
+            "number": 136,
             "color_identity": "R",
             "cost": "{5}{R}{R}",
             "rules_text": "Destroy all permanents. For each permanent destroyed this way, its controller exiles the top card of their library. If it's a land card, they put it onto the battlefield. Otherwise, they may cast that card until the end of their next turn.",
@@ -5193,7 +5193,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Hippo Pangolin",
-            "number": 141,
+            "number": 142,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever you discard a card, exile it from your graveyard and exile the top card of your library. You may play those cards until your next end step.",
@@ -5207,14 +5207,14 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag card-engine"
         },
         {
             "card_name": "Hosh-Kwa, Acedi of Pressure",
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Artifact Creature \u2014 God",
-            "number": 145,
+            "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Trample, indestructible\nHosh-Kwa isn't a creature unless it has ten or more counters on it.\nWhenever a source you control deals noncombat damage, put a +1/+1 counter on Hosh-Kwa and exile the top card of your library. You may play that card this turn. Then if Hosh-Kwa has five or more counters on it, create three Treasure tokens.",
@@ -5235,7 +5235,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Creature \u2014 Elemental Salamander",
-            "number": 147,
+            "number": 148,
             "color_identity": "R",
             "cost": "{8}{R}{R}",
             "rules_text": "When you cast this spell, it deals 5 damage to each creature, each planeswalker, and each opponent. If a permanent dealt damage this way would die this turn, exile it instead.\nTrample, haste\nWard\u2014Pay 8 life.",
@@ -5249,14 +5249,14 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag cheatout-threat"
         },
         {
             "card_name": "Population Boom",
             "color": "R",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 154,
+            "number": 155,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "For each creature you control, create a token that's a copy of that creature, except it has haste and \u201cAt the beginning of the end step, sacrifice this creature.\u201d",
@@ -5277,7 +5277,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Pest",
-            "number": 151,
+            "number": 152,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "[i]Ecosystem[/i] \u2014 Whenever Nimble Opportunist attacks, target creature defending player controls with power less than or equal to the number of different powers among creatures you control can't block Nimble Opportunist this turn.",
@@ -5298,7 +5298,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Drone",
-            "number": 155,
+            "number": 156,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\n{X}, {T}, Sacrifice Preconscious Breakthrough: Add seven mana of any one color. X is the lowest life total among all players.",
@@ -5312,14 +5312,14 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "ALTERNATE: Instinctive Experiment? 1R -> R, no haste, \"seven -> \"five\"?"
+            "notes": "ALTERNATE: Instinctive Experiment? 1R -> R, no haste, \"seven -> \"five\"?\n\nTODO, before FT: Buff? (2/1 -> 2/2? seven -> nine?)"
         },
         {
             "card_name": "Rebooted Satellite",
             "color": "R",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 158,
+            "number": 159,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "{T}: Add {R}. You can't spend this mana to cast a spell with no activated abilities.\n{2}{R}, {T}: Look at the top four cards of your library. Exile up to one card with an activated ability from among them, then shuffle. Until the end of your next turn, you may play the exiled card.",
@@ -5354,7 +5354,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "ALTERNATE: AA -> \"1, Discard a card: Create a tapped Treasure token.\"\n\nALTERNATE 2: 3R Sorcery\nDiscard all the cards in your hand, then draw that many cards plus one. Add R for each card discarded this way."
+            "notes": "!tag card-engine\n!tag ramp\n\nALTERNATE: AA -> \"1, Discard a card: Create a tapped Treasure token.\"\n\nALTERNATE 2: 3R Sorcery\nDiscard all the cards in your hand, then draw that many cards plus one. Add R for each card discarded this way."
         },
         {
             "card_name": "Segment Devourer",
@@ -5375,7 +5375,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "Planetary curvature in art (Photoshop out)"
+            "notes": "!tag topend-threat\n\nPlanetary curvature in art (Photoshop out)"
         },
         {
             "card_name": "Ultaneid Hatch",
@@ -5417,7 +5417,7 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": "!tokens Ooze<1>\n\nTODO: Add FT\n\nALTERNATE: When you cast this spell, copy it if you control no creatures and there are no creature cards in your graveyard.\nCreate a 1/1 green Ooze creature token. Surveil 1."
+            "notes": "!tokens Ooze<1>\n!tag cantrip\n\nTODO: Add FT\n\nALTERNATE: When you cast this spell, copy it if you control no creatures and there are no creature cards in your graveyard.\nCreate a 1/1 green Ooze creature token. Surveil 1."
         },
         {
             "card_name": "Common Ancestor",
@@ -5522,7 +5522,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "TODO: Add FT"
+            "notes": "TODO, before FT: Buff? (0/4 -> 1/4 OR 0/5? Add \"WUBRG: Put two +1/+1 counters on CARDNAME.\"?)\n\nTODO: Add FT"
         },
         {
             "card_name": "Primordial Witness",
@@ -5564,7 +5564,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "!tag wishlist\n\nALTERNATE: \"for each mana value between 1 and X, exile a creature card with that mana value\" -> \"exile X creature cards with different mana values\""
+            "notes": "!tag wishlist\n\nTODO, before FT: Buff? (1G -> G?)\n\nALTERNATE: \"for each mana value between 1 and X, exile a creature card with that mana value\" -> \"exile X creature cards with different mana values\""
         },
         {
             "card_name": "Riv-Tsu, Acedi of Growth",
@@ -5585,7 +5585,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag value-threat"
         },
         {
             "card_name": "Unrestrained Expansion",
@@ -5900,7 +5900,7 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": "!tag wishlist\n\nALTERNATE: \"creatures you control have\" -> \"each creature in your ecosystem has\""
+            "notes": "!tag wishlist\n\nTODO, before FT: Buff? (10 cost 10/10 -> 12 cost 12/12, costs 2 less per different power? Add haste? Also add vigilance and/or lifelink?)\n\nALTERNATE: \"creatures you control have\" -> \"each creature in your ecosystem has\""
         },
         {
             "card_name": "Esyra's Heart",
@@ -6026,7 +6026,7 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": "ALTERNATE: Legendary? Move to rare?"
+            "notes": "!tag utility-land\n\nALTERNATE: Legendary? Move to rare?"
         },
         {
             "card_name": "Crescent-Web Recluse",
@@ -6369,7 +6369,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Battle \u2014 Niche",
-            "number": 93,
+            "number": 92,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]\nWhen Carrion Scrounging enters, each opponent sacrifices a creature.",
@@ -6494,14 +6494,14 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "landslot\n\nTODO, before FT: Buff?\nlandslot"
         },
         {
             "card_name": "Nest Raiding",
             "color": "B",
             "rarity": "uncommon",
             "type": "Battle \u2014 Niche",
-            "number": 115,
+            "number": 114,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "[i](As a Niche enters, choose an opponent to protect it. Only you can attack it. When it's defeated, transform it, then attach it to a creature that dealt damage to it this turn if able.)[/i]\nWhen Nest Raiding enters, target opponent discards two cards and loses 2 life.",
@@ -6593,7 +6593,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?\nlandslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?"
+            "notes": "landslot\n\nALTERNATE: Defense 4 -> 3?\n\nALTERNATE 2: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?\nlandslot\n\nALTERNATE: Last ability -> \"Adapted creature has ward 2 and must be blocked if able.\"?"
         },
         {
             "card_name": "Cooperative Labor",
@@ -6659,7 +6659,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!tag wishlist\n\nALTERNATE: Make single-faced (and move to rare?)\nALTERNATE: Make single-faced (and move to rare?)"
+            "notes": "!tag wishlist\n!tag fixing-land\n!tag utility-land\n\nALTERNATE: Make single-faced (and move to rare?)\nALTERNATE: Make single-faced (and move to rare?)"
         },
         {
             "card_name": "Beast",
@@ -6767,5 +6767,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

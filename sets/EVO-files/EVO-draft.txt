@@ -129,7 +129,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Battle — Niche",
-			"collector_number": "98",
+			"collector_number": "97",
 			"back": {
 				"name": "",
 				"type": "",
@@ -146,7 +146,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Battle — Niche",
-			"collector_number": "156",
+			"collector_number": "157",
 			"back": {
 				"name": "",
 				"type": "",
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/24.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{R}",
 			"type": "Creature — Gremlin",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/25.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/26.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/31.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Leech Horror",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/36.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/37.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/39.png"
 			}
@@ -573,7 +573,7 @@
 		{
 			"name": "Harsh Conditions",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
@@ -631,11 +631,11 @@
 			}
 		},
 		{
-			"name": "Blight Gorger",
+			"name": "Sediment Winder",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Insect",
-			"collector_number": "88",
+			"type": "Creature — Serpent",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/56.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/57.png"
 			}
@@ -665,17 +665,17 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Dog",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/59.png"
 			}
 		},
 		{
-			"name": "Twisted Amalgam",
+			"name": "Pitborn Amalgam",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "125",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/60.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Insect",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/62.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Frog Beast",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/63.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Hellion",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/64.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/66.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/67.png"
 			}
@@ -755,17 +755,17 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/68.png"
 			}
 		},
 		{
-			"name": "Atomic Brute",
+			"name": "Avalanche Bulvox",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/69.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Zombie Construct",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/86.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Fungus Beast",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/97.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Leech Chimera",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/98.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/100.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/102.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bat Leech",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/118.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/119.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/122.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/130.png"
 			}
@@ -1414,8 +1414,8 @@
 			"name": "Microbiome Igniter",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Insect",
-			"collector_number": "149",
+			"type": "Creature — Elemental Lizard",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/134.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/135.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{X}{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/141.png"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Fungus",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/143.png"
 			}
@@ -1531,11 +1531,11 @@
 			}
 		},
 		{
-			"name": "Sawtooth Hellion",
+			"name": "Atomic Brute",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Hellion",
-			"collector_number": "160",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/146.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Plant Zombie",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/147.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/158.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/159.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Insect Ooze",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/164.png"
 			}
@@ -1753,9 +1753,9 @@
 		{
 			"name": "Territorial Encroachment",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/168.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/169.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/173.png"
 			}
@@ -1824,7 +1824,7 @@
 			"name": "Drifting Pollinator",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Insect Jellyfish",
+			"type": "Creature — Jellyfish Mite",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/175.png"
@@ -1855,7 +1855,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/178.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Zombie Drone",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/196.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Lobster Hydra",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/198.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Insect Oyster",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/205.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Yeti",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/229.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/230.png"
 			}
@@ -2385,7 +2385,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/231.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/232.png"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/233.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Germ Horror",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/234.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact Creature — God",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/235.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact Creature — Zombie Germ",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/236.png"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Fungus Dryad Squid",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/237.png"
 			}
@@ -2455,7 +2455,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/238.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/240.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Hippo Pangolin",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/241.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact Creature — God",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/242.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{R}{R}",
 			"type": "Creature — Elemental Salamander",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/243.png"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/244.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Pest",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/245.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/246.png"
 			}
@@ -2545,7 +2545,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://parasign-0.github.io/sets/EVO-files/img/247.png"
 			}
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Recapitulate Phylogeny",
 			"rarity": "rare",
-			"mana_cost": "{X}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
@@ -3054,7 +3054,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Battle — Niche",
-			"collector_number": "93",
+			"collector_number": "92",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3122,7 +3122,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Battle — Niche",
-			"collector_number": "115",
+			"collector_number": "114",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3254,6 +3254,87 @@
 		}
 	]
 
+[rare(1)]
+	5 Riv-Tsu, Relieved of Duty
+	10 Bitter Freedom
+	5 Dwai-En, Acedi of Skies
+	5 Horizon Eater
+	10 Infested Bractoderm
+	10 Ingenious Mimic
+	10 Kin Selection
+	10 Nanosynthesis
+	10 Perfect Harmony
+	10 Bristling Raptorfly
+	5 Stratosphere Tyrant
+	10 Xenowomb
+	10 Chirality Shifter
+	10 Competitive Exclusion
+	5 Convergent Evolution
+	10 Eclipsewing
+	10 Infused Tardigrade
+	10 Mobile Nanohive
+	10 Perfect Mimic
+	10 Resource Partitioning
+	10 Transcription Error
+	5 Wayfaring Continent
+	5 Zun-Re, Acedi of Seas
+	10 Bonesifter Yeti
+	5 Deepwell Protocol
+	10 Endling's Despair
+	10 Extinction Event
+	10 Extravagant Welcome
+	5 Living Pandemic
+	5 Mol-Geb, Acedi of Soil
+	10 Nanoviral Sarcoma
+	10 Cordycelium Host
+	10 Key Innovation
+	10 Reality Dissolver
+	10 Catastrophic Climax
+	10 Erosion Gnawer
+	5 Hosh-Kwa, Acedi of Pressure
+	5 Lithosphere Shaker
+	5 Population Boom
+	10 Nimble Opportunist
+	10 Preconscious Breakthrough
+	10 Rebooted Satellite
+	10 Struggle to Adapt
+	10 Segment Devourer
+	10 Ultaneid Hatch
+	10 Abiogenesis
+	10 Common Ancestor
+	10 Meet in the Depths
+	10 Nanite Incubator
+	5 Omniplasm
+	10 Pathkeeper
+	10 Primordial Witness
+	10 Recapitulate Phylogeny
+	5 Riv-Tsu, Acedi of Growth
+	10 Unrestrained Expansion
+	5 Epicenter Wurm
+	10 Adaptive Radiation
+	10 Atrophied Solipsist
+	10 Enduring Nanoswarm
+	10 Evolving Architecture
+	10 Fecund Sporophyte
+	10 Leyline Gorger
+	10 Lithoid Queen
+	10 Overcharged Stormkite
+	5 Qsasaq, Bioweapon Maker
+	10 Glasstorque Duo
+	10 Shadow Biosphere
+	5 Valrain, Lost in Eternity
+	5 Climax of Evolution
+	10 Esyra's Heart
+	10 Orbital Cruiser
+	10 Hyperadapter
+	10 Apex Predator
+	10 Bog Body
+	5 The Chassis of Srai-Val-Nul
+	10 Crescent-Web Recluse
+	10 Heaving Shoal
+	10 Mesohyl Drift
+	10 The Origin Caves
+	10 Unstable Terrain
 [uncommon(3)]
 	5 District Sower
 	5 Colonial Siphoner
@@ -3302,7 +3383,7 @@
 	5 Coiling Omnivore
 	5 Overgrown Rustshell
 	5 Mutagenic Orb
-	5 Sawtooth Hellion
+	5 Atomic Brute
 	5 Tantalizing Dreadfruit
 	5 Converted Terraformer
 	5 Segment Collapse
@@ -3335,7 +3416,7 @@
 	5 Insatiable Voidtongue
 	5 Nanogene Thief
 	5 Detritus Hoarder
-[common(11)]
+[common(10)]
 	5 Growing Hunger
 	5 Prophetic Prism
 	5 Titanic Rover
@@ -3363,10 +3444,10 @@
 	5 Phase Stalker
 	5 Out of Sync
 	5 Relentless Rover
-	5 Blight Gorger
+	5 Sediment Winder
 	5 Vestige of Calamity
 	5 Bloodstalker Pack
-	5 Twisted Amalgam
+	5 Pitborn Amalgam
 	5 Unnatural Preservation
 	5 Peroxide Spitter
 	5 Boomcroak Alpha
@@ -3375,7 +3456,7 @@
 	5 Curious Rover
 	5 Burn Fuel
 	5 Contest Dominance
-	5 Atomic Brute
+	5 Avalanche Bulvox
 	5 Vengeant Earth
 	5 Flourishing Leylith
 	5 Harvest Drone
@@ -3438,18 +3519,30 @@
 	5 Ancient Relic
 	5 Autonomous Defenses
 [LandSlot(1)]
-	5 Violent Predation
-	5 Canopy Grazing
-	5 Carrion Scrounging
-	5 Cloudkrill Filtering
-	5 Drone Herding
-	5 Mana Siphoning
-	5 Nest Raiding
-	5 Wildfire Succession
-	5 Undergrowth Mimicry
-	5 Cooperative Labor
-	10 Surgical Drone
-	10 Doomed Vessel
-	10 Resourceful Vermin
-	10 Tectonic Drift
-	10 Ceaseless Exploration
+	24 Territory Defense
+	24 Capsule Diving
+	24 Corpse Puppeteering
+	24 Pursuit Predation
+	24 Titan Cleaning
+	12 Colonial Absorption
+	12 Migratory Flocking
+	12 Pioneering Succession
+	12 Psionic Tracking
+	12 Toxin Ingestion
+	12 Esyra, the Cancerous City
+	63 Violent Predation
+	63 Canopy Grazing
+	63 Carrion Scrounging
+	63 Cloudkrill Filtering
+	63 Drone Herding
+	63 Mana Siphoning
+	63 Nest Raiding
+	63 Wildfire Succession
+	63 Undergrowth Mimicry
+	63 Cooperative Labor
+	168 Surgical Drone
+	168 Resourceful Vermin
+	168 Ceaseless Exploration
+	168 Doomed Vessel
+	168 Tectonic Drift
+	
