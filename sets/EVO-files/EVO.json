@@ -1040,7 +1040,7 @@
             "cost": "{4}{W}{W}",
             "rules_text": "Vigilance\nWhenever Pitfall Excavator enters or you cycle it, tap target creature an opponent controls.\nCycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/5",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "EVO",
@@ -1049,7 +1049,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "CHANGELOG: \"or attacks\" -> \"or you cycle it\", cycling 2W\n\nALTERNATE: Nonartifact creature, change name/art/type?\n"
+            "notes": "CHANGELOG: 4/5 -> 5/5, \"or attacks\" -> \"or you cycle it\", cycling 2W\n\nALTERNATE: Nonartifact creature, change name/art/type?\n"
         },
         {
             "card_name": "Afflicted Sanguivore",
@@ -6767,5 +6767,5 @@
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

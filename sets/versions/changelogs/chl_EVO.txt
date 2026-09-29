@@ -1,4 +1,13 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Pitfall Excavator
+pt: 4/5 => 5/5
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Sediment Winder added.
