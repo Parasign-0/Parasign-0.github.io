@@ -1,4 +1,630 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Drone
+
+Capsule Diving
+
+Colonial Absorption
+cost: {3}{G}{W} => {2}{G}{W}
+
+Psionic Tracking
+
+Improbable Survival
+
+Afflicted Sanguivore
+
+Tanglepod Larva
+
+Spectral Pursuit
+
+Symbiotic Tactics
+
+Silicate Predator
+
+Oceanic Monstrosity
+
+Hydrolancer
+
+Phase Stalker
+
+Out of Sync
+
+Relentless Rover
+
+Sediment Winder
+
+Culling Drone
+
+Vestige of Calamity
+
+Pitborn Amalgam
+
+Unnatural Preservation
+
+Peroxide Spitter
+
+Boomcroak Alpha
+
+Rockslide Hellion
+
+Voracite Swarm
+
+Curious Rover
+
+Burn Fuel
+
+Contest Dominance
+
+Vengeant Earth
+
+Flourishing Leylith
+
+Harvest Drone
+rules_text: {T}: Untap target land.
+{T}: You may put a land card from your hand onto the battlefield. => {T}: Untap target basic land.
+{T}: You may put a land card from your hand onto the battlefield.
+
+Earth Weaver
+
+Brooding Terraloth
+
+Valrain's Journal
+
+Synthfruit Grove
+
+Towering Mechanoid
+
+Virulent Cancrin
+
+Territorial Bellower
+
+Stampeding Thunderbeest
+
+Greater Fleshdrinker
+
+Fledgling Amphipteron
+
+Evolving Wilds
+
+Xerid Sentry
+
+Blighted Hulk
+
+Thirst for Insight
+
+Ravenous Hunter
+
+Goliath Hydra
+
+Shore Drinker
+
+Skyline Sentinel
+
+Shrieking Detritivore
+
+Fused Chimera
+
+Rumbling Scalecrusher
+
+Fuelport Drone
+
+Bombardment Drone
+
+Lithoid Prowler
+
+Adaptive Assimilator
+
+Relic Trawler
+
+Awakened Behemoth
+
+Fruiting Chorus
+
+Trumpeting Sphenax
+
+Cloud of Wreckage
+
+Magnetic Sandshaper
+
+Unexpected Windfall
+
+Deepwell Time Capsule
+
+Esyra's Claim
+
+Nanite Colony
+
+Nanogene Repository
+
+Dweller in Emptiness
+
+Placid Sailfan
+
+Timely Culling
+
+Nesting Twinstalk
+
+Conductive Lithoid
+
+Fogspore Behemoth
+
+Engulfing Crystalreef
+
+Intestinal Scourge
+
+Polymorphic Seedprobe
+
+Meandering Greatwurm
+
+Unburied Secrets
+
+Sedimentary Symbiont
+cost: {2}{W} => {W}
+rules_text: Sedimentary Symbiont enters with two +1/+1 counters on it.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i] => Sedimentary Symbiont enters with a +1/+1 counter on it.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]
+
+Troodroid Pack
+
+Sensory Synergy
+
+False Ectomorph
+
+Bloodline's End
+
+Pollution Spray
+
+Caught in Amber
+
+Spawnsac Mutualist
+
+Microbiome Igniter
+
+Buried Cache
+
+Grow Over
+
+Factoruminant
+
+Honed Razorpede
+
+Segment Migration
+
+Atavistic Rebirth
+
+Fractal Fission
+
+Coiling Omnivore
+
+Cerebral Parasite
+
+Overgrown Rustshell
+
+Mutagenic Orb
+
+Tantalizing Dreadfruit
+
+Archipelago Drake
+
+Converted Terraformer
+
+Ocean Purifier
+
+Segment Prospector
+
+Segment Collapse
+
+Dwindling Oasis
+
+Treasure
+
+Eerie Stillness
+
+Devastation Engine
+
+Maintenance Drone
+
+Selective Pressure
+
+Reactor Forger
+
+Acclimate
+
+Esyra Outskirts
+
+Competitive Release
+
+Lush Meadowback
+
+Larva Injector
+
+Stoneguide Skycoil
+
+Bulky Ramshell
+
+Glaciation Event
+
+Meteorite Impact
+
+Voracious Grazer
+
+Metamorphic Ambush
+
+Ocuhive Sentry
+
+Consuming Swarm
+
+Stereohawk
+
+Drifting Pollinator
+
+Cavernmaw Whelp
+
+Tundra Surveyor
+
+Collapse
+
+Diving Neocete
+
+Preserved in Ice
+
+Fierce Skunkraptor
+
+Ion Cruiser
+
+Networked Eurypterid
+
+Nomadic Pylon
+
+Infected Biome
+
+Moor Segment
+
+Ocean Segment
+
+Prairie Segment
+
+Ridge Segment
+
+Timber Segment
+
+Eerie Citadel
+
+Looming Pinnacle
+
+Secluded Refuge
+
+Toxic Mire
+
+Bubbling Lagoon
+
+Malignant Necrowar
+
+Whalefall Delver
+
+Nascent Apex
+
+Momentary Breakdown
+
+Insatiable Voidtongue
+
+Nanogene Thief
+
+Tropical Laminopod
+
+Ancient Relic
+
+Construct
+
+Detritus Hoarder
+
+Riv-Tsu, Relieved of Duty
+rules_text: [i]Ecosystem[/i] — Riv-Tsu enters with two loyalty counters on her for each different power among creatures you control.
+[+1]: Put a +1/+1 counter on up to one target creature. You gain 1 life.
+[-X]: Create an X/X red Elemental creature token. It gains haste until end of turn.
+[-8]: Search your library for a creature card, put it onto the battlefield, then shuffle. => [i]Ecosystem[/i] — Riv-Tsu enters with two loyalty counters on her for each different power among creatures you control.
+[+2]: Put a +1/+1 counter on up to one target creature. You gain 2 life.
+[-X]: Create an X/X red Elemental creature token. It gains haste until end of turn.
+[-10]: Search your library for a creature card, put it onto the battlefield, then shuffle.
+special_text: [i]Ecosystem[/i] — Riv-Tsu enters with two loyalty counters on her for each different power among creatures you control.
+[+1]: Put a +1/+1 counter on up to one target creature. You gain 1 life.
+[-X]: Create an X/X red Elemental creature token. It gains haste until end of turn.
+[-8]: Search your library for a creature card, put it onto the battlefield, then shuffle. => [i]Ecosystem[/i] — Riv-Tsu enters with two loyalty counters on her for each different power among creatures you control.
+[+2]: Put a +1/+1 counter on up to one target creature. You gain 2 life.
+[-X]: Create an X/X red Elemental creature token. It gains haste until end of turn.
+[-10]: Search your library for a creature card, put it onto the battlefield, then shuffle.
+
+Bitter Freedom
+
+Dwai-En, Acedi of Skies
+cost: {1}{W} => {2}{W}
+rules_text: Flying, indestructible
+Dwai-En isn't a creature unless it has ten or more counters on it.
+Whenever a creature you control attacks, untap that creature and put a +1/+1 counter on Dwai-En. Then if Dwai-En has five or more counters on it, create a tapped and attacking 1/1 white Spirit creature token with flying. => Flying, indestructible
+Dwai-En isn't a creature unless it has ten or more counters on it.
+Whenever a non-Spirit creature you control attacks, untap that creature and put a +1/+1 counter on Dwai-En. Then if Dwai-En has five or more counters on it, create a tapped and attacking 1/1 white Spirit creature token with flying.
+
+Horizon Eater
+
+Infested Bractoderm
+
+Ingenious Mimic
+pt: 3/1 => 2/2
+
+Kin Selection
+
+Nanosynthesis
+type: Sorcery => Enchantment
+rules_text: Create a 1/1 colorless Drone artifact creature token for each artifact creature you control, then put X +1/+1 counters on each of those creatures, where X is the number of nonartifact creatures you control. => When Nanosynthesis enters, create a 0/0 colorless Germ artifact creature token, then put a +1/+1 counter on each artifact creature you control.
+Whenever a nonartifact creature you control enters, you may return Nanosynthesis to its owner's hand.
+
+Perfect Harmony
+
+Bristling Raptorfly
+rules_text: Flying, double strike, vigilance => Flying, double strike
+
+Stratosphere Tyrant
+
+Xenowomb
+
+Chirality Shifter
+
+Competitive Exclusion
+
+Convergent Evolution
+
+Eclipsewing
+
+Infused Tardigrade
+
+Mobile Nanohive
+
+Perfect Mimic
+
+Resource Partitioning
+
+Transcription Error
+
+Wayfaring Continent
+rules_text: Flash
+This spell can't be countered.
+Whenever Wayfaring Continent attacks, tap up to three target permanents and put a stun counter on each of them.
+Sacrifice an Island: Wayfaring Continent gains hexproof until end of turn. Tap it. => Flash
+This spell can't be countered.
+If Wayfaring Continent hasn't dealt damage yet, it has hexproof and can't be blocked.
+At the beginning of each opponent's end step, if you've cast a spell this turn, return Wayfaring Continent from your graveyard to your hand.
+pt: 7/10 => 11/13
+
+Zun-Re, Acedi of Seas
+cost: {1}{U} => {2}{U}
+
+Bonesifter Yeti
+
+Deepwell Protocol
+
+Endling's Despair
+
+Extinction Event
+
+Extravagant Welcome
+
+Living Pandemic
+
+Mol-Geb, Acedi of Soil
+
+Nanoviral Sarcoma
+rules_text: Nanoviral Sarcoma enters with a counter of your choice on it from among deathtouch, menace, and +1/+1.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]
+Whenever a creature you control deals combat damage to a player or battle while Nanoviral Sarcoma is in your graveyard, you may remove a counter from that creature. If you do, return Nanoviral Sarcoma from your graveyard to the battlefield. => Nanoviral Sarcoma enters with a counter of your choice on it from among deathtouch, menace, and +1/+1.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]
+Whenever a creature you control with a counter on it deals combat damage to a player or battle while Nanoviral Sarcoma is in your graveyard, you may sacrifice that creature. If you do, return Nanoviral Sarcoma from your graveyard to the battlefield.
+
+Cordycelium Host
+
+Key Innovation
+
+Reality Dissolver
+
+Catastrophic Climax
+
+Erosion Gnawer
+cost: {2}{R} => {1}{R}
+rules_text: Whenever you discard a card, exile it from your graveyard and exile the top card of your library. You may play those cards until your next end step. => You may play cards you've discarded this turn from your graveyard.
+pt: 3/3 => 2/2
+
+Hosh-Kwa, Acedi of Pressure
+
+Lithosphere Shaker
+rules_text: When you cast this spell, it deals 5 damage to each creature, each planeswalker, and each opponent. If a permanent dealt damage this way would die this turn, exile it instead.
+Trample, haste
+Ward—Pay 8 life. => When you cast this spell, it deals 5 damage to each creature, each planeswalker, and each opponent. If a permanent dealt damage this way would die this turn, exile it instead.
+Trample, haste
+Ward—Pay half your life, rounded up.
+
+Population Boom
+
+Nimble Opportunist
+
+Preconscious Breakthrough
+pt: 2/1 => 2/2
+
+Rebooted Satellite
+
+Struggle to Adapt
+cost: {2}{R} => {4}{R}
+rules_text: As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Discard a nonland card: Add {C} or one mana of any of that card's colors. => As long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.
+Discard a card: Add one mana of any color.
+
+Segment Devourer
+
+Ultaneid Hatch
+
+Abiogenesis
+
+Common Ancestor
+
+Meet in the Depths
+
+Nanite Incubator
+
+Omniplasm
+
+Pathkeeper
+
+Primordial Witness
+
+Recapitulate Phylogeny
+cost: {1}{G} => {G}
+
+Riv-Tsu, Acedi of Growth
+
+Unrestrained Expansion
+
+Epicenter Wurm
+
+Adaptive Radiation
+
+Atrophied Solipsist
+cost: {3}{U}{R} => {2}{U}{R}
+rules_text: Flying, first strike, vigilance, ward {3}, haste
+Whenever Atrophied Solipsist attacks, draw two cards, then discard a card.
+Atrophied Solipsist gets +3/+0 for each card you discarded this turn. => Flying, first strike, vigilance, ward {2}
+Whenever Atrophied Solipsist attacks, draw two cards, then discard a card.
+Atrophied Solipsist gets +2/+0 for each card you discarded this turn.
+
+Enduring Nanoswarm
+
+Evolving Architecture
+
+Fecund Sporophyte
+
+Leyline Gorger
+
+Lithoid Queen
+rules_text: Other Elementals you control have haste.
+At the beginning of combat on your turn, create an X/X red Elemental creature token, where X is Lithoid Queen's power. Then put a +1/+1 counter on Lithoid Queen. => Other Elementals you control have haste.
+Once each turn, when Lithoid Queen or a creature you control with greater power enters, you may create an X/X red Elemental creature token, where X is Lithoid Queen's power. If you do, put a +1/+1 counter on Lithoid Queen.
+pt: 1/1 => 1/2
+
+Overcharged Stormkite
+
+Qsasaq, Bioweapon Maker
+rules_text: Counters on Qsasaq are also loyalty counters. [i](You choose which are lost due to damage.)[/i]
+[+2]: Until end of turn, Qsasaq becomes an X/X Vukoroq Artificer creature with indestructible, where X is the number of counters on it. It's still a planeswalker. [i](Damage still causes it to lose loyalty.)[/i]
+[-1]: Put two different counters of your choice on Qsasaq from among flying, first strike, deathtouch, lifelink, menace, and trample. => Counters on Qsasaq are also loyalty counters. [i](You choose which are lost due to damage.)[/i]
+[+1]: Until end of turn, Qsasaq becomes an X/X Vukoroq Artificer creature with indestructible, where X is the number of counters on it. It's still a planeswalker. [i](Damage still causes it to lose loyalty.)[/i]
+[-2]: Put two different counters of your choice on Qsasaq from among flying, first strike, deathtouch, lifelink, menace, and trample.
+special_text: Counters on Qsasaq are also loyalty counters. [i](You choose which are lost due to damage.)[/i]
+[+2]: Until end of turn, Qsasaq becomes an X/X Vukoroq Artificer creature with indestructible, where X is the number of counters on it. It's still a planeswalker. [i](Damage still causes it to lose loyalty.)[/i]
+[-1]: Put two different counters of your choice on Qsasaq from among flying, first strike, deathtouch, lifelink, menace, and trample. => Counters on Qsasaq are also loyalty counters. [i](You choose which are lost due to damage.)[/i]
+[+1]: Until end of turn, Qsasaq becomes an X/X Vukoroq Artificer creature with indestructible, where X is the number of counters on it. It's still a planeswalker. [i](Damage still causes it to lose loyalty.)[/i]
+[-2]: Put two different counters of your choice on Qsasaq from among flying, first strike, deathtouch, lifelink, menace, and trample.
+loyalty: 2 => 5
+
+Glasstorque Duo
+
+Shadow Biosphere
+
+Valrain, Lost in Eternity
+
+Climax of Evolution
+
+Esyra's Heart
+
+Orbital Cruiser
+
+Hyperadapter
+rules_text: Hyperadapter enters with X +1/+1 counters on it.
+Hyperadapter enters with a vigilance counter on it if {W} was spent to cast it. The same is true for flying and {U}, lifelink and {B}, first strike and {R}, and trample and {G}.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i] => Hyperadapter enters with X +1/+1 counters on it.
+Hyperadapter enters with a vigilance counter on it if {W} was spent to cast it. The same is true for flying and {U}, menace and {B}, first strike and {R}, and trample and {G}.
+Lineage [i](When this creature dies, distribute its counters among other permanents you control.)[/i]
+
+Apex Predator
+
+Bog Body
+
+The Chassis of Srai-Val-Nul
+
+Crescent-Web Recluse
+
+Heaving Shoal
+
+Mesohyl Drift
+
+The Origin Caves
+
+Unstable Terrain
+
+Surgical Drone
+
+Resourceful Vermin
+
+Ceaseless Exploration
+
+Doomed Vessel
+
+Tectonic Drift
+
+Violent Predation
+
+Canopy Grazing
+
+Carrion Scrounging
+
+Cloudkrill Filtering
+
+Drone Herding
+
+Mana Siphoning
+
+Nest Raiding
+
+Wildfire Succession
+
+Undergrowth Mimicry
+
+Cooperative Labor
+
+Esyra, the Cancerous City
+rules_text: {T}, Pay 1 life: Add one mana of any color.
+Whenever you tap Esyra for mana, target opponent has a non-Esyra land they control become a copy of it.
+{9}, {T}: Transform Esyra. Each opponent loses all unspent mana. Activate only if Esyra isn't a copy and only as a sorcery. => {T}, Pay 1 life: Add one mana of any color.
+Whenever you tap Esyra for mana, a non-Esyra land you control becomes a copy of it.
+At the beginning of your upkeep, if you control six or more Esyra lands and Esyra isn't a copy, transform it.
+
+Beast
+
+Ooze
+
+Saproling
+
+Germ
+
+Autonomous Defenses
+
+Pitfall Excavator
+
+Deconstructor Swarm
+
+Bloodstalker Pack
+
+Avalanche Bulvox
+
+Colossal Ancient
+
+Atomic Brute
+
+Harsh Conditions
+
+Territorial Encroachment
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
